@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/vippeterhou/shici-data/schema/poem.schema.json",
+  "title": "Chinese poetry record",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "author",
+    "paragraphs",
+    "format"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "author": {
+      "type": "string",
+      "minLength": 1
+    },
+    "paragraphs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "format": {
+      "type": "object",
+      "required": [
+        "sentence_count",
+        "sentence_lengths",
+        "uniform_sentence_length"
+      ],
+      "properties": {
+        "sentence_count": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "sentence_lengths": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          }
+        },
+        "uniform_sentence_length": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

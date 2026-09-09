@@ -1,0 +1,44 @@
+{
+  "corpora": {
+    "qinhan": {
+      "asset": "qinhan.jsonl.gz",
+      "compressed_bytes": 91290,
+      "poem_count": 369,
+      "sha256": "dc56796fb7a644ae298b98b959dba5af7ca07df184b392182dbdcef1af4443de"
+    },
+    "qts": {
+      "asset": "qts.jsonl.gz",
+      "compressed_bytes": 5824400,
+      "poem_count": 43103,
+      "sha256": "d19f77dc084bfe2299971c329c0e5bf308972ead87df6c977d9aada5f123eea6"
+    },
+    "quansongshi": {
+      "asset": "quansongshi.jsonl.gz",
+      "compressed_bytes": 39777185,
+      "poem_count": 254223,
+      "sha256": "a4d91afa47eb395016722d96deb52ea18e81c6b7283a900b906e7653242e67d9"
+    },
+    "shijing": {
+      "asset": "shijing.jsonl.gz",
+      "compressed_bytes": 54414,
+      "poem_count": 305,
+      "sha256": "1c8b804076e522fbd9329edf6737721c232e7db59a55ca9fb489334362c52bee"
+    },
+    "ts300": {
+      "asset": "ts300.jsonl.gz",
+      "compressed_bytes": 68658,
+      "poem_count": 366,
+      "sha256": "6c924ea309cfa720eda6d280673a78e3fe530392e314e84ea8f91ef4f31e3ad1"
+    },
+    "weijinnanbeichao": {
+      "asset": "weijinnanbeichao.jsonl.gz",
+      "compressed_bytes": 209523,
+      "poem_count": 840,
+      "sha256": "5e2706e1d7e4a0865d1000e34b70eff715dee7b40b1e3f0ddcb60c6c55412897"
+    }
+  },
+  "generated_at": "2026-09-09T11:43:14.437090+00:00",
+  "schema_version": 2,
+  "total_poems": 299206,
+  "version": "v1.0.0"
+}
