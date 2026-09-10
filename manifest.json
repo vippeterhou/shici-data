@@ -18,6 +18,12 @@
       "poem_count": 254223,
       "sha256": "a4d91afa47eb395016722d96deb52ea18e81c6b7283a900b906e7653242e67d9"
     },
+    "sc300": {
+      "asset": "sc300.jsonl.gz",
+      "compressed_bytes": 58398,
+      "poem_count": 280,
+      "sha256": "b6bf1c879fb32602ecf984bcac035afe2a59d570450d6490673a27695531000f"
+    },
     "shijing": {
       "asset": "shijing.jsonl.gz",
       "compressed_bytes": 54414,
@@ -37,8 +43,8 @@
       "sha256": "5e2706e1d7e4a0865d1000e34b70eff715dee7b40b1e3f0ddcb60c6c55412897"
     }
   },
-  "generated_at": "2026-09-09T11:43:14.437090+00:00",
+  "generated_at": "2026-09-10T12:49:13.546626+00:00",
   "schema_version": 2,
-  "total_poems": 299206,
-  "version": "v1.0.0"
+  "total_poems": 299486,
+  "version": "v1.1.0"
 }

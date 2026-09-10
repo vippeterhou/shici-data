@@ -4,6 +4,7 @@ import argparse
 import gzip
 import hashlib
 import json
+import re
 import shutil
 from dataclasses import dataclass
 from datetime import datetime, timezone
@@ -30,8 +31,11 @@ CORPORA = (
     Corpus("weijinnanbeichao", RAW_DIRECTORY / "weijinnanbeichao"),
     Corpus("ts300", RAW_DIRECTORY / "ts300" / "ts300.json"),
     Corpus("qts", RAW_DIRECTORY / "qts"),
+    Corpus("sc300", RAW_DIRECTORY / "sc300" / "sc300.json"),
     Corpus("quansongshi", RAW_DIRECTORY / "quansongshi"),
 )
+
+SENTENCE_SEPARATOR = re.compile(r"[，。！？；：、,.!?;:]+")
 
 
 def source_files(source: Path) -> list[Path]:
@@ -56,6 +60,7 @@ def normalized_records(corpus: Corpus) -> Iterator[dict[str, object]]:
             if not isinstance(value, dict):
                 raise ValueError(f"{path}:{index}: expected an object")
             record = dict(value)
+            normalize_record(record, path, index)
             record.setdefault("id", f"{corpus.name}/{path.name}:{index}")
             validate_record(record, path, index)
             record_id = str(record["id"])
@@ -63,6 +68,51 @@ def normalized_records(corpus: Corpus) -> Iterator[dict[str, object]]:
                 raise ValueError(f"{path}:{index}: duplicate id {record_id}")
             seen_ids.add(record_id)
             yield record
+
+
+def normalize_record(
+    record: dict[str, object],
+    path: Path,
+    index: int,
+) -> None:
+    if "title" not in record and isinstance(record.get("rhythmic"), str):
+        record["title"] = record["rhythmic"]
+    if "format" not in record:
+        paragraphs = record.get("paragraphs")
+        if not isinstance(paragraphs, list) or not all(
+            isinstance(paragraph, str) for paragraph in paragraphs
+        ):
+            raise ValueError(f"{path}:{index}: invalid paragraphs")
+        sentence_lengths = [
+            length
+            for paragraph in paragraphs
+            for fragment in SENTENCE_SEPARATOR.split(paragraph)
+            if (length := han_character_count(fragment)) > 0
+        ]
+        if not sentence_lengths:
+            raise ValueError(f"{path}:{index}: no poem sentences found")
+        uniform_length = (
+            sentence_lengths[0]
+            if len(set(sentence_lengths)) == 1
+            else None
+        )
+        record["format"] = {
+            "sentence_count": len(sentence_lengths),
+            "sentence_lengths": sentence_lengths,
+            "uniform_sentence_length": uniform_length,
+        }
+
+
+def han_character_count(text: str) -> int:
+    return sum(
+        character == "\u3007"
+        or "\u3400" <= character <= "\u4dbf"
+        or "\u4e00" <= character <= "\u9fff"
+        or "\uf900" <= character <= "\ufaff"
+        or "\U00020000" <= character <= "\U0002ee5f"
+        or "\U00030000" <= character <= "\U000323af"
+        for character in text
+    )
 
 
 def validate_record(
