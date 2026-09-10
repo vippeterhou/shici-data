@@ -12,6 +12,12 @@
       "poem_count": 43103,
       "sha256": "d19f77dc084bfe2299971c329c0e5bf308972ead87df6c977d9aada5f123eea6"
     },
+    "quansongci": {
+      "asset": "quansongci.jsonl.gz",
+      "compressed_bytes": 3347196,
+      "poem_count": 21053,
+      "sha256": "a6752f75ac10845a9b03443f0667b38667c5ab1dc303db474c75ca0ab1c71168"
+    },
     "quansongshi": {
       "asset": "quansongshi.jsonl.gz",
       "compressed_bytes": 39777185,
@@ -43,8 +49,8 @@
       "sha256": "5e2706e1d7e4a0865d1000e34b70eff715dee7b40b1e3f0ddcb60c6c55412897"
     }
   },
-  "generated_at": "2026-09-10T12:49:13.546626+00:00",
+  "generated_at": "2026-09-10T13:09:33.831750+00:00",
   "schema_version": 2,
-  "total_poems": 299486,
+  "total_poems": 320539,
   "version": "v1.1.0"
 }
