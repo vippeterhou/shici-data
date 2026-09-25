@@ -20,7 +20,7 @@ from content. Shijing also retains its chapter and section hierarchy.
 
 | Dataset/files | Original source | Project modifications |
 |---|---|---|
-| `qinhan`: `raw/qinhan/*.json` | `poetry-source`: `source/诗/秦/`, `source/诗/汉/` | Consolidated by dynasty; renamed fields; omitted ancillary fields; added format metadata. |
+| `qinhan`: `raw/qinhan/*.json` | `poetry-source`: `source/诗/秦/`, `source/诗/汉/` | Consolidated by dynasty; renamed fields; omitted ancillary fields; split bundled works; pruned prose and irrecoverably incomplete records; added format metadata and editorial corrections. |
 | `qts`: `raw/qts/*.json` | `chinese-poetry`: `御定全唐詩/json/` | Added format metadata and editorial corrections. |
 | `quansongci`: `raw/quansongci/ci.song.*.json` | `chinese-poetry`: `宋词/` | Renamed `rhythmic` to `title`; added format metadata. |
 | `quansongshi`: `raw/quansongshi/poet.song.*.json` | `chinese-poetry`: `全唐诗/` | Added format metadata; pruned unusable records; includes editorial corrections. |
