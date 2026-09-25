@@ -1280,20 +1280,29 @@
     }
   },
   {
-    "title": "凉州乐二首",
+    "title": "凉州乐二首·其一",
     "author": "温子昇",
     "paragraphs": [
-      "【其一】",
       "远游武威郡，遥望姑臧城。",
-      "车马相交错，歌吹日纵横。",
-      "【其二】",
+      "车马相交错，歌吹日纵横。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "凉州乐二首·其二",
+    "author": "温子昇",
+    "paragraphs": [
       "路出玉门关，城接龙城坂。",
       "但事弦歌乐，谁道山川远！"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [2, 5, 5, 5, 5, 2, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -1595,40 +1604,78 @@
     }
   },
   {
-    "title": "四色诗四首",
+    "title": "四色诗四首·其一",
     "author": "范雲",
     "paragraphs": [
-      "【其一】",
       "折柳青门外，握兰翠疏中。",
-      "绿苹骋春日，碧渚澹时风。",
-      "【其二】",
+      "绿苹骋春日，碧渚澹时风。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "四色诗四首·其二",
+    "author": "范雲",
+    "paragraphs": [
       "差池朱燕去，缤翻赤雁归。",
-      "瀺灂丹鱼聚，联翻血鸟飞。",
-      "【其三】",
+      "瀺灂丹鱼聚，联翻血鸟飞。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "四色诗四首·其三",
+    "author": "范雲",
+    "paragraphs": [
       "素鳞扬北渚，白水杜南宛。",
-      "献环润玉塞，归珠照琼辕。",
-      "【其四】",
+      "献环润玉塞，归珠照琼辕。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "四色诗四首·其四",
+    "author": "范雲",
+    "paragraphs": [
       "乌林叶将霣，墨池水就乾。",
       "玄豹藏暮雨，黑豹凌夜寒。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
-    "title": "行路难二首",
+    "title": "行路难二首·其一",
     "author": "费昶",
     "paragraphs": [
-      "【其一】",
       "君不见长安客舍门，倡家少女名桃根。",
       "贫穷夜纺无灯烛，何言一朝奉至尊。",
       "至尊离宫百馀处，千门万户不知曙。",
       "惟闻哑哑城上乌，玉阑金井牵辘轳。",
       "丹梁翠柱飞流苏，香薪桂火炊雕胡。",
-      "当年翻覆无常定，薄命为女何必粗。",
-      "【其二】",
+      "当年翻覆无常定，薄命为女何必粗。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [8, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "行路难二首·其二",
+    "author": "费昶",
+    "paragraphs": [
       "君不见人生百年如流电，心中坎壈君不见。",
       "我昔初入椒房时，讵减班姬与飞燕。",
       "朝逾金梯上凤楼，暮下琼钩息鸾殿。",
@@ -1641,8 +1688,8 @@
       "不如天渊水中鸟，双去双飞长比翅。"
     ],
     "format": {
-      "sentence_count": 34,
-      "sentence_lengths": [2, 8, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 2, 10, 7, 7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 20,
+      "sentence_lengths": [10, 7, 7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -1697,39 +1744,78 @@
     }
   },
   {
-    "title": "西陵遇风献康乐诗五首",
+    "title": "西陵遇风献康乐诗五首·其一",
     "author": "谢惠连",
     "paragraphs": [
-      "【其一】",
       "我行指孟春，春仲尚未发。",
       "趣途远有期，念离情无歇。",
       "成装候良辰，漾舟陶嘉月。",
-      "瞻途意少悰，还顾情多阙。",
-      "【其二】",
+      "瞻途意少悰，还顾情多阙。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "西陵遇风献康乐诗五首·其二",
+    "author": "谢惠连",
+    "paragraphs": [
       "哲兄感仳别，相送越坰林。",
       "饮饯野亭馆，分袂澄湖阴。",
       "凄凄留子言，眷眷浮客心。",
-      "回塘隐舻栧，远望绝形音。",
-      "【其三】",
+      "回塘隐舻栧，远望绝形音。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "西陵遇风献康乐诗五首·其三",
+    "author": "谢惠连",
+    "paragraphs": [
       "靡靡即长路，戚戚抱遥悲。",
       "悲遥但自弭，路长当语谁。",
       "行行道转远，去去情弥迟。",
-      "昨发浦阳汭，今宿浙江湄。",
-      "【其四】",
+      "昨发浦阳汭，今宿浙江湄。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "西陵遇风献康乐诗五首·其四",
+    "author": "谢惠连",
+    "paragraphs": [
       "屯云蔽曾岭，惊风涌飞流。",
       "零雨润坟泽，落雪洒林丘。",
       "浮氛晦崖巘，积素惑原畴。",
-      "曲汜薄停旅，通川绝行舟。",
-      "【其五】",
+      "曲汜薄停旅，通川绝行舟。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "西陵遇风献康乐诗五首·其五",
+    "author": "谢惠连",
+    "paragraphs": [
       "临津不得济，伫楫阻风波。",
       "萧条洲渚际，气色少谐和。",
       "西瞻兴游叹，东睇起凄歌。",
       "积愤成疢痗，无萱将如何。"
     ],
     "format": {
-      "sentence_count": 45,
-      "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -1763,18 +1849,6 @@
     "format": {
       "sentence_count": 48,
       "sentence_lengths": [5, 5, 5, 5, 3, 3, 7, 5, 5, 3, 3, 7, 5, 5, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 5, 5, 5, 5, 6, 6, 6, 7, 6, 6, 5, 7, 6, 6, 7, 7, 6, 6, 6, 6],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "瑞雪咏",
-    "author": "谢庄",
-    "paragraphs": [
-      "玄管洽，豳诗平。火洲灭，日壑清。龙关沙蒸，河徼云惊。晷未沉而井閟，宇方霾而海溟。山飞白雪，叶中符而掩皇州。降千□而瑞神世，始□葐蒀以蕤转。终徘徊而烟曳，状素镜之晨光。写金波之夜晰，晰景兮便娟，冠集灵兮蔼望仙。溢迎风兮湛承露，亘临华兮被通天。幂遥途而界远绮，丽青墀而镜列钱。及其流彩犹抟。凝明亟积，郊隰均映。江峦齐奕，审伊宫之逾丈。信钘阿之盈尺，洞秋方之玉园。果仙京之珠泽，若夫贞性贲道。润德晖经，载途演其楙。同云宣其灵，既昭化于卫术。亦阐义于齐庭，结秋竹之丽响。引幽兰之微馨，窃惟鸿化远洎。玄风遐施，浃纬称祥。磬埏作瑞，调露之乐既兴。大闺之歌已被，春光兮冬泽。长无愆于平施。"
-    ],
-    "format": {
-      "sentence_count": 45,
-      "sentence_lengths": [3, 3, 3, 3, 4, 4, 6, 6, 4, 7, 6, 6, 6, 6, 6, 5, 7, 7, 7, 7, 7, 6, 4, 4, 4, 6, 6, 6, 6, 6, 4, 5, 5, 6, 6, 6, 6, 6, 4, 4, 4, 6, 6, 5, 6],
       "uniform_sentence_length": null
     }
   },
@@ -1900,10 +1974,9 @@
     }
   },
   {
-    "title": "拟魏太子《邺中集》诗八首",
+    "title": "拟魏太子《邺中集》诗八首·其一·魏太子",
     "author": "谢灵运",
     "paragraphs": [
-      "【其一 · 魏太子】",
       "百川赴巨海，众星环北辰。",
       "照灼烂霄汉，遥裔起长津。",
       "天地中横溃，家王拯生民。",
@@ -1914,8 +1987,18 @@
       "罗缕岂阙辞，窈窕究天人。",
       "澄觞满金罍，连榻设华茵。",
       "急弦动飞听，清歌拂梁尘。",
-      "莫言相遇易，此欢信可珍。",
-      "【其二 · 王粲】",
+      "莫言相遇易，此欢信可珍。"
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟魏太子《邺中集》诗八首·其二·王粲",
+    "author": "谢灵运",
+    "paragraphs": [
       "家本秦川，贵公子孙。",
       "遭乱流寓，自伤情多。",
       "幽厉昔崩乱，桓灵今板荡。",
@@ -1930,8 +2013,18 @@
       "不谓息肩愿，一旦值明两。",
       "并载游邺京。方舟泛河广。",
       "绸缪清燕娱，寂寥梁栋响。",
-      "既作长夜饮。岂顾乘日养。",
-      "【其三 · 陈琳】",
+      "既作长夜饮。岂顾乘日养。"
+    ],
+    "format": {
+      "sentence_count": 30,
+      "sentence_lengths": [4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "拟魏太子《邺中集》诗八首·其三·陈琳",
+    "author": "谢灵运",
+    "paragraphs": [
       "皇汉逢迍邅，天下遭氛慝。",
       "董氏沦关西，袁家拥河北。",
       "单民易周章，窘身就羁勒。",
@@ -1942,8 +2035,18 @@
       "爱客不告疲，饮燕遗景刻。",
       "夜听极星阑，朝游穷曛黑。",
       "哀哇动梁埃，急觞荡幽默。",
-      "且尽一日娱，莫知古来惑。",
-      "【其四 · 徐幹】",
+      "且尽一日娱，莫知古来惑。"
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟魏太子《邺中集》诗八首·其四·徐幹",
+    "author": "谢灵运",
+    "paragraphs": [
       "伊昔家临淄，提携弄齐瑟。",
       "置酒饮胶东，淹留憩高密。",
       "此欢谓可终，外物始难毕。",
@@ -1953,8 +2056,18 @@
       "清论事究万，美话信非一。",
       "行觞奏悲歌，永夜系白日。",
       "华屋非蓬居，时髦岂余匹。",
-      "中饮顾昔心，怅焉若有失。",
-      "【其五 · 刘桢】",
+      "中饮顾昔心，怅焉若有失。"
+    ],
+    "format": {
+      "sentence_count": 20,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟魏太子《邺中集》诗八首·其五·刘桢",
+    "author": "谢灵运",
+    "paragraphs": [
       "贫居晏里闬，少小长东平。",
       "河兖当冲要，沦飘薄许京。",
       "广川无逆流，招纳厕群英。",
@@ -1965,8 +2078,18 @@
       "朝游牛羊下，暮坐括揭鸣。",
       "终岁非一日，传巵弄新声。",
       "辰事既难谐，欢愿如今并。",
-      "唯羡肃肃翰，缤纷戾高冥。",
-      "【其六 · 应玚】",
+      "唯羡肃肃翰，缤纷戾高冥。"
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟魏太子《邺中集》诗八首·其六·应玚",
+    "author": "谢灵运",
+    "paragraphs": [
       "嗷嗷云中雁，举翮自委羽。",
       "求凉弱水湄，违寒长沙渚。",
       "顾我梁川时，缓步集颍许。",
@@ -1977,8 +2100,18 @@
       "列坐荫华榱，金樽盈清醑。",
       "始奏延露曲，继以阑夕语。",
       "调笑辄酬答，嘲谑无惭沮。",
-      "倾躯无遗虑，在心良已叙。",
-      "【其七 · 阮瑀】",
+      "倾躯无遗虑，在心良已叙。"
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟魏太子《邺中集》诗八首·其七·阮瑀",
+    "author": "谢灵运",
+    "paragraphs": [
       "河洲多沙尘，风悲黄云起。",
       "金羁相驰逐，联翩何穷已。",
       "庆云惠优渥，微薄攀多士。",
@@ -1987,8 +2120,18 @@
       "躧步陵丹梯，并坐侍君子。",
       "妍谈既愉心，哀弄信睦耳。",
       "倾酤系芳醑，酌言岂终始。",
-      "自从食蓱来，唯见今日美。",
-      "【其八 · 平原侯植】",
+      "自从食蓱来，唯见今日美。"
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟魏太子《邺中集》诗八首·其八·平原侯植",
+    "author": "谢灵运",
+    "paragraphs": [
       "朝游登凤阁，日暮集华沼。",
       "倾柯引弱枝，攀条摘蕙草。",
       "徙倚穷骋望，目极尽所讨。",
@@ -2002,9 +2145,9 @@
       "愿以黄发期，养生念将老。"
     ],
     "format": {
-      "sentence_count": 186,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 22,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -2759,38 +2902,6 @@
     }
   },
   {
-    "title": "答中书诗八首·其六",
-    "author": "谢灵运",
-    "paragraphs": [
-      "契阔北京，劬劳西郢。",
-      "守官末局，年月已永。",
-      "孰是疲劣，逢此多□。",
-      "厚颜既积，在志莫省。"
-    ],
-    "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [4, 4, 4, 4, 4, 3, 4, 4],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "答中书诗八首·其七",
-    "author": "谢灵运",
-    "paragraphs": [
-      "凄凄离人，惋乖悼己。",
-      "企伫好音，倾渴行李。",
-      "矧乃良朋，贻我琼玘。",
-      "久要既笃，平生盈耳。",
-      "申复情言，欣叹□起。",
-      "何用托诚，寄之吾子。"
-    ],
-    "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4],
-      "uniform_sentence_length": null
-    }
-  },
-  {
     "title": "答中书诗八首·其八",
     "author": "谢灵运",
     "paragraphs": [
@@ -3195,7 +3306,7 @@
     }
   },
   {
-    "title": "彭城宫中直感岁暮诗 ",
+    "title": "彭城宫中直感岁暮诗",
     "author": "谢灵运",
     "paragraphs": [
       "草草眷徂物。",
@@ -3236,7 +3347,7 @@
     }
   },
   {
-    "title": "永初三年七月十六日之郡初发都诗 ",
+    "title": "永初三年七月十六日之郡初发都诗",
     "author": "谢灵运",
     "paragraphs": [
       "述职期阑暑，理棹变金素。",
@@ -3259,7 +3370,7 @@
     }
   },
   {
-    "title": "邻里相送至方山诗 ",
+    "title": "邻里相送至方山诗",
     "author": "谢灵运",
     "paragraphs": [
       "祗役出皇邑，相期憩瓯越。",
@@ -3277,7 +3388,7 @@
     }
   },
   {
-    "title": "富春渚诗 ",
+    "title": "富春渚诗",
     "author": "谢灵运",
     "paragraphs": [
       "宵济渔浦潭，旦及富春郭。",
@@ -3297,7 +3408,7 @@
     }
   },
   {
-    "title": "登永嘉绿嶂山诗 ",
+    "title": "登永嘉绿嶂山诗",
     "author": "谢灵运",
     "paragraphs": [
       "裹粮杖轻策，怀迟上幽室。",
@@ -3318,7 +3429,7 @@
     }
   },
   {
-    "title": "郡东山望溟海诗 ",
+    "title": "郡东山望溟海诗",
     "author": "谢灵运",
     "paragraphs": [
       "开春献初岁。白日出悠悠。",
@@ -3336,7 +3447,7 @@
     }
   },
   {
-    "title": "游岭门山诗 ",
+    "title": "游岭门山诗",
     "author": "谢灵运",
     "paragraphs": [
       "西京谁修政？龚汲称良吏。",
@@ -3356,7 +3467,7 @@
     }
   },
   {
-    "title": "石室山诗 ",
+    "title": "石室山诗",
     "author": "谢灵运",
     "paragraphs": [
       "清旦索幽异，放舟越垌郊。",
@@ -3394,7 +3505,7 @@
     }
   },
   {
-    "title": "登上戍石鼓山诗 ",
+    "title": "登上戍石鼓山诗",
     "author": "谢灵运",
     "paragraphs": [
       "旅人心长久，忧忧自相接。",
@@ -3414,7 +3525,7 @@
     }
   },
   {
-    "title": "石壁立招提精舍诗 ",
+    "title": "石壁立招提精舍诗",
     "author": "谢灵运",
     "paragraphs": [
       "四城有顿踬，三世无极已。",
@@ -3433,7 +3544,7 @@
     }
   },
   {
-    "title": "登石门最高顶诗 ",
+    "title": "登石门最高顶诗",
     "author": "谢灵运",
     "paragraphs": [
       "晨策寻绝壁，夕息在山栖。",
@@ -3454,7 +3565,7 @@
     }
   },
   {
-    "title": "行田登海口盘屿山诗 ",
+    "title": "行田登海口盘屿山诗",
     "author": "谢灵运",
     "paragraphs": [
       "齐景恋遄台，周穆厌紫宫。",
@@ -3473,7 +3584,7 @@
     }
   },
   {
-    "title": "白石岩下径行田诗 ",
+    "title": "白石岩下径行田诗",
     "author": "谢灵运",
     "paragraphs": [
       "小邑居易贫，灾年民无生。",
@@ -3493,7 +3604,7 @@
     }
   },
   {
-    "title": "斋中读书诗 ",
+    "title": "斋中读书诗",
     "author": "谢灵运",
     "paragraphs": [
       "昔余游京华，未尝废丘壑。",
@@ -3512,7 +3623,7 @@
     }
   },
   {
-    "title": "读书斋诗 ",
+    "title": "读书斋诗",
     "author": "谢灵运",
     "paragraphs": [
       "春事时已歇，池塘旷幽寻。",
@@ -3527,7 +3638,7 @@
     }
   },
   {
-    "title": "命学士讲书诗 ",
+    "title": "命学士讲书诗",
     "author": "谢灵运",
     "paragraphs": [
       "卧病同淮阳，宰邑旷武城。",
@@ -3618,7 +3729,7 @@
     }
   },
   {
-    "title": " 酬从弟惠连 ",
+    "title": "酬从弟惠连",
     "author": "谢灵运",
     "paragraphs": [
       "寝瘵谢人徒，灭迹入云峰。",
@@ -3648,7 +3759,7 @@
     }
   },
   {
-    "title": "初发石首城 ",
+    "title": "初发石首城",
     "author": "谢灵运",
     "paragraphs": [
       "白珪尚可磨，斯言易为缁。",
@@ -3671,7 +3782,7 @@
     }
   },
   {
-    "title": "道路忆山中 ",
+    "title": "道路忆山中",
     "author": "谢灵运",
     "paragraphs": [
       "采菱调易急，江南歌不缓。",
@@ -3693,7 +3804,7 @@
     }
   },
   {
-    "title": "还旧园作见颜范二中书 ",
+    "title": "还旧园作见颜范二中书",
     "author": "谢灵运",
     "paragraphs": [
       "辞满岂多秩，谢病不待年。",
@@ -3746,7 +3857,7 @@
     }
   },
   {
-    "title": "南楼中望所迟客 ",
+    "title": "南楼中望所迟客",
     "author": "谢灵运",
     "paragraphs": [
       "杳杳日西颓，漫漫长路迫。",
@@ -3766,7 +3877,7 @@
     }
   },
   {
-    "title": "田南树园激流植援 ",
+    "title": "田南树园激流植援",
     "author": "谢灵运",
     "paragraphs": [
       "樵隐俱在山，由来事不同。",
@@ -3787,7 +3898,7 @@
     }
   },
   {
-    "title": "庐陵王墓下作 ",
+    "title": "庐陵王墓下作",
     "author": "谢灵运",
     "paragraphs": [
       "晓月发云阳，落日次朱方。",
@@ -3841,49 +3952,107 @@
     }
   },
   {
-    "title": "乌栖曲",
+    "title": "乌栖曲·其一",
     "author": "萧绎",
     "paragraphs": [
-      "【其一】",
       "幄中清酒马脑钟，裙边杂佩琥珀龙。",
-      "虚持寄君心不惜，共指三星今何夕。",
-      "【其二】",
+      "虚持寄君心不惜，共指三星今何夕。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "乌栖曲·其二",
+    "author": "萧绎",
+    "paragraphs": [
       "浓黛轻红点花色，还欲令人不相识。",
-      "金壶夜水讵能多，莫持奢用比悬河。",
-      "【其三】",
+      "金壶夜水讵能多，莫持奢用比悬河。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "乌栖曲·其三",
+    "author": "萧绎",
+    "paragraphs": [
       "沙棠作船桂为楫，夜渡江南采莲叶。",
-      "复值西施新浣纱，共向江干眺月华。",
-      "【其四】",
+      "复值西施新浣纱，共向江干眺月华。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "乌栖曲·其四",
+    "author": "萧绎",
+    "paragraphs": [
       "月华似璧星如佩，流影澄明玉堂内。",
-      "邯郸九枝朝始成，金巵玉碗共君倾。",
-      "【其五】",
+      "邯郸九枝朝始成，金巵玉碗共君倾。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "乌栖曲·其五",
+    "author": "萧绎",
+    "paragraphs": [
       "交龙成锦斗凤纹，芙蓉为带石榴裙。",
-      "日下城南两相望，月没参横掩罗帐。",
-      "【其六】",
+      "日下城南两相望，月没参横掩罗帐。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "乌栖曲·其六",
+    "author": "萧绎",
+    "paragraphs": [
       "七彩随珠九华玉，蛱蝶为歌明星曲。",
       "兰房椒閤夜方开，那知步步香风逐。"
     ],
     "format": {
-      "sentence_count": 30,
-      "sentence_lengths": [2, 7, 7, 7, 7, 2, 7, 7, 7, 7, 2, 7, 7, 7, 7, 2, 7, 7, 7, 7, 2, 7, 7, 7, 7, 2, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
-    "title": "别诗二首",
+    "title": "别诗二首·其一",
     "author": "萧绎",
     "paragraphs": [
-      "【其一】",
       "别罢花枝不共攀，别后书信不相关。",
-      "欲觅行人寄消息，衣常潮水暝应还。",
-      "【其二】",
+      "欲觅行人寄消息，衣常潮水暝应还。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "别诗二首·其二",
+    "author": "萧绎",
+    "paragraphs": [
       "三月桃花含面脂，五月新油好煎泽。",
       "莫复临地不寄人，谩道江中无估客。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [2, 7, 7, 7, 7, 2, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -3951,39 +4120,78 @@
     }
   },
   {
-    "title": "五君咏",
+    "title": "五君咏·阮步兵",
     "author": "颜延之",
     "paragraphs": [
-      "【阮步兵】",
       "阮公虽沦迹，识密鉴亦洞。",
       "沉醉似埋照，寓辞类托讽。",
       "长啸若怀人，越礼自惊众。",
-      "物故不可论，途穷能无恸？",
-      "【嵇中散】",
+      "物故不可论，途穷能无恸？"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "五君咏·嵇中散",
+    "author": "颜延之",
+    "paragraphs": [
       "中散不偶世，本自餐霞人。",
       "形解验默仙，吐论知凝神。",
       "立俗迕流议，寻山洽隐沦。",
-      "鸾翮有时铩，龙性谁能驯？",
-      "【刘参军】",
+      "鸾翮有时铩，龙性谁能驯？"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "五君咏·刘参军",
+    "author": "颜延之",
+    "paragraphs": [
       "刘伶善闭关，怀情灭闻见。",
       "鼓钟不足欢，荣色岂能眩？",
       "韬精日沈饮，谁知非荒宴？",
-      "颂酒虽短章，深衷自此见。",
-      "【阮始平】",
+      "颂酒虽短章，深衷自此见。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "五君咏·阮始平",
+    "author": "颜延之",
+    "paragraphs": [
       "仲容青云器，实禀生民秀。",
       "达音何用深？识微在金奏。",
       "郭弈已心醉，山公非虚觏。",
-      "屡荐不入官，一麾乃出守。",
-      "【向常侍】",
+      "屡荐不入官，一麾乃出守。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "五君咏·向常侍",
+    "author": "颜延之",
+    "paragraphs": [
       "向秀甘淡薄，深心托豪素。",
       "探道好渊玄，观书鄙章句。",
       "交吕既鸿轩，攀嵇亦凤举。",
       "流连河里游，恻怆山阳赋。"
     ],
     "format": {
-      "sentence_count": 45,
-      "sentence_lengths": [3, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -4284,20 +4492,29 @@
     }
   },
   {
-    "title": "正月七日登高侍宴二首",
+    "title": "正月七日登高侍宴二首·其一",
     "author": "阳休之",
     "paragraphs": [
-      "【其一】",
       "日照前窗竹，露湿后园薇。",
-      "夜蛩扶砌响，轻蛾绕烛飞。",
-      "【其二】",
+      "夜蛩扶砌响，轻蛾绕烛飞。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "正月七日登高侍宴二首·其二",
+    "author": "阳休之",
+    "paragraphs": [
       "广殿丽年辉，上林起春色。",
       "风生拂雕辇，云回浮绮翼。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [2, 5, 5, 5, 5, 2, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -4651,21 +4868,6 @@
     "format": {
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": 5
-    }
-  },
-  {
-    "title": "别范安成诗",
-    "author": "沈约",
-    "paragraphs": [
-      "生平少年日，分手易前期。",
-      "及尔同衰暮，非复别离时。",
-      "勿言一樽酒，明日难重持。",
-      "梦中不识路，何以慰相思。"
-    ],
-    "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -5139,10 +5341,9 @@
     }
   },
   {
-    "title": "独酌谣四首",
+    "title": "独酌谣四首·其一",
     "author": "陈叔宝",
     "paragraphs": [
-      "【其一】",
       "独酌谣，独酌且独谣。",
       "一酌岂陶暑，二酌断风飙。",
       "三酌意不畅，四酌情无聊。",
@@ -5151,23 +5352,53 @@
       "九酌忘物我，十酌忽凌霄。",
       "凌霄异羽翼，任致得飘飘。",
       "宁学世人醉，扬波去我遥。",
-      "尔非浮丘伯，安见王子乔。",
-      "【其二】",
+      "尔非浮丘伯，安见王子乔。"
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "独酌谣四首·其二",
+    "author": "陈叔宝",
+    "paragraphs": [
       "独酌谣，独酌起中宵。",
       "中宵照春月，初花发春朝。",
       "春花春月正徘徊，一尊一弦当夜开。",
       "聊奏孙登曲，仍斟毕卓杯。",
       "罗绮徒纷乱，金翠转迟回。",
       "中心本如水，凝志更同灰。",
-      "逍遥自可乐，世语世情哉。",
-      "【其三】",
+      "逍遥自可乐，世语世情哉。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [3, 5, 5, 5, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "独酌谣四首·其三",
+    "author": "陈叔宝",
+    "paragraphs": [
       "独酌谣，独酌酒难消。",
       "独酌三两碗，弄曲两三调。",
       "调弦忽未毕，忽值出房朝。",
       "更似游春苑，还如逢丽谯。",
       "衣香逐娇去，眼语送杯娇。",
-      "馀樽尽复益，自得是逍遥。",
-      "【其四】",
+      "馀樽尽复益，自得是逍遥。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "独酌谣四首·其四",
+    "author": "陈叔宝",
+    "paragraphs": [
       "独酌谣，独酌一尊酒。",
       "尊酒倾未酌，明月正当牖。",
       "是牖非圆瓮，吾乐非击缶。",
@@ -5176,29 +5407,48 @@
       "宁复语绮罗，因情即山薮。"
     ],
     "format": {
-      "sentence_count": 60,
-      "sentence_lengths": [2, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 3, 5, 5, 5, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5, 2, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },
   {
-    "title": "乌栖曲三首",
+    "title": "乌栖曲三首·其一",
     "author": "陈叔宝",
     "paragraphs": [
-      "【其一】",
       "陌头新花历乱生，叶里啼鸟送春情。",
-      "长安游侠无数伴，白马骊珂路中满。",
-      "【其二】",
+      "长安游侠无数伴，白马骊珂路中满。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "乌栖曲三首·其二",
+    "author": "陈叔宝",
+    "paragraphs": [
       "金鞍向暝欲相连，玉面俱要来帐前。",
-      "含态眼语悬相解，翠带罗裙入为解。",
-      "【其三】",
+      "含态眼语悬相解，翠带罗裙入为解。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "乌栖曲三首·其三",
+    "author": "陈叔宝",
+    "paragraphs": [
       "合欢襦薰百和香，床中被织两鸳鸯。",
       "乌啼汉没天应曙，只持怀抱送郎去。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [2, 7, 7, 7, 7, 2, 7, 7, 7, 7, 2, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -5233,45 +5483,63 @@
     }
   },
   {
-    "title": "关山月二首",
+    "title": "关山月二首·其一",
     "author": "徐陵",
     "paragraphs": [
-      "【其一】",
       "关山三五月，客子忆秦川。",
       "思妇高楼上，当窗应未眠。",
       "星旗映疏勒，云阵上祁连。",
-      "战气今如此，从军复几年。",
-      "【其二】",
+      "战气今如此，从军复几年。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "关山月二首·其二",
+    "author": "徐陵",
+    "paragraphs": [
       "月出柳城东，微云掩复通。",
       "苍茫萦白晕，萧瑟带长风。",
       "羌兵烧上郡，胡骑猎云中。",
       "将军拥节起，战士夜鸣弓。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
-    "title": "洛阳道二首",
+    "title": "洛阳道二首·其一",
     "author": "徐陵",
     "paragraphs": [
-      "【其一】",
       "绿柳三春暗，红尘百戏多。",
       "东门向金马，南陌接铜驼。",
       "华轩翼葆吹，飞盖响鸣珂。",
-      "潘郎车欲满，无奈掷花何。",
-      "【其二】",
+      "潘郎车欲满，无奈掷花何。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "洛阳道二首·其二",
+    "author": "徐陵",
+    "paragraphs": [
       "洛阳驰道上，春日起尘埃。",
       "濯龙望如雾，河桥渡似雷。",
       "闻珂知马蹀，傍幰见甍开。",
       "相看不得语，密意眼中来。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -5376,47 +5644,85 @@
     }
   },
   {
-    "title": "杨花曲三首",
+    "title": "杨花曲三首·其一",
     "author": "汤惠休",
     "paragraphs": [
-      "【其一】",
       "葳蕤华结情，宛转风含思。",
-      "掩涕守春心，折兰还自遗。",
-      "【其二】",
+      "掩涕守春心，折兰还自遗。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杨花曲三首·其二",
+    "author": "汤惠休",
+    "paragraphs": [
       "江南相思引，多叹不成音。",
-      "黄鹤西北去，衔我千里心。",
-      "【其三】",
+      "黄鹤西北去，衔我千里心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杨花曲三首·其三",
+    "author": "汤惠休",
+    "paragraphs": [
       "深堤下生草，高城上入云。",
       "春人心生思，思心长为君。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
-    "title": "白纻歌三首 ",
+    "title": "白纻歌三首·其一",
     "author": "汤惠休",
     "paragraphs": [
-      "【其一】",
       "琴瑟未调心已悲，任罗胜绮强自持。",
       "忍思一舞望所思，将转未转恒如疑。",
       "桃花水上春风出，舞袖逶迤鸾照日。",
-      "徘徊鹤转情艳逸，君为迎歌心如一。",
-      "【其二】",
+      "徘徊鹤转情艳逸，君为迎歌心如一。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "白纻歌三首·其二",
+    "author": "汤惠休",
+    "paragraphs": [
       "少年窈窕舞君前，容华艳艳将欲然。",
       "为君娇凝复迁延，流目送笑不敢言。",
-      "长袖拂面心自煎，愿君流光及盛年。",
-      "【其三】",
+      "长袖拂面心自煎，愿君流光及盛年。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "白纻歌三首·其三",
+    "author": "汤惠休",
+    "paragraphs": [
       "秋风袅袅入曲房，罗帐含月思心伤。",
       "蟋蟀夜鸣断人肠，长夜思君心飞扬。",
       "他人相思君相忘，锦衾瑶席为谁芳。"
     ],
     "format": {
-      "sentence_count": 23,
-      "sentence_lengths": [2, 7, 7, 7, 7, 7, 7, 7, 7, 2, 7, 7, 7, 7, 7, 7, 2, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -5548,24 +5854,33 @@
     }
   },
   {
-    "title": "梅花落二首",
+    "title": "梅花落二首·其一",
     "author": "江总",
     "paragraphs": [
-      "【其一】",
       "缥色动风香，罗生枝已长。",
       "妖姬坠马髻，未插江南珰。",
       "转袖花纷落，春衣共有芳。",
-      "羞作秋胡妇，独采城南桑。",
-      "【其二】",
+      "羞作秋胡妇，独采城南桑。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "梅花落二首·其二",
+    "author": "江总",
+    "paragraphs": [
       "胡地少春来，三年惊落梅。",
       "偏疑粉蝶散，乍似雪花开。",
       "可怜香气歇，可惜风相摧。",
       "金铙且莫韵，玉笛幸徘徊。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -5584,20 +5899,29 @@
     }
   },
   {
-    "title": "怨诗二首 ",
+    "title": "怨诗二首·其一",
     "author": "江总",
     "paragraphs": [
-      "【其一】",
       "采桑归路河流深，忆昔相期柏树林。",
-      "奈许新缣伤妾意，无由故剑动君心。",
-      "【其二】",
+      "奈许新缣伤妾意，无由故剑动君心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "怨诗二首·其二",
+    "author": "江总",
+    "paragraphs": [
       "新梅嫩柳未障羞，情去恩移那可留。",
       "团扇箧中言不分，纤腰掌上讵胜愁。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [2, 7, 7, 7, 7, 2, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -5665,19 +5989,6 @@
       "sentence_count": 16,
       "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    }
-  },
-  {
-    "title": "重别周尚书",
-    "author": "庾信",
-    "paragraphs": [
-      "阳关万里道，不见一人归。",
-      "唯有河边雁，秋来南向飞。"
-    ],
-    "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [5, 5, 5, 5],
-      "uniform_sentence_length": 5
     }
   },
   {
@@ -5751,129 +6062,318 @@
     }
   },
   {
-    "title": "拟咏怀诗二十七首",
+    "title": "拟咏怀诗二十七首·其一",
     "author": "庾信",
     "paragraphs": [
-      "【其一】",
       "步兵未饮酒，中散未弹琴。",
       "索索无真气，昏昏有俗心。",
       "涸鲋常思水，惊飞每失林。",
       "风云能变色，松竹且悲吟。",
-      "由来不得意，何必往长岑。",
-      "【其二】",
+      "由来不得意，何必往长岑。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其二",
+    "author": "庾信",
+    "paragraphs": [
       "赭衣居傅岩，垂纶在渭川。",
       "乘舟能上月，飞幰欲扪天。",
       "谁知志不就，空有直如弦。",
       "洛阳苏季子，连衡遂不连。",
-      "既无六国印，翻思二顷田。",
-      "【其三】",
+      "既无六国印，翻思二顷田。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其三",
+    "author": "庾信",
+    "paragraphs": [
       "俎豆非所习，帷幄复无谋。",
       "不言班定远，应为万里侯。",
       "燕客思辽水，秦人望陇头。",
       "倡家遭强娉，质子值仍留。",
-      "自怜才智尽，空伤年鬓秋。",
-      "【其四】",
+      "自怜才智尽，空伤年鬓秋。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其四",
+    "author": "庾信",
+    "paragraphs": [
       "楚材称晋用，秦臣即赵冠。",
       "离宫延子产，羁旅接陈完。",
       "寓卫非所寓，安齐独未安。",
       "雪泣悲去鲁，凄然忆相韩。",
-      "唯彼穷途恸，知余行路难。",
-      "【其五】",
+      "唯彼穷途恸，知余行路难。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其五",
+    "author": "庾信",
+    "paragraphs": [
       "惟忠且惟孝，为子复为臣。",
       "一朝人事尽，身名不足亲。",
       "吴起常辞魏，韩非遂入秦。",
       "壮情已消歇，雄图不复申。",
-      "移住华阴下，终为关外人。",
-      "【其六】",
+      "移住华阴下，终为关外人。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其六",
+    "author": "庾信",
+    "paragraphs": [
       "畴昔国士遇，生平知己恩。",
       "直言珠可吐，宁知炭可吞。",
       "一顾重尺璧，千金轻一言。",
       "悲伤刘孺子，凄怆史皇孙。",
-      "无因同武骑，归守灞陵园。",
-      "【其七】",
+      "无因同武骑，归守灞陵园。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其七",
+    "author": "庾信",
+    "paragraphs": [
       "榆关断音信，汉使绝经过。",
       "胡笳落泪曲，羌笛断肠歌。",
       "纤腰减束素，别泪损横波。",
       "恨心终不歇，红颜无复多。",
-      "枯木期填海，青山望断河。",
-      "【其八】",
+      "枯木期填海，青山望断河。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其八",
+    "author": "庾信",
+    "paragraphs": [
       "白马向清波，乘冰始渡河。",
       "置兵须近水，移营喜灶多。",
       "长坂初垂翼，鸿沟遂倒戈。",
       "的颅于此去，虞兮奈若何。",
-      "空营卫青冢，徒听田横歌。",
-      "【其九】",
+      "空营卫青冢，徒听田横歌。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其九",
+    "author": "庾信",
+    "paragraphs": [
       "北临玄菟郡，南戍朱鸢城。",
       "共此无期别，俱知万里情。",
       "昔尝游令尹，今时事客卿。",
       "不特贫谢富，安知死羡生。",
-      "怀秋独悲此，平生何谓平。",
-      "【其十】",
+      "怀秋独悲此，平生何谓平。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其十",
+    "author": "庾信",
+    "paragraphs": [
       "悲歌度燕水，弭节出阳关。",
       "李陵从此去，荆卿不复还。",
       "故人形影灭，音书两俱绝。",
       "遥看塞北云，悬想关山雪。",
-      "游子河梁上，应将苏武别。",
-      "【其十一】",
+      "游子河梁上，应将苏武别。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其十一",
+    "author": "庾信",
+    "paragraphs": [
       "摇落秋为气，凄凉多怨情。",
       "啼枯湘水竹，哭坏杞梁城。",
       "天亡遭愤战，日蹙值愁兵。",
       "直虹朝映垒，长星夜落营。",
       "楚歌饶恨曲，南风多死声。",
-      "眼前一杯酒，谁论身后名。",
-      "【其十二】",
+      "眼前一杯酒，谁论身后名。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其十二",
+    "author": "庾信",
+    "paragraphs": [
       "周王逢郑忿，楚后值秦冤。",
       "梯冲已鹤列，冀马忽云屯。",
       "武安檐瓦振，昆阳猛兽奔。",
       "流星夕照镜，烽火夜烧原。",
       "古狱饶冤气，空亭多枉魂。",
-      "天道或可问，微兮不忍言。",
-      "【其十三】",
+      "天道或可问，微兮不忍言。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其十三",
+    "author": "庾信",
+    "paragraphs": [
       "横流遘屯慝，上墋结重氛。",
       "哭市闻妖兽，颓山起怪云。",
       "绿林多散卒，清波有败军。",
       "智士今安用，忠臣且未闻。",
-      "惜无万金产，东求沧海君。",
-      "【其十四】",
+      "惜无万金产，东求沧海君。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其十四",
+    "author": "庾信",
+    "paragraphs": [
       "吉士长为吉，善人终日善。",
       "大道忽云乖，生民随事蹇。",
       "有情何可豁，忘怀固难遣。",
       "麟穷季氏罝，虎振周王圈。",
-      "平生几种意，一旦冲风卷。",
-      "【其十五】",
+      "平生几种意，一旦冲风卷。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其十五",
+    "author": "庾信",
+    "paragraphs": [
       "六国始咆哮，纵横未定交。",
       "欲竞连城玉，翻徵缩酒茅。",
       "折骸犹换子，登爨已悬巢。",
       "壮冰初开地，盲风正折胶。",
       "轻云飘马足，明月动弓弰。",
       "楚师正围巩，秦兵未下崤。",
-      "始知千载内，无复有申包。",
-      "【其十六】",
+      "始知千载内，无复有申包。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其十六",
+    "author": "庾信",
+    "paragraphs": [
       "横石三五片，长松一两株。",
       "对君俗人眼，真兴理当无。",
       "野老披荷叶，家童扫栗跗。",
       "竹林千户封，甘橘万头奴。",
-      "君见愚公谷，真言此谷愚。",
-      "【其十七】",
+      "君见愚公谷，真言此谷愚。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其十七",
+    "author": "庾信",
+    "paragraphs": [
       "日晚荒城上，苍茫馀落晖。",
       "都护楼兰返，将军疏勒归。",
       "马有风尘气，人多关塞衣。",
       "阵云平不动，秋蓬卷欲飞。",
-      "闻道楼船战，今年不解围。",
-      "【其十八】",
+      "闻道楼船战，今年不解围。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其十八",
+    "author": "庾信",
+    "paragraphs": [
       "寻思万户侯，中夜忽然愁。",
       "琴声遍屋里，书卷满床头。",
       "虽言梦蝴蝶，定自非庄周。",
       "残月如初月，新秋似旧秋。",
       "露泣连珠下，萤飘碎火流。",
-      "乐天乃知命，何时能不忧。",
-      "【其十九】",
+      "乐天乃知命，何时能不忧。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其十九",
+    "author": "庾信",
+    "paragraphs": [
       "愦愦天公晓，精神殊乏少。",
       "一郡催曙鸡，数处惊眠鸟。",
       "其觉乃于于，其忧惟悄悄。",
       "张仪称行薄，管仲称器小。",
-      "天下有情人，居然性灵夭。",
-      "【其二十】",
+      "天下有情人，居然性灵夭。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其二十",
+    "author": "庾信",
+    "paragraphs": [
       "在死犹可忍，为辱岂不宽。",
       "古人持此性，遂有不能安。",
       "其面虽可热，其心长自寒。",
@@ -5882,64 +6382,143 @@
       "拥节时驱传，乘亭不据鞍。",
       "代郡蓬初转，辽阳桑欲干。",
       "秋云粉絮结，白露水银团。",
-      "一思探禹穴，无用鏖皋兰。",
-      "【其二十一】",
+      "一思探禹穴，无用鏖皋兰。"
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其二十一",
+    "author": "庾信",
+    "paragraphs": [
       "倏忽市朝变，苍茫人事非。",
       "避谗应采葛，忘情遂食薇。",
       "怀愁正摇落，中心怆有违。",
-      "独怜生意尽，空惊槐树衰。",
-      "【其二十二】",
+      "独怜生意尽，空惊槐树衰。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其二十二",
+    "author": "庾信",
+    "paragraphs": [
       "日色临平乐，风光满上兰。",
       "南国美人去，东家枣树完。",
       "抱松伤别鹤，向镜绝孤鸾。",
-      "不言登陇首，唯得望长安。",
-      "【其二十三】",
+      "不言登陇首，唯得望长安。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其二十三",
+    "author": "庾信",
+    "paragraphs": [
       "斗麟能食日，战水定惊龙。",
       "鼓鞞喧七萃，风尘乱九重。",
       "鼎湖去无返，苍梧悲不从。",
-      "徒劳铜雀妓，遥望西陵松。",
-      "【其二十四】",
+      "徒劳铜雀妓，遥望西陵松。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其二十四",
+    "author": "庾信",
+    "paragraphs": [
       "无闷无不闷，有待何可待。",
       "昏昏如坐雾，漫漫疑行海。",
       "千年水未清，一代人先改。",
-      "昔日东陵侯，唯见瓜园在。",
-      "【其二十五】",
+      "昔日东陵侯，唯见瓜园在。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其二十五",
+    "author": "庾信",
+    "paragraphs": [
       "怀抱独惛惛，平生何所论。",
       "由来千种意，并是桃花源。",
       "榖皮两书帙，壶卢一酒樽。",
-      "自知费天下，也复何足言。",
-      "【其二十六】",
+      "自知费天下，也复何足言。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其二十六",
+    "author": "庾信",
+    "paragraphs": [
       "萧条亭障远，凄惨风尘多。",
       "关门临白狄，城影入黄河。",
       "秋风别苏武，寒水送荆轲。",
-      "谁言气盖世，晨起帐中歌。",
-      "【其二十七】",
+      "谁言气盖世，晨起帐中歌。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟咏怀诗二十七首·其二十七",
+    "author": "庾信",
+    "paragraphs": [
       "被甲阳云台，重云久未开。",
       "鸡鸣楚地尽，鹤唳秦军来。",
       "罗梁犹下礌，杨排久飞灰。",
       "出门车轴折，吾王不复回。"
     ],
     "format": {
-      "sentence_count": 301,
-      "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
-    "title": "重别周尚书诗二首",
+    "title": "重别周尚书诗二首·其一",
     "author": "庾信",
     "paragraphs": [
-      "【其一】",
       "阳关万里道，不见一人归。",
-      "唯有河边雁，秋来南向飞。",
-      "【其二】",
+      "唯有河边雁，秋来南向飞。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "重别周尚书诗二首·其二",
+    "author": "庾信",
+    "paragraphs": [
       "河桥两岸绝，横歧数路分。",
       "山川遥不见，怀袖远相闻。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [2, 5, 5, 5, 5, 2, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -5958,20 +6537,29 @@
     }
   },
   {
-    "title": "代人伤往诗二首",
+    "title": "代人伤往诗二首·其一",
     "author": "庾信",
     "paragraphs": [
-      "【其一】",
       "青田松上一黄鹤，相思树下两鸳鸯。",
-      "无事交渠更相失，不及从来莫作双。",
-      "【其二】",
+      "无事交渠更相失，不及从来莫作双。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "代人伤往诗二首·其二",
+    "author": "庾信",
+    "paragraphs": [
       "杂树本唯金谷苑，诸花旧满洛阳城。",
       "正是古来歌舞处，今日看时无地行。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [2, 7, 7, 7, 7, 2, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -6076,22 +6664,6 @@
       "桂亭花未落，桐门叶半疏。",
       "荷风惊浴鸟，桥影聚行鱼。",
       "日落含山气，云归带雨馀。"
-    ],
-    "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": 5
-    }
-  },
-  {
-    "title": "寻周处士弘让诗",
-    "author": "庾信",
-    "paragraphs": [
-      "试逐赤松游，披林对一丘。",
-      "梨红大谷晚，桂白小山秋。",
-      "石镜菱花发，桐门琴曲愁。",
-      "泉飞疑度雨，云积似重楼。",
-      "王孙若不去，山中定可留。"
     ],
     "format": {
       "sentence_count": 10,
@@ -6284,17 +6856,26 @@
     }
   },
   {
-    "title": "答外诗二首",
+    "title": "答外诗二首·其一",
     "author": "刘令娴",
     "paragraphs": [
-      "【其一】",
       "花庭丽景斜，兰牖轻风度。",
       "落日更新妆，开帘对春树。",
       "鸣鹂叶中舞，戏蝶花间骛。",
       "调琴本要欢，心愁不成趣。",
       "良会诚非远，佳期今不遇。",
-      "欲知幽怨多，春闺深且暮。",
-      "【其二】",
+      "欲知幽怨多，春闺深且暮。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "答外诗二首·其二",
+    "author": "刘令娴",
+    "paragraphs": [
       "东家挺奇丽，南国擅容辉。",
       "夜月方神女，朝霞喻洛妃。",
       "还看镜中色，比艳似知非。",
@@ -6302,9 +6883,9 @@
       "智夫虽已丽，倾城未敢希。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -6366,46 +6947,104 @@
     }
   },
   {
-    "title": "折杨柳歌辞",
+    "title": "折杨柳歌辞·其一",
     "author": "无名氏",
     "paragraphs": [
-      "【其一】",
       "上马不捉鞭，反折杨柳枝。",
-      "蹀座吹长笛，愁杀行客儿。",
-      "【其二】",
+      "蹀座吹长笛，愁杀行客儿。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "折杨柳歌辞·其二",
+    "author": "无名氏",
+    "paragraphs": [
       "腹中愁不乐，愿作郎马鞭。",
-      "出入擐郎臂，蹀座郎膝边。",
-      "【其三】",
+      "出入擐郎臂，蹀座郎膝边。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "折杨柳歌辞·其三",
+    "author": "无名氏",
+    "paragraphs": [
       "放马两泉泽，忘不著连羁。",
-      "担鞍逐马走，何见得马骑。",
-      "【其四】",
+      "担鞍逐马走，何见得马骑。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "折杨柳歌辞·其四",
+    "author": "无名氏",
+    "paragraphs": [
       "遥看孟津河，杨柳郁婆娑。",
-      "我是虏家儿，不解汉儿歌。",
-      "【其五】",
+      "我是虏家儿，不解汉儿歌。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "折杨柳歌辞·其五",
+    "author": "无名氏",
+    "paragraphs": [
       "健儿须快马，快马须健儿。",
       "跸跋黄尘下，然后别雄雌。"
     ],
     "format": {
-      "sentence_count": 25,
-      "sentence_lengths": [2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
-    "title": "陇头流水歌辞三首",
+    "title": "陇头流水歌辞三首·其一",
     "author": "无名氏",
     "paragraphs": [
-      "【其一】",
-      "陇头流水，流离山下。念吾一身，飘然旷野。",
-      "【其二】",
-      "朝发欣城，暮宿陇头。寒不能语，舌卷入喉。",
-      "【其三】",
+      "陇头流水，流离山下。念吾一身，飘然旷野。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [4, 4, 4, 4],
+      "uniform_sentence_length": 4
+    }
+  },
+  {
+    "title": "陇头流水歌辞三首·其二",
+    "author": "无名氏",
+    "paragraphs": [
+      "朝发欣城，暮宿陇头。寒不能语，舌卷入喉。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [4, 4, 4, 4],
+      "uniform_sentence_length": 4
+    }
+  },
+  {
+    "title": "陇头流水歌辞三首·其三",
+    "author": "无名氏",
+    "paragraphs": [
       "陇头流水，鸣声幽咽。遥望秦川，心肝断绝。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [2, 4, 4, 4, 4, 2, 4, 4, 4, 4, 2, 4, 4, 4, 4],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [4, 4, 4, 4],
+      "uniform_sentence_length": 4
     }
   },
   {
@@ -6684,20 +7323,29 @@
     }
   },
   {
-    "title": "采莲童曲",
+    "title": "采莲童曲·其一",
     "author": "无名氏",
     "paragraphs": [
-      "【其一】",
       "泛舟采菱叶，过摘芙蓉花。",
-      "扣楫命童侣，齐声采莲歌。",
-      "【其二】",
+      "扣楫命童侣，齐声采莲歌。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "采莲童曲·其二",
+    "author": "无名氏",
+    "paragraphs": [
       "东湖扶菰童，西湖采菱芰。",
       "不持歌作乐，为持解愁思。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [2, 5, 5, 5, 5, 2, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -7163,55 +7811,93 @@
     }
   },
   {
-    "title": "拟古四首",
+    "title": "拟古四首·其一·陌上桑",
     "author": "吴均",
     "paragraphs": [
-      "【其一·陌上桑】",
       "袅袅陌上桑，荫陌复垂塘。",
       "长条映白日，细叶隐鹂黄。",
       "蚕饥妾复思，拭泪且提筐。",
-      "故人宁知此，离恨煎人肠。",
-      "【其二·秦王卷衣】",
+      "故人宁知此，离恨煎人肠。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟古四首·其二·秦王卷衣",
+    "author": "吴均",
+    "paragraphs": [
       "咸阳春草芳，秦帝卷衣裳。",
       "玉检茱萸匣，金泥苏合香。",
       "初芳薰复帐，馀辉耀玉床。",
-      "当须晏朝罢，持此赠华阳。",
-      "【其三·采莲曲】",
+      "当须晏朝罢，持此赠华阳。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟古四首·其三·采莲曲",
+    "author": "吴均",
+    "paragraphs": [
       "锦带杂花钿，罗衣垂绿川。",
       "问子今何去，出采江南莲。",
       "辽西三千里，欲寄无因缘。",
-      "愿君早旋返，及此荷花鲜。",
-      "【其四·携手曲】",
+      "愿君早旋返，及此荷花鲜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟古四首·其四·携手曲",
+    "author": "吴均",
+    "paragraphs": [
       "艳裔阳之春，携手清洛滨。",
       "鸡鸣上林苑，薄暮小平津。",
       "长裾藻白日，广袖带芳尘。",
       "故交一如此，新知讵忆人。"
     ],
     "format": {
-      "sentence_count": 36,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
-    "title": "赠周散骑兴嗣诗二首",
+    "title": "赠周散骑兴嗣诗二首·其一",
     "author": "吴均",
     "paragraphs": [
-      "【其一】",
       "子云好饮酒，家在成都县。",
       "制赋已百篇，弹琴复千转。",
       "敬通不富豪，相如本贫贱。",
-      "共作失职人，包山一相见。",
-      "【其二】",
+      "共作失职人，包山一相见。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "赠周散骑兴嗣诗二首·其二",
+    "author": "吴均",
+    "paragraphs": [
       "昔贤当路者，声名振华夏。",
       "朱轮玳瑁牛，紫鞚连钱马。",
       "朝花舞风去，夜月窥窗下。",
       "想君贵易朋，居然应见舍。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -7313,30 +7999,59 @@
     }
   },
   {
-    "title": "杂体诗三十首",
+    "title": "杂体诗三十首·古离别",
     "author": "江淹",
     "paragraphs": [
-      "【古离别】",
       "远与君别者。乃至雁门关。",
       "黄云蔽千里。游子何时还。",
       "送君如昨日。檐前露已团。",
       "不惜蕙草晚。所悲道里寒。",
       "君在天一涯。妾身长别离。",
       "愿一见颜色。不及其琼树枝。",
-      "菟丝及水萍。所寄终不移。",
-      "【李都尉陵从军】",
+      "菟丝及水萍。所寄终不移。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "杂体诗三十首·李都尉陵从军",
+    "author": "江淹",
+    "paragraphs": [
       "樽酒送征人。踟蹰在亲神女。",
       "日暮浮云滋。握手泪如霰。",
       "悠悠清水川。嘉鲂得所荐。",
       "而我在万里。结友不相见。",
-      "袖中有短书。愿寄双飞燕。",
-      "【班婕妤咏扇】",
+      "袖中有短书。愿寄双飞燕。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 6, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "杂体诗三十首·班婕妤咏扇",
+    "author": "江淹",
+    "paragraphs": [
       "纨扇如团月。出自机中素。",
       "画作秦王女。乘鸾向烟雾。",
       "彩色世所重。虽新不代故。",
       "窃愁凉风至。吹我玉阶树。",
-      "君子恩未毕。零落在中路。",
-      "【魏文帝曹丕游宴】",
+      "君子恩未毕。零落在中路。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·魏文帝曹丕游宴",
+    "author": "江淹",
+    "paragraphs": [
       "置酒坐飞阁。逍遥临华池。",
       "神飚自远至。左右芙蓉披。",
       "绿竹夹清水。秋兰被组崖。",
@@ -7345,8 +8060,18 @@
       "渊鱼犹伏浦。听者未云罢。",
       "高文一何绮。小儒安足为。",
       "肃肃广殿阴。雀声愁北林。",
-      "众宾还城邑。何用慰我心。",
-      "【陈思王曹植赠友】",
+      "众宾还城邑。何用慰我心。"
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·陈思王曹植赠友",
+    "author": "江淹",
+    "paragraphs": [
       "君王礼英贤。不吝千金璧。",
       "双阙指驰道。朱宫罗第宅。",
       "从容冰井台。清池映华薄。",
@@ -7355,16 +8080,36 @@
       "褰裳摘明珠。徙倚拾蕙若。",
       "眷我二三子。辞义丽金雘。",
       "延陵轻宝剑。季布重然诺。",
-      "处富不忘贫。有道在葵藿。",
-      "【刘文学桢感怀】",
+      "处富不忘贫。有道在葵藿。"
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·刘文学桢感怀",
+    "author": "江淹",
+    "paragraphs": [
       "苍苍山中桂。团团霜露色。",
       "霜露一何紧。桂枝生自直。",
       "橘柚在南国。因君为羽翼。",
       "谬蒙圣主私。托身文墨职。",
       "丹彩既已过。敢不自雕饰。",
       "华月照芳池。列坐金殿侧。",
-      "微臣固受赐。鸿恩良未测。",
-      "【王侍中粲怀德】",
+      "微臣固受赐。鸿恩良未测。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·王侍中粲怀德",
+    "author": "江淹",
+    "paragraphs": [
       "伊昔值世乱。秣马辞帝京。",
       "既伤蔓草别。方知枤杜情。",
       "崤函荡丘墟。冀阙缅纵横。",
@@ -7376,8 +8121,18 @@
       "侍宴出河曲。飞盖游邺城。",
       "朝露竟几何。忽如水上萍。",
       "君子笃恩义。柯叶终不倾。",
-      "福履既所绥。千载垂令名。",
-      "【嵇中散康言志】",
+      "福履既所绥。千载垂令名。"
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·嵇中散康言志",
+    "author": "江淹",
+    "paragraphs": [
       "曰余不师训。潜志去世尘。",
       "远想出宏域。高步超常伦。",
       "灵凤振羽仪。戢景西海滨。",
@@ -7386,21 +8141,51 @@
       "旷哉宇宙惠。云罗更四陈。",
       "哲人贵识义。大雅明庇身。",
       "庄生悟无为。孙登庶知人。",
-      "写怀良未远。感赠以书绅。",
-      "【阮步兵籍咏怀】",
+      "写怀良未远。感赠以书绅。"
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·阮步兵籍咏怀",
+    "author": "江淹",
+    "paragraphs": [
       "青鸟海上游。鷽斯蒿下飞。",
       "浮沉不相宜。羽翼各有归。",
       "飘飘可终年。沆瀁安是非。",
       "朝云乘变化。光耀世所希。",
-      "精卫衔木石。谁能测幽微。",
-      "【张司空华离情】",
+      "精卫衔木石。谁能测幽微。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·张司空华离情",
+    "author": "江淹",
+    "paragraphs": [
       "秋月映帘栊。悬光入丹墀。",
       "佳人抚鸣琴。清夜守空帷。",
       "兰径少行迹。玉台生网丝。",
       "庭树发红彩。闺草含碧滋。",
       "延伫整绫绮。万里赠所思。",
-      "愿垂湛露惠。信我皎日期。",
-      "【潘黄门岳述哀】",
+      "愿垂湛露惠。信我皎日期。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·潘黄门岳述哀",
+    "author": "江淹",
+    "paragraphs": [
       "青春速天机。素秋驰白日。",
       "美人归重泉。凄怆无终毕。",
       "殡宫已肃清。松柏转萧瑟。",
@@ -7412,8 +8197,18 @@
       "我惭北海术。尔无帝女灵。",
       "驾言出远山。徘徊泣松铭。",
       "雨绝无还云。华落岂留英。",
-      "日月方代序。寝兴何时平。",
-      "【陆平原机羁宦】",
+      "日月方代序。寝兴何时平。"
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·陆平原机羁宦",
+    "author": "江淹",
+    "paragraphs": [
       "储后降嘉命。恩纪被微身。",
       "明发眷桑梓。永叹怀密亲。",
       "流念辞南澨。衔怨别西津。",
@@ -7424,8 +8219,18 @@
       "日暮聊总驾。逍遥观洛川。",
       "殂殁多拱木。宿草凌寒烟。",
       "游子易感慨。踯躅还自怜。",
-      "愿言寄三鸟。离思非徒然。",
-      "【左记室思咏史】",
+      "愿言寄三鸟。离思非徒然。"
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·左记室思咏史",
+    "author": "江淹",
+    "paragraphs": [
       "韩公沦卖药。梅生隐市门。",
       "百年信荏苒。何为苦心魂。",
       "当学卫霍将。建功在河源。",
@@ -7434,16 +8239,36 @@
       "金张服貂冕。许史乘华轩。",
       "王侯贵片议。公卿重一言。",
       "太平多欢娱。飞盖东都门。",
-      "顾念张仲蔚。蓬蒿满中园。",
-      "【张黄门协苦雨】",
+      "顾念张仲蔚。蓬蒿满中园。"
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·张黄门协苦雨",
+    "author": "江淹",
+    "paragraphs": [
       "丹霞蔽阳景。绿泉涌阴渚。",
       "水鹳巢层甍。山云润柱础。",
       "有弇兴春节。愁霖贯秋序。",
       "燮燮凉叶夺。戾戾飔风举。",
       "高谈玩四时。索居慕俦侣。",
       "青苕日夜黄。芳蕤成宿楚。",
-      "岁暮百虑交。无以慰延伫。",
-      "【刘太尉琨伤乱】",
+      "岁暮百虑交。无以慰延伫。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·刘太尉琨伤乱",
+    "author": "江淹",
+    "paragraphs": [
       "皇晋遘阳九。天下横氛雾。",
       "秦赵值薄蚀。幽并逢虎据。",
       "伊余荷宠灵。感激狥驰骛。",
@@ -7455,8 +8280,18 @@
       "千里何萧条。白日隐寒树。",
       "投袂既愤懑。抚枕怀百虑。",
       "功名惜未立。玄发已改素。",
-      "时哉苟有会。治乱惟冥数。",
-      "【卢郎中谌感交】",
+      "时哉苟有会。治乱惟冥数。"
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·卢郎中谌感交",
+    "author": "江淹",
+    "paragraphs": [
       "大厦须异材。廊庙非庸器。",
       "英俊着世功。多士济斯位。",
       "眷顾成绸缪。乃与时髦匹。",
@@ -7468,16 +8303,36 @@
       "慨无握中策。徒惭素丝质。",
       "羁旅去旧京。感遇逾琴瑟。",
       "自顾非杞梓。勉力在无逸。",
-      "更以畏友册。滥吹乖名实。",
-      "【郭弘农璞游仙】",
+      "更以畏友册。滥吹乖名实。"
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·郭弘农璞游仙",
+    "author": "江淹",
+    "paragraphs": [
       "崦山多灵草。海滨饶奇石。",
       "偃蹇寻青云。隐沦驻精魄。",
       "道人读丹经。方士炼玉液。",
       "朱霞入窗牖。曜灵照空隙。",
       "傲睨摘木芝。陵波采水碧。",
       "眇然万里游。矫掌望烟客。",
-      "永得安期术。岂愁蒙汜迫。",
-      "【孙廷尉绰杂述】",
+      "永得安期术。岂愁蒙汜迫。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·孙廷尉绰杂述",
+    "author": "江淹",
+    "paragraphs": [
       "太素既已分。吹万着形兆。",
       "寂动苟有源。因谓殇子夭。",
       "道丧涉千载。津梁谁能了。",
@@ -7488,8 +8343,18 @@
       "领略归一致。南山有绮皓。",
       "交臂久变化。传火乃薪草。",
       "亹亹玄思清。胸中去机巧。",
-      "物我俱忘怀。可以狎鸥鸟。",
-      "【许征君询自叙】",
+      "物我俱忘怀。可以狎鸥鸟。"
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "杂体诗三十首·许征君询自叙",
+    "author": "江淹",
+    "paragraphs": [
       "张子闇内机。单生蔽外象。",
       "一时排冥筌。冷然空中赏。",
       "遣此弱丧情。资神任独往。",
@@ -7499,16 +8364,36 @@
       "曲棂激鲜飚。石室有幽响。",
       "去矣从所欲。得失非外奖。",
       "至哉操斤客。重明固已朗。",
-      "五难既洒落。超迹绝尘网。",
-      "【殷东阳仲文兴瞩】",
+      "五难既洒落。超迹绝尘网。"
+    ],
+    "format": {
+      "sentence_count": 20,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·殷东阳仲文兴瞩",
+    "author": "江淹",
+    "paragraphs": [
       "晨游任所萃。悠悠蕴真趣。",
       "云天亦辽亮。时与赏心遇。",
       "青松挺秀萼。惠色出乔树。",
       "极眺清波深。缅映石壁素。",
       "莹情无余滓。拂衣释尘务。",
       "求仁既自我。玄风岂外慕。",
-      "直置忘所宰。萧散得遗虑。",
-      "【谢仆射混游览】",
+      "直置忘所宰。萧散得遗虑。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·谢仆射混游览",
+    "author": "江淹",
+    "paragraphs": [
       "信矣劳物化。忧襟未能整。",
       "薄言遵郊衢。总辔出台省。",
       "凄凄节序高。寥寥心悟永。",
@@ -7516,15 +8401,35 @@
       "眷然惜良辰。徘徊践落景。",
       "卷舒虽万绪。动复归有静。",
       "曾是迫桑榆。岁暮从所秉。",
-      "舟壑不可攀。忘怀寄匠郢。",
-      "【陶征君潜田居】",
+      "舟壑不可攀。忘怀寄匠郢。"
+    ],
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·陶征君潜田居",
+    "author": "江淹",
+    "paragraphs": [
       "种苗在东皋。苗生满阡陌。",
       "虽有荷锄倦。浊酒聊自适。",
       "日暮巾柴车。路闇光已夕归人望烟火。",
       "稚子候檐隙。问君亦何为。",
       "百年会有役。但愿桑麻成。",
-      "蚕月得纺绩。素心正如此。开径望王益。",
-      "【谢临川灵运游山】",
+      "蚕月得纺绩。素心正如此。开径望王益。"
+    ],
+    "format": {
+      "sentence_count": 13,
+      "sentence_lengths": [5, 5, 5, 5, 5, 10, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "杂体诗三十首·谢临川灵运游山",
+    "author": "江淹",
+    "paragraphs": [
       "江海经邅回。山峤备盈缺。",
       "灵境信淹留。赏心非徒设。",
       "平明登云峰。杳与庐霍绝。",
@@ -7538,8 +8443,18 @@
       "幸游建德乡观奇经禹穴。",
       "身名竟谁辨。国史终磨灭。",
       "且泛桂水潮。映月游海澨。",
-      "摄生贵处顺。将为智者说。",
-      "【颜特进延之侍宴】",
+      "摄生贵处顺。将为智者说。"
+    ],
+    "format": {
+      "sentence_count": 27,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 10, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "杂体诗三十首·颜特进延之侍宴",
+    "author": "江淹",
+    "paragraphs": [
       "太微凝帝宇。瑶光正神县。",
       "揆日粲书史。相都丽闻见。",
       "列汉构仙宫。开天制宝殿。",
@@ -7553,8 +8468,18 @@
       "礼登伫睿情。乐阕延皇眄。",
       "测恩跻逾逸。㳂牒懵浮贱。",
       "承荣重兼金。巡华过盈瑱。",
-      "敢饰舆人咏。方惭渌水荐。",
-      "【谢法曹惠连赠别】",
+      "敢饰舆人咏。方惭渌水荐。"
+    ],
+    "format": {
+      "sentence_count": 28,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·谢法曹惠连赠别",
+    "author": "江淹",
+    "paragraphs": [
       "昨发赤亭渚。今宿浦阳汭。",
       "方作云峰异。岂伊千里别。",
       "芳尘未歇席。零泪犹在袂。",
@@ -7571,16 +8496,36 @@
       "无陈心悁劳。旅人岂游遨。",
       "幸及风雪霁。青春满江皋。",
       "解缆候前侣。还望方郁陶。",
-      "烟景若离远。未响寄琼瑶。",
-      "【王征君微养疾】",
+      "烟景若离远。未响寄琼瑶。"
+    ],
+    "format": {
+      "sentence_count": 34,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "杂体诗三十首·王征君微养疾",
+    "author": "江淹",
+    "paragraphs": [
       "窈蔼潇湘空。翠涧澹无滋。",
       "寂历百草晦。歘吸鹍鸡悲。",
       "清阴往来远。月华散前墀。",
       "炼药瞩虚幌。汛瑟卧遥帷。",
       "水碧验未黩。金膏灵讵缁。",
       "北渚有帝子。荡瀁不可期。",
-      "怅然山中暮。怀疴属此诗。",
-      "【袁太尉淑从驾】",
+      "怅然山中暮。怀疴属此诗。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·袁太尉淑从驾",
+    "author": "江淹",
+    "paragraphs": [
       "宫庙礼哀敬。枌邑道严玄。",
       "恭洁由明祀肃驾在祈年。",
       "诏徒登季月。戒凤藻行川。",
@@ -7592,8 +8537,18 @@
       "文轸薄桂海。声教烛冰天。",
       "和惠颁上笏。恩渥浃下筵。",
       "幸侍观洛后。岂慕巡河前。",
-      "服义方无沬。展歌殊未宣。",
-      "【谢光禄庄郊游】",
+      "服义方无沬。展歌殊未宣。"
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [5, 5, 10, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "杂体诗三十首·谢光禄庄郊游",
+    "author": "江淹",
+    "paragraphs": [
       "肃舲出郊际。徙乐逗江阴。",
       "翠山方蔼蔼。青浦正沉沉。",
       "凉叶照沙屿。秋荣冒水浔。",
@@ -7602,8 +8557,18 @@
       "气清知雁引。露华识猨首。",
       "云装信解黻。烟驾可辞金。",
       "始觌紫芳心。",
-      "行光自容裔。无使弱思侵。",
-      "【鲍参军昭戎行】",
+      "行光自容裔。无使弱思侵。"
+    ],
+    "format": {
+      "sentence_count": 17,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·鲍参军昭戎行",
+    "author": "江淹",
+    "paragraphs": [
       "豪士枉尺璧。宵人重恩光。",
       "狥义非为利。执羁轻去乡。",
       "孟冬郊祀月。杀气起严霜。",
@@ -7613,8 +8578,18 @@
       "息徒税征驾。倚剑临八荒。",
       "鹪鹏不能飞。玄武伏川梁。",
       "铩翮由时至。感物聊自伤。",
-      "竖儒守一经。未足识行藏。",
-      "【休上人怨别】",
+      "竖儒守一经。未足识行藏。"
+    ],
+    "format": {
+      "sentence_count": 20,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杂体诗三十首·休上人怨别",
+    "author": "江淹",
+    "paragraphs": [
       "西北秋风至。楚客心悠哉。",
       "日暮碧云合。佳人殊未来。",
       "露彩方泛艳。月华始徘徊。",
@@ -7624,9 +8599,9 @@
       "桂水日千里。因心平生怀。"
     ],
     "format": {
-      "sentence_count": 580,
-      "sentence_lengths": [3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 6, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 10, 5, 5, 5, 5, 5, 5, 5, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 10, 5, 5, 5, 5, 5, 5, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 10, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -7644,103 +8619,242 @@
     }
   },
   {
-    "title": "效阮公诗十五首",
+    "title": "效阮公诗十五首·其一",
     "author": "江淹",
     "paragraphs": [
-      "【其一】",
       "岁暮怀感伤，中夕弄清琴。",
       "戾戾曙风急，团团明月阴。",
       "孤云出北山，宿鸟惊东林。",
       "谁谓人道广，忧慨自相寻。",
-      "宁知霜雪后，独见松竹心。",
-      "【其二】",
+      "宁知霜雪后，独见松竹心。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效阮公诗十五首·其二",
+    "author": "江淹",
+    "paragraphs": [
       "十年学读书，颜华尚美好。",
       "不逐世间人，斗鸡东郊道。",
       "富贵如浮云，金玉不为宝。",
       "一旦鹈鴂鸣，严霜被劲草。",
-      "志气多感失，泪下沾怀抱。",
-      "【其三】",
+      "志气多感失，泪下沾怀抱。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效阮公诗十五首·其三",
+    "author": "江淹",
+    "paragraphs": [
       "白露淹庭树，秋风吹罗衣。",
       "忠信主不合，辞意将诉谁。",
       "独坐东轩下，鸡鸣夜已晞。",
       "总驾命宾仆，遵路起旋归。",
-      "天命谁能见，人踪信可疑。",
-      "【其四】",
+      "天命谁能见，人踪信可疑。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效阮公诗十五首·其四",
+    "author": "江淹",
+    "paragraphs": [
       "飘飘恍惚中，是非安所之。",
       "大道常不验，金火每如斯。",
       "慷慨少淑貌，便娟多令辞。",
       "宿昔秉心誓，灵明将见期。",
-      "愿从丹丘驾，长弄华池滋。",
-      "【其五】",
+      "愿从丹丘驾，长弄华池滋。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效阮公诗十五首·其五",
+    "author": "江淹",
+    "paragraphs": [
       "阴阳不可知，鬼神惟杳冥。",
       "暂试武帝貌，一见李后灵。",
       "同情沦异物，有体入无形。",
       "贤圣共草昧，仁智焉足明。",
-      "变化未有极，恍惚谁能精。",
-      "【其六】",
+      "变化未有极，恍惚谁能精。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效阮公诗十五首·其六",
+    "author": "江淹",
+    "paragraphs": [
       "若木出海外，本自丹水阴。",
       "群帝共上下，鸾鸟相追寻。",
       "千龄犹旦夕，万世更浮沉。",
-      "岂与异乡士，瑜瑕论浅深。",
-      "【其七】",
+      "岂与异乡士，瑜瑕论浅深。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效阮公诗十五首·其七",
+    "author": "江淹",
+    "paragraphs": [
       "夏后乘两龙，高会在帝台。",
       "荣光河雒出，白云苍梧来。",
       "侍御多贤圣，升降有群才。",
       "四时有变化，盛明不徘徊。",
-      "高阳邈已远，伫立谁语哉。",
-      "【其八】",
+      "高阳邈已远，伫立谁语哉。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效阮公诗十五首·其八",
+    "author": "江淹",
+    "paragraphs": [
       "昔余登大梁，西南望洪河。",
       "时寒原野旷，风急霜露多。",
       "仲冬正惨切，日月少精华。",
       "落叶纵横起，飞鸟时相过。",
       "搔首广川阴，怀归思如何。",
-      "常愿反初服，闲步颍水阿。",
-      "【其九】",
+      "常愿反初服，闲步颍水阿。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效阮公诗十五首·其九",
+    "author": "江淹",
+    "paragraphs": [
       "宵月辉西极，女圭映东海。",
       "佳丽多异色，芬葩有奇采。",
       "绮缟非无情，光阴命谁待。",
       "不与风雨变，长共山川在。",
-      "人道则不然，消散随风改。",
-      "【其十】",
+      "人道则不然，消散随风改。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效阮公诗十五首·其十",
+    "author": "江淹",
+    "paragraphs": [
       "少年学击剑，从师至幽州。",
       "燕赵兵马地，唯见古时丘。",
       "登城望山水，平原独悠悠。",
-      "寒暑有往来，功名安可留。",
-      "【其十一】",
+      "寒暑有往来，功名安可留。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效阮公诗十五首·其十一",
+    "author": "江淹",
+    "paragraphs": [
       "扰扰当途子，毁誉多埃尘。",
       "朝生舆马间，夕死衢路滨。",
       "藜藿应见弃，势位乃为亲。",
       "华屋争结绶，朱门竞弹巾。",
       "徒羡草木利，不爱金碧身。",
-      "至德所以贵，河上有丈人。",
-      "【其十二】",
+      "至德所以贵，河上有丈人。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效阮公诗十五首·其十二",
+    "author": "江淹",
+    "paragraphs": [
       "华树曜北林，芬芳空自宣。",
       "秋至白云起，蟪蛄号庭前。",
       "中心有所思，虚堂独浩然。",
-      "安坐咏琴瑟，逍遥可永年。",
-      "【其十三】",
+      "安坐咏琴瑟，逍遥可永年。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效阮公诗十五首·其十三",
+    "author": "江淹",
+    "paragraphs": [
       "假乘试行游，北望高山岑。",
       "翩翩征鸟翼，萧萧松柏阴。",
       "感时多辛酸，览物更伤心。",
       "性命有定理，祸福不可禁。",
-      "唯见云际鹄，江海自追寻。",
-      "【其十四】",
+      "唯见云际鹄，江海自追寻。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效阮公诗十五首·其十四",
+    "author": "江淹",
+    "paragraphs": [
       "夕云映西山，蟋蟀吟桑梓。",
       "零露被百草，秋风吹桃李。",
       "君子怀苦心，感慨不能止。",
       "驾言远行游，驱马清河涘。",
       "寒暑更进退，金石有终始。",
-      "光色俯仰间，英艳难久恃。",
-      "【其十五】",
+      "光色俯仰间，英艳难久恃。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效阮公诗十五首·其十五",
+    "author": "江淹",
+    "paragraphs": [
       "至人贵无为，裁魂守寂寥。",
       "唯有驰骛士，风尘在一朝。",
       "舆马相跨跃，宾从共矜骄。",
       "天道好盈缺，春华故秋凋。"
     ],
     "format": {
-      "sentence_count": 163,
-      "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -7762,10 +8876,9 @@
     }
   },
   {
-    "title": "杂三言五首",
+    "title": "杂三言五首·其一·构象台",
     "author": "江淹",
     "paragraphs": [
-      "【其一 · 构象台】",
       "曰上妙兮道之精，道之精兮俗为名。",
       "名可宗兮圣风立，立圣风兮兹教生。",
       "写经记兮记图刹，画影象兮在丹青。",
@@ -7781,103 +8894,18 @@
       "苔藓生兮绕石户，莲花舒兮绣池梁。",
       "伊日月之寂寂，无人音与马迹。",
       "耽禅情于云迳，守息心于端石。",
-      "永结意于鹫山。长憔悴而不惜。",
-      "【其二 · 访道经】",
-      "百学兮异文。锦派兮绮分。",
-      "珍君之言兮皦无际，悦子之道兮迥不群。",
-      "澹深韵于白水，俨高意于浮云。",
-      "轨贤豪于后学，轶望识于前文。",
-      "兹道兮可传，可传兮皓然。",
-      "挟兹心兮赴绝国，怀此书兮坐空山。",
-      "空山隐辚兮穷翠崿，水散漫兮涵素壑。",
-      "海外阴兮气昙昙，江上月兮光灼灼。",
-      "东南出兮是一山，西北来兮乃双鹤。",
-      "池中莲兮十色红，窗前树兮万叶落。",
-      "四壁深兮乃泬㵳，左右虚兮如寂寞。",
-      "寂寞兮山室，德经兮道袠。",
-      "荡魂兮刷气，掩忧兮静疾。",
-      "信若人兮先觉，聊与子兮如一。",
-      "【其三 · 镜论语】",
-      "巡青史之残诰，览朱管之遗册。",
-      "惟鲁滨之一叟，信衔道而探寂。",
-      "世艰险而多阻，君英明而不革。",
-      "讲业兮齐卫，论精兮汴泗。",
-      "子之说兮义已秘，成贾郑之雄理。可黄何之壮思。",
-      "惜古人之取才，瞰青云而靖意。",
-      "意恬怅兮有端，才嶒峻兮可观。",
-      "宪妫禹而折法，袭仁谊而求安。",
-      "不嬿婉于戚施，宁踸踔于马兰。",
-      "俾后生之庶士，鉴明德之音翰。",
-      "惟山中兮寂寞，沉忧思兮无从。",
-      "石红青兮百叠，山浓淡兮万重。",
-      "日下兮□□，月出兮铜峰。",
-      "竹色兮拂户，水气兮绕窗。",
-      "味哲人之遗珍，折片句兮忘老。",
-      "嘉石门之埋名，怜柳子之沈道。",
-      "书吴伯于衣袖，镂颜子于心抱。",
-      "筹出处之叔仲，酌言默之多少。",
-      "若妙行与上灵，非积学之所绍。",
-      "至游夏以升降，幸砥心而勿夭。",
-      "【其四 · 悦曲池】",
-      "北山兮黛柏，南江兮頳石。",
-      "頳峰兮若虹，黛树兮如昼。",
-      "暮云兮十里，朝霞兮千尺。",
-      "千尺兮绵绵，青气兮往旋。",
-      "桐之叶兮蔽日，桂之枝兮刺天。",
-      "百谷多兮泻乱波，杂磵饶兮鹜丛泉。",
-      "竟长洲兮匝东岛，萦曲屿兮绕西山。",
-      "山峦岏兮水环合，水环合兮石重沓。",
-      "林中电兮雨冥冥，江上风兮木飒飒。",
-      "盟清冷兮适潺湲，白云起兮吊石莲。",
-      "客子思兮心断绝，心断绝兮愁无闲。",
-      "步东池兮夜未艾，卧西窗兮月向山。",
-      "引一息于魂内，扰百绪于眼前。",
-      "意春兰与秋若，愿不绝于江边。",
-      "【其五 · 爱远山】",
-      "伯鸾兮已远，名山兮不返。",
-      "逮绀草之可结，及朱华之未晚。",
-      "緤余马于椒阿，漾余舟于沙衍。",
-      "临星朏兮树暗，看日烁兮霞浅。",
-      "浅霞兮驳云，一合兮一分。",
-      "映壑兮为饰，缀涧兮成文。",
-      "碧色兮婉转，丹秀兮芬蒀。",
-      "深林寂以窈窈，上猨狖之所群。",
-      "群猨兮聒山，大林兮蔽天。",
-      "枫岫兮筠岭，兰畹兮芝田。",
-      "紫蒲兮光水，红荷兮艳泉。",
-      "香枝兮嫩叶，翡累兮翠叠。",
-      "非郢路之辽远，实寸忧之相接。",
-      "欷美人于心底，愿山与川之可涉。",
-      "若溘死于汀潭，哀时命而自惬。"
+      "永结意于鹫山，长憔悴而不惜。"
     ],
     "format": {
-      "sentence_count": 164,
-      "sentence_lengths": [5, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6, 6, 6, 5, 5, 5, 5, 6, 6, 7, 7, 6, 6, 6, 6, 6, 6, 5, 5, 5, 8, 8, 6, 6, 6, 6, 5, 5, 7, 7, 8, 7, 7, 7, 7, 7, 7, 7, 7, 7, 5, 5, 5, 5, 6, 6, 5, 6, 6, 6, 6, 6, 6, 5, 5, 7, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 3, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6, 5, 5, 5, 6, 6, 6, 6, 6, 6, 5, 5, 5, 5, 5, 5, 6, 6, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 7, 6, 6],
+      "sentence_count": 32,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6, 6, 6, 5, 5, 5, 5, 6, 6, 7, 7, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": null
     }
   },
   {
-    "title": "杂三言五首",
+    "title": "杂三言五首·其二·访道经",
     "author": "江淹",
     "paragraphs": [
-      "【其一 · 构象台】",
-      "曰上妙兮道之精，道之精兮俗为名。",
-      "名可宗兮圣风立，立圣风兮兹教生。",
-      "写经记兮记图刹，画影象兮在丹青。",
-      "起净法兮出西海，流梵音兮至索溟。",
-      "网紫宙兮洽万品，冠璇寓兮济群生。",
-      "余汩阻兮至南国，迹已徂兮心未扃。",
-      "立孤台兮山岫，架半室兮江汀。",
-      "累青杉于涧构，积红石于林棂。",
-      "云八重兮七色，山十影兮九形。",
-      "金灯兮江篱，环轩兮匝池。",
-      "相思兮豫章，戴雪兮抱霜。",
-      "栽异木而同秀，钟杂草而一香。",
-      "苔藓生兮绕石户，莲花舒兮绣池梁。",
-      "伊日月之寂寂，无人音与马迹。",
-      "耽禅情于云迳，守息心于端石。",
-      "永结意于鹫山，长憔悴而不惜。",
-      "【其二 · 访道经】",
       "百学兮异文，锦派兮绮分。",
       "珍君之言兮皦无际，悦子之道兮迥不群。",
       "澹深韵于白水，俨高意于浮云。",
@@ -7891,29 +8919,18 @@
       "四壁深兮乃泬㵳，左右虚兮如寂寞。",
       "寂寞兮山室，德经兮道袠。",
       "荡魂兮刷气，掩忧兮静疾。",
-      "信若人兮先觉，聊与子兮如一。",
-      "【其三 · 镜论语】",
-      "巡青史之残诰，览朱管之遗册。",
-      "惟鲁滨之一叟，信衔道而探寂。",
-      "世艰险而多阻，君英明而不革。",
-      "讲业兮齐卫，论精兮汴泗。",
-      "子之说兮义已秘，成贾郑之雄理，可黄何之壮思。",
-      "惜古人之取才，瞰青云而靖意。",
-      "意恬怅兮有端，才嶒峻兮可观。",
-      "宪妫禹而折法，袭仁谊而求安。",
-      "不嬿婉于戚施，宁踸踔于马兰。",
-      "俾后生之庶士，鉴明德之音翰。",
-      "惟山中兮寂寞，沉忧思兮无从。",
-      "石红青兮百叠，山浓淡兮万重。",
-      "日下兮□□，月出兮铜峰。",
-      "竹色兮拂户，水气兮绕窗。",
-      "味哲人之遗珍，折片句兮忘老。",
-      "嘉石门之埋名，怜柳子之沈道。",
-      "书吴伯于衣袖，镂颜子于心抱。",
-      "筹出处之叔仲，酌言默之多少。",
-      "若妙行与上灵，非积学之所绍。",
-      "至游夏以升降，幸砥心而勿夭。",
-      "【其四 · 悦曲池】",
+      "信若人兮先觉，聊与子兮如一。"
+    ],
+    "format": {
+      "sentence_count": 28,
+      "sentence_lengths": [5, 5, 8, 8, 6, 6, 6, 6, 5, 5, 7, 7, 8, 7, 7, 7, 7, 7, 7, 7, 7, 7, 5, 5, 5, 5, 6, 6],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "杂三言五首·其四·悦曲池",
+    "author": "江淹",
+    "paragraphs": [
       "北山兮黛柏，南江兮頳石。",
       "頳峰兮若虹，黛树兮如昼。",
       "暮云兮十里，朝霞兮千尺。",
@@ -7927,8 +8944,18 @@
       "客子思兮心断绝，心断绝兮愁无闲。",
       "步东池兮夜未艾，卧西窗兮月向山。",
       "引一息于魂内，扰百绪于眼前。",
-      "意春兰与秋若，愿不绝于江边。",
-      "【其五 · 爱远山】",
+      "意春兰与秋若，愿不绝于江边。"
+    ],
+    "format": {
+      "sentence_count": 28,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "杂三言五首·其五·爱远山",
+    "author": "江淹",
+    "paragraphs": [
       "伯鸾兮已远，名山兮不返。",
       "逮绀草之可结，及朱华之未晚。",
       "緤余马于椒阿，漾余舟于沙衍。",
@@ -7946,70 +8973,159 @@
       "若溘死于汀潭，哀时命而自惬。"
     ],
     "format": {
-      "sentence_count": 164,
-      "sentence_lengths": [5, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6, 6, 6, 5, 5, 5, 5, 6, 6, 7, 7, 6, 6, 6, 6, 6, 6, 5, 5, 5, 8, 8, 6, 6, 6, 6, 5, 5, 7, 7, 8, 7, 7, 7, 7, 7, 7, 7, 7, 7, 5, 5, 5, 5, 6, 6, 5, 6, 6, 6, 6, 6, 6, 5, 5, 7, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 3, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6, 5, 5, 5, 6, 6, 6, 6, 6, 6, 5, 5, 5, 5, 5, 5, 6, 6, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 7, 6, 6],
+      "sentence_count": 30,
+      "sentence_lengths": [5, 5, 6, 6, 6, 6, 6, 6, 5, 5, 5, 5, 5, 5, 6, 6, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 7, 6, 6],
       "uniform_sentence_length": null
     }
   },
   {
-    "title": "悼室人诗十首",
+    "title": "悼室人诗十首·其一",
     "author": "江淹",
     "paragraphs": [
-      "【其一】",
       "佳人永暮矣，隐忧遂历兹。",
       "宝烛夜无华，金镜昼恒微。",
       "桐叶生绿水，雾天流碧滋。",
       "蕙弱芳未空，兰深鸟思时。",
-      "湘醽徒有酌，意塞不能持。",
-      "【其二】",
+      "湘醽徒有酌，意塞不能持。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "悼室人诗十首·其二",
+    "author": "江淹",
+    "paragraphs": [
       "适见叶萧条，已复花庵郁。",
       "帐里春风荡，檐前还燕拂。",
       "垂涕视去景，摧心向徂物。",
       "今悲辄流涕，昔欢常飘忽。",
-      "幽情一不弭，守叹谁能慰。",
-      "【其三】",
+      "幽情一不弭，守叹谁能慰。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "悼室人诗十首·其三",
+    "author": "江淹",
+    "paragraphs": [
       "夏云多杂色，红光铄蕤鲜。",
       "苒弱屏风草，潭拖曲池莲。",
       "黛叶鉴深水，丹华香碧烟。",
       "临彩方自吊，揽气以伤然。",
-      "命知悲不绝，恒如注海泉。",
-      "【其四】",
+      "命知悲不绝，恒如注海泉。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "悼室人诗十首·其四",
+    "author": "江淹",
+    "paragraphs": [
       "驾言出游衍，冀以涤心胸。",
       "复值烟雨散，清阴带山浓。",
       "素沙匝广岸，雄虹冠尖峰。",
       "出风舞森桂，落日暧圆松。",
-      "还结生不念，楚客独无容。",
-      "【其五】",
+      "还结生不念，楚客独无容。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "悼室人诗十首·其五",
+    "author": "江淹",
+    "paragraphs": [
       "秋至捣罗纨，泪满未能开。",
       "风光肃入户，月华为谁来。",
       "结眉向珠网，沥思视青苔。",
       "鬂局将成葆，带减不须摧。",
-      "我心若涵烟，葐蒀满中怀。",
-      "【其六】",
+      "我心若涵烟，葐蒀满中怀。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "悼室人诗十首·其六",
+    "author": "江淹",
+    "paragraphs": [
       "窗尘岁时阻，闺芜日夜深。",
       "流黄夕不织，宁闻梭杼音。",
       "凉霭漂虚座，清香荡空琴。",
       "蜻引知寂寥，蛾飞测幽阴。",
-      "乃抱生死悼，岂伊离别心。",
-      "【其七】",
+      "乃抱生死悼，岂伊离别心。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "悼室人诗十首·其七",
+    "author": "江淹",
+    "paragraphs": [
       "颢颢气薄暮，蔌蔌清衾单。",
       "阶前水光裂，树上雪花团。",
       "庭鹤哀以立，云鸡肃且寒。",
       "方东有苦泪，承夜非膏兰。",
-      "从此永黯削，萱叶焉能宽。",
-      "【其八】",
+      "从此永黯削，萱叶焉能宽。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "悼室人诗十首·其八",
+    "author": "江淹",
+    "paragraphs": [
       "杼悲情虽滞，送往意所知。",
       "空座几时设，虚帷无久垂。",
       "暮气亦何劲，严风照天涯。",
       "梦寐无端际，惝恍有分离。",
-      "意念每失乖，徒见四时亏。",
-      "【其九】",
+      "意念每失乖，徒见四时亏。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "悼室人诗十首·其九",
+    "author": "江淹",
+    "paragraphs": [
       "神女色姱丽，乃出巫山湄。",
       "逶迤罗袂下，鄣日望所思。",
       "佳人独不然，户牖绝锦綦。",
       "感此增婵娟，屑屑涕自滋。",
-      "清光澹且减，低意守空帷。",
-      "【其十】",
+      "清光澹且减，低意守空帷。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "悼室人诗十首·其十",
+    "author": "江淹",
+    "paragraphs": [
       "二妃丽潇湘，一有乍一无。",
       "佳人承云气，无下此幽都。",
       "当追帝女迹，出入泛灵舆。",
@@ -8017,9 +9133,9 @@
       "暧然时将罢，临风返故居。"
     ],
     "format": {
-      "sentence_count": 110,
-      "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -8242,23 +9358,42 @@
     }
   },
   {
-    "title": "乌栖曲应令三首",
+    "title": "乌栖曲应令三首·其一",
     "author": "萧子显",
     "paragraphs": [
-      "【其一】",
       "握中清酒马脑钟，裾边杂佩琥珀龙。",
-      "欲持寄君心不惜，共指三星今何夕。",
-      "【其二】",
+      "欲持寄君心不惜，共指三星今何夕。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "乌栖曲应令三首·其二",
+    "author": "萧子显",
+    "paragraphs": [
       "浓黛轻红点花色，还欲令人不相识。",
-      "金壶夜水讵能多，莫持赊用比悬河。",
-      "【其三】",
+      "金壶夜水讵能多，莫持赊用比悬河。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "乌栖曲应令三首·其三",
+    "author": "萧子显",
+    "paragraphs": [
       "芳树归飞聚俦匹，犹有残光半山日。",
       "莫惮褰裳不相求，汉皋游女习飞流。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [2, 7, 7, 7, 7, 2, 7, 7, 7, 7, 2, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -8372,22 +9507,41 @@
     }
   },
   {
-    "title": "江南弄三首",
+    "title": "江南弄三首·其一",
     "author": "萧纲",
     "paragraphs": [
-      "【其一】",
       "枝中上春并归。",
       "长扬扫地桃花飞。",
       "清风吹人光照衣。",
       "光照衣。景将夕。",
-      "掷黄金。留上客。",
-      "【其二】",
+      "掷黄金。留上客。"
+    ],
+    "format": {
+      "sentence_count": 7,
+      "sentence_lengths": [6, 7, 7, 3, 3, 3, 3],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "江南弄三首·其二",
+    "author": "萧纲",
+    "paragraphs": [
       "金门玉堂临水居。",
       "一颦一笑千万馀。",
       "游子去还愿莫疏。",
       "愿莫疏。意何极。",
-      "双鸳鸯。两相意。",
-      "【其三】",
+      "双鸳鸯。两相意。"
+    ],
+    "format": {
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 3, 3, 3, 3],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "江南弄三首·其三",
+    "author": "萧纲",
+    "paragraphs": [
       "桂楫兰桡浮碧水。",
       "江花玉面两相似。",
       "莲疏藕折香风起。",
@@ -8395,8 +9549,8 @@
       "采莲曲。使君迷。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [2, 6, 7, 7, 3, 3, 3, 3, 2, 7, 7, 7, 3, 3, 3, 3, 2, 7, 7, 7, 3, 3, 3, 3],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 3, 3, 3, 3],
       "uniform_sentence_length": null
     }
   },
@@ -8509,20 +9663,29 @@
     }
   },
   {
-    "title": "蜀道难",
+    "title": "蜀道难·其一",
     "author": "萧纲",
     "paragraphs": [
-      "【其一】",
       "建平督邮道，鱼复永安宫。",
-      "若奏巴渝曲，时当君思中。",
-      "【其二】",
+      "若奏巴渝曲，时当君思中。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "蜀道难·其二",
+    "author": "萧纲",
+    "paragraphs": [
       "巫山七百里，巴水三回曲。",
       "笛声下复高，猿啼断还续。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [2, 5, 5, 5, 5, 2, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -8572,17 +9735,26 @@
     }
   },
   {
-    "title": "从军行",
+    "title": "从军行·其一",
     "author": "萧纲",
     "paragraphs": [
-      "【其一】",
       "贰师惜善马，楼兰贪汉财。",
       "前年出右地，今岁讨轮台。",
       "鱼云望旗聚，龙沙随阵开。",
       "冰城朝浴铁，地道夜衔枚。",
       "将军号令密，天子玺书催。",
-      "何时反旧里，遥见下机来。",
-      "【其二】",
+      "何时反旧里，遥见下机来。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "从军行·其二",
+    "author": "萧纲",
+    "paragraphs": [
       "云中亭障羽檄惊，甘泉烽火通夜明。",
       "贰师将军新筑营，嫖姚校尉初出征。",
       "复有山西将，绝世爱雄名。",
@@ -8595,8 +9767,8 @@
       "庭前柳絮飞已合，必应红妆起见迎。"
     ],
     "format": {
-      "sentence_count": 34,
-      "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7],
+      "sentence_count": 20,
+      "sentence_lengths": [7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -8616,25 +9788,44 @@
     }
   },
   {
-    "title": "陇西行三首",
+    "title": "陇西行三首·其一",
     "author": "萧纲",
     "paragraphs": [
-      "【其一】",
       "边秋胡马肥，云中惊寇入。",
       "勇气特无侣，轻兵救边急。",
       "沙平不见虏，嶂崄还相及。",
       "出塞岂成歌，经川未遑汲。",
       "乌孙涂更阻，康居路犹涩。",
       "月晕抱龙城，星流照马邑。",
-      "长安路远书不还，宁知征人独伫立。",
-      "【其二】",
+      "长安路远书不还，宁知征人独伫立。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "陇西行三首·其二",
+    "author": "萧纲",
+    "paragraphs": [
       "陇西四战地，羽檄岁时闻。",
       "护羌拥汉节，校尉立元勋。",
       "石门留铁骑，冰城息夜军。",
       "洗兵逢骤雨，送阵出黄云。",
       "沙长无止泊，水脉屡萦分。",
-      "当思勒彝鼎，无用想罗裙。",
-      "【其三】",
+      "当思勒彝鼎，无用想罗裙。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "陇西行三首·其三",
+    "author": "萧纲",
+    "paragraphs": [
       "悠悠悬旆旌，知向陇西行。",
       "减竈驱前马，衔枚进后兵。",
       "沙飞朝似幕，云起夜疑城。",
@@ -8643,9 +9834,9 @@
       "方欢凯乐盛，飞盖满西京。"
     ],
     "format": {
-      "sentence_count": 41,
-      "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -8832,18 +10023,27 @@
     }
   },
   {
-    "title": "代白纻曲二首",
+    "title": "代白纻曲二首·其一",
     "author": "鲍照",
     "paragraphs": [
-      "【其一】",
       "朱唇动。素腕举。",
       "洛阳少童邯郸女。",
       "古称渌水今白纻。",
       "催弦急管为君舞。",
       "穷秋九月荷叶黄。",
       "北风驱雁天雨霜。",
-      "夜长酒多乐未央。",
-      "【其二】",
+      "夜长酒多乐未央。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [3, 3, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "代白纻曲二首·其二",
+    "author": "鲍照",
+    "paragraphs": [
       "春风澹荡侠思多。",
       "天色净绿气妍和。",
       "桃含红萼兰紫芽。",
@@ -8853,9 +10053,9 @@
       "千金顾笑买芳年。"
     ],
     "format": {
-      "sentence_count": 17,
-      "sentence_lengths": [2, 3, 3, 7, 7, 7, 7, 7, 7, 2, 7, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -8897,18 +10097,27 @@
     }
   },
   {
-    "title": "拟古诗八首",
+    "title": "拟古诗八首·其一",
     "author": "鲍照",
     "paragraphs": [
-      "【其一】",
       "鲁客事楚王，怀金袭丹素。",
       "既荷主人恩，又蒙令尹顾。",
       "日晏罢朝归，舆马塞衢路。",
       "宗党生光辉，宾仆远倾慕。",
       "富贵人所欲，道得亦何惧。",
       "南国有儒生，迷方独沦误。",
-      "伐木清江湄，设罝守毚兔。",
-      "【其二】",
+      "伐木清江湄，设罝守毚兔。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟古诗八首·其二",
+    "author": "鲍照",
+    "paragraphs": [
       "十五讽诗书，篇翰靡不通。",
       "弱冠参多士，飞步游秦宫。",
       "侧睹君子论，预见古人风。",
@@ -8916,16 +10125,36 @@
       "羞当白璧贶，耻受聊城功。",
       "晚节从世务，乘障远和戎。",
       "解佩袭犀渠，卷袠奉卢弓。",
-      "始愿力不及，安知今所终①。",
-      "【其三】",
+      "始愿力不及，安知今所终①。"
+    ],
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "拟古诗八首·其三",
+    "author": "鲍照",
+    "paragraphs": [
       "幽并重骑射，少年好驰逐。",
       "毡带佩双鞬，象弧插雕服。",
       "兽肥春草短，飞鞚越平陆。",
       "朝游雁门上，暮还楼烦宿。",
       "石梁有馀劲，惊雀无全目。",
       "汉虏方未和，边城屡翻覆。",
-      "留我一白羽，将以分虎竹。",
-      "【其四】",
+      "留我一白羽，将以分虎竹。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟古诗八首·其四",
+    "author": "鲍照",
+    "paragraphs": [
       "凿井北陵隈，百丈不及泉。",
       "生事本澜漫，何用独精坚。",
       "幼壮重寸阴，衰暮反轻年。",
@@ -8933,8 +10162,18 @@
       "日夕登城隅，周回视洛川。",
       "街衢积冻草，城郭宿寒烟。",
       "繁华悉何在，宫阙久崩填。",
-      "空谤齐景非，徒称夷叔贤。",
-      "【其五】",
+      "空谤齐景非，徒称夷叔贤。"
+    ],
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟古诗八首·其五",
+    "author": "鲍照",
+    "paragraphs": [
       "伊昔不治业，倦游观五都。",
       "海岱饶壮士，蒙泗多宿儒。",
       "结发起跃马，垂白对讲书。",
@@ -8942,24 +10181,54 @@
       "管仲死已久，墓在西北隅。",
       "后面崔嵬者，桓公旧冢庐。",
       "君来诚既晚，不睹崇明初。",
-      "玉琬徒见传，交友义渐疏。",
-      "【其六】",
+      "玉琬徒见传，交友义渐疏。"
+    ],
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟古诗八首·其六",
+    "author": "鲍照",
+    "paragraphs": [
       "束薪幽篁里，刈黍寒涧阴。",
       "朔风伤我肌，号鸟惊思心。",
       "岁暮井赋讫，程课相追寻。",
       "田租送函谷，兽稿输上林。",
       "河渭冰未开，关陇雪正深。",
       "笞击官有罚，呵辱吏见侵。",
-      "不谓乘轩意，伏枥还至今。",
-      "【其七】",
+      "不谓乘轩意，伏枥还至今。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟古诗八首·其七",
+    "author": "鲍照",
+    "paragraphs": [
       "河畔草未黄，胡雁已矫翼。",
       "秋蛩挟户吟，寒妇成夜织。",
       "去岁征人还，流传旧相识。",
       "闻君上陇时，东望久叹息。",
       "宿昔改衣带，旦暮异容色。",
       "念此忧如何，夜长忧向多。",
-      "明镜尘匣中，宝瑟生网罗。",
-      "【其八】",
+      "明镜尘匣中，宝瑟生网罗。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拟古诗八首·其八",
+    "author": "鲍照",
+    "paragraphs": [
       "蜀汉多奇山，仰望与云平。",
       "阴崖积夏雪，阳谷散秋荣。",
       "朝朝见云归，夜夜闻猿鸣。",
@@ -8968,9 +10237,9 @@
       "石以坚为性，君勿惭素诚。"
     ],
     "format": {
-      "sentence_count": 124,
-      "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -9234,35 +10503,94 @@
     }
   },
   {
-    "title": "采菱歌七首",
+    "title": "采菱歌七首·其一",
     "author": "鲍照",
     "paragraphs": [
-      "【其一】",
       "骛舲驰桂浦，息棹偃椒潭。",
-      "箫弄澄湘北，菱歌清汉南。",
-      "【其二】",
+      "箫弄澄湘北，菱歌清汉南。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "采菱歌七首·其二",
+    "author": "鲍照",
+    "paragraphs": [
       "弭榜搴蕙荑，停唱纫薰若。",
-      "含伤拾泉花，萦念采云萼。",
-      "【其三】",
+      "含伤拾泉花，萦念采云萼。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "采菱歌七首·其三",
+    "author": "鲍照",
+    "paragraphs": [
       "暌阔逢暄新，凄怨值妍华。",
-      "愁心不可荡，春思乱如麻。",
-      "【其四】",
+      "愁心不可荡，春思乱如麻。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "采菱歌七首·其四",
+    "author": "鲍照",
+    "paragraphs": [
       "要艳双屿里，望美两洲间。",
-      "褭褭风出浦，容容日向山。",
-      "【其五】",
+      "褭褭风出浦，容容日向山。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "采菱歌七首·其五",
+    "author": "鲍照",
+    "paragraphs": [
       "烟曀越嶂深，箭迅楚江急。",
-      "空抱琴中悲，徒望近关泣。",
-      "【其六】",
+      "空抱琴中悲，徒望近关泣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "采菱歌七首·其六",
+    "author": "鲍照",
+    "paragraphs": [
       "缄叹凌珠渊，收慨上金堤。",
-      "春芳行歇落，是人方未齐。",
-      "【其七】",
+      "春芳行歇落，是人方未齐。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "采菱歌七首·其七",
+    "author": "鲍照",
+    "paragraphs": [
       "思今怀近忆，望古怀远识。",
       "怀古复怀今，长怀无终极。"
     ],
     "format": {
-      "sentence_count": 35,
-      "sentence_lengths": [2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -9332,39 +10660,78 @@
     }
   },
   {
-    "title": "学刘公幹体诗五首",
+    "title": "学刘公幹体诗五首·其一",
     "author": "鲍照",
     "paragraphs": [
-      "【其一】",
       "欲宦乏王事，结主远恩私。",
       "为身不为名，散书徒满帷。",
       "连冰上冬月，披雪拾园葵。",
-      "圣灵烛区外，小臣良见遗。",
-      "【其二】",
+      "圣灵烛区外，小臣良见遗。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "学刘公幹体诗五首·其二",
+    "author": "鲍照",
+    "paragraphs": [
       "曀曀寒野雾，苍苍阴山柏。",
       "树回雾萦集，山寒野风急。",
       "岁物尽沦伤，孤贞为谁立。",
-      "赖树自能贞，不计迹幽涩。",
-      "【其三】",
+      "赖树自能贞，不计迹幽涩。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "学刘公幹体诗五首·其三",
+    "author": "鲍照",
+    "paragraphs": [
       "胡风吹朔雪，千里度龙山。",
       "集君瑶台上，飞舞两楹前。",
       "兹晨自为美，当避艳阳天。",
-      "艳阳桃李节，皎洁不成妍。",
-      "【其四】",
+      "艳阳桃李节，皎洁不成妍。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "学刘公幹体诗五首·其四",
+    "author": "鲍照",
+    "paragraphs": [
       "荷生绿泉中，碧叶齐如规。",
       "回风荡流雾，珠水逐条垂。",
       "彪炳此金塘，藻耀君王池。",
-      "不愁世赏绝，但畏盛明移。",
-      "【其五】",
+      "不愁世赏绝，但畏盛明移。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "学刘公幹体诗五首·其五",
+    "author": "鲍照",
+    "paragraphs": [
       "白日正中时，天下共明光。",
       "北园有细草，当昼正含霜。",
       "乖荣顿如此，何用独芬芳。",
       "抽琴为尔歌，弦断不成章。"
     ],
     "format": {
-      "sentence_count": 45,
-      "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -9410,28 +10777,6 @@
     "format": {
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": 5
-    }
-  },
-  {
-    "title": "代《放歌行》",
-    "author": "鲍照",
-    "paragraphs": [
-      "蓼虫避葵堇，习苦不言非。",
-      "小人自龌龊，安知旷士怀。",
-      "鸡鸣洛城里，禁门平旦开。",
-      "冠盖纵横至，车骑四方来。",
-      "素带曳长飙，华缨结远埃。",
-      "日中安能止，钟鸣犹未归。",
-      "夷世不可逢，贤君信爱才。",
-      "明虑自天断，不受外嫌猜。",
-      "一言分珪爵，片善辞草莱。",
-      "岂伊白璧赐，将起黄金台。",
-      "今君有何疾，临路独迟回。"
-    ],
-    "format": {
-      "sentence_count": 22,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -9532,18 +10877,27 @@
     }
   },
   {
-    "title": "代淮南王二首",
+    "title": "代淮南王二首·其一",
     "author": "鲍照",
     "paragraphs": [
-      "【其一】",
       "淮南王。好长生。",
       "服食练气读仙经。",
       "琉璃药碗牙作盘。",
       "金鼎玉匕合神丹。",
       "合神丹。戏紫房。",
       "紫房彩女弄明珰。",
-      "鸾歌凤舞断君肠。",
-      "【其二】",
+      "鸾歌凤舞断君肠。"
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [3, 3, 7, 7, 7, 3, 3, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "代淮南王二首·其二",
+    "author": "鲍照",
+    "paragraphs": [
       "朱城九门门九开。",
       "愿逐明月入君怀。",
       "入君怀。结君佩。",
@@ -9552,50 +10906,139 @@
       "同盛同衰莫相弃。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [2, 3, 3, 7, 7, 7, 3, 3, 7, 7, 2, 7, 7, 3, 3, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 3, 3, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
   {
-    "title": "中兴歌十首",
+    "title": "中兴歌十首·其一",
     "author": "鲍照",
     "paragraphs": [
-      "【其一】",
       "千冬迟一春，万夜视朝日。",
-      "生平值中兴，欢起百忧毕。",
-      "【其二】",
+      "生平值中兴，欢起百忧毕。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "中兴歌十首·其二",
+    "author": "鲍照",
+    "paragraphs": [
       "中兴太平运，化清四海乐。",
-      "祥景照玉台，紫烟游凤阁。",
-      "【其三】",
+      "祥景照玉台，紫烟游凤阁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "中兴歌十首·其三",
+    "author": "鲍照",
+    "paragraphs": [
       "碧楼含夜月，紫殿争朝光。",
-      "彩墀散兰麝，风起自生芳。",
-      "【其四】",
+      "彩墀散兰麝，风起自生芳。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "中兴歌十首·其四",
+    "author": "鲍照",
+    "paragraphs": [
       "白日照前窗，玲珑绮罗中。",
-      "美人掩轻扇，含思歌春风。",
-      "【其五】",
+      "美人掩轻扇，含思歌春风。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "中兴歌十首·其五",
+    "author": "鲍照",
+    "paragraphs": [
       "三五容色满，四五妙华歇。",
-      "已输春日欢，分随秋光没。",
-      "【其六】",
+      "已输春日欢，分随秋光没。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "中兴歌十首·其六",
+    "author": "鲍照",
+    "paragraphs": [
       "北出湖边戏，前还苑中游。",
-      "飞縠绕长松，驰管逐波流。",
-      "【其七】",
+      "飞縠绕长松，驰管逐波流。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "中兴歌十首·其七",
+    "author": "鲍照",
+    "paragraphs": [
       "九月秋水清，三月春花滋。",
-      "千金逐良日，皆竞中兴时。",
-      "【其八】",
+      "千金逐良日，皆竞中兴时。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "中兴歌十首·其八",
+    "author": "鲍照",
+    "paragraphs": [
       "穷泰已有分，寿夭复属天。",
-      "既见中兴乐，莫持忧自煎。",
-      "【其九】",
+      "既见中兴乐，莫持忧自煎。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "中兴歌十首·其九",
+    "author": "鲍照",
+    "paragraphs": [
       "襄阳是小地，寿阳非帝城。",
-      "今日中兴乐，遥冶在上京。",
-      "【其十】",
+      "今日中兴乐，遥冶在上京。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "中兴歌十首·其十",
+    "author": "鲍照",
+    "paragraphs": [
       "梅花一时艳，竹叶千年色。",
       "愿君松柏心，采照无穷极。"
     ],
     "format": {
-      "sentence_count": 50,
-      "sentence_lengths": [2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5, 2, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
