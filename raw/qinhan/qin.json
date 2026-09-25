@@ -1,6 +1,5 @@
 [
   {
-    "id": "26bf081f1f1bca048d3f280ab048749f",
     "title": "垓下歌",
     "author": "项羽",
     "paragraphs": [
@@ -11,13 +10,9 @@
       "sentence_count": 4,
       "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "秦"
-    ]
+    }
   },
   {
-    "id": "26bf081f5339d4e790276fb31b4cf3e3",
     "title": "和项王歌",
     "author": "虞姬",
     "paragraphs": [
@@ -28,13 +23,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "秦"
-    ]
+    }
   },
   {
-    "id": "26bf081fb1c2a29674a93fe0793e65ee",
     "title": "三秦民谣",
     "author": "无名氏",
     "paragraphs": [
@@ -47,13 +38,9 @@
       "sentence_count": 8,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "秦"
-    ]
+    }
   },
   {
-    "id": "26bf081fb1c2a29608e0a4b9346b45ec",
     "title": "获麟歌",
     "author": "无名氏",
     "paragraphs": [
@@ -63,13 +50,9 @@
       "sentence_count": 3,
       "sentence_lengths": [7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "秦"
-    ]
+    }
   },
   {
-    "id": "26bf081fb1c2a296fcb0bc1fa9ac85cf",
     "title": "白云谣",
     "author": "无名氏",
     "paragraphs": [
@@ -81,13 +64,9 @@
       "sentence_count": 6,
       "sentence_lengths": [4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "秦"
-    ]
+    }
   },
   {
-    "id": "26bf081fb344a8b501467a154895fa5b",
     "title": "会稽刻石",
     "author": "李斯",
     "paragraphs": [
@@ -120,13 +99,9 @@
       "sentence_count": 72,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "秦"
-    ]
+    }
   },
   {
-    "id": "26bf081fede67863350201d030ede621",
     "title": "山雨",
     "author": "偰逊",
     "paragraphs": [
@@ -137,9 +112,6 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "秦"
-    ]
+    }
   }
 ]

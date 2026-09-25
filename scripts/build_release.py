@@ -15,7 +15,9 @@ ROOT = Path(__file__).parents[1]
 RAW_DIRECTORY = ROOT / "raw"
 DIST_DIRECTORY = ROOT / "dist"
 MANIFEST_PATH = ROOT / "manifest.json"
-SCHEMA_VERSION = 2
+SCHEMA_VERSION = 3
+COMMON_RAW_FIELDS = ("title", "author", "paragraphs", "format")
+SHIJING_RAW_FIELDS = COMMON_RAW_FIELDS + ("chapter", "section")
 
 
 @dataclass(frozen=True)
@@ -35,6 +37,7 @@ CORPORA = (
     Corpus("quansongshi", RAW_DIRECTORY / "quansongshi"),
 )
 
+
 def source_files(source: Path) -> list[Path]:
     if source.is_file():
         return [source]
@@ -46,7 +49,7 @@ def source_files(source: Path) -> list[Path]:
 
 
 def normalized_records(corpus: Corpus) -> Iterator[dict[str, object]]:
-    seen_ids: set[str] = set()
+    id_counts: dict[str, int] = {}
     for path in source_files(corpus.source):
         with path.open(encoding="utf-8") as source_file:
             records = json.load(source_file)
@@ -57,30 +60,56 @@ def normalized_records(corpus: Corpus) -> Iterator[dict[str, object]]:
             if not isinstance(value, dict):
                 raise ValueError(f"{path}:{index}: expected an object")
             record = dict(value)
-            normalize_record(record, path, index)
-            record.setdefault("id", f"{corpus.name}/{path.name}:{index}")
-            validate_record(record, path, index)
-            record_id = str(record["id"])
-            if record_id in seen_ids:
-                raise ValueError(f"{path}:{index}: duplicate id {record_id}")
-            seen_ids.add(record_id)
+            validate_raw_record(record, corpus, path, index)
+            base_id = content_id(corpus.name, record)
+            occurrence = id_counts.get(base_id, 0) + 1
+            id_counts[base_id] = occurrence
+            record["id"] = (
+                base_id if occurrence == 1 else f"{base_id}:{occurrence}"
+            )
             yield record
 
 
-def normalize_record(
+def content_id(corpus_name: str, record: dict[str, object]) -> str:
+    payload = json.dumps(
+        [
+            record["title"],
+            record["author"],
+            record["paragraphs"],
+        ],
+        ensure_ascii=False,
+        separators=(",", ":"),
+    ).encode("utf-8")
+    digest = hashlib.sha256(payload).hexdigest()[:16]
+    return f"{corpus_name}:{digest}"
+
+
+def validate_raw_record(
     record: dict[str, object],
-    path: Path,
-    index: int,
-) -> None:
-    if "title" not in record and isinstance(record.get("rhythmic"), str):
-        record["title"] = record["rhythmic"]
-def validate_record(
-    record: dict[str, object],
+    corpus: Corpus,
     path: Path,
     index: int,
 ) -> None:
     location = f"{path}:{index}"
-    for field in ("id", "title", "author"):
+    expected_fields = (
+        SHIJING_RAW_FIELDS
+        if corpus.name == "shijing"
+        else COMMON_RAW_FIELDS
+    )
+    missing_fields = [
+        field for field in expected_fields if field not in record
+    ]
+    if missing_fields:
+        raise ValueError(
+            f"{location}: missing {', '.join(missing_fields)}"
+        )
+    if tuple(record) != expected_fields:
+        raise ValueError(
+            f"{location}: fields must be {', '.join(expected_fields)} "
+            "in that order"
+        )
+
+    for field in ("title", "author"):
         if not isinstance(record.get(field), str) or not record[field]:
             raise ValueError(f"{location}: invalid {field}")
 
@@ -110,6 +139,11 @@ def validate_record(
         or any(length != uniform_length for length in sentence_lengths)
     ):
         raise ValueError(f"{location}: inconsistent uniform sentence length")
+
+    if corpus.name == "shijing":
+        for field in ("chapter", "section"):
+            if not isinstance(record.get(field), str) or not record[field]:
+                raise ValueError(f"{location}: invalid {field}")
 
 
 def build_corpus(corpus: Corpus, output_path: Path) -> int:

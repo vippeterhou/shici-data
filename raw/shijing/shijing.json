@@ -1,6 +1,5 @@
 [
   {
-    "id": "shijing:000",
     "title": "关雎",
     "author": "佚名",
     "paragraphs": [
@@ -15,13 +14,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "周南"
-    ]
+    "chapter": "国风",
+    "section": "周南"
   },
   {
-    "id": "shijing:001",
     "title": "葛覃",
     "author": "佚名",
     "paragraphs": [
@@ -34,13 +30,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "周南"
-    ]
+    "chapter": "国风",
+    "section": "周南"
   },
   {
-    "id": "shijing:002",
     "title": "卷耳",
     "author": "佚名",
     "paragraphs": [
@@ -54,13 +47,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 6, 5, 4, 4, 6, 5, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "周南"
-    ]
+    "chapter": "国风",
+    "section": "周南"
   },
   {
-    "id": "shijing:003",
     "title": "樛木",
     "author": "佚名",
     "paragraphs": [
@@ -73,13 +63,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "周南"
-    ]
+    "chapter": "国风",
+    "section": "周南"
   },
   {
-    "id": "shijing:004",
     "title": "螽斯",
     "author": "佚名",
     "paragraphs": [
@@ -92,13 +79,10 @@
       "sentence_lengths": [3, 3, 4, 3, 3, 3, 4, 3, 3, 3, 4, 3],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "周南"
-    ]
+    "chapter": "国风",
+    "section": "周南"
   },
   {
-    "id": "shijing:005",
     "title": "桃夭",
     "author": "佚名",
     "paragraphs": [
@@ -111,13 +95,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "周南"
-    ]
+    "chapter": "国风",
+    "section": "周南"
   },
   {
-    "id": "shijing:006",
     "title": "兔罝",
     "author": "佚名",
     "paragraphs": [
@@ -130,13 +111,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "周南"
-    ]
+    "chapter": "国风",
+    "section": "周南"
   },
   {
-    "id": "shijing:007",
     "title": "芣苡",
     "author": "佚名",
     "paragraphs": [
@@ -149,13 +127,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "周南"
-    ]
+    "chapter": "国风",
+    "section": "周南"
   },
   {
-    "id": "shijing:008",
     "title": "汉广",
     "author": "佚名",
     "paragraphs": [
@@ -168,13 +143,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "周南"
-    ]
+    "chapter": "国风",
+    "section": "周南"
   },
   {
-    "id": "shijing:009",
     "title": "汝坟",
     "author": "佚名",
     "paragraphs": [
@@ -187,13 +159,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "周南"
-    ]
+    "chapter": "国风",
+    "section": "周南"
   },
   {
-    "id": "shijing:010",
     "title": "麟之趾",
     "author": "佚名",
     "paragraphs": [
@@ -206,13 +175,10 @@
       "sentence_lengths": [3, 4, 4, 3, 4, 4, 3, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "周南"
-    ]
+    "chapter": "国风",
+    "section": "周南"
   },
   {
-    "id": "shijing:011",
     "title": "鹊巢",
     "author": "佚名",
     "paragraphs": [
@@ -225,13 +191,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "召南"
-    ]
+    "chapter": "国风",
+    "section": "召南"
   },
   {
-    "id": "shijing:012",
     "title": "采蘩",
     "author": "佚名",
     "paragraphs": [
@@ -244,13 +207,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "召南"
-    ]
+    "chapter": "国风",
+    "section": "召南"
   },
   {
-    "id": "shijing:013",
     "title": "草虫",
     "author": "佚名",
     "paragraphs": [
@@ -263,13 +223,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "召南"
-    ]
+    "chapter": "国风",
+    "section": "召南"
   },
   {
-    "id": "shijing:014",
     "title": "采蘋",
     "author": "佚名",
     "paragraphs": [
@@ -282,13 +239,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "召南"
-    ]
+    "chapter": "国风",
+    "section": "召南"
   },
   {
-    "id": "shijing:015",
     "title": "甘棠",
     "author": "佚名",
     "paragraphs": [
@@ -301,13 +255,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "召南"
-    ]
+    "chapter": "国风",
+    "section": "召南"
   },
   {
-    "id": "shijing:016",
     "title": "行露",
     "author": "佚名",
     "paragraphs": [
@@ -320,13 +271,10 @@
       "sentence_lengths": [4, 4, 4, 5, 5, 5, 5, 4, 4, 5, 5, 5, 5, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "召南"
-    ]
+    "chapter": "国风",
+    "section": "召南"
   },
   {
-    "id": "shijing:017",
     "title": "羔羊",
     "author": "佚名",
     "paragraphs": [
@@ -339,13 +287,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "召南"
-    ]
+    "chapter": "国风",
+    "section": "召南"
   },
   {
-    "id": "shijing:018",
     "title": "殷其雷",
     "author": "佚名",
     "paragraphs": [
@@ -358,13 +303,10 @@
       "sentence_lengths": [3, 5, 4, 4, 4, 4, 3, 5, 4, 4, 4, 4, 3, 5, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "召南"
-    ]
+    "chapter": "国风",
+    "section": "召南"
   },
   {
-    "id": "shijing:019",
     "title": "摽有梅",
     "author": "佚名",
     "paragraphs": [
@@ -377,13 +319,10 @@
       "sentence_lengths": [3, 4, 4, 4, 3, 4, 4, 4, 3, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "召南"
-    ]
+    "chapter": "国风",
+    "section": "召南"
   },
   {
-    "id": "shijing:020",
     "title": "小星",
     "author": "佚名",
     "paragraphs": [
@@ -395,13 +334,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "召南"
-    ]
+    "chapter": "国风",
+    "section": "召南"
   },
   {
-    "id": "shijing:021",
     "title": "江有汜",
     "author": "佚名",
     "paragraphs": [
@@ -414,13 +350,10 @@
       "sentence_lengths": [3, 3, 3, 3, 4, 3, 3, 3, 3, 4, 3, 3, 3, 3, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "召南"
-    ]
+    "chapter": "国风",
+    "section": "召南"
   },
   {
-    "id": "shijing:022",
     "title": "野有死麕",
     "author": "佚名",
     "paragraphs": [
@@ -433,13 +366,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "召南"
-    ]
+    "chapter": "国风",
+    "section": "召南"
   },
   {
-    "id": "shijing:023",
     "title": "何彼襛矣",
     "author": "佚名",
     "paragraphs": [
@@ -452,13 +382,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "召南"
-    ]
+    "chapter": "国风",
+    "section": "召南"
   },
   {
-    "id": "shijing:024",
     "title": "驺虞",
     "author": "佚名",
     "paragraphs": [
@@ -470,13 +397,10 @@
       "sentence_lengths": [4, 4, 5, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "召南"
-    ]
+    "chapter": "国风",
+    "section": "召南"
   },
   {
-    "id": "shijing:025",
     "title": "柏舟",
     "author": "佚名",
     "paragraphs": [
@@ -491,13 +415,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:026",
     "title": "绿衣",
     "author": "佚名",
     "paragraphs": [
@@ -511,13 +432,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:027",
     "title": "燕燕",
     "author": "佚名",
     "paragraphs": [
@@ -531,13 +449,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:028",
     "title": "日月",
     "author": "佚名",
     "paragraphs": [
@@ -551,13 +466,10 @@
       "sentence_lengths": [4, 4, 5, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:029",
     "title": "终风",
     "author": "佚名",
     "paragraphs": [
@@ -571,13 +483,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:030",
     "title": "击鼓",
     "author": "佚名",
     "paragraphs": [
@@ -592,13 +501,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:031",
     "title": "凯风",
     "author": "佚名",
     "paragraphs": [
@@ -612,13 +518,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:032",
     "title": "雄雉",
     "author": "佚名",
     "paragraphs": [
@@ -632,13 +535,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:033",
     "title": "匏有苦叶",
     "author": "佚名",
     "paragraphs": [
@@ -652,13 +552,10 @@
       "sentence_lengths": [4, 4, 3, 3, 4, 4, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:034",
     "title": "谷风",
     "author": "佚名",
     "paragraphs": [
@@ -674,13 +571,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:035",
     "title": "式微",
     "author": "佚名",
     "paragraphs": [
@@ -692,13 +586,10 @@
       "sentence_lengths": [2, 2, 3, 4, 5, 2, 2, 3, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:036",
     "title": "旄丘",
     "author": "佚名",
     "paragraphs": [
@@ -712,13 +603,10 @@
       "sentence_lengths": [5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:037",
     "title": "简兮",
     "author": "佚名",
     "paragraphs": [
@@ -732,13 +620,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 3, 4, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:038",
     "title": "泉水",
     "author": "佚名",
     "paragraphs": [
@@ -752,13 +637,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:039",
     "title": "北门",
     "author": "佚名",
     "paragraphs": [
@@ -771,13 +653,10 @@
       "sentence_lengths": [4, 4, 4, 4, 3, 4, 4, 4, 6, 4, 6, 3, 4, 4, 4, 6, 4, 6, 3, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:040",
     "title": "北风",
     "author": "佚名",
     "paragraphs": [
@@ -790,13 +669,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:041",
     "title": "静女",
     "author": "佚名",
     "paragraphs": [
@@ -809,13 +685,10 @@
       "sentence_lengths": [4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:042",
     "title": "新台",
     "author": "佚名",
     "paragraphs": [
@@ -828,13 +701,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:043",
     "title": "二子乘舟",
     "author": "佚名",
     "paragraphs": [
@@ -846,13 +716,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "邶风"
-    ]
+    "chapter": "国风",
+    "section": "邶风"
   },
   {
-    "id": "shijing:044",
     "title": "柏舟",
     "author": "佚名",
     "paragraphs": [
@@ -864,13 +731,10 @@
       "sentence_lengths": [4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 5, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "鄘风"
-    ]
+    "chapter": "国风",
+    "section": "鄘风"
   },
   {
-    "id": "shijing:045",
     "title": "墙有茨",
     "author": "佚名",
     "paragraphs": [
@@ -883,13 +747,10 @@
       "sentence_lengths": [3, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "鄘风"
-    ]
+    "chapter": "国风",
+    "section": "鄘风"
   },
   {
-    "id": "shijing:046",
     "title": "君子偕老",
     "author": "佚名",
     "paragraphs": [
@@ -902,13 +763,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 4, 4, 4, 4, 4, 5, 5, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "鄘风"
-    ]
+    "chapter": "国风",
+    "section": "鄘风"
   },
   {
-    "id": "shijing:047",
     "title": "桑中",
     "author": "佚名",
     "paragraphs": [
@@ -921,13 +779,10 @@
       "sentence_lengths": [4, 4, 4, 4, 5, 5, 7, 4, 4, 4, 4, 5, 5, 7, 4, 4, 4, 4, 5, 5, 7],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "鄘风"
-    ]
+    "chapter": "国风",
+    "section": "鄘风"
   },
   {
-    "id": "shijing:048",
     "title": "鹑之奔奔",
     "author": "佚名",
     "paragraphs": [
@@ -939,13 +794,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "鄘风"
-    ]
+    "chapter": "国风",
+    "section": "鄘风"
   },
   {
-    "id": "shijing:049",
     "title": "定之方中",
     "author": "佚名",
     "paragraphs": [
@@ -958,13 +810,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "鄘风"
-    ]
+    "chapter": "国风",
+    "section": "鄘风"
   },
   {
-    "id": "shijing:050",
     "title": "蝃蝀",
     "author": "佚名",
     "paragraphs": [
@@ -977,13 +826,10 @@
       "sentence_lengths": [4, 4, 4, 5, 4, 4, 4, 5, 5, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "鄘风"
-    ]
+    "chapter": "国风",
+    "section": "鄘风"
   },
   {
-    "id": "shijing:051",
     "title": "相鼠",
     "author": "佚名",
     "paragraphs": [
@@ -996,13 +842,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "鄘风"
-    ]
+    "chapter": "国风",
+    "section": "鄘风"
   },
   {
-    "id": "shijing:052",
     "title": "干旄",
     "author": "佚名",
     "paragraphs": [
@@ -1015,13 +858,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "鄘风"
-    ]
+    "chapter": "国风",
+    "section": "鄘风"
   },
   {
-    "id": "shijing:053",
     "title": "载驰",
     "author": "佚名",
     "paragraphs": [
@@ -1036,13 +876,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "鄘风"
-    ]
+    "chapter": "国风",
+    "section": "鄘风"
   },
   {
-    "id": "shijing:054",
     "title": "淇奥",
     "author": "佚名",
     "paragraphs": [
@@ -1055,13 +892,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "卫风"
-    ]
+    "chapter": "国风",
+    "section": "卫风"
   },
   {
-    "id": "shijing:055",
     "title": "考槃",
     "author": "佚名",
     "paragraphs": [
@@ -1074,13 +908,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "卫风"
-    ]
+    "chapter": "国风",
+    "section": "卫风"
   },
   {
-    "id": "shijing:056",
     "title": "硕人",
     "author": "佚名",
     "paragraphs": [
@@ -1094,13 +925,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "卫风"
-    ]
+    "chapter": "国风",
+    "section": "卫风"
   },
   {
-    "id": "shijing:057",
     "title": "氓",
     "author": "佚名",
     "paragraphs": [
@@ -1116,13 +944,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "卫风"
-    ]
+    "chapter": "国风",
+    "section": "卫风"
   },
   {
-    "id": "shijing:058",
     "title": "竹竿",
     "author": "佚名",
     "paragraphs": [
@@ -1136,13 +961,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "卫风"
-    ]
+    "chapter": "国风",
+    "section": "卫风"
   },
   {
-    "id": "shijing:059",
     "title": "芄兰",
     "author": "佚名",
     "paragraphs": [
@@ -1154,13 +976,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "卫风"
-    ]
+    "chapter": "国风",
+    "section": "卫风"
   },
   {
-    "id": "shijing:060",
     "title": "河广",
     "author": "佚名",
     "paragraphs": [
@@ -1172,13 +991,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "卫风"
-    ]
+    "chapter": "国风",
+    "section": "卫风"
   },
   {
-    "id": "shijing:061",
     "title": "伯兮",
     "author": "佚名",
     "paragraphs": [
@@ -1192,13 +1008,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "卫风"
-    ]
+    "chapter": "国风",
+    "section": "卫风"
   },
   {
-    "id": "shijing:062",
     "title": "有狐",
     "author": "佚名",
     "paragraphs": [
@@ -1211,13 +1024,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "卫风"
-    ]
+    "chapter": "国风",
+    "section": "卫风"
   },
   {
-    "id": "shijing:063",
     "title": "木瓜",
     "author": "佚名",
     "paragraphs": [
@@ -1230,13 +1040,10 @@
       "sentence_lengths": [5, 5, 3, 5, 5, 5, 3, 5, 5, 5, 3, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "卫风"
-    ]
+    "chapter": "国风",
+    "section": "卫风"
   },
   {
-    "id": "shijing:064",
     "title": "黍离",
     "author": "佚名",
     "paragraphs": [
@@ -1249,13 +1056,10 @@
       "sentence_lengths": [4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "王风"
-    ]
+    "chapter": "国风",
+    "section": "王风"
   },
   {
-    "id": "shijing:065",
     "title": "君子于役",
     "author": "佚名",
     "paragraphs": [
@@ -1267,13 +1071,10 @@
       "sentence_lengths": [4, 4, 3, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "王风"
-    ]
+    "chapter": "国风",
+    "section": "王风"
   },
   {
-    "id": "shijing:066",
     "title": "君子阳阳",
     "author": "佚名",
     "paragraphs": [
@@ -1285,13 +1086,10 @@
       "sentence_lengths": [4, 3, 5, 4, 4, 3, 5, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "王风"
-    ]
+    "chapter": "国风",
+    "section": "王风"
   },
   {
-    "id": "shijing:067",
     "title": "扬之水",
     "author": "佚名",
     "paragraphs": [
@@ -1304,13 +1102,10 @@
       "sentence_lengths": [3, 4, 4, 5, 4, 6, 3, 4, 4, 5, 4, 6, 3, 4, 4, 5, 4, 6],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "王风"
-    ]
+    "chapter": "国风",
+    "section": "王风"
   },
   {
-    "id": "shijing:068",
     "title": "中谷有蓷",
     "author": "佚名",
     "paragraphs": [
@@ -1323,13 +1118,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "王风"
-    ]
+    "chapter": "国风",
+    "section": "王风"
   },
   {
-    "id": "shijing:069",
     "title": "兔爰",
     "author": "佚名",
     "paragraphs": [
@@ -1342,13 +1134,10 @@
       "sentence_lengths": [4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "王风"
-    ]
+    "chapter": "国风",
+    "section": "王风"
   },
   {
-    "id": "shijing:070",
     "title": "葛藟",
     "author": "佚名",
     "paragraphs": [
@@ -1361,13 +1150,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "王风"
-    ]
+    "chapter": "国风",
+    "section": "王风"
   },
   {
-    "id": "shijing:071",
     "title": "采葛",
     "author": "佚名",
     "paragraphs": [
@@ -1380,13 +1166,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "王风"
-    ]
+    "chapter": "国风",
+    "section": "王风"
   },
   {
-    "id": "shijing:072",
     "title": "大车",
     "author": "佚名",
     "paragraphs": [
@@ -1399,13 +1182,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "王风"
-    ]
+    "chapter": "国风",
+    "section": "王风"
   },
   {
-    "id": "shijing:073",
     "title": "丘中有麻",
     "author": "佚名",
     "paragraphs": [
@@ -1418,13 +1198,10 @@
       "sentence_lengths": [4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "王风"
-    ]
+    "chapter": "国风",
+    "section": "王风"
   },
   {
-    "id": "shijing:074",
     "title": "缁衣",
     "author": "佚名",
     "paragraphs": [
@@ -1437,13 +1214,10 @@
       "sentence_lengths": [5, 6, 5, 7, 5, 6, 5, 7, 5, 6, 5, 7],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:075",
     "title": "将仲子",
     "author": "佚名",
     "paragraphs": [
@@ -1456,13 +1230,10 @@
       "sentence_lengths": [4, 4, 5, 4, 4, 4, 8, 4, 4, 5, 4, 4, 4, 8, 4, 4, 5, 4, 5, 4, 8],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:076",
     "title": "叔于田",
     "author": "佚名",
     "paragraphs": [
@@ -1475,13 +1246,10 @@
       "sentence_lengths": [3, 4, 4, 4, 4, 3, 4, 4, 4, 4, 3, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:077",
     "title": "大叔于田",
     "author": "佚名",
     "paragraphs": [
@@ -1494,13 +1262,10 @@
       "sentence_lengths": [3, 3, 4, 4, 3, 4, 4, 4, 4, 4, 3, 3, 4, 4, 3, 4, 4, 4, 4, 4, 3, 3, 4, 4, 3, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:078",
     "title": "清人",
     "author": "佚名",
     "paragraphs": [
@@ -1513,13 +1278,10 @@
       "sentence_lengths": [4, 4, 4, 5, 4, 4, 4, 5, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:079",
     "title": "羔裘",
     "author": "佚名",
     "paragraphs": [
@@ -1532,13 +1294,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:080",
     "title": "遵大路",
     "author": "佚名",
     "paragraphs": [
@@ -1550,13 +1309,10 @@
       "sentence_lengths": [4, 6, 4, 4, 4, 6, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:081",
     "title": "女曰鸡鸣",
     "author": "佚名",
     "paragraphs": [
@@ -1569,13 +1325,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:082",
     "title": "有女同车",
     "author": "佚名",
     "paragraphs": [
@@ -1587,13 +1340,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:083",
     "title": "山有扶苏",
     "author": "佚名",
     "paragraphs": [
@@ -1605,13 +1355,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:084",
     "title": "萚兮",
     "author": "佚名",
     "paragraphs": [
@@ -1623,13 +1370,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:085",
     "title": "狡童",
     "author": "佚名",
     "paragraphs": [
@@ -1641,13 +1385,10 @@
       "sentence_lengths": [4, 5, 4, 6, 4, 5, 4, 6],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:086",
     "title": "褰裳",
     "author": "佚名",
     "paragraphs": [
@@ -1659,13 +1400,10 @@
       "sentence_lengths": [4, 4, 4, 4, 6, 4, 4, 4, 4, 6],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:087",
     "title": "丰",
     "author": "佚名",
     "paragraphs": [
@@ -1679,13 +1417,10 @@
       "sentence_lengths": [4, 5, 5, 4, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:088",
     "title": "东门之墠",
     "author": "佚名",
     "paragraphs": [
@@ -1697,13 +1432,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:089",
     "title": "风雨",
     "author": "佚名",
     "paragraphs": [
@@ -1716,13 +1448,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:090",
     "title": "子衿",
     "author": "佚名",
     "paragraphs": [
@@ -1735,13 +1464,10 @@
       "sentence_lengths": [4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:091",
     "title": "扬之水",
     "author": "佚名",
     "paragraphs": [
@@ -1753,13 +1479,10 @@
       "sentence_lengths": [3, 4, 4, 4, 5, 4, 3, 4, 4, 4, 5, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:092",
     "title": "出其东门",
     "author": "佚名",
     "paragraphs": [
@@ -1771,13 +1494,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:093",
     "title": "野有蔓草",
     "author": "佚名",
     "paragraphs": [
@@ -1789,13 +1509,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:094",
     "title": "溱洧",
     "author": "佚名",
     "paragraphs": [
@@ -1809,13 +1526,10 @@
       "sentence_lengths": [3, 4, 3, 4, 4, 4, 4, 3, 4, 4, 4, 5, 3, 4, 3, 4, 4, 4, 4, 3, 4, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "郑风"
-    ]
+    "chapter": "国风",
+    "section": "郑风"
   },
   {
-    "id": "shijing:095",
     "title": "鸡鸣",
     "author": "佚名",
     "paragraphs": [
@@ -1828,13 +1542,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 5, 4, 4, 5, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "齐风"
-    ]
+    "chapter": "国风",
+    "section": "齐风"
   },
   {
-    "id": "shijing:096",
     "title": "还",
     "author": "佚名",
     "paragraphs": [
@@ -1847,13 +1558,10 @@
       "sentence_lengths": [4, 7, 6, 6, 4, 7, 6, 6, 4, 7, 6, 6],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "齐风"
-    ]
+    "chapter": "国风",
+    "section": "齐风"
   },
   {
-    "id": "shijing:097",
     "title": "着",
     "author": "佚名",
     "paragraphs": [
@@ -1866,13 +1574,10 @@
       "sentence_lengths": [6, 6, 7, 6, 6, 7, 6, 6, 7],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "齐风"
-    ]
+    "chapter": "国风",
+    "section": "齐风"
   },
   {
-    "id": "shijing:098",
     "title": "东方之日",
     "author": "佚名",
     "paragraphs": [
@@ -1884,13 +1589,10 @@
       "sentence_lengths": [5, 4, 4, 4, 4, 5, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "齐风"
-    ]
+    "chapter": "国风",
+    "section": "齐风"
   },
   {
-    "id": "shijing:099",
     "title": "东方未明",
     "author": "佚名",
     "paragraphs": [
@@ -1903,13 +1605,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "齐风"
-    ]
+    "chapter": "国风",
+    "section": "齐风"
   },
   {
-    "id": "shijing:100",
     "title": "南山",
     "author": "佚名",
     "paragraphs": [
@@ -1923,13 +1622,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 5, 4, 4, 4, 5, 4, 5, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "齐风"
-    ]
+    "chapter": "国风",
+    "section": "齐风"
   },
   {
-    "id": "shijing:101",
     "title": "甫田",
     "author": "佚名",
     "paragraphs": [
@@ -1942,13 +1638,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "齐风"
-    ]
+    "chapter": "国风",
+    "section": "齐风"
   },
   {
-    "id": "shijing:102",
     "title": "卢令",
     "author": "佚名",
     "paragraphs": [
@@ -1961,13 +1654,10 @@
       "sentence_lengths": [3, 5, 3, 5, 3, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "齐风"
-    ]
+    "chapter": "国风",
+    "section": "齐风"
   },
   {
-    "id": "shijing:103",
     "title": "敝笱",
     "author": "佚名",
     "paragraphs": [
@@ -1980,13 +1670,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "齐风"
-    ]
+    "chapter": "国风",
+    "section": "齐风"
   },
   {
-    "id": "shijing:104",
     "title": "载驱",
     "author": "佚名",
     "paragraphs": [
@@ -2000,13 +1687,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "齐风"
-    ]
+    "chapter": "国风",
+    "section": "齐风"
   },
   {
-    "id": "shijing:105",
     "title": "猗嗟",
     "author": "佚名",
     "paragraphs": [
@@ -2019,13 +1703,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "齐风"
-    ]
+    "chapter": "国风",
+    "section": "齐风"
   },
   {
-    "id": "shijing:106",
     "title": "葛屦",
     "author": "佚名",
     "paragraphs": [
@@ -2037,13 +1718,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "魏风"
-    ]
+    "chapter": "国风",
+    "section": "魏风"
   },
   {
-    "id": "shijing:107",
     "title": "汾沮洳",
     "author": "佚名",
     "paragraphs": [
@@ -2056,13 +1734,10 @@
       "sentence_lengths": [4, 4, 4, 3, 3, 5, 4, 4, 4, 3, 3, 5, 4, 4, 4, 3, 3, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "魏风"
-    ]
+    "chapter": "国风",
+    "section": "魏风"
   },
   {
-    "id": "shijing:108",
     "title": "园有桃",
     "author": "佚名",
     "paragraphs": [
@@ -2076,13 +1751,10 @@
       "sentence_lengths": [3, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "魏风"
-    ]
+    "chapter": "国风",
+    "section": "魏风"
   },
   {
-    "id": "shijing:109",
     "title": "陟岵",
     "author": "佚名",
     "paragraphs": [
@@ -2095,13 +1767,10 @@
       "sentence_lengths": [4, 4, 2, 1, 4, 4, 4, 2, 2, 4, 4, 2, 1, 4, 4, 4, 2, 2, 4, 4, 2, 1, 4, 4, 4, 2, 2],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "魏风"
-    ]
+    "chapter": "国风",
+    "section": "魏风"
   },
   {
-    "id": "shijing:110",
     "title": "十亩之间",
     "author": "佚名",
     "paragraphs": [
@@ -2113,13 +1782,10 @@
       "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     },
-    "tags": [
-      "国风",
-      "魏风"
-    ]
+    "chapter": "国风",
+    "section": "魏风"
   },
   {
-    "id": "shijing:111",
     "title": "伐檀",
     "author": "佚名",
     "paragraphs": [
@@ -2135,13 +1801,10 @@
       "sentence_lengths": [5, 6, 6, 4, 7, 4, 8, 4, 4, 5, 6, 6, 4, 7, 4, 8, 4, 4, 5, 6, 6, 4, 7, 4, 8, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "魏风"
-    ]
+    "chapter": "国风",
+    "section": "魏风"
   },
   {
-    "id": "shijing:112",
     "title": "硕鼠",
     "author": "佚名",
     "paragraphs": [
@@ -2154,13 +1817,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "魏风"
-    ]
+    "chapter": "国风",
+    "section": "魏风"
   },
   {
-    "id": "shijing:113",
     "title": "蟋蟀",
     "author": "佚名",
     "paragraphs": [
@@ -2173,13 +1833,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "唐风"
-    ]
+    "chapter": "国风",
+    "section": "唐风"
   },
   {
-    "id": "shijing:114",
     "title": "山有枢",
     "author": "佚名",
     "paragraphs": [
@@ -2192,13 +1849,10 @@
       "sentence_lengths": [3, 3, 4, 4, 4, 4, 4, 4, 3, 3, 4, 4, 4, 4, 4, 4, 3, 3, 4, 5, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "唐风"
-    ]
+    "chapter": "国风",
+    "section": "唐风"
   },
   {
-    "id": "shijing:115",
     "title": "扬之水",
     "author": "佚名",
     "paragraphs": [
@@ -2211,13 +1865,10 @@
       "sentence_lengths": [3, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 3, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "唐风"
-    ]
+    "chapter": "国风",
+    "section": "唐风"
   },
   {
-    "id": "shijing:116",
     "title": "椒聊",
     "author": "佚名",
     "paragraphs": [
@@ -2229,13 +1880,10 @@
       "sentence_lengths": [4, 4, 4, 4, 3, 3, 4, 4, 4, 4, 3, 3],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "唐风"
-    ]
+    "chapter": "国风",
+    "section": "唐风"
   },
   {
-    "id": "shijing:117",
     "title": "绸缪",
     "author": "佚名",
     "paragraphs": [
@@ -2248,13 +1896,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "唐风"
-    ]
+    "chapter": "国风",
+    "section": "唐风"
   },
   {
-    "id": "shijing:118",
     "title": "杕杜",
     "author": "佚名",
     "paragraphs": [
@@ -2266,13 +1911,10 @@
       "sentence_lengths": [4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "唐风"
-    ]
+    "chapter": "国风",
+    "section": "唐风"
   },
   {
-    "id": "shijing:119",
     "title": "羔裘",
     "author": "佚名",
     "paragraphs": [
@@ -2284,13 +1926,10 @@
       "sentence_lengths": [4, 5, 4, 4, 4, 5, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "唐风"
-    ]
+    "chapter": "国风",
+    "section": "唐风"
   },
   {
-    "id": "shijing:120",
     "title": "鸨羽",
     "author": "佚名",
     "paragraphs": [
@@ -2303,13 +1942,10 @@
       "sentence_lengths": [4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "唐风"
-    ]
+    "chapter": "国风",
+    "section": "唐风"
   },
   {
-    "id": "shijing:121",
     "title": "无衣",
     "author": "佚名",
     "paragraphs": [
@@ -2321,13 +1957,10 @@
       "sentence_lengths": [6, 5, 4, 6, 5, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "唐风"
-    ]
+    "chapter": "国风",
+    "section": "唐风"
   },
   {
-    "id": "shijing:122",
     "title": "有杕之杜",
     "author": "佚名",
     "paragraphs": [
@@ -2339,13 +1972,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "唐风"
-    ]
+    "chapter": "国风",
+    "section": "唐风"
   },
   {
-    "id": "shijing:123",
     "title": "葛生",
     "author": "佚名",
     "paragraphs": [
@@ -2360,13 +1990,10 @@
       "sentence_lengths": [4, 4, 4, 2, 2, 4, 4, 4, 2, 2, 4, 4, 4, 2, 2, 3, 3, 4, 4, 3, 3, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "唐风"
-    ]
+    "chapter": "国风",
+    "section": "唐风"
   },
   {
-    "id": "shijing:124",
     "title": "采苓",
     "author": "佚名",
     "paragraphs": [
@@ -2379,13 +2006,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 3],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "唐风"
-    ]
+    "chapter": "国风",
+    "section": "唐风"
   },
   {
-    "id": "shijing:125",
     "title": "车邻",
     "author": "佚名",
     "paragraphs": [
@@ -2398,13 +2022,10 @@
       "sentence_lengths": [4, 4, 4, 4, 3, 3, 4, 4, 4, 4, 3, 3, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "秦风"
-    ]
+    "chapter": "国风",
+    "section": "秦风"
   },
   {
-    "id": "shijing:126",
     "title": "驷驖",
     "author": "佚名",
     "paragraphs": [
@@ -2417,13 +2038,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "秦风"
-    ]
+    "chapter": "国风",
+    "section": "秦风"
   },
   {
-    "id": "shijing:127",
     "title": "小戎",
     "author": "佚名",
     "paragraphs": [
@@ -2439,13 +2057,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "秦风"
-    ]
+    "chapter": "国风",
+    "section": "秦风"
   },
   {
-    "id": "shijing:128",
     "title": "蒹葭",
     "author": "佚名",
     "paragraphs": [
@@ -2458,13 +2073,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "秦风"
-    ]
+    "chapter": "国风",
+    "section": "秦风"
   },
   {
-    "id": "shijing:129",
     "title": "终南",
     "author": "佚名",
     "paragraphs": [
@@ -2476,13 +2088,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "秦风"
-    ]
+    "chapter": "国风",
+    "section": "秦风"
   },
   {
-    "id": "shijing:130",
     "title": "黄鸟",
     "author": "佚名",
     "paragraphs": [
@@ -2498,13 +2107,10 @@
       "sentence_lengths": [4, 3, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "秦风"
-    ]
+    "chapter": "国风",
+    "section": "秦风"
   },
   {
-    "id": "shijing:131",
     "title": "晨风",
     "author": "佚名",
     "paragraphs": [
@@ -2517,13 +2123,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "秦风"
-    ]
+    "chapter": "国风",
+    "section": "秦风"
   },
   {
-    "id": "shijing:132",
     "title": "无衣",
     "author": "佚名",
     "paragraphs": [
@@ -2536,13 +2139,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "秦风"
-    ]
+    "chapter": "国风",
+    "section": "秦风"
   },
   {
-    "id": "shijing:133",
     "title": "渭阳",
     "author": "佚名",
     "paragraphs": [
@@ -2554,13 +2154,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "秦风"
-    ]
+    "chapter": "国风",
+    "section": "秦风"
   },
   {
-    "id": "shijing:134",
     "title": "权舆",
     "author": "佚名",
     "paragraphs": [
@@ -2572,13 +2169,10 @@
       "sentence_lengths": [3, 4, 6, 3, 4, 3, 4, 6, 3, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "秦风"
-    ]
+    "chapter": "国风",
+    "section": "秦风"
   },
   {
-    "id": "shijing:135",
     "title": "宛丘",
     "author": "佚名",
     "paragraphs": [
@@ -2591,13 +2185,10 @@
       "sentence_lengths": [4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "陈风"
-    ]
+    "chapter": "国风",
+    "section": "陈风"
   },
   {
-    "id": "shijing:136",
     "title": "东门之枌",
     "author": "佚名",
     "paragraphs": [
@@ -2610,13 +2201,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "陈风"
-    ]
+    "chapter": "国风",
+    "section": "陈风"
   },
   {
-    "id": "shijing:137",
     "title": "衡门",
     "author": "佚名",
     "paragraphs": [
@@ -2629,13 +2217,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "陈风"
-    ]
+    "chapter": "国风",
+    "section": "陈风"
   },
   {
-    "id": "shijing:138",
     "title": "东门之池",
     "author": "佚名",
     "paragraphs": [
@@ -2648,13 +2233,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "陈风"
-    ]
+    "chapter": "国风",
+    "section": "陈风"
   },
   {
-    "id": "shijing:139",
     "title": "东门之杨",
     "author": "佚名",
     "paragraphs": [
@@ -2666,13 +2248,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "陈风"
-    ]
+    "chapter": "国风",
+    "section": "陈风"
   },
   {
-    "id": "shijing:140",
     "title": "墓门",
     "author": "佚名",
     "paragraphs": [
@@ -2684,13 +2263,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "陈风"
-    ]
+    "chapter": "国风",
+    "section": "陈风"
   },
   {
-    "id": "shijing:141",
     "title": "防有鹊巢",
     "author": "佚名",
     "paragraphs": [
@@ -2702,13 +2278,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "陈风"
-    ]
+    "chapter": "国风",
+    "section": "陈风"
   },
   {
-    "id": "shijing:142",
     "title": "月出",
     "author": "佚名",
     "paragraphs": [
@@ -2721,13 +2294,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "陈风"
-    ]
+    "chapter": "国风",
+    "section": "陈风"
   },
   {
-    "id": "shijing:143",
     "title": "株林",
     "author": "佚名",
     "paragraphs": [
@@ -2739,13 +2309,10 @@
       "sentence_lengths": [5, 3, 4, 3, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "陈风"
-    ]
+    "chapter": "国风",
+    "section": "陈风"
   },
   {
-    "id": "shijing:144",
     "title": "泽陂",
     "author": "佚名",
     "paragraphs": [
@@ -2758,13 +2325,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "陈风"
-    ]
+    "chapter": "国风",
+    "section": "陈风"
   },
   {
-    "id": "shijing:145",
     "title": "羔裘",
     "author": "佚名",
     "paragraphs": [
@@ -2777,13 +2341,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "桧风"
-    ]
+    "chapter": "国风",
+    "section": "桧风"
   },
   {
-    "id": "shijing:146",
     "title": "素冠",
     "author": "佚名",
     "paragraphs": [
@@ -2796,13 +2357,10 @@
       "sentence_lengths": [5, 5, 5, 5, 5, 6, 5, 5, 6],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "桧风"
-    ]
+    "chapter": "国风",
+    "section": "桧风"
   },
   {
-    "id": "shijing:147",
     "title": "隰有苌楚",
     "author": "佚名",
     "paragraphs": [
@@ -2815,13 +2373,10 @@
       "sentence_lengths": [4, 4, 4, 5, 4, 4, 4, 5, 4, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "桧风"
-    ]
+    "chapter": "国风",
+    "section": "桧风"
   },
   {
-    "id": "shijing:148",
     "title": "匪风",
     "author": "佚名",
     "paragraphs": [
@@ -2834,13 +2389,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "桧风"
-    ]
+    "chapter": "国风",
+    "section": "桧风"
   },
   {
-    "id": "shijing:149",
     "title": "蜉蝣",
     "author": "佚名",
     "paragraphs": [
@@ -2853,13 +2405,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "曹风"
-    ]
+    "chapter": "国风",
+    "section": "曹风"
   },
   {
-    "id": "shijing:150",
     "title": "候人",
     "author": "佚名",
     "paragraphs": [
@@ -2873,13 +2422,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "曹风"
-    ]
+    "chapter": "国风",
+    "section": "曹风"
   },
   {
-    "id": "shijing:151",
     "title": "鳲鸠",
     "author": "佚名",
     "paragraphs": [
@@ -2893,13 +2439,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "曹风"
-    ]
+    "chapter": "国风",
+    "section": "曹风"
   },
   {
-    "id": "shijing:152",
     "title": "下泉",
     "author": "佚名",
     "paragraphs": [
@@ -2913,13 +2456,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "曹风"
-    ]
+    "chapter": "国风",
+    "section": "曹风"
   },
   {
-    "id": "shijing:153",
     "title": "七月",
     "author": "佚名",
     "paragraphs": [
@@ -2945,13 +2485,10 @@
       "sentence_lengths": [4, 4, 5, 5, 4, 4, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 5, 4, 4, 4, 6, 6, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6, 6, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 4, 5, 4, 4, 4, 5, 7, 7, 5, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "豳风"
-    ]
+    "chapter": "国风",
+    "section": "豳风"
   },
   {
-    "id": "shijing:154",
     "title": "鸱鸮",
     "author": "佚名",
     "paragraphs": [
@@ -2965,13 +2502,10 @@
       "sentence_lengths": [4, 4, 4, 4, 5, 6, 4, 4, 4, 4, 4, 4, 4, 4, 6, 4, 4, 4, 5, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "豳风"
-    ]
+    "chapter": "国风",
+    "section": "豳风"
   },
   {
-    "id": "shijing:155",
     "title": "东山",
     "author": "佚名",
     "paragraphs": [
@@ -2989,13 +2523,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "豳风"
-    ]
+    "chapter": "国风",
+    "section": "豳风"
   },
   {
-    "id": "shijing:156",
     "title": "破斧",
     "author": "佚名",
     "paragraphs": [
@@ -3008,13 +2539,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "豳风"
-    ]
+    "chapter": "国风",
+    "section": "豳风"
   },
   {
-    "id": "shijing:157",
     "title": "伐柯",
     "author": "佚名",
     "paragraphs": [
@@ -3026,13 +2554,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "豳风"
-    ]
+    "chapter": "国风",
+    "section": "豳风"
   },
   {
-    "id": "shijing:158",
     "title": "九罭",
     "author": "佚名",
     "paragraphs": [
@@ -3045,13 +2570,10 @@
       "sentence_lengths": [4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 6, 6, 6],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "国风",
-      "豳风"
-    ]
+    "chapter": "国风",
+    "section": "豳风"
   },
   {
-    "id": "shijing:159",
     "title": "狼跋",
     "author": "佚名",
     "paragraphs": [
@@ -3063,13 +2585,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "国风",
-      "豳风"
-    ]
+    "chapter": "国风",
+    "section": "豳风"
   },
   {
-    "id": "shijing:160",
     "title": "鹿鸣",
     "author": "佚名",
     "paragraphs": [
@@ -3082,13 +2601,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6, 4, 6, 4, 4, 4, 4, 4, 4, 4, 7],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "鹿鸣之什"
-    ]
+    "chapter": "小雅",
+    "section": "鹿鸣之什"
   },
   {
-    "id": "shijing:161",
     "title": "四牡",
     "author": "佚名",
     "paragraphs": [
@@ -3103,13 +2619,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鹿鸣之什"
-    ]
+    "chapter": "小雅",
+    "section": "鹿鸣之什"
   },
   {
-    "id": "shijing:162",
     "title": "皇皇者华",
     "author": "佚名",
     "paragraphs": [
@@ -3124,13 +2637,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鹿鸣之什"
-    ]
+    "chapter": "小雅",
+    "section": "鹿鸣之什"
   },
   {
-    "id": "shijing:163",
     "title": "棠棣",
     "author": "佚名",
     "paragraphs": [
@@ -3148,13 +2658,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "鹿鸣之什"
-    ]
+    "chapter": "小雅",
+    "section": "鹿鸣之什"
   },
   {
-    "id": "shijing:164",
     "title": "伐木",
     "author": "佚名",
     "paragraphs": [
@@ -3170,13 +2677,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鹿鸣之什"
-    ]
+    "chapter": "小雅",
+    "section": "鹿鸣之什"
   },
   {
-    "id": "shijing:165",
     "title": "天保",
     "author": "佚名",
     "paragraphs": [
@@ -3192,13 +2696,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 5, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "鹿鸣之什"
-    ]
+    "chapter": "小雅",
+    "section": "鹿鸣之什"
   },
   {
-    "id": "shijing:166",
     "title": "采薇",
     "author": "佚名",
     "paragraphs": [
@@ -3214,13 +2715,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鹿鸣之什"
-    ]
+    "chapter": "小雅",
+    "section": "鹿鸣之什"
   },
   {
-    "id": "shijing:167",
     "title": "出车",
     "author": "佚名",
     "paragraphs": [
@@ -3236,13 +2734,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鹿鸣之什"
-    ]
+    "chapter": "小雅",
+    "section": "鹿鸣之什"
   },
   {
-    "id": "shijing:168",
     "title": "杕杜",
     "author": "佚名",
     "paragraphs": [
@@ -3256,13 +2751,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鹿鸣之什"
-    ]
+    "chapter": "小雅",
+    "section": "鹿鸣之什"
   },
   {
-    "id": "shijing:169",
     "title": "鱼丽",
     "author": "佚名",
     "paragraphs": [
@@ -3276,13 +2768,10 @@
       "sentence_lengths": [4, 2, 4, 3, 4, 2, 4, 3, 4, 2, 4, 3, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "鹿鸣之什"
-    ]
+    "chapter": "小雅",
+    "section": "鹿鸣之什"
   },
   {
-    "id": "shijing:170",
     "title": "南有嘉鱼",
     "author": "佚名",
     "paragraphs": [
@@ -3296,13 +2785,10 @@
       "sentence_lengths": [4, 4, 4, 6, 4, 4, 4, 6, 4, 4, 4, 6, 4, 4, 4, 6],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "南有嘉鱼之什"
-    ]
+    "chapter": "小雅",
+    "section": "南有嘉鱼之什"
   },
   {
-    "id": "shijing:171",
     "title": "南山有台",
     "author": "佚名",
     "paragraphs": [
@@ -3317,13 +2803,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "南有嘉鱼之什"
-    ]
+    "chapter": "小雅",
+    "section": "南有嘉鱼之什"
   },
   {
-    "id": "shijing:172",
     "title": "蓼萧",
     "author": "佚名",
     "paragraphs": [
@@ -3337,13 +2820,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "南有嘉鱼之什"
-    ]
+    "chapter": "小雅",
+    "section": "南有嘉鱼之什"
   },
   {
-    "id": "shijing:173",
     "title": "湛露",
     "author": "佚名",
     "paragraphs": [
@@ -3357,13 +2837,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "南有嘉鱼之什"
-    ]
+    "chapter": "小雅",
+    "section": "南有嘉鱼之什"
   },
   {
-    "id": "shijing:174",
     "title": "彤弓",
     "author": "佚名",
     "paragraphs": [
@@ -3376,13 +2853,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "南有嘉鱼之什"
-    ]
+    "chapter": "小雅",
+    "section": "南有嘉鱼之什"
   },
   {
-    "id": "shijing:175",
     "title": "菁菁者莪",
     "author": "佚名",
     "paragraphs": [
@@ -3396,13 +2870,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "南有嘉鱼之什"
-    ]
+    "chapter": "小雅",
+    "section": "南有嘉鱼之什"
   },
   {
-    "id": "shijing:176",
     "title": "六月",
     "author": "佚名",
     "paragraphs": [
@@ -3418,13 +2889,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "南有嘉鱼之什"
-    ]
+    "chapter": "小雅",
+    "section": "南有嘉鱼之什"
   },
   {
-    "id": "shijing:177",
     "title": "采芑",
     "author": "佚名",
     "paragraphs": [
@@ -3442,13 +2910,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "南有嘉鱼之什"
-    ]
+    "chapter": "小雅",
+    "section": "南有嘉鱼之什"
   },
   {
-    "id": "shijing:178",
     "title": "车攻",
     "author": "佚名",
     "paragraphs": [
@@ -3466,13 +2931,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "南有嘉鱼之什"
-    ]
+    "chapter": "小雅",
+    "section": "南有嘉鱼之什"
   },
   {
-    "id": "shijing:179",
     "title": "吉日",
     "author": "佚名",
     "paragraphs": [
@@ -3486,13 +2948,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "南有嘉鱼之什"
-    ]
+    "chapter": "小雅",
+    "section": "南有嘉鱼之什"
   },
   {
-    "id": "shijing:180",
     "title": "鸿雁",
     "author": "佚名",
     "paragraphs": [
@@ -3505,13 +2964,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鸿雁之什"
-    ]
+    "chapter": "小雅",
+    "section": "鸿雁之什"
   },
   {
-    "id": "shijing:181",
     "title": "庭燎",
     "author": "佚名",
     "paragraphs": [
@@ -3524,13 +2980,10 @@
       "sentence_lengths": [4, 3, 4, 4, 4, 4, 3, 4, 4, 4, 4, 3, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "鸿雁之什"
-    ]
+    "chapter": "小雅",
+    "section": "鸿雁之什"
   },
   {
-    "id": "shijing:182",
     "title": "沔水",
     "author": "佚名",
     "paragraphs": [
@@ -3543,13 +2996,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鸿雁之什"
-    ]
+    "chapter": "小雅",
+    "section": "鸿雁之什"
   },
   {
-    "id": "shijing:183",
     "title": "鹤鸣",
     "author": "佚名",
     "paragraphs": [
@@ -3561,13 +3011,10 @@
       "sentence_lengths": [5, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "鸿雁之什"
-    ]
+    "chapter": "小雅",
+    "section": "鸿雁之什"
   },
   {
-    "id": "shijing:184",
     "title": "祈父",
     "author": "佚名",
     "paragraphs": [
@@ -3580,13 +3027,10 @@
       "sentence_lengths": [2, 5, 5, 4, 2, 5, 5, 4, 2, 3, 5, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "鸿雁之什"
-    ]
+    "chapter": "小雅",
+    "section": "鸿雁之什"
   },
   {
-    "id": "shijing:185",
     "title": "白驹",
     "author": "佚名",
     "paragraphs": [
@@ -3600,13 +3044,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "鸿雁之什"
-    ]
+    "chapter": "小雅",
+    "section": "鸿雁之什"
   },
   {
-    "id": "shijing:186",
     "title": "黄鸟",
     "author": "佚名",
     "paragraphs": [
@@ -3619,13 +3060,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鸿雁之什"
-    ]
+    "chapter": "小雅",
+    "section": "鸿雁之什"
   },
   {
-    "id": "shijing:187",
     "title": "我行其野",
     "author": "佚名",
     "paragraphs": [
@@ -3638,13 +3076,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鸿雁之什"
-    ]
+    "chapter": "小雅",
+    "section": "鸿雁之什"
   },
   {
-    "id": "shijing:188",
     "title": "斯干",
     "author": "佚名",
     "paragraphs": [
@@ -3663,13 +3098,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "鸿雁之什"
-    ]
+    "chapter": "小雅",
+    "section": "鸿雁之什"
   },
   {
-    "id": "shijing:189",
     "title": "无羊",
     "author": "佚名",
     "paragraphs": [
@@ -3683,13 +3115,10 @@
       "sentence_lengths": [5, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "鸿雁之什"
-    ]
+    "chapter": "小雅",
+    "section": "鸿雁之什"
   },
   {
-    "id": "shijing:190",
     "title": "节南山",
     "author": "佚名",
     "paragraphs": [
@@ -3709,13 +3138,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "节南山之什"
-    ]
+    "chapter": "小雅",
+    "section": "节南山之什"
   },
   {
-    "id": "shijing:191",
     "title": "正月",
     "author": "佚名",
     "paragraphs": [
@@ -3738,13 +3164,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 5, 5, 5, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "节南山之什"
-    ]
+    "chapter": "小雅",
+    "section": "节南山之什"
   },
   {
-    "id": "shijing:192",
     "title": "十月之交",
     "author": "佚名",
     "paragraphs": [
@@ -3762,13 +3185,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 8],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "节南山之什"
-    ]
+    "chapter": "小雅",
+    "section": "节南山之什"
   },
   {
-    "id": "shijing:193",
     "title": "雨无正",
     "author": "佚名",
     "paragraphs": [
@@ -3785,13 +3205,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 6, 6, 4, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "节南山之什"
-    ]
+    "chapter": "小雅",
+    "section": "节南山之什"
   },
   {
-    "id": "shijing:194",
     "title": "小旻",
     "author": "佚名",
     "paragraphs": [
@@ -3807,13 +3224,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 6, 4, 5, 5, 5, 5, 7, 6, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "节南山之什"
-    ]
+    "chapter": "小雅",
+    "section": "节南山之什"
   },
   {
-    "id": "shijing:195",
     "title": "小宛",
     "author": "佚名",
     "paragraphs": [
@@ -3829,13 +3243,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "节南山之什"
-    ]
+    "chapter": "小雅",
+    "section": "节南山之什"
   },
   {
-    "id": "shijing:196",
     "title": "小弁",
     "author": "佚名",
     "paragraphs": [
@@ -3853,13 +3264,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "节南山之什"
-    ]
+    "chapter": "小雅",
+    "section": "节南山之什"
   },
   {
-    "id": "shijing:197",
     "title": "巧言",
     "author": "佚名",
     "paragraphs": [
@@ -3875,13 +3283,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "节南山之什"
-    ]
+    "chapter": "小雅",
+    "section": "节南山之什"
   },
   {
-    "id": "shijing:198",
     "title": "何人斯",
     "author": "佚名",
     "paragraphs": [
@@ -3899,13 +3304,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 8, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "节南山之什"
-    ]
+    "chapter": "小雅",
+    "section": "节南山之什"
   },
   {
-    "id": "shijing:199",
     "title": "巷伯",
     "author": "佚名",
     "paragraphs": [
@@ -3922,13 +3324,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "节南山之什"
-    ]
+    "chapter": "小雅",
+    "section": "节南山之什"
   },
   {
-    "id": "shijing:200",
     "title": "谷风",
     "author": "佚名",
     "paragraphs": [
@@ -3941,13 +3340,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "谷风之什"
-    ]
+    "chapter": "小雅",
+    "section": "谷风之什"
   },
   {
-    "id": "shijing:201",
     "title": "蓼莪",
     "author": "佚名",
     "paragraphs": [
@@ -3962,13 +3358,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "谷风之什"
-    ]
+    "chapter": "小雅",
+    "section": "谷风之什"
   },
   {
-    "id": "shijing:202",
     "title": "大东",
     "author": "佚名",
     "paragraphs": [
@@ -3985,13 +3378,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 6, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "谷风之什"
-    ]
+    "chapter": "小雅",
+    "section": "谷风之什"
   },
   {
-    "id": "shijing:203",
     "title": "四月",
     "author": "佚名",
     "paragraphs": [
@@ -4009,13 +3399,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "谷风之什"
-    ]
+    "chapter": "小雅",
+    "section": "谷风之什"
   },
   {
-    "id": "shijing:204",
     "title": "北山",
     "author": "佚名",
     "paragraphs": [
@@ -4031,13 +3418,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "谷风之什"
-    ]
+    "chapter": "小雅",
+    "section": "谷风之什"
   },
   {
-    "id": "shijing:205",
     "title": "无将大车",
     "author": "佚名",
     "paragraphs": [
@@ -4050,13 +3434,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "谷风之什"
-    ]
+    "chapter": "小雅",
+    "section": "谷风之什"
   },
   {
-    "id": "shijing:206",
     "title": "小明",
     "author": "佚名",
     "paragraphs": [
@@ -4074,13 +3455,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "谷风之什"
-    ]
+    "chapter": "小雅",
+    "section": "谷风之什"
   },
   {
-    "id": "shijing:207",
     "title": "鼓钟",
     "author": "佚名",
     "paragraphs": [
@@ -4094,13 +3472,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "谷风之什"
-    ]
+    "chapter": "小雅",
+    "section": "谷风之什"
   },
   {
-    "id": "shijing:208",
     "title": "楚茨",
     "author": "佚名",
     "paragraphs": [
@@ -4122,13 +3497,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "谷风之什"
-    ]
+    "chapter": "小雅",
+    "section": "谷风之什"
   },
   {
-    "id": "shijing:209",
     "title": "信南山",
     "author": "佚名",
     "paragraphs": [
@@ -4144,13 +3516,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "谷风之什"
-    ]
+    "chapter": "小雅",
+    "section": "谷风之什"
   },
   {
-    "id": "shijing:210",
     "title": "甫田",
     "author": "佚名",
     "paragraphs": [
@@ -4168,13 +3537,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "甫田之什"
-    ]
+    "chapter": "小雅",
+    "section": "甫田之什"
   },
   {
-    "id": "shijing:211",
     "title": "大田",
     "author": "佚名",
     "paragraphs": [
@@ -4192,13 +3558,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 5, 5, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "甫田之什"
-    ]
+    "chapter": "小雅",
+    "section": "甫田之什"
   },
   {
-    "id": "shijing:212",
     "title": "瞻彼洛矣",
     "author": "佚名",
     "paragraphs": [
@@ -4211,13 +3574,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "甫田之什"
-    ]
+    "chapter": "小雅",
+    "section": "甫田之什"
   },
   {
-    "id": "shijing:213",
     "title": "裳裳者华",
     "author": "佚名",
     "paragraphs": [
@@ -4231,13 +3591,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 6, 4, 4, 4, 5, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "甫田之什"
-    ]
+    "chapter": "小雅",
+    "section": "甫田之什"
   },
   {
-    "id": "shijing:214",
     "title": "桑扈",
     "author": "佚名",
     "paragraphs": [
@@ -4251,13 +3608,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "甫田之什"
-    ]
+    "chapter": "小雅",
+    "section": "甫田之什"
   },
   {
-    "id": "shijing:215",
     "title": "鸳鸯",
     "author": "佚名",
     "paragraphs": [
@@ -4271,13 +3625,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "甫田之什"
-    ]
+    "chapter": "小雅",
+    "section": "甫田之什"
   },
   {
-    "id": "shijing:216",
     "title": "頍弁",
     "author": "佚名",
     "paragraphs": [
@@ -4293,13 +3644,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "甫田之什"
-    ]
+    "chapter": "小雅",
+    "section": "甫田之什"
   },
   {
-    "id": "shijing:217",
     "title": "车舝",
     "author": "佚名",
     "paragraphs": [
@@ -4314,13 +3662,10 @@
       "sentence_lengths": [6, 6, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "甫田之什"
-    ]
+    "chapter": "小雅",
+    "section": "甫田之什"
   },
   {
-    "id": "shijing:218",
     "title": "青蝇",
     "author": "佚名",
     "paragraphs": [
@@ -4333,13 +3678,10 @@
       "sentence_lengths": [4, 3, 4, 4, 4, 3, 4, 4, 4, 3, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "甫田之什"
-    ]
+    "chapter": "小雅",
+    "section": "甫田之什"
   },
   {
-    "id": "shijing:219",
     "title": "宾之初筵",
     "author": "佚名",
     "paragraphs": [
@@ -4364,13 +3706,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "甫田之什"
-    ]
+    "chapter": "小雅",
+    "section": "甫田之什"
   },
   {
-    "id": "shijing:220",
     "title": "鱼藻",
     "author": "佚名",
     "paragraphs": [
@@ -4383,13 +3722,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鱼藻之什"
-    ]
+    "chapter": "小雅",
+    "section": "鱼藻之什"
   },
   {
-    "id": "shijing:221",
     "title": "采菽",
     "author": "佚名",
     "paragraphs": [
@@ -4404,13 +3740,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "鱼藻之什"
-    ]
+    "chapter": "小雅",
+    "section": "鱼藻之什"
   },
   {
-    "id": "shijing:222",
     "title": "角弓",
     "author": "佚名",
     "paragraphs": [
@@ -4428,13 +3761,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 5, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "鱼藻之什"
-    ]
+    "chapter": "小雅",
+    "section": "鱼藻之什"
   },
   {
-    "id": "shijing:223",
     "title": "菀柳",
     "author": "佚名",
     "paragraphs": [
@@ -4447,13 +3777,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鱼藻之什"
-    ]
+    "chapter": "小雅",
+    "section": "鱼藻之什"
   },
   {
-    "id": "shijing:224",
     "title": "都人士",
     "author": "佚名",
     "paragraphs": [
@@ -4468,13 +3795,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鱼藻之什"
-    ]
+    "chapter": "小雅",
+    "section": "鱼藻之什"
   },
   {
-    "id": "shijing:225",
     "title": "采绿",
     "author": "佚名",
     "paragraphs": [
@@ -4488,13 +3812,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鱼藻之什"
-    ]
+    "chapter": "小雅",
+    "section": "鱼藻之什"
   },
   {
-    "id": "shijing:226",
     "title": "黍苗",
     "author": "佚名",
     "paragraphs": [
@@ -4509,13 +3830,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鱼藻之什"
-    ]
+    "chapter": "小雅",
+    "section": "鱼藻之什"
   },
   {
-    "id": "shijing:227",
     "title": "隰桑",
     "author": "佚名",
     "paragraphs": [
@@ -4529,13 +3847,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鱼藻之什"
-    ]
+    "chapter": "小雅",
+    "section": "鱼藻之什"
   },
   {
-    "id": "shijing:228",
     "title": "白华",
     "author": "佚名",
     "paragraphs": [
@@ -4553,13 +3868,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鱼藻之什"
-    ]
+    "chapter": "小雅",
+    "section": "鱼藻之什"
   },
   {
-    "id": "shijing:229",
     "title": "绵蛮",
     "author": "佚名",
     "paragraphs": [
@@ -4572,13 +3884,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鱼藻之什"
-    ]
+    "chapter": "小雅",
+    "section": "鱼藻之什"
   },
   {
-    "id": "shijing:230",
     "title": "瓠叶",
     "author": "佚名",
     "paragraphs": [
@@ -4592,13 +3901,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鱼藻之什"
-    ]
+    "chapter": "小雅",
+    "section": "鱼藻之什"
   },
   {
-    "id": "shijing:231",
     "title": "渐渐之石",
     "author": "佚名",
     "paragraphs": [
@@ -4611,13 +3917,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鱼藻之什"
-    ]
+    "chapter": "小雅",
+    "section": "鱼藻之什"
   },
   {
-    "id": "shijing:232",
     "title": "苕之华",
     "author": "佚名",
     "paragraphs": [
@@ -4630,13 +3933,10 @@
       "sentence_lengths": [3, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "小雅",
-      "鱼藻之什"
-    ]
+    "chapter": "小雅",
+    "section": "鱼藻之什"
   },
   {
-    "id": "shijing:233",
     "title": "何草不黄",
     "author": "佚名",
     "paragraphs": [
@@ -4650,13 +3950,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "小雅",
-      "鱼藻之什"
-    ]
+    "chapter": "小雅",
+    "section": "鱼藻之什"
   },
   {
-    "id": "shijing:234",
     "title": "文王",
     "author": "佚名",
     "paragraphs": [
@@ -4673,13 +3970,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "文王之什"
-    ]
+    "chapter": "大雅",
+    "section": "文王之什"
   },
   {
-    "id": "shijing:235",
     "title": "大明",
     "author": "佚名",
     "paragraphs": [
@@ -4697,13 +3991,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "文王之什"
-    ]
+    "chapter": "大雅",
+    "section": "文王之什"
   },
   {
-    "id": "shijing:236",
     "title": "绵",
     "author": "佚名",
     "paragraphs": [
@@ -4722,13 +4013,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "文王之什"
-    ]
+    "chapter": "大雅",
+    "section": "文王之什"
   },
   {
-    "id": "shijing:237",
     "title": "棫朴",
     "author": "佚名",
     "paragraphs": [
@@ -4743,13 +4031,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "大雅",
-      "文王之什"
-    ]
+    "chapter": "大雅",
+    "section": "文王之什"
   },
   {
-    "id": "shijing:238",
     "title": "旱麓",
     "author": "佚名",
     "paragraphs": [
@@ -4765,13 +4050,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "大雅",
-      "文王之什"
-    ]
+    "chapter": "大雅",
+    "section": "文王之什"
   },
   {
-    "id": "shijing:239",
     "title": "思齐",
     "author": "佚名",
     "paragraphs": [
@@ -4785,13 +4067,10 @@
       "sentence_lengths": [4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 5, 4, 4, 4, 5, 4, 5, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "文王之什"
-    ]
+    "chapter": "大雅",
+    "section": "文王之什"
   },
   {
-    "id": "shijing:240",
     "title": "皇矣",
     "author": "佚名",
     "paragraphs": [
@@ -4817,13 +4096,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "文王之什"
-    ]
+    "chapter": "大雅",
+    "section": "文王之什"
   },
   {
-    "id": "shijing:241",
     "title": "灵台",
     "author": "佚名",
     "paragraphs": [
@@ -4837,13 +4113,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "大雅",
-      "文王之什"
-    ]
+    "chapter": "大雅",
+    "section": "文王之什"
   },
   {
-    "id": "shijing:242",
     "title": "下武",
     "author": "佚名",
     "paragraphs": [
@@ -4859,13 +4132,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "大雅",
-      "文王之什"
-    ]
+    "chapter": "大雅",
+    "section": "文王之什"
   },
   {
-    "id": "shijing:243",
     "title": "文王有声",
     "author": "佚名",
     "paragraphs": [
@@ -4883,13 +4153,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "文王之什"
-    ]
+    "chapter": "大雅",
+    "section": "文王之什"
   },
   {
-    "id": "shijing:244",
     "title": "生民",
     "author": "佚名",
     "paragraphs": [
@@ -4915,13 +4182,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "生民之什"
-    ]
+    "chapter": "大雅",
+    "section": "生民之什"
   },
   {
-    "id": "shijing:245",
     "title": "行苇",
     "author": "佚名",
     "paragraphs": [
@@ -4939,13 +4203,10 @@
       "sentence_lengths": [4, 5, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "生民之什"
-    ]
+    "chapter": "大雅",
+    "section": "生民之什"
   },
   {
-    "id": "shijing:246",
     "title": "既醉",
     "author": "佚名",
     "paragraphs": [
@@ -4963,13 +4224,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "生民之什"
-    ]
+    "chapter": "大雅",
+    "section": "生民之什"
   },
   {
-    "id": "shijing:247",
     "title": "凫鹥",
     "author": "佚名",
     "paragraphs": [
@@ -4984,13 +4242,10 @@
       "sentence_lengths": [4, 6, 4, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 6, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "生民之什"
-    ]
+    "chapter": "大雅",
+    "section": "生民之什"
   },
   {
-    "id": "shijing:248",
     "title": "假乐",
     "author": "佚名",
     "paragraphs": [
@@ -5004,13 +4259,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "大雅",
-      "生民之什"
-    ]
+    "chapter": "大雅",
+    "section": "生民之什"
   },
   {
-    "id": "shijing:249",
     "title": "公刘",
     "author": "佚名",
     "paragraphs": [
@@ -5032,13 +4284,10 @@
       "sentence_lengths": [3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "生民之什"
-    ]
+    "chapter": "大雅",
+    "section": "生民之什"
   },
   {
-    "id": "shijing:250",
     "title": "泂酌",
     "author": "佚名",
     "paragraphs": [
@@ -5051,13 +4300,10 @@
       "sentence_lengths": [5, 4, 4, 4, 4, 5, 4, 4, 4, 4, 5, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "生民之什"
-    ]
+    "chapter": "大雅",
+    "section": "生民之什"
   },
   {
-    "id": "shijing:251",
     "title": "卷阿",
     "author": "佚名",
     "paragraphs": [
@@ -5077,13 +4323,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 5, 5, 4, 5, 5, 5, 5, 4, 5, 5, 5, 5, 4, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "生民之什"
-    ]
+    "chapter": "大雅",
+    "section": "生民之什"
   },
   {
-    "id": "shijing:252",
     "title": "民劳",
     "author": "佚名",
     "paragraphs": [
@@ -5103,13 +4346,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "大雅",
-      "生民之什"
-    ]
+    "chapter": "大雅",
+    "section": "生民之什"
   },
   {
-    "id": "shijing:253",
     "title": "板",
     "author": "佚名",
     "paragraphs": [
@@ -5135,13 +4375,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "生民之什"
-    ]
+    "chapter": "大雅",
+    "section": "生民之什"
   },
   {
-    "id": "shijing:254",
     "title": "荡",
     "author": "佚名",
     "paragraphs": [
@@ -5167,13 +4404,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6, 5, 4, 5, 4, 5, 4, 4, 6, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 5, 4, 5, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "荡之什"
-    ]
+    "chapter": "大雅",
+    "section": "荡之什"
   },
   {
-    "id": "shijing:255",
     "title": "抑",
     "author": "佚名",
     "paragraphs": [
@@ -5201,13 +4435,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 5, 4, 5, 4, 5, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 6, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "荡之什"
-    ]
+    "chapter": "大雅",
+    "section": "荡之什"
   },
   {
-    "id": "shijing:256",
     "title": "桑柔",
     "author": "佚名",
     "paragraphs": [
@@ -5233,13 +4464,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "荡之什"
-    ]
+    "chapter": "大雅",
+    "section": "荡之什"
   },
   {
-    "id": "shijing:257",
     "title": "云汉",
     "author": "佚名",
     "paragraphs": [
@@ -5265,13 +4493,10 @@
       "sentence_lengths": [4, 4, 2, 2, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "荡之什"
-    ]
+    "chapter": "大雅",
+    "section": "荡之什"
   },
   {
-    "id": "shijing:258",
     "title": "崧高",
     "author": "佚名",
     "paragraphs": [
@@ -5289,13 +4514,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "荡之什"
-    ]
+    "chapter": "大雅",
+    "section": "荡之什"
   },
   {
-    "id": "shijing:259",
     "title": "烝民",
     "author": "佚名",
     "paragraphs": [
@@ -5313,13 +4535,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 6, 4, 4, 6, 5, 4, 4, 4, 4, 4, 5, 4, 4, 4, 5, 4, 4, 4, 5, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "荡之什"
-    ]
+    "chapter": "大雅",
+    "section": "荡之什"
   },
   {
-    "id": "shijing:260",
     "title": "韩奕",
     "author": "佚名",
     "paragraphs": [
@@ -5349,13 +4568,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "荡之什"
-    ]
+    "chapter": "大雅",
+    "section": "荡之什"
   },
   {
-    "id": "shijing:261",
     "title": "江汉",
     "author": "佚名",
     "paragraphs": [
@@ -5371,13 +4587,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "荡之什"
-    ]
+    "chapter": "大雅",
+    "section": "荡之什"
   },
   {
-    "id": "shijing:262",
     "title": "常武",
     "author": "佚名",
     "paragraphs": [
@@ -5393,13 +4606,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "荡之什"
-    ]
+    "chapter": "大雅",
+    "section": "荡之什"
   },
   {
-    "id": "shijing:263",
     "title": "瞻卬",
     "author": "佚名",
     "paragraphs": [
@@ -5423,13 +4633,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "荡之什"
-    ]
+    "chapter": "大雅",
+    "section": "荡之什"
   },
   {
-    "id": "shijing:264",
     "title": "召旻",
     "author": "佚名",
     "paragraphs": [
@@ -5446,13 +4653,10 @@
       "sentence_lengths": [4, 4, 4, 4, 5, 4, 4, 4, 4, 5, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 7, 7, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 5, 7, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "大雅",
-      "荡之什"
-    ]
+    "chapter": "大雅",
+    "section": "荡之什"
   },
   {
-    "id": "shijing:265",
     "title": "清庙",
     "author": "佚名",
     "paragraphs": [
@@ -5463,13 +4667,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 5, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "清庙之什"
-    ]
+    "chapter": "周颂",
+    "section": "清庙之什"
   },
   {
-    "id": "shijing:266",
     "title": "维天之命",
     "author": "佚名",
     "paragraphs": [
@@ -5480,13 +4681,10 @@
       "sentence_lengths": [4, 4, 4, 6, 4, 4, 5, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "清庙之什"
-    ]
+    "chapter": "周颂",
+    "section": "清庙之什"
   },
   {
-    "id": "shijing:267",
     "title": "维清",
     "author": "佚名",
     "paragraphs": [
@@ -5497,13 +4695,10 @@
       "sentence_lengths": [4, 4, 2, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "清庙之什"
-    ]
+    "chapter": "周颂",
+    "section": "清庙之什"
   },
   {
-    "id": "shijing:268",
     "title": "烈文",
     "author": "佚名",
     "paragraphs": [
@@ -5515,13 +4710,10 @@
       "sentence_lengths": [4, 4, 4, 4, 6, 5, 4, 5, 4, 5, 4, 5, 2, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "清庙之什"
-    ]
+    "chapter": "周颂",
+    "section": "清庙之什"
   },
   {
-    "id": "shijing:269",
     "title": "天作",
     "author": "佚名",
     "paragraphs": [
@@ -5532,13 +4724,10 @@
       "sentence_lengths": [4, 4, 3, 4, 3, 5, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "清庙之什"
-    ]
+    "chapter": "周颂",
+    "section": "清庙之什"
   },
   {
-    "id": "shijing:270",
     "title": "昊天有成命",
     "author": "佚名",
     "paragraphs": [
@@ -5549,13 +4738,10 @@
       "sentence_lengths": [5, 4, 5, 6, 3, 3, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "清庙之什"
-    ]
+    "chapter": "周颂",
+    "section": "清庙之什"
   },
   {
-    "id": "shijing:271",
     "title": "我将",
     "author": "佚名",
     "paragraphs": [
@@ -5567,13 +4753,10 @@
       "sentence_lengths": [4, 4, 5, 7, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "清庙之什"
-    ]
+    "chapter": "周颂",
+    "section": "清庙之什"
   },
   {
-    "id": "shijing:272",
     "title": "时迈",
     "author": "佚名",
     "paragraphs": [
@@ -5585,13 +4768,10 @@
       "sentence_lengths": [4, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "清庙之什"
-    ]
+    "chapter": "周颂",
+    "section": "清庙之什"
   },
   {
-    "id": "shijing:273",
     "title": "执竞",
     "author": "佚名",
     "paragraphs": [
@@ -5603,13 +4783,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "周颂",
-      "清庙之什"
-    ]
+    "chapter": "周颂",
+    "section": "清庙之什"
   },
   {
-    "id": "shijing:274",
     "title": "思文",
     "author": "佚名",
     "paragraphs": [
@@ -5620,13 +4797,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 5, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "清庙之什"
-    ]
+    "chapter": "周颂",
+    "section": "清庙之什"
   },
   {
-    "id": "shijing:275",
     "title": "臣工",
     "author": "佚名",
     "paragraphs": [
@@ -5638,13 +4812,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "周颂",
-      "臣工之什"
-    ]
+    "chapter": "周颂",
+    "section": "臣工之什"
   },
   {
-    "id": "shijing:276",
     "title": "噫嘻",
     "author": "佚名",
     "paragraphs": [
@@ -5655,13 +4826,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "周颂",
-      "臣工之什"
-    ]
+    "chapter": "周颂",
+    "section": "臣工之什"
   },
   {
-    "id": "shijing:277",
     "title": "振鹭",
     "author": "佚名",
     "paragraphs": [
@@ -5672,13 +4840,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "周颂",
-      "臣工之什"
-    ]
+    "chapter": "周颂",
+    "section": "臣工之什"
   },
   {
-    "id": "shijing:278",
     "title": "丰年",
     "author": "佚名",
     "paragraphs": [
@@ -5689,13 +4854,10 @@
       "sentence_lengths": [6, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "臣工之什"
-    ]
+    "chapter": "周颂",
+    "section": "臣工之什"
   },
   {
-    "id": "shijing:279",
     "title": "有瞽",
     "author": "佚名",
     "paragraphs": [
@@ -5707,13 +4869,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 2, 2, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "臣工之什"
-    ]
+    "chapter": "周颂",
+    "section": "臣工之什"
   },
   {
-    "id": "shijing:280",
     "title": "潜",
     "author": "佚名",
     "paragraphs": [
@@ -5724,13 +4883,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "周颂",
-      "臣工之什"
-    ]
+    "chapter": "周颂",
+    "section": "臣工之什"
   },
   {
-    "id": "shijing:281",
     "title": "雝",
     "author": "佚名",
     "paragraphs": [
@@ -5742,13 +4898,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "周颂",
-      "臣工之什"
-    ]
+    "chapter": "周颂",
+    "section": "臣工之什"
   },
   {
-    "id": "shijing:282",
     "title": "载见",
     "author": "佚名",
     "paragraphs": [
@@ -5760,13 +4913,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "臣工之什"
-    ]
+    "chapter": "周颂",
+    "section": "臣工之什"
   },
   {
-    "id": "shijing:283",
     "title": "有客",
     "author": "佚名",
     "paragraphs": [
@@ -5778,13 +4928,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "周颂",
-      "臣工之什"
-    ]
+    "chapter": "周颂",
+    "section": "臣工之什"
   },
   {
-    "id": "shijing:284",
     "title": "武",
     "author": "佚名",
     "paragraphs": [
@@ -5795,13 +4942,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "周颂",
-      "臣工之什"
-    ]
+    "chapter": "周颂",
+    "section": "臣工之什"
   },
   {
-    "id": "shijing:285",
     "title": "闵予小子",
     "author": "佚名",
     "paragraphs": [
@@ -5813,13 +4957,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "闵予小子之什"
-    ]
+    "chapter": "周颂",
+    "section": "闵予小子之什"
   },
   {
-    "id": "shijing:286",
     "title": "访落",
     "author": "佚名",
     "paragraphs": [
@@ -5831,13 +4972,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "闵予小子之什"
-    ]
+    "chapter": "周颂",
+    "section": "闵予小子之什"
   },
   {
-    "id": "shijing:287",
     "title": "敬之",
     "author": "佚名",
     "paragraphs": [
@@ -5849,13 +4987,10 @@
       "sentence_lengths": [4, 4, 4, 6, 4, 4, 4, 4, 4, 7, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "闵予小子之什"
-    ]
+    "chapter": "周颂",
+    "section": "闵予小子之什"
   },
   {
-    "id": "shijing:288",
     "title": "小毖",
     "author": "佚名",
     "paragraphs": [
@@ -5866,13 +5001,10 @@
       "sentence_lengths": [3, 4, 4, 4, 5, 4, 5, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "闵予小子之什"
-    ]
+    "chapter": "周颂",
+    "section": "闵予小子之什"
   },
   {
-    "id": "shijing:289",
     "title": "载芟",
     "author": "佚名",
     "paragraphs": [
@@ -5886,13 +5018,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "周颂",
-      "闵予小子之什"
-    ]
+    "chapter": "周颂",
+    "section": "闵予小子之什"
   },
   {
-    "id": "shijing:290",
     "title": "良耜",
     "author": "佚名",
     "paragraphs": [
@@ -5905,13 +5034,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "周颂",
-      "闵予小子之什"
-    ]
+    "chapter": "周颂",
+    "section": "闵予小子之什"
   },
   {
-    "id": "shijing:291",
     "title": "丝衣",
     "author": "佚名",
     "paragraphs": [
@@ -5922,13 +5048,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "周颂",
-      "闵予小子之什"
-    ]
+    "chapter": "周颂",
+    "section": "闵予小子之什"
   },
   {
-    "id": "shijing:292",
     "title": "酌",
     "author": "佚名",
     "paragraphs": [
@@ -5939,13 +5062,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 5, 4, 6],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "闵予小子之什"
-    ]
+    "chapter": "周颂",
+    "section": "闵予小子之什"
   },
   {
-    "id": "shijing:293",
     "title": "桓",
     "author": "佚名",
     "paragraphs": [
@@ -5956,13 +5076,10 @@
       "sentence_lengths": [3, 3, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "闵予小子之什"
-    ]
+    "chapter": "周颂",
+    "section": "闵予小子之什"
   },
   {
-    "id": "shijing:294",
     "title": "赉",
     "author": "佚名",
     "paragraphs": [
@@ -5973,13 +5090,10 @@
       "sentence_lengths": [5, 4, 4, 5, 4, 3],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "周颂",
-      "闵予小子之什"
-    ]
+    "chapter": "周颂",
+    "section": "闵予小子之什"
   },
   {
-    "id": "shijing:295",
     "title": "般",
     "author": "佚名",
     "paragraphs": [
@@ -5990,13 +5104,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "周颂",
-      "闵予小子之什"
-    ]
+    "chapter": "周颂",
+    "section": "闵予小子之什"
   },
   {
-    "id": "shijing:296",
     "title": "駉",
     "author": "佚名",
     "paragraphs": [
@@ -6010,13 +5121,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 3],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "鲁颂",
-      "駉之什"
-    ]
+    "chapter": "鲁颂",
+    "section": "駉之什"
   },
   {
-    "id": "shijing:297",
     "title": "有駜",
     "author": "佚名",
     "paragraphs": [
@@ -6029,13 +5137,10 @@
       "sentence_lengths": [4, 4, 4, 4, 3, 3, 3, 3, 4, 4, 4, 4, 4, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 3, 4, 3, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "鲁颂",
-      "駉之什"
-    ]
+    "chapter": "鲁颂",
+    "section": "駉之什"
   },
   {
-    "id": "shijing:298",
     "title": "泮水",
     "author": "佚名",
     "paragraphs": [
@@ -6053,13 +5158,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "鲁颂",
-      "駉之什"
-    ]
+    "chapter": "鲁颂",
+    "section": "駉之什"
   },
   {
-    "id": "shijing:299",
     "title": "閟宫",
     "author": "佚名",
     "paragraphs": [
@@ -6088,13 +5190,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 4, 4, 5, 5, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 5, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "鲁颂",
-      "駉之什"
-    ]
+    "chapter": "鲁颂",
+    "section": "駉之什"
   },
   {
-    "id": "shijing:300",
     "title": "那",
     "author": "佚名",
     "paragraphs": [
@@ -6108,13 +5207,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     },
-    "tags": [
-      "商颂",
-      "那之什"
-    ]
+    "chapter": "商颂",
+    "section": "那之什"
   },
   {
-    "id": "shijing:301",
     "title": "烈祖",
     "author": "佚名",
     "paragraphs": [
@@ -6128,13 +5224,10 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "商颂",
-      "那之什"
-    ]
+    "chapter": "商颂",
+    "section": "那之什"
   },
   {
-    "id": "shijing:302",
     "title": "玄鸟",
     "author": "佚名",
     "paragraphs": [
@@ -6148,13 +5241,10 @@
       "sentence_lengths": [4, 4, 5, 5, 5, 4, 4, 4, 4, 5, 4, 5, 4, 4, 4, 4, 5, 4, 4, 4, 5, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "商颂",
-      "那之什"
-    ]
+    "chapter": "商颂",
+    "section": "那之什"
   },
   {
-    "id": "shijing:303",
     "title": "长发",
     "author": "佚名",
     "paragraphs": [
@@ -6171,13 +5261,10 @@
       "sentence_lengths": [4, 4, 4, 5, 5, 4, 4, 5, 4, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6, 5, 5, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "商颂",
-      "那之什"
-    ]
+    "chapter": "商颂",
+    "section": "那之什"
   },
   {
-    "id": "shijing:304",
     "title": "殷武",
     "author": "佚名",
     "paragraphs": [
@@ -6193,9 +5280,7 @@
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 4, 4, 6, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
     },
-    "tags": [
-      "商颂",
-      "那之什"
-    ]
+    "chapter": "商颂",
+    "section": "那之什"
   }
 ]

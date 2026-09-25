@@ -15,16 +15,19 @@ dataset copyright holders are identified upstream.
 
 ## Datasets
 
+Raw records retain only normalized core poem fields. Release IDs are generated
+from content. Shijing also retains its chapter and section hierarchy.
+
 | Dataset/files | Original source | Project modifications |
 |---|---|---|
-| `qinhan`: `raw/qinhan/*.json` | `poetry-source`: `source/诗/秦/`, `source/诗/汉/` | Consolidated by dynasty; renamed fields; retained IDs; omitted ancillary fields; added tags and format metadata. |
-| `qts`: `raw/qts/*.json` | `chinese-poetry`: `御定全唐詩/json/` | Added format metadata and editorial corrections; releases add missing IDs. |
-| `quansongci`: `raw/quansongci/ci.song.*.json` | `chinese-poetry`: `宋词/` | Added format metadata; releases normalize titles and add missing IDs. |
+| `qinhan`: `raw/qinhan/*.json` | `poetry-source`: `source/诗/秦/`, `source/诗/汉/` | Consolidated by dynasty; renamed fields; omitted ancillary fields; added format metadata. |
+| `qts`: `raw/qts/*.json` | `chinese-poetry`: `御定全唐詩/json/` | Added format metadata and editorial corrections. |
+| `quansongci`: `raw/quansongci/ci.song.*.json` | `chinese-poetry`: `宋词/` | Renamed `rhythmic` to `title`; added format metadata. |
 | `quansongshi`: `raw/quansongshi/poet.song.*.json` | `chinese-poetry`: `全唐诗/` | Added format metadata; pruned unusable records; includes editorial corrections. |
 | `sc300`: `raw/sc300/sc300.json` | `chinese-poetry`: `宋词/宋词三百首.json` | Renamed and relocated; added format metadata. |
-| `shijing`: `raw/shijing/shijing.json` | `chinese-poetry`: `诗经/shijing.json` | Renamed fields; added author, IDs, tags, and format metadata. |
+| `shijing`: `raw/shijing/shijing.json` | `chinese-poetry`: `诗经/shijing.json` | Renamed fields; added author and format metadata; retained chapter and section hierarchy. |
 | `ts300`: `raw/ts300/ts300.json` | `chinese-poetry`: `全唐诗/唐诗三百首.json` | Renamed and relocated; added format metadata. |
-| `weijinnanbeichao`: `raw/weijinnanbeichao/*.json` | `poetry-source`: `source/诗/三国/`, `source/诗/晋/`, `source/诗/南北朝/` | Consolidated by period; renamed fields; retained IDs; omitted ancillary fields; added tags and format metadata. |
+| `weijinnanbeichao`: `raw/weijinnanbeichao/*.json` | `poetry-source`: `source/诗/三国/`, `source/诗/晋/`, `source/诗/南北朝/` | Consolidated by period; renamed fields; omitted ancillary fields; added format metadata. |
 
 Generated releases validate and compress records and keep each source's terms.
 Update this file before adding a dataset.

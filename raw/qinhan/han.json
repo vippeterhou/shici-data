@@ -1,6 +1,5 @@
 [
   {
-    "id": "cadf00a801703e69386b7df356aacbfe",
     "title": "桂",
     "author": "杨孚",
     "paragraphs": [
@@ -12,13 +11,9 @@
       "sentence_count": 6,
       "sentence_lengths": [4, 4, 4, 4, 3, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a801703e69f8404d431df2fe48",
     "title": "蚺",
     "author": "杨孚",
     "paragraphs": [
@@ -31,13 +26,9 @@
       "sentence_count": 8,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a801703e699f9869f64f40363f",
     "title": "摩厨",
     "author": "杨孚",
     "paragraphs": [
@@ -50,13 +41,9 @@
       "sentence_count": 8,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a801703e6983ccc38e3e7f4c74",
     "title": "榕",
     "author": "杨孚",
     "paragraphs": [
@@ -68,13 +55,9 @@
       "sentence_count": 6,
       "sentence_lengths": [4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a801703e69d7be98391784f6b6",
     "title": "丈草",
     "author": "杨孚",
     "paragraphs": [
@@ -85,13 +68,9 @@
       "sentence_count": 4,
       "sentence_lengths": [4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a801703e694e1560c37c48e4ab",
     "title": "鲛",
     "author": "杨孚",
     "paragraphs": [
@@ -103,13 +82,9 @@
       "sentence_count": 6,
       "sentence_lengths": [4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a801703e693dee50516503e6bb",
     "title": "三薕",
     "author": "杨孚",
     "paragraphs": [
@@ -121,13 +96,9 @@
       "sentence_count": 6,
       "sentence_lengths": [4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a801703e696db4b545876dbfd2",
     "title": "周留",
     "author": "杨孚",
     "paragraphs": [
@@ -138,13 +109,9 @@
       "sentence_count": 4,
       "sentence_lengths": [4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a801703e6955d97d8ae9f2c4cc",
     "title": "鹧鸪",
     "author": "杨孚",
     "paragraphs": [
@@ -155,13 +122,9 @@
       "sentence_count": 4,
       "sentence_lengths": [4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a801703e69123f989d2bd51659",
     "title": "犀",
     "author": "杨孚",
     "paragraphs": [
@@ -175,13 +138,9 @@
       "sentence_count": 10,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a801703e6926b41cbd2958b542",
     "title": "贝",
     "author": "杨孚",
     "paragraphs": [
@@ -195,13 +154,9 @@
       "sentence_count": 10,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a801703e69175141b451e18c6d",
     "title": "象",
     "author": "杨孚",
     "paragraphs": [
@@ -216,13 +171,9 @@
       "sentence_count": 12,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8054f2cf1a7512df908cebb47",
     "title": "思友诗",
     "author": "梁鸿",
     "paragraphs": [
@@ -232,13 +183,9 @@
       "sentence_count": 3,
       "sentence_lengths": [7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8054f2cf100be3805ebdabae6",
     "title": "五噫歌",
     "author": "梁鸿",
     "paragraphs": [
@@ -252,13 +199,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 1, 5, 1, 5, 1, 5, 1, 5, 1],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8054f2cf1c2450071a0e98ac7",
     "title": "适吴诗",
     "author": "梁鸿",
     "paragraphs": [
@@ -280,13 +223,9 @@
       "sentence_count": 26,
       "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a80d96b4d2b285d1ebe55e2838",
     "title": "胡笳十八拍",
     "author": "蔡琰",
     "paragraphs": [
@@ -313,13 +252,9 @@
       "sentence_count": 159,
       "sentence_lengths": [7, 7, 7, 9, 8, 8, 8, 7, 7, 7, 7, 7, 8, 7, 8, 8, 8, 8, 8, 8, 7, 9, 9, 9, 8, 8, 8, 8, 10, 10, 8, 8, 8, 9, 8, 7, 8, 8, 7, 7, 8, 8, 8, 8, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 12, 14, 11, 12, 8, 8, 7, 7, 11, 11, 5, 7, 8, 8, 7, 7, 7, 7, 7, 7, 8, 8, 7, 8, 8, 8, 8, 8, 8, 9, 8, 8, 8, 10, 8, 8, 8, 7, 8, 8, 8, 8, 9, 9, 9, 7, 8, 8, 8, 8, 8, 9, 9, 8, 7, 8, 8, 9, 9, 9, 10, 9, 8, 7, 7, 7, 8, 8, 7, 9, 8, 8, 9, 7, 7, 8, 8, 7, 7, 7, 7, 8, 9, 7, 8, 8, 8, 9, 9, 8, 8, 8, 8, 7, 7, 7, 7, 12, 11, 8, 9, 9, 10],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a80d96b4d27ef0b9445440a7d1",
     "title": "悲愤诗二章（其一）",
     "author": "蔡琰",
     "paragraphs": [
@@ -382,13 +317,9 @@
       "sentence_count": 108,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a80d96b4d2ede69409d0481a8a",
     "title": "悲愤诗二章",
     "author": "蔡琰",
     "paragraphs": [
@@ -416,13 +347,9 @@
       "sentence_count": 38,
       "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a80f0da389f4578269576c3b62",
     "title": "歌",
     "author": "刘友",
     "paragraphs": [
@@ -435,13 +362,9 @@
       "sentence_count": 9,
       "sentence_lengths": [8, 9, 9, 9, 9, 9, 10, 9, 9],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a814220ebdf4578269798ce86d",
     "title": "歌",
     "author": "刘胥",
     "paragraphs": [
@@ -453,13 +376,9 @@
       "sentence_count": 12,
       "sentence_lengths": [6, 6, 8, 7, 6, 4, 4, 7, 7, 7, 6, 3],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8155850a1f45782698bfbff4c",
     "title": "歌",
     "author": "刘细君",
     "paragraphs": [
@@ -470,13 +389,9 @@
       "sentence_count": 6,
       "sentence_lengths": [8, 8, 8, 8, 8, 8],
       "uniform_sentence_length": 8
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a816f164f9f4578269b53847af",
     "title": "歌",
     "author": "枚乘",
     "paragraphs": [
@@ -486,13 +401,9 @@
       "sentence_count": 3,
       "sentence_lengths": [7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8188a8b36d983a8231980aebe",
     "title": "秋风辞",
     "author": "刘彻",
     "paragraphs": [
@@ -510,13 +421,9 @@
       "sentence_count": 9,
       "sentence_lengths": [7, 8, 7, 7, 7, 7, 7, 7, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8188a8b360f72b1f20bc9fc24",
     "title": "瓠子歌",
     "author": "刘彻",
     "paragraphs": [
@@ -531,13 +438,9 @@
       "sentence_count": 22,
       "sentence_lengths": [7, 9, 8, 8, 7, 7, 7, 7, 7, 7, 8, 8, 7, 7, 7, 7, 7, 7, 7, 10, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8188a8b36b77fb9404f083301",
     "title": "天马歌",
     "author": "刘彻",
     "paragraphs": [
@@ -548,13 +451,9 @@
       "sentence_count": 4,
       "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8188a8b363beb457f89e8bc03",
     "title": "西极天马歌",
     "author": "刘彻",
     "paragraphs": [
@@ -564,13 +463,9 @@
       "sentence_count": 4,
       "sentence_lengths": [6, 7, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8188a8b36ebae644d8190b740",
     "title": "李夫人歌",
     "author": "刘彻",
     "paragraphs": [
@@ -582,13 +477,9 @@
       "sentence_count": 4,
       "sentence_lengths": [2, 2, 4, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8188a8b36a0bf76b7656468ca",
     "title": "思奉车子侯歌",
     "author": "刘彻",
     "paragraphs": [
@@ -599,13 +490,9 @@
       "sentence_count": 8,
       "sentence_lengths": [6, 6, 6, 6, 5, 6, 6, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8188a8b362338629873b0ff8c",
     "title": "柏梁诗",
     "author": "刘彻",
     "paragraphs": [
@@ -621,13 +508,9 @@
       "sentence_count": 26,
       "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8188a8b369bca0896ceed43e5",
     "title": "天地",
     "author": "刘彻",
     "paragraphs": [
@@ -646,13 +529,9 @@
       "sentence_count": 27,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 7, 7, 7, 7, 4, 4, 4, 4, 7, 3, 3, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8188a8b36c964db777c84b10e",
     "title": " 天马二首·其一",
     "author": "刘彻",
     "paragraphs": [
@@ -664,13 +543,9 @@
       "sentence_count": 12,
       "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
       "uniform_sentence_length": 3
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8188a8b368775edc1f65eb3a1",
     "title": "天马二首·其二",
     "author": "刘彻",
     "paragraphs": [
@@ -685,13 +560,9 @@
       "sentence_count": 24,
       "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
       "uniform_sentence_length": 3
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8188a8b3679491eb3a86f39bb",
     "title": "华晔晔",
     "author": "刘彻",
     "paragraphs": [
@@ -710,13 +581,9 @@
       "sentence_count": 38,
       "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
       "uniform_sentence_length": 3
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a81ac9a0e839f720c09310f319",
     "title": "定情诗",
     "author": "繁钦",
     "paragraphs": [
@@ -757,13 +624,9 @@
       "sentence_count": 64,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a81ac9a0e8961df27c80038225",
     "title": "槐树诗",
     "author": "繁钦",
     "paragraphs": [
@@ -774,13 +637,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a81ac9a0e89088bfd1541d7038",
     "title": "咏蕙",
     "author": "繁钦",
     "paragraphs": [
@@ -796,13 +655,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a81ac9a0e8357d2d614d19bc8f",
     "title": "赠梅公明",
     "author": "繁钦",
     "paragraphs": [
@@ -817,13 +672,9 @@
       "sentence_count": 12,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a81b2821e89af08d21d9fdecb2",
     "title": "与刘伯宗绝交诗",
     "author": "朱穆",
     "paragraphs": [
@@ -840,13 +691,9 @@
       "sentence_count": 16,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a81d16744df45782698e12dab6",
     "title": "歌",
     "author": "华容夫人",
     "paragraphs": [
@@ -856,13 +703,9 @@
       "sentence_count": 4,
       "sentence_lengths": [6, 6, 9, 11],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a81ed53ef19659a970fefee752",
     "title": "美严王思诗",
     "author": "应季先",
     "paragraphs": [
@@ -874,13 +717,9 @@
       "sentence_count": 6,
       "sentence_lengths": [4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a822ac29efae037a10414e4bd8",
     "title": "七哀诗三首",
     "author": "王粲",
     "paragraphs": [
@@ -919,13 +758,9 @@
       "sentence_count": 57,
       "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a822ac29ef35cab22890d23e1a",
     "title": "杂诗",
     "author": "王粲",
     "paragraphs": [
@@ -942,13 +777,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a822ac29ef7e768302b6b73c7b",
     "title": "赠蔡子笃",
     "author": "王粲",
     "paragraphs": [
@@ -978,13 +809,9 @@
       "sentence_count": 42,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a822ac29efd29406fd84f7b3b1",
     "title": "赠士孙文始",
     "author": "王粲",
     "paragraphs": [
@@ -1022,13 +849,9 @@
       "sentence_count": 58,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a822ac29efe039af9425e0ab02",
     "title": "从军诗五首",
     "author": "王粲",
     "paragraphs": [
@@ -1102,13 +925,9 @@
       "sentence_count": 125,
       "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a822ac29ef8072b65cfb5ea6ec",
     "title": "咏史",
     "author": "王粲",
     "paragraphs": [
@@ -1127,13 +946,9 @@
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a82ff5de20f4578269944e17b6",
     "title": "歌",
     "author": "傅毅",
     "paragraphs": [
@@ -1143,13 +958,9 @@
       "sentence_count": 4,
       "sentence_lengths": [7, 8, 8, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a82ff5de208a4f900f637b4e56",
     "title": "迪志诗",
     "author": "傅毅",
     "paragraphs": [
@@ -1190,13 +1001,9 @@
       "sentence_count": 64,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edf96d97f4b12ebf3b",
     "title": "古诗十九首·迢迢牵牛星",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1210,13 +1017,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed721924843444f8ec",
     "title": "古诗为焦仲卿妻作·孔雀东南飞",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1257,13 +1060,9 @@
       "sentence_count": 357,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed7ef4dff0103a3112",
     "title": "长歌行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1277,13 +1076,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed85706290b6ea052d",
     "title": "江南",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1295,13 +1090,9 @@
       "sentence_count": 7,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed0eb31bdd5ccecdc9",
     "title": "思悲翁",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1312,13 +1103,9 @@
       "sentence_count": 10,
       "sentence_lengths": [3, 2, 7, 4, 3, 3, 3, 3, 3, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edab8c6ac22dd5aa95",
     "title": "艾如张",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1329,13 +1116,9 @@
       "sentence_count": 8,
       "sentence_lengths": [4, 3, 3, 3, 7, 7, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed7a82f77a439579dc",
     "title": "上之回",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1346,13 +1129,9 @@
       "sentence_count": 12,
       "sentence_lengths": [3, 3, 3, 3, 5, 3, 3, 3, 3, 3, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed44085b5a7a4d07f9",
     "title": "翁离",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1362,13 +1141,9 @@
       "sentence_count": 3,
       "sentence_lengths": [7, 7, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed55a2e45b24995ee1",
     "title": "战城南",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1386,13 +1161,9 @@
       "sentence_count": 20,
       "sentence_lengths": [3, 3, 7, 4, 4, 5, 7, 4, 4, 5, 5, 3, 3, 3, 7, 7, 4, 5, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edf3c0fb2ee0ea36e2",
     "title": "巫山高",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1404,13 +1175,9 @@
       "sentence_count": 13,
       "sentence_lengths": [3, 3, 3, 3, 4, 4, 5, 3, 4, 4, 4, 7, 3],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed94dbaa9f82b9b520",
     "title": "将进酒",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1421,13 +1188,9 @@
       "sentence_count": 10,
       "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3, 4, 3],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edfba2f85e3f7681d8",
     "title": "君马黄",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1439,13 +1202,9 @@
       "sentence_count": 10,
       "sentence_lengths": [3, 3, 7, 7, 5, 4, 5, 5, 4, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edca6084310055c91b",
     "title": "芳树",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1457,13 +1216,9 @@
       "sentence_count": 14,
       "sentence_lengths": [9, 6, 3, 4, 3, 4, 4, 4, 7, 4, 4, 4, 5, 2],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed373d7c362fa56aca",
     "title": "有所思",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1481,13 +1236,9 @@
       "sentence_count": 17,
       "sentence_lengths": [3, 5, 5, 5, 5, 5, 5, 3, 5, 4, 4, 5, 4, 5, 3, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed1a064aaa4a8715c7",
     "title": "圣人出",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1499,13 +1250,9 @@
       "sentence_count": 13,
       "sentence_lengths": [3, 3, 3, 3, 3, 4, 7, 7, 3, 3, 7, 3, 3],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed3dfdb0d5ffa569ab",
     "title": "上邪",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1516,13 +1263,9 @@
       "sentence_count": 8,
       "sentence_lengths": [2, 6, 5, 3, 4, 7, 3, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edd40d2c1b7216f9f8",
     "title": "临高台",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1533,13 +1276,9 @@
       "sentence_count": 7,
       "sentence_lengths": [5, 7, 7, 7, 4, 6, 3],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed8ac1e99f3d6f657e",
     "title": "远如期",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1551,13 +1290,9 @@
       "sentence_count": 15,
       "sentence_lengths": [3, 3, 4, 4, 4, 3, 3, 4, 4, 4, 4, 3, 3, 6, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed86078da1959a9c7e",
     "title": "石留",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1568,13 +1303,9 @@
       "sentence_count": 6,
       "sentence_lengths": [6, 7, 6, 6, 6, 14],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed31312bfdb548ce18",
     "title": "箜篌引",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1584,13 +1315,9 @@
       "sentence_count": 4,
       "sentence_lengths": [4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed8570629075339f3c",
     "title": "江南",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1601,13 +1328,9 @@
       "sentence_count": 7,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed6a92ee0e9563f051",
     "title": "折杨柳行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1625,13 +1348,9 @@
       "sentence_count": 18,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed34d5a071cee6bc28",
     "title": "西门行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1650,13 +1369,9 @@
       "sentence_count": 43,
       "sentence_lengths": [3, 3, 5, 4, 3, 3, 3, 5, 5, 3, 3, 5, 5, 5, 5, 5, 5, 7, 7, 3, 3, 5, 4, 3, 5, 6, 5, 3, 3, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed3148c36d567a5c9e",
     "title": "东门行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1672,13 +1387,9 @@
       "sentence_count": 18,
       "sentence_lengths": [3, 3, 3, 3, 6, 7, 5, 7, 6, 7, 6, 7, 3, 4, 1, 1, 4, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed608b1e677672b614",
     "title": "妇病行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1699,13 +1410,9 @@
       "sentence_count": 26,
       "sentence_lengths": [6, 7, 6, 8, 7, 6, 6, 4, 4, 2, 4, 4, 4, 5, 4, 5, 8, 4, 4, 8, 7, 5, 5, 5, 4, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed032e3398ea7d13d1",
     "title": "孤儿行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1725,13 +1432,9 @@
       "sentence_count": 52,
       "sentence_lengths": [3, 4, 4, 4, 3, 3, 4, 6, 4, 5, 4, 5, 4, 4, 5, 5, 3, 5, 6, 5, 5, 3, 4, 4, 4, 7, 3, 4, 4, 4, 4, 4, 4, 6, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 6, 5, 6, 6],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed17d2f8b47137a70b",
     "title": "雁门太守行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1750,13 +1453,9 @@
       "sentence_count": 47,
       "sentence_lengths": [5, 5, 8, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 6, 5, 5, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005eda57120a37035af54",
     "title": "艳歌何尝行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1774,13 +1473,9 @@
       "sentence_count": 18,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edabe86d5b043c98e1",
     "title": "飞来双白鹄。乃从",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1795,13 +1490,9 @@
       "sentence_count": 25,
       "sentence_lengths": [3, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edaf82a39e65c1c3c4",
     "title": "艳歌行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1817,13 +1508,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed7ce108851b6db4e6",
     "title": "白头吟",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1845,13 +1532,9 @@
       "sentence_count": 26,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed879770956259ed8b",
     "title": "怨诗行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1866,13 +1549,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed6682fa424618a952",
     "title": "满歌行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1902,13 +1581,9 @@
       "sentence_count": 99,
       "sentence_lengths": [5, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 4, 8, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 5, 4, 4, 5, 4, 4, 5, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 6, 4, 4, 4, 4, 4, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed54c2963bd1a27854",
     "title": "淮南王",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1921,13 +1596,9 @@
       "sentence_count": 16,
       "sentence_lengths": [3, 3, 7, 7, 7, 3, 3, 7, 7, 7, 8, 3, 3, 8, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edcb5262afee13c1ff",
     "title": "俳歌辞",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1938,13 +1609,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed644c95bc31380f88",
     "title": "蝶蝶行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1955,13 +1622,9 @@
       "sentence_count": 8,
       "sentence_lengths": [7, 9, 5, 8, 7, 3, 6, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed8ed6173fb31ffc26",
     "title": "梁甫吟",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1976,13 +1639,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed6178ef4c93272e7d",
     "title": "悲歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -1995,13 +1654,9 @@
       "sentence_count": 8,
       "sentence_lengths": [6, 6, 4, 4, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005eda4a22b465880ea08",
     "title": "前缓声歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2013,13 +1668,9 @@
       "sentence_count": 11,
       "sentence_lengths": [4, 6, 8, 4, 8, 7, 6, 4, 6, 5, 9],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed773c98e80d7234ca",
     "title": "枯鱼过河泣",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2030,13 +1681,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005eddcdc8eb24d8056ee",
     "title": "乐府",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2047,13 +1694,9 @@
       "sentence_count": 7,
       "sentence_lengths": [5, 5, 6, 7, 3, 11, 11],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005eddb809ef8819e798a",
     "title": "离歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2065,13 +1708,9 @@
       "sentence_count": 6,
       "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed883e191645ccbc1b",
     "title": "猛虎行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2081,13 +1720,9 @@
       "sentence_count": 4,
       "sentence_lengths": [6, 6, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed883e19169bc101fc",
     "title": "猛虎行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2098,13 +1733,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed9359068e54bfa855",
     "title": "上留田行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2115,13 +1746,9 @@
       "sentence_count": 5,
       "sentence_lengths": [6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed9359068ebd4da37f",
     "title": "上留田行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2132,13 +1759,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed6dcd9b0395ced487",
     "title": "古八变歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2152,13 +1775,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed237e993220f8626f",
     "title": "古歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2171,13 +1790,9 @@
       "sentence_count": 18,
       "sentence_lengths": [3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed237e9932c64c05fe",
     "title": "古歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2189,13 +1804,9 @@
       "sentence_count": 11,
       "sentence_lengths": [7, 3, 3, 8, 4, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edd8b575b5c4c7e957",
     "title": "艳歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2211,13 +1822,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005eda26f77b189606236",
     "title": "古咄唶歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2229,13 +1836,9 @@
       "sentence_count": 6,
       "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edfcf9a2d646e4816b",
     "title": "古胡无人行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2245,13 +1848,9 @@
       "sentence_count": 4,
       "sentence_lengths": [3, 3, 3, 3],
       "uniform_sentence_length": 3
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed5f3ae97b7578c02d",
     "title": "古步出夏门行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2261,13 +1860,9 @@
       "sentence_count": 6,
       "sentence_lengths": [4, 4, 4, 4, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed2fbeba1fd549de7b",
     "title": "古新成安乐宫",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2277,13 +1872,9 @@
       "sentence_count": 2,
       "sentence_lengths": [4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edf87df9e4625ff20a",
     "title": "视刀镮歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2294,13 +1885,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed39f591dd550e24ca",
     "title": "古乐府罩辞",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2311,13 +1898,9 @@
       "sentence_count": 10,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005eda16bb56973be8c47",
     "title": "鸡鸣歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2329,13 +1912,9 @@
       "sentence_count": 6,
       "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed41f1cb8d461fc012",
     "title": "古艳歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2346,13 +1925,9 @@
       "sentence_count": 8,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed41f1cb8d8d953094",
     "title": "古艳歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2362,13 +1937,9 @@
       "sentence_count": 6,
       "sentence_lengths": [4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed41f1cb8d46adefd6",
     "title": "古艳歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2379,13 +1950,9 @@
       "sentence_count": 4,
       "sentence_lengths": [4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed41f1cb8dd39bb386",
     "title": "古艳歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2397,13 +1964,9 @@
       "sentence_count": 6,
       "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed41f1cb8dd6d31021",
     "title": "古艳歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2413,13 +1976,9 @@
       "sentence_count": 2,
       "sentence_lengths": [5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed41f1cb8dc1dbea64",
     "title": "古艳歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2429,13 +1988,9 @@
       "sentence_count": 2,
       "sentence_lengths": [5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edf613edf2bfcd060c",
     "title": "古乐府诗",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2446,13 +2001,9 @@
       "sentence_count": 7,
       "sentence_lengths": [3, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edf613edf245fede5f",
     "title": "古乐府诗",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2462,13 +2013,9 @@
       "sentence_count": 1,
       "sentence_lengths": [7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed9bc6002e2c19fbc4",
     "title": "古乐府",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2478,13 +2025,9 @@
       "sentence_count": 4,
       "sentence_lengths": [3, 3, 3, 2],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed9bc6002eabeba310",
     "title": "古乐府",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2494,13 +2037,9 @@
       "sentence_count": 2,
       "sentence_lengths": [3, 3],
       "uniform_sentence_length": 3
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed9bc6002e1c3ddb4d",
     "title": "古乐府",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2511,13 +2050,9 @@
       "sentence_count": 4,
       "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed9bc6002e02d65fda",
     "title": "古乐府",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2527,13 +2062,9 @@
       "sentence_count": 2,
       "sentence_lengths": [5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed9bc6002e7f60f192",
     "title": "古乐府",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2543,13 +2074,9 @@
       "sentence_count": 2,
       "sentence_lengths": [5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed9bc6002e8d010869",
     "title": "古乐府",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2559,13 +2086,9 @@
       "sentence_count": 1,
       "sentence_lengths": [7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed3677fc18066c850c",
     "title": "古妍歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2575,13 +2098,9 @@
       "sentence_count": 2,
       "sentence_lengths": [5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed6459e11e9380f46d",
     "title": "乐府歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2591,13 +2110,9 @@
       "sentence_count": 2,
       "sentence_lengths": [5, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed6459e11eee19cf1b",
     "title": "乐府歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2607,13 +2122,9 @@
       "sentence_count": 2,
       "sentence_lengths": [5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edce4cba9622c65b27",
     "title": "《汉书》歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2623,13 +2134,9 @@
       "sentence_count": 2,
       "sentence_lengths": [3, 3],
       "uniform_sentence_length": 3
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed237e9932401537fe",
     "title": "古歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2639,13 +2146,9 @@
       "sentence_count": 4,
       "sentence_lengths": [4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed237e993257a9fd4f",
     "title": "古歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2655,13 +2158,9 @@
       "sentence_count": 2,
       "sentence_lengths": [5, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed237e9932360f8877",
     "title": "古歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2671,13 +2170,9 @@
       "sentence_count": 1,
       "sentence_lengths": [7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed237e99321baf5347",
     "title": "古歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2687,13 +2182,9 @@
       "sentence_count": 1,
       "sentence_lengths": [5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edf4578269ee0fcbcd",
     "title": "歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2703,13 +2194,9 @@
       "sentence_count": 2,
       "sentence_lengths": [5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ede377abc01fbdaef8",
     "title": "茂陵中书歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2719,13 +2206,9 @@
       "sentence_count": 2,
       "sentence_lengths": [4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed30b2b7905eef8821",
     "title": "古博异辩游",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2735,13 +2218,9 @@
       "sentence_count": 2,
       "sentence_lengths": [7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edfbccc53b2216f57b",
     "title": "古董逃行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2751,13 +2230,9 @@
       "sentence_count": 2,
       "sentence_lengths": [6, 6],
       "uniform_sentence_length": 6
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed9bc6002e81790133",
     "title": "古乐府",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2767,13 +2242,9 @@
       "sentence_count": 2,
       "sentence_lengths": [5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed237e9932025d878b",
     "title": "古歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2783,13 +2254,9 @@
       "sentence_count": 2,
       "sentence_lengths": [5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed237e9932ff1a5330",
     "title": "古歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2800,13 +2267,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed5844d020639d56c9",
     "title": "饮马长城窟行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2825,13 +2288,9 @@
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed874ea3650c22b01c",
     "title": "相逢行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2855,13 +2314,9 @@
       "sentence_count": 30,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edd742d83b290242e5",
     "title": "善哉行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2882,13 +2337,9 @@
       "sentence_count": 24,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edb2d04e56c2dc741f",
     "title": "平陵东",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2905,13 +2356,9 @@
       "sentence_count": 11,
       "sentence_lengths": [3, 3, 7, 7, 7, 3, 3, 7, 3, 3, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed5520ebf52eae0440",
     "title": "日出入",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2927,13 +2374,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 6, 5, 4, 4, 4, 6, 6, 4, 4, 4, 4, 1, 6],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed921f0f3f24675ea4",
     "title": "天门",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2954,13 +2397,9 @@
       "sentence_count": 32,
       "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 6, 6, 3, 3, 3, 3, 5, 5, 6, 6, 5, 5, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edd82af4c886a816b2",
     "title": "青阳",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2972,13 +2411,9 @@
       "sentence_count": 12,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edbf77aadecae9ed95",
     "title": "景星",
     "author": "两汉乐府",
     "paragraphs": [
@@ -2996,13 +2431,9 @@
       "sentence_count": 24,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edc93eb8aad9a4eb2b",
     "title": "朱鹭",
     "author": "两汉乐府",
     "paragraphs": [
@@ -3013,13 +2444,9 @@
       "sentence_count": 7,
       "sentence_lengths": [2, 3, 6, 3, 3, 3, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed55a2e45b83307202",
     "title": "战城南",
     "author": "两汉乐府",
     "paragraphs": [
@@ -3037,13 +2464,9 @@
       "sentence_count": 20,
       "sentence_lengths": [3, 3, 7, 4, 4, 5, 7, 4, 4, 5, 5, 3, 3, 3, 7, 7, 4, 5, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edf3c0fb2e1e68d6ac",
     "title": "巫山高",
     "author": "两汉乐府",
     "paragraphs": [
@@ -3057,13 +2480,9 @@
       "sentence_count": 12,
       "sentence_lengths": [3, 3, 3, 3, 4, 4, 5, 7, 4, 4, 7, 3],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005eddf51879ee8820395",
     "title": "上陵",
     "author": "两汉乐府",
     "paragraphs": [
@@ -3080,13 +2499,9 @@
       "sentence_count": 22,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 7, 3, 6, 6, 4, 5, 3, 3, 3, 3, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed1cd7f241133bb3cc",
     "title": "雉子班",
     "author": "两汉乐府",
     "paragraphs": [
@@ -3102,13 +2517,9 @@
       "sentence_count": 15,
       "sentence_lengths": [2, 3, 4, 5, 2, 7, 3, 4, 3, 5, 5, 2, 5, 6, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ede9e1f895cf1b6095",
     "title": "东光",
     "author": "两汉乐府",
     "paragraphs": [
@@ -3120,13 +2531,9 @@
       "sentence_count": 6,
       "sentence_lengths": [3, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edd0e750f68205c4ff",
     "title": "薤露",
     "author": "两汉乐府",
     "paragraphs": [
@@ -3137,13 +2544,9 @@
       "sentence_count": 4,
       "sentence_lengths": [3, 3, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005edbf1e4d3b8016d197",
     "title": "蒿里",
     "author": "两汉乐府",
     "paragraphs": [
@@ -3154,13 +2557,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 7, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed879770957d92d09f",
     "title": "怨诗行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -3175,13 +2574,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed2dbe9086678e4173",
     "title": "七日夜女歌·其一",
     "author": "两汉乐府",
     "paragraphs": [
@@ -3192,13 +2587,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed29c75b10df4d408c",
     "title": "七日夜女歌·其二",
     "author": "两汉乐府",
     "paragraphs": [
@@ -3209,13 +2600,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed66d13715123e025f",
     "title": "伤歌行",
     "author": "两汉乐府",
     "paragraphs": [
@@ -3233,13 +2620,9 @@
       "sentence_count": 18,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed4fb4b894b410ef6b",
     "title": "休洗红二首",
     "author": "两汉乐府",
     "paragraphs": [
@@ -3256,13 +2639,9 @@
       "sentence_count": 14,
       "sentence_lengths": [2, 3, 5, 5, 5, 7, 7, 2, 3, 5, 5, 5, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8349005ed221401f1c0b8f102",
     "title": "匈奴歌",
     "author": "两汉乐府",
     "paragraphs": [
@@ -3273,13 +2652,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 7, 5, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a834a1d5c4f457826946c2e0b0",
     "title": "歌",
     "author": "司马相如",
     "paragraphs": [
@@ -3290,13 +2665,9 @@
       "sentence_count": 5,
       "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a834a1d5c4f93adc55ff792653",
     "title": "琴歌二首",
     "author": "司马相如",
     "paragraphs": [
@@ -3308,13 +2679,9 @@
       "sentence_count": 6,
       "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a834a1d5c4c7de7fdd2da1cc34",
     "title": "凤求凰",
     "author": "司马相如",
     "paragraphs": [
@@ -3338,13 +2705,9 @@
       "sentence_count": 30,
       "sentence_lengths": [5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8369d326ff45782690134fb68",
     "title": "歌",
     "author": "李陵",
     "paragraphs": [
@@ -3355,13 +2718,9 @@
       "sentence_count": 5,
       "sentence_lengths": [7, 7, 7, 7, 11],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8379be159974bbc145ab319a7",
     "title": "歌二首为望卿作",
     "author": "刘去",
     "paragraphs": [
@@ -3371,13 +2730,9 @@
       "sentence_count": 8,
       "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3],
       "uniform_sentence_length": 3
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8379be159974bbc149f299f6d",
     "title": "歌二首为望卿作",
     "author": "刘去",
     "paragraphs": [
@@ -3388,13 +2743,9 @@
       "sentence_count": 12,
       "sentence_lengths": [3, 3, 3, 3, 3, 3, 4, 3, 3, 3, 3, 3],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a837bf95faf4578269a23039c7",
     "title": "歌",
     "author": "东方朔",
     "paragraphs": [
@@ -3404,13 +2755,9 @@
       "sentence_count": 4,
       "sentence_lengths": [4, 5, 9, 10],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a837bf95fa8cf166b29108497f",
     "title": "嗟伯夷",
     "author": "东方朔",
     "paragraphs": [
@@ -3420,13 +2767,9 @@
       "sentence_count": 3,
       "sentence_lengths": [8, 8, 8],
       "uniform_sentence_length": 8
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a837bf95fa8c487bd700a3066b",
     "title": "楚辞·七谏·其一·初放",
     "author": "东方朔",
     "paragraphs": [
@@ -3456,13 +2799,9 @@
       "sentence_count": 42,
       "sentence_lengths": [5, 4, 5, 4, 5, 4, 5, 4, 7, 6, 5, 4, 5, 4, 5, 4, 6, 4, 5, 4, 5, 5, 3, 3, 5, 4, 5, 4, 5, 4, 6, 5, 7, 6, 6, 6, 6, 5, 5, 4, 7, 6],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a837bf95fa41cfff4c98875901",
     "title": "楚辞·七谏·其二·沉江",
     "author": "东方朔",
     "paragraphs": [
@@ -3511,13 +2850,9 @@
       "sentence_count": 80,
       "sentence_lengths": [7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 8, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 7, 8, 7, 7, 6, 7, 6, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a837bf95fa512a648f9266d028",
     "title": "楚辞·七谏·其三·怨世",
     "author": "东方朔",
     "paragraphs": [
@@ -3560,13 +2895,9 @@
       "sentence_count": 68,
       "sentence_lengths": [7, 6, 7, 6, 7, 7, 9, 7, 8, 8, 7, 6, 8, 7, 7, 8, 6, 5, 7, 7, 9, 7, 8, 8, 7, 7, 8, 7, 7, 6, 9, 6, 8, 6, 7, 7, 8, 6, 7, 6, 7, 6, 7, 6, 6, 6, 7, 6, 8, 7, 7, 6, 8, 8, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 8, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a837bf95fa41c648509094a232",
     "title": "楚辞·七谏·其四·怨思",
     "author": "东方朔",
     "paragraphs": [
@@ -3583,13 +2914,9 @@
       "sentence_count": 16,
       "sentence_lengths": [6, 6, 7, 6, 8, 6, 7, 6, 7, 6, 7, 6, 8, 6, 7, 6],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a837bf95faa24e9a76647a361f",
     "title": "楚辞·七谏·其五·自悲",
     "author": "东方朔",
     "paragraphs": [
@@ -3632,13 +2959,9 @@
       "sentence_count": 68,
       "sentence_lengths": [7, 6, 7, 6, 7, 6, 9, 6, 7, 8, 7, 6, 8, 8, 8, 6, 8, 6, 7, 6, 6, 9, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 8, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a837bf95fa7f78f2d80fd5d8a5",
     "title": "楚辞·七谏·其六·哀命",
     "author": "东方朔",
     "paragraphs": [
@@ -3667,13 +2990,9 @@
       "sentence_count": 40,
       "sentence_lengths": [7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 7, 7, 6, 7, 6, 7, 7, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a837bf95fa966467df44b7166f",
     "title": "楚辞·七谏·其七·谬谏",
     "author": "东方朔",
     "paragraphs": [
@@ -3732,13 +3051,9 @@
       "sentence_count": 99,
       "sentence_lengths": [7, 7, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 7, 8, 6, 7, 6, 7, 6, 7, 6, 7, 7, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 6, 7, 7, 7, 6, 5, 6, 5, 7, 5, 7, 6, 6, 7, 7, 6, 8, 6, 7, 8, 8, 8, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 8, 6, 2, 8, 4, 6, 6, 5, 4, 5, 4, 5, 4, 5, 4, 7, 6, 6, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a838297869f457826912ca6604",
     "title": "歌",
     "author": "刘旦",
     "paragraphs": [
@@ -3748,13 +3063,9 @@
       "sentence_count": 3,
       "sentence_lengths": [7, 3, 13],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a83f916f1be99405adada7b02a",
     "title": "九曲歌",
     "author": "李尤",
     "paragraphs": [
@@ -3764,13 +3075,9 @@
       "sentence_count": 3,
       "sentence_lengths": [7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a83f916f1b3ed7362423044d50",
     "title": "武功歌",
     "author": "李尤",
     "paragraphs": [
@@ -3781,13 +3088,9 @@
       "sentence_count": 9,
       "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a840c8626e9f60dbb1472cf05c",
     "title": "赠从弟",
     "author": "刘桢",
     "paragraphs": [
@@ -3811,13 +3114,9 @@
       "sentence_count": 27,
       "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a840c8626eee1a228d6b7721d8",
     "title": "赠徐干",
     "author": "刘桢",
     "paragraphs": [
@@ -3837,13 +3136,9 @@
       "sentence_count": 22,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a844487f006c2035e0f4febe34",
     "title": "宝鼎诗",
     "author": "班固",
     "paragraphs": [
@@ -3855,13 +3150,9 @@
       "sentence_count": 6,
       "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a844487f00d12df5e81d91e6ee",
     "title": "白雉诗",
     "author": "班固",
     "paragraphs": [
@@ -3873,13 +3164,9 @@
       "sentence_count": 7,
       "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a844487f000dc27f3438d272fa",
     "title": "论功歌诗二首灵芝歌",
     "author": "班固",
     "paragraphs": [
@@ -3890,13 +3177,9 @@
       "sentence_count": 5,
       "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a844487f000dc27f34fc6d744b",
     "title": "论功歌诗二首灵芝歌",
     "author": "班固",
     "paragraphs": [
@@ -3906,13 +3189,9 @@
       "sentence_count": 4,
       "sentence_lengths": [8, 8, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a844487f008072b65c3b93e051",
     "title": "咏史",
     "author": "班固",
     "paragraphs": [
@@ -3929,13 +3208,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a844487f00be6715ed0692cdfa",
     "title": "诗",
     "author": "班固",
     "paragraphs": [
@@ -3946,13 +3221,9 @@
       "sentence_count": 7,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a844487f002cd2c70df806fddb",
     "title": "明堂诗",
     "author": "班固",
     "paragraphs": [
@@ -3967,13 +3238,9 @@
       "sentence_count": 12,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a844487f00483d4c6b7121f6e5",
     "title": "辟雍诗",
     "author": "班固",
     "paragraphs": [
@@ -3988,13 +3255,9 @@
       "sentence_count": 12,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a844487f00026fdb78d4775386",
     "title": "灵台诗",
     "author": "班固",
     "paragraphs": [
@@ -4009,13 +3272,9 @@
       "sentence_count": 12,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a84613b65a98edcef05bee2797",
     "title": "羽林郎",
     "author": "辛延年",
     "paragraphs": [
@@ -4040,13 +3299,9 @@
       "sentence_count": 32,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a851e0ed3f70819476311e109c",
     "title": "怨歌行",
     "author": "班婕妤",
     "paragraphs": [
@@ -4060,13 +3315,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a851e0ed3fc7b67f8af243698d",
     "title": "团扇诗",
     "author": "班婕妤",
     "paragraphs": [
@@ -4080,13 +3331,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a85b359f736ae365fb986d424e",
     "title": "楚辞·九怀·其一·匡机",
     "author": "王褒",
     "paragraphs": [
@@ -4106,13 +3353,9 @@
       "sentence_count": 22,
       "sentence_lengths": [5, 6, 6, 6, 6, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a85b359f738392840de67f8151",
     "title": "楚辞·九怀·其二·通路",
     "author": "王褒",
     "paragraphs": [
@@ -4139,13 +3382,9 @@
       "sentence_count": 36,
       "sentence_lengths": [5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a85b359f737e2126cec92c79c9",
     "title": "楚辞·九怀·其三·危俊",
     "author": "王褒",
     "paragraphs": [
@@ -4166,13 +3405,9 @@
       "sentence_count": 24,
       "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a85b359f73b5bd784450c64e1f",
     "title": "楚辞·九怀·其四·昭世",
     "author": "王褒",
     "paragraphs": [
@@ -4197,13 +3432,9 @@
       "sentence_count": 32,
       "sentence_lengths": [5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 6, 6, 7, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a85b359f738eeaad307b654545",
     "title": "楚辞·九怀·其五·尊嘉",
     "author": "王褒",
     "paragraphs": [
@@ -4227,13 +3458,9 @@
       "sentence_count": 30,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a85b359f7339fce73282030186",
     "title": "楚辞·九怀·其六·蓄英",
     "author": "王褒",
     "paragraphs": [
@@ -4253,13 +3480,9 @@
       "sentence_count": 22,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a85b359f73d963e19c88a504cd",
     "title": "楚辞·九怀·其七·思忠",
     "author": "王褒",
     "paragraphs": [
@@ -4281,13 +3504,9 @@
       "sentence_count": 26,
       "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a85b359f73ec997fe16b87b956",
     "title": "楚辞·九怀·其八·陶壅",
     "author": "王褒",
     "paragraphs": [
@@ -4311,13 +3530,9 @@
       "sentence_count": 30,
       "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a85b359f734e26597f2aa6df9e",
     "title": "楚辞·九怀·其九·株昭",
     "author": "王褒",
     "paragraphs": [
@@ -4344,13 +3559,9 @@
       "sentence_count": 38,
       "sentence_lengths": [5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 5, 4, 2, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a85d628f2013c1fcc7dccdb639",
     "title": "绝命辞",
     "author": "息夫躬",
     "paragraphs": [
@@ -4364,13 +3575,9 @@
       "sentence_count": 20,
       "sentence_lengths": [8, 8, 8, 8, 8, 8, 6, 6, 6, 6, 6, 6, 6, 6, 5, 5, 7, 7, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a85dc21a3a7ee90f39b5defa05",
     "title": "黄鹄歌",
     "author": "刘弗陵",
     "paragraphs": [
@@ -4381,13 +3588,9 @@
       "sentence_count": 7,
       "sentence_lengths": [7, 7, 7, 4, 4, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a85dc21a3ab5c56c218918ff91",
     "title": "淋池歌",
     "author": "刘弗陵",
     "paragraphs": [
@@ -4401,13 +3604,9 @@
       "sentence_count": 5,
       "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a80424f92392f125919da6bec6",
     "title": "孔雀赋",
     "author": "鍾会",
     "paragraphs": [
@@ -4425,13 +3624,9 @@
       "sentence_count": 18,
       "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 4, 4, 4, 4, 4, 4, 5, 4, 5, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8662c56316f30d03983867a68",
     "title": "楚辞·九思·其一·逢尤",
     "author": "王逸",
     "paragraphs": [
@@ -4458,13 +3653,9 @@
       "sentence_count": 36,
       "sentence_lengths": [3, 3, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8662c563195a20bdf4c0e9738",
     "title": "楚辞·九思·其二· 怨上",
     "author": "王逸",
     "paragraphs": [
@@ -4494,13 +3685,9 @@
       "sentence_count": 42,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8662c5631691dca2db72bb08c",
     "title": "楚辞·九思·其三·疾世",
     "author": "王逸",
     "paragraphs": [
@@ -4529,13 +3716,9 @@
       "sentence_count": 40,
       "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8662c5631da3c02c75bd39bb1",
     "title": "楚辞·九思·其四·悯上",
     "author": "王逸",
     "paragraphs": [
@@ -4563,13 +3746,9 @@
       "sentence_count": 37,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 7, 8, 8, 8, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8662c5631e1c091d2f42169cc",
     "title": "楚辞·九思·其五·遭厄",
     "author": "王逸",
     "paragraphs": [
@@ -4595,13 +3774,9 @@
       "sentence_count": 34,
       "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8662c5631b14d8c488504f34d",
     "title": "楚辞·九思·其六·悼乱",
     "author": "王逸",
     "paragraphs": [
@@ -4631,13 +3806,9 @@
       "sentence_count": 42,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8662c5631f5b274980243db2d",
     "title": "楚辞·九思·其七·伤时",
     "author": "王逸",
     "paragraphs": [
@@ -4668,13 +3839,9 @@
       "sentence_count": 44,
       "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8662c5631765c7a9e198edbc7",
     "title": "楚辞·九思·其八·哀岁",
     "author": "王逸",
     "paragraphs": [
@@ -4706,13 +3873,9 @@
       "sentence_count": 46,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 6, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8662c563165610c3ee73deb3b",
     "title": "楚辞·九思·其九·守志",
     "author": "王逸",
     "paragraphs": [
@@ -4748,13 +3911,9 @@
       "sentence_count": 47,
       "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 2, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8678f0ad468c8e0bfbab8ddac",
     "title": "舂歌",
     "author": "戚夫人",
     "paragraphs": [
@@ -4766,13 +3925,9 @@
       "sentence_count": 6,
       "sentence_lengths": [3, 3, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a86cf9a3450991ee5e7f89d001",
     "title": "驾出北郭门行",
     "author": "阮瑀",
     "paragraphs": [
@@ -4793,13 +3948,9 @@
       "sentence_count": 24,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a86cf9a3459804b3b3b1b28a31",
     "title": "咏史诗二首",
     "author": "阮瑀",
     "paragraphs": [
@@ -4820,13 +3971,9 @@
       "sentence_count": 22,
       "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a87049bf0063bb86e2f4fe3678",
     "title": "武溪深",
     "author": "马援",
     "paragraphs": [
@@ -4836,13 +3983,9 @@
       "sentence_count": 3,
       "sentence_lengths": [7, 8, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a87852932160fa7bfca38f5b08",
     "title": "室思",
     "author": "徐幹",
     "paragraphs": [
@@ -4887,13 +4030,9 @@
       "sentence_count": 66,
       "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a87852932136703082a6c095c4",
     "title": "答刘桢",
     "author": "徐幹",
     "paragraphs": [
@@ -4906,13 +4045,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8785293219594f97813339dcf",
     "title": "与妻别",
     "author": "徐幹",
     "paragraphs": [
@@ -4928,13 +4063,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a878529321e482dad5d5f601a0",
     "title": "情诗",
     "author": "徐幹",
     "paragraphs": [
@@ -4952,13 +4083,9 @@
       "sentence_count": 18,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8840be46f1d2b39891b0be598",
     "title": "赠妇诗三首",
     "author": "秦嘉",
     "paragraphs": [
@@ -4975,13 +4102,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8840be46f1d2b39893162df55",
     "title": "赠妇诗三首",
     "author": "秦嘉",
     "paragraphs": [
@@ -5000,13 +4123,9 @@
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8840be46f1d2b3989ff14b01f",
     "title": "赠妇诗三首",
     "author": "秦嘉",
     "paragraphs": [
@@ -5025,13 +4144,9 @@
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8840be46f736064abc4943341",
     "title": "述婚诗",
     "author": "秦嘉",
     "paragraphs": [
@@ -5045,13 +4160,9 @@
       "sentence_count": 10,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8840be46f736064abadd0d7ad",
     "title": "述婚诗",
     "author": "秦嘉",
     "paragraphs": [
@@ -5065,13 +4176,9 @@
       "sentence_count": 10,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8840be46f2809ba128d063738",
     "title": "赠妇诗",
     "author": "秦嘉",
     "paragraphs": [
@@ -5088,13 +4195,9 @@
       "sentence_count": 16,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8847f7dabf45782695e2aedaf",
     "title": "歌",
     "author": "四皓",
     "paragraphs": [
@@ -5105,13 +4208,9 @@
       "sentence_count": 10,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 6, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a88be9823f97e32e874ee0056c",
     "title": "董娇饶",
     "author": "宋子侯",
     "paragraphs": [
@@ -5132,13 +4231,9 @@
       "sentence_count": 24,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a891cedc3bbb0bad7ce7026c2d",
     "title": "战国策·引语",
     "author": "刘向",
     "paragraphs": [
@@ -5151,13 +4246,9 @@
       "sentence_count": 13,
       "sentence_lengths": [6, 4, 6, 4, 5, 4, 5, 4, 4, 3, 6, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a891cedc3b29d8cac31d10df66",
     "title": "七言",
     "author": "刘向",
     "paragraphs": [
@@ -5169,13 +4260,9 @@
       "sentence_count": 6,
       "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a891cedc3b2ed4d3f865dbac76",
     "title": "楚辞·九叹·其一·逢纷",
     "author": "刘向",
     "paragraphs": [
@@ -5219,13 +4306,9 @@
       "sentence_count": 67,
       "sentence_lengths": [7, 6, 8, 6, 8, 6, 7, 6, 8, 7, 7, 6, 7, 6, 7, 6, 8, 7, 7, 6, 7, 6, 8, 6, 7, 6, 7, 6, 8, 7, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 6, 6, 6, 6, 8, 6, 8, 7, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 2, 8, 8, 12, 12, 8, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a891cedc3b429c2a89c50ec605",
     "title": "楚辞·九叹·其二·离世",
     "author": "刘向",
     "paragraphs": [
@@ -5269,13 +4352,9 @@
       "sentence_count": 67,
       "sentence_lengths": [7, 6, 7, 6, 7, 7, 8, 6, 7, 6, 7, 6, 7, 6, 8, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 8, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 2, 8, 8, 8, 9, 8, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a891cedc3b1a8373acae045909",
     "title": "楚辞·九叹·其三·怨思",
     "author": "刘向",
     "paragraphs": [
@@ -5317,13 +4396,9 @@
       "sentence_count": 59,
       "sentence_lengths": [7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 7, 7, 6, 7, 6, 7, 6, 7, 6, 6, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 2, 8, 8, 8, 8, 8, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a891cedc3b95279c70ae8c8aee",
     "title": "楚辞·九叹·其四·远逝",
     "author": "刘向",
     "paragraphs": [
@@ -5366,13 +4441,9 @@
       "sentence_count": 67,
       "sentence_lengths": [7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 8, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 7, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 2, 8, 8, 8, 8, 9, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a891cedc3b52654b1ab709f9e6",
     "title": "楚辞·九叹·其五·惜贤",
     "author": "刘向",
     "paragraphs": [
@@ -5412,13 +4483,9 @@
       "sentence_count": 61,
       "sentence_lengths": [7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 7, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 2, 8, 8, 8, 8, 8, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a891cedc3b106d0c4bc22bb2ac",
     "title": "楚辞·九叹·其六·忧苦",
     "author": "刘向",
     "paragraphs": [
@@ -5462,13 +4529,9 @@
       "sentence_count": 63,
       "sentence_lengths": [7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 7, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 5, 5, 4, 5, 4, 5, 4, 2, 8, 8, 8, 8, 8, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a891cedc3b039014035fd74c4f",
     "title": "楚辞·九叹·其七·愍命",
     "author": "刘向",
     "paragraphs": [
@@ -5512,13 +4575,9 @@
       "sentence_count": 63,
       "sentence_lengths": [7, 6, 7, 6, 7, 6, 7, 6, 8, 6, 8, 7, 7, 6, 7, 6, 8, 7, 8, 7, 7, 5, 7, 6, 7, 6, 7, 7, 7, 7, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 8, 7, 7, 6, 7, 6, 7, 6, 7, 7, 2, 8, 8, 8, 8, 8, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a891cedc3bfda6183fe56b7148",
     "title": "楚辞·九叹·其八·思古",
     "author": "刘向",
     "paragraphs": [
@@ -5560,13 +4619,9 @@
       "sentence_count": 59,
       "sentence_lengths": [5, 4, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 7, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 2, 8, 8, 8, 8, 8, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a891cedc3bed19311d3832e685",
     "title": "楚辞·九叹·其九·远游",
     "author": "刘向",
     "paragraphs": [
@@ -5611,13 +4666,9 @@
       "sentence_count": 66,
       "sentence_lengths": [8, 6, 7, 6, 8, 7, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 8, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 7, 7, 6, 7, 6, 7, 6, 7, 6, 2, 8, 8, 12, 12, 12],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a89b9997226a241ec53c315d03",
     "title": "费凤别碑诗",
     "author": "石勋",
     "paragraphs": [
@@ -5651,13 +4702,9 @@
       "sentence_count": 101,
       "sentence_lengths": [3, 3, 5, 8, 4, 4, 6, 6, 6, 6, 5, 5, 4, 5, 4, 4, 4, 4, 4, 4, 8, 6, 4, 4, 4, 4, 4, 8, 7, 4, 6, 3, 6, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 1, 5, 5, 6, 6, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 1, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a89be3d35a2b2a10be17e5870e",
     "title": "秦客诗",
     "author": "赵壹",
     "paragraphs": [
@@ -5670,13 +4717,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a89be3d35a21d1a8aae0f4ebc2",
     "title": "鲁生歌",
     "author": "赵壹",
     "paragraphs": [
@@ -5690,13 +4733,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a89e5157bd823eb8ea20cde001",
     "title": "见志诗二首",
     "author": "仲长统",
     "paragraphs": [
@@ -5714,13 +4753,9 @@
       "sentence_count": 18,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a89e5157bd823eb8ea1e8f29e6",
     "title": "见志诗二首",
     "author": "仲长统",
     "paragraphs": [
@@ -5739,13 +4774,9 @@
       "sentence_count": 20,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a89e5157bdbe6715ed019adefa",
     "title": "诗",
     "author": "仲长统",
     "paragraphs": [
@@ -5756,13 +4787,9 @@
       "sentence_count": 4,
       "sentence_lengths": [4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a89f1aa34c00a8e812e24e8a94",
     "title": "楚辞·招隐士",
     "author": "淮南小山",
     "paragraphs": [
@@ -5779,13 +4806,9 @@
       "sentence_count": 32,
       "sentence_lengths": [8, 8, 8, 8, 8, 8, 6, 6, 6, 6, 3, 3, 7, 3, 3, 3, 5, 3, 5, 4, 9, 9, 9, 7, 5, 5, 5, 8, 7, 7, 5, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8a62aae891a02056c08d8a156",
     "title": "定情赋",
     "author": "张衡",
     "paragraphs": [
@@ -5796,13 +4819,9 @@
       "sentence_count": 4,
       "sentence_lengths": [7, 7, 7, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8a62aae89bfa81d57fefbb243",
     "title": "同声歌",
     "author": "张衡",
     "paragraphs": [
@@ -5823,13 +4842,9 @@
       "sentence_count": 24,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8a62aae89f4578269b220bd75",
     "title": "歌",
     "author": "张衡",
     "paragraphs": [
@@ -5840,13 +4855,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8a62aae89610cbfc34a27c2f1",
     "title": "四愁诗",
     "author": "张衡",
     "paragraphs": [
@@ -5863,13 +4874,9 @@
       "sentence_count": 32,
       "sentence_lengths": [3, 7, 7, 7, 7, 7, 7, 7, 3, 7, 7, 7, 7, 7, 7, 7, 3, 7, 7, 7, 7, 7, 7, 7, 3, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8a62aae89f032a8a389292c91",
     "title": "思玄赋",
     "author": "张衡",
     "paragraphs": [
@@ -5882,13 +4889,9 @@
       "sentence_count": 8,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8a62aae899c4e6575efadf6d1",
     "title": "东巡诰",
     "author": "张衡",
     "paragraphs": [
@@ -5900,13 +4903,9 @@
       "sentence_count": 6,
       "sentence_lengths": [4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8a62aae890f5f822087587679",
     "title": "怨诗",
     "author": "张衡",
     "paragraphs": [
@@ -5921,13 +4920,9 @@
       "sentence_count": 12,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8a713f185cf50d7b9d1dea40b",
     "title": "讽谏诗",
     "author": "韦孟",
     "paragraphs": [
@@ -5990,13 +4985,9 @@
       "sentence_count": 108,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8a713f18533e4b5f322f5736a",
     "title": "在邹诗",
     "author": "韦孟",
     "paragraphs": [
@@ -6031,13 +5022,9 @@
       "sentence_count": 52,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8a7655b74f45782693ec32a0d",
     "title": "歌",
     "author": "崔骃",
     "paragraphs": [
@@ -6048,13 +5035,9 @@
       "sentence_count": 6,
       "sentence_lengths": [8, 8, 8, 8, 8, 8],
       "uniform_sentence_length": 8
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8a7655b7416ce9f32943ed79e",
     "title": "安封侯诗",
     "author": "崔骃",
     "paragraphs": [
@@ -6065,13 +5048,9 @@
       "sentence_count": 4,
       "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8a7655b74693e0459800c8a20",
     "title": "七言诗",
     "author": "崔骃",
     "paragraphs": [
@@ -6081,13 +5060,9 @@
       "sentence_count": 3,
       "sentence_lengths": [7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8a7655b74569a981b8dbf7cff",
     "title": "三言诗",
     "author": "崔骃",
     "paragraphs": [
@@ -6097,13 +5072,9 @@
       "sentence_count": 4,
       "sentence_lengths": [3, 3, 3, 3],
       "uniform_sentence_length": 3
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8ace77c2e874d5acdd8e4cac9",
     "title": "佳人歌",
     "author": "李延年",
     "paragraphs": [
@@ -6115,13 +5086,9 @@
       "sentence_count": 6,
       "sentence_lengths": [5, 5, 5, 5, 8, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8adbe46670a79c05ad33027fe",
     "title": "大风歌",
     "author": "刘邦",
     "paragraphs": [
@@ -6133,13 +5100,9 @@
       "sentence_count": 3,
       "sentence_lengths": [7, 8, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8adbe4667a8e3916282ac350d",
     "title": "鸿鹄",
     "author": "刘邦",
     "paragraphs": [
@@ -6152,13 +5115,9 @@
       "sentence_count": 8,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b0b1b5bb5f33d38d38ad9b31",
     "title": "歌诗三章【远夷乐德歌】",
     "author": "唐菆",
     "paragraphs": [
@@ -6181,13 +5140,9 @@
       "sentence_count": 14,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b0b1b5bb5f33d38de27e0902",
     "title": "歌诗三章【远夷乐德歌】",
     "author": "唐菆",
     "paragraphs": [
@@ -6210,13 +5165,9 @@
       "sentence_count": 14,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b0b1b5bb5f33d38d3686e044",
     "title": "歌诗三章【远夷乐德歌】",
     "author": "唐菆",
     "paragraphs": [
@@ -6241,13 +5192,9 @@
       "sentence_count": 16,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2961c1ad55836f16ee6",
     "title": "古诗十九首·行行重行行",
     "author": "无名氏",
     "paragraphs": [
@@ -6264,13 +5211,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296b12c9b50fc34134b",
     "title": "古诗十九首·青青河畔草",
     "author": "无名氏",
     "paragraphs": [
@@ -6284,13 +5227,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296d836d715c2ce2ba8",
     "title": "古诗十九首·庭中有奇树",
     "author": "无名氏",
     "paragraphs": [
@@ -6303,13 +5242,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296e5a150117d0c26d2",
     "title": "古诗十九首·生年不满百",
     "author": "无名氏",
     "paragraphs": [
@@ -6323,13 +5258,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2961adea2b626e60c97",
     "title": "古诗十九首·青青陵上柏",
     "author": "无名氏",
     "paragraphs": [
@@ -6346,13 +5277,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a29631403829640bf6a0",
     "title": "古诗十九首·今日良宴会",
     "author": "无名氏",
     "paragraphs": [
@@ -6368,13 +5295,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2962efe747f7f5c1109",
     "title": "古诗十九首·西北有高楼",
     "author": "无名氏",
     "paragraphs": [
@@ -6391,13 +5314,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2963ad3b3ce79cd37a9",
     "title": "古诗十九首·涉江采芙蓉",
     "author": "无名氏",
     "paragraphs": [
@@ -6410,13 +5329,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2968ced1b715aff07ff",
     "title": "古诗十九首·明月皎夜光",
     "author": "无名氏",
     "paragraphs": [
@@ -6433,13 +5348,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a29691f04baf02303c59",
     "title": "古诗十九首·冉冉孤生竹",
     "author": "无名氏",
     "paragraphs": [
@@ -6456,13 +5367,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a29640fd69fc9b2452d5",
     "title": "古诗十九首·回车驾言迈",
     "author": "无名氏",
     "paragraphs": [
@@ -6477,13 +5384,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296d1de7ddbea50873b",
     "title": "古诗十九首·东城高且长",
     "author": "无名氏",
     "paragraphs": [
@@ -6502,13 +5405,9 @@
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296b2bf9d5e8d5238d9",
     "title": "古诗十九首·驱车上东门",
     "author": "无名氏",
     "paragraphs": [
@@ -6526,13 +5425,9 @@
       "sentence_count": 18,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2960f0f980d0040c897",
     "title": "古诗十九首·去者日以疏",
     "author": "无名氏",
     "paragraphs": [
@@ -6546,13 +5441,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2961370d4ff1ef5fc73",
     "title": "古诗十九首·凛凛岁云暮",
     "author": "无名氏",
     "paragraphs": [
@@ -6571,13 +5462,9 @@
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a29644d9fc676ba16e2f",
     "title": "古诗十九首·孟冬寒气至",
     "author": "无名氏",
     "paragraphs": [
@@ -6593,13 +5480,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296a90b3f2498ab07c6",
     "title": "古诗十九首·客从远方来",
     "author": "无名氏",
     "paragraphs": [
@@ -6613,13 +5496,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2967cce369408703838",
     "title": "古诗十九首·明月何皎皎",
     "author": "无名氏",
     "paragraphs": [
@@ -6633,13 +5512,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296517ddccfadc2d0dc",
     "title": "陌上桑",
     "author": "无名氏",
     "paragraphs": [
@@ -6655,13 +5530,9 @@
       "sentence_count": 53,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2963dfdb0d555ac2cba",
     "title": "上邪",
     "author": "无名氏",
     "paragraphs": [
@@ -6679,13 +5550,9 @@
       "sentence_count": 9,
       "sentence_lengths": [2, 6, 5, 3, 4, 4, 3, 3, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2960fc64e8fa5e2bbb8",
     "title": "上山采蘼芜",
     "author": "无名氏",
     "paragraphs": [
@@ -6702,13 +5569,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296f7b478f2721a00ee",
     "title": "十五从军征",
     "author": "无名氏",
     "paragraphs": [
@@ -6725,13 +5588,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296f6a76f67a85613a9",
     "title": "越人土风歌",
     "author": "无名氏",
     "paragraphs": [
@@ -6741,13 +5600,9 @@
       "sentence_count": 3,
       "sentence_lengths": [7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2966a5b408518be75c1",
     "title": "汉双鱼铜洗铭",
     "author": "无名氏",
     "paragraphs": [
@@ -6757,13 +5612,9 @@
       "sentence_count": 3,
       "sentence_lengths": [3, 3, 3],
       "uniform_sentence_length": 3
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296322f24d23778fcc7",
     "title": "汉元光镜铭",
     "author": "无名氏",
     "paragraphs": [
@@ -6774,13 +5625,9 @@
       "sentence_count": 11,
       "sentence_lengths": [7, 4, 4, 4, 4, 3, 3, 3, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296322f24d20f8c43cf",
     "title": "汉元光镜铭",
     "author": "无名氏",
     "paragraphs": [
@@ -6790,13 +5637,9 @@
       "sentence_count": 2,
       "sentence_lengths": [4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2963716067a379c40fc",
     "title": "汉王氏镜铭",
     "author": "无名氏",
     "paragraphs": [
@@ -6808,13 +5651,9 @@
       "sentence_count": 6,
       "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296e48ec10fc08eb833",
     "title": "汉青盖镜铭",
     "author": "无名氏",
     "paragraphs": [
@@ -6826,13 +5665,9 @@
       "sentence_count": 6,
       "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2969756de524c3a61dc",
     "title": "汉宜文章镜铭",
     "author": "无名氏",
     "paragraphs": [
@@ -6843,13 +5678,9 @@
       "sentence_count": 5,
       "sentence_lengths": [7, 8, 8, 9, 3],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296baec6059bb05b942",
     "title": "吴永安五年镜铭",
     "author": "无名氏",
     "paragraphs": [
@@ -6859,13 +5690,9 @@
       "sentence_count": 4,
       "sentence_lengths": [7, 3, 3, 3],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2965302a59207124aed",
     "title": "古相思曲",
     "author": "无名氏",
     "paragraphs": [
@@ -6884,13 +5711,9 @@
       "sentence_count": 21,
       "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 3, 3, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2967583097b8ea189f8",
     "title": "陇西行·天上何所有",
     "author": "无名氏",
     "paragraphs": [
@@ -6915,13 +5738,9 @@
       "sentence_count": 32,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296e453a83f0d2b2cbf",
     "title": "近代吴歌欢闻",
     "author": "无名氏",
     "paragraphs": [
@@ -6932,13 +5751,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2965520ebf574461339",
     "title": "日出入",
     "author": "无名氏",
     "paragraphs": [
@@ -6954,13 +5769,9 @@
       "sentence_count": 13,
       "sentence_lengths": [5, 6, 5, 4, 4, 4, 6, 6, 4, 4, 4, 4, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296e83a8f0072c4bab5",
     "title": "别诗·有鸟西南飞",
     "author": "无名氏",
     "paragraphs": [
@@ -6975,13 +5786,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a29600cbe59a787cdab2",
     "title": "采葵莫伤根",
     "author": "无名氏",
     "paragraphs": [
@@ -6994,13 +5801,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2967c137eb5100777a2",
     "title": "苏武诗四首·其一",
     "author": "无名氏",
     "paragraphs": [
@@ -7018,13 +5821,9 @@
       "sentence_count": 18,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a29678eb7c5e2eda251d",
     "title": "苏武诗四首·其二",
     "author": "无名氏",
     "paragraphs": [
@@ -7041,13 +5840,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2967d4a47dc298c7cc2",
     "title": "苏武诗四首·其三",
     "author": "无名氏",
     "paragraphs": [
@@ -7066,13 +5861,9 @@
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296ee557380d028f0cb",
     "title": "苏武诗四首·其四",
     "author": "无名氏",
     "paragraphs": [
@@ -7090,13 +5881,9 @@
       "sentence_count": 18,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2963ecdb7494fb49142",
     "title": "古诗",
     "author": "无名氏",
     "paragraphs": [
@@ -7109,13 +5896,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296ed74c843dc2371b4",
     "title": "无题",
     "author": "无名氏",
     "paragraphs": [
@@ -7126,13 +5909,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296a2a733c37c71f02f",
     "title": "橘柚垂华实",
     "author": "无名氏",
     "paragraphs": [
@@ -7146,13 +5925,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a2967d1c9d10ee8a9e7c",
     "title": "鸡鸣",
     "author": "无名氏",
     "paragraphs": [
@@ -7176,13 +5951,9 @@
       "sentence_count": 30,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b1c2a296154b25cc16a9c926",
     "title": "神农本草经·上品·木部·榆皮",
     "author": "无名氏",
     "paragraphs": [
@@ -7195,13 +5966,9 @@
       "sentence_count": 46,
       "sentence_lengths": [3, 6, 3, 3, 2, 4, 4, 4, 3, 3, 3, 4, 2, 2, 4, 4, 1, 2, 2, 3, 2, 3, 3, 1, 2, 3, 5, 3, 3, 3, 3, 4, 3, 4, 3, 3, 5, 3, 3, 5, 4, 3, 7, 3, 4, 6],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b3d56c175844d02002f30ff3",
     "title": "饮马长城窟行",
     "author": "蔡邕",
     "paragraphs": [
@@ -7220,13 +5987,9 @@
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b3d56c17f4578269f416cda3",
     "title": "歌",
     "author": "蔡邕",
     "paragraphs": [
@@ -7237,13 +6000,9 @@
       "sentence_count": 6,
       "sentence_lengths": [7, 7, 7, 7, 7, 13],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b3d56c1777aa62caf337145f",
     "title": "翠鸟诗",
     "author": "蔡邕",
     "paragraphs": [
@@ -7257,13 +6016,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b3d56c1704c3c6f94a535076",
     "title": "酸枣令刘熊碑诗",
     "author": "蔡邕",
     "paragraphs": [
@@ -7286,13 +6041,9 @@
       "sentence_count": 14,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b3d56c1704c3c6f94dfe4a09",
     "title": "酸枣令刘熊碑诗",
     "author": "蔡邕",
     "paragraphs": [
@@ -7314,13 +6065,9 @@
       "sentence_count": 13,
       "sentence_lengths": [8, 4, 4, 3, 4, 4, 3, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b3d56c1704c3c6f93ad9acaf",
     "title": "酸枣令刘熊碑诗",
     "author": "蔡邕",
     "paragraphs": [
@@ -7343,13 +6090,9 @@
       "sentence_count": 14,
       "sentence_lengths": [4, 4, 3, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b3d56c17c7e16182bfb71382",
     "title": "答对元式诗",
     "author": "蔡邕",
     "paragraphs": [
@@ -7363,13 +6106,9 @@
       "sentence_count": 10,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b3d56c17ff6038996797421b",
     "title": "答卜元嗣诗",
     "author": "蔡邕",
     "paragraphs": [
@@ -7381,13 +6120,9 @@
       "sentence_count": 6,
       "sentence_lengths": [4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8b9ec29efadf5a0fe18c56a17",
     "title": "答客诗",
     "author": "桓麟",
     "paragraphs": [
@@ -7400,13 +6135,9 @@
       "sentence_count": 8,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8bafca2732d91e293da1d99c5",
     "title": "答秦嘉诗",
     "author": "徐淑",
     "paragraphs": [
@@ -7425,13 +6156,9 @@
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8c383955af457826939fa672a",
     "title": "歌",
     "author": "赵岐",
     "paragraphs": [
@@ -7441,13 +6168,9 @@
       "sentence_count": 4,
       "sentence_lengths": [4, 5, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8c47b585d9b0060ab52ff832d",
     "title": "自劾诗",
     "author": "韦玄成",
     "paragraphs": [
@@ -7494,13 +6217,9 @@
       "sentence_count": 76,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8c47b585da141fe2f85a51194",
     "title": "戒子孙诗",
     "author": "韦玄成",
     "paragraphs": [
@@ -7537,13 +6256,9 @@
       "sentence_count": 56,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8c74ee92a6178ef4ce0d52a07",
     "title": "悲歌",
     "author": "刘辩",
     "paragraphs": [
@@ -7553,13 +6268,9 @@
       "sentence_count": 4,
       "sentence_lengths": [7, 7, 8, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8c9a8ba1c9f2c43f0ac2c5d5a",
     "title": "射乌辞",
     "author": "王吉",
     "paragraphs": [
@@ -7569,13 +6280,9 @@
       "sentence_count": 5,
       "sentence_lengths": [4, 3, 3, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8ca8dd8997ce108856b7c62d8",
     "title": "白头吟",
     "author": "卓文君",
     "paragraphs": [
@@ -7592,13 +6299,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8ca8dd899f679217182f06c22",
     "title": "怨郎诗",
     "author": "卓文君",
     "paragraphs": [
@@ -7621,13 +6324,9 @@
       "sentence_count": 32,
       "sentence_lengths": [4, 4, 6, 6, 6, 6, 7, 8, 3, 3, 7, 7, 4, 4, 7, 9, 3, 7, 5, 7, 7, 9, 6, 7, 3, 7, 3, 7, 1, 3, 6, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8caa9deab3578e1241f875539",
     "title": "起舞歌",
     "author": "唐姬",
     "paragraphs": [
@@ -7637,13 +6336,9 @@
       "sentence_count": 4,
       "sentence_lengths": [7, 8, 8, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8cab61fbc9083ba2c2364a9f7",
     "title": "怨旷思惟歌",
     "author": "王嫱",
     "paragraphs": [
@@ -7664,13 +6359,9 @@
       "sentence_count": 24,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8cab61fbc1f30ff1bb5218be3",
     "title": "怨词",
     "author": "王嫱",
     "paragraphs": [
@@ -7685,13 +6376,9 @@
       "sentence_count": 24,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8ce974814227461453ef486ed",
     "title": "招商歌",
     "author": "刘宏",
     "paragraphs": [
@@ -7702,13 +6389,9 @@
       "sentence_count": 5,
       "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8cf8b56aeb440fc65592f7c7b",
     "title": "武德舞歌诗",
     "author": "刘苍",
     "paragraphs": [
@@ -7724,13 +6407,9 @@
       "sentence_count": 14,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8dc1a924de54d509afc043fe2",
     "title": "楚辞·惜誓",
     "author": "贾谊",
     "paragraphs": [
@@ -7777,13 +6456,9 @@
       "sentence_count": 75,
       "sentence_lengths": [8, 6, 7, 6, 7, 6, 7, 6, 7, 6, 8, 7, 7, 6, 8, 7, 7, 6, 7, 6, 6, 6, 3, 6, 7, 6, 7, 7, 8, 6, 6, 6, 8, 7, 8, 6, 8, 6, 9, 8, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 7, 7, 6, 7, 6, 8, 7, 7, 7, 8, 7, 7, 6, 7, 6, 3, 10, 6, 7, 6, 7, 6, 9, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8de3daeaee89ab4c4a56089c2",
     "title": "赞贾逵诗",
     "author": "刘珍",
     "paragraphs": [
@@ -7794,13 +6469,9 @@
       "sentence_count": 4,
       "sentence_lengths": [4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e00313573980d0dd5dc50e6f",
     "title": "神汉桂阳太守周府君碑铭",
     "author": "郭苍",
     "paragraphs": [
@@ -7817,13 +6488,9 @@
       "sentence_count": 32,
       "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 5, 4, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d117cf2418fdb83f1c",
     "title": "步出夏门行·其四·龟虽寿",
     "author": "曹操",
     "paragraphs": [
@@ -7839,13 +6506,9 @@
       "sentence_count": 14,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d17d5ba1d512604646",
     "title": "步出夏门行·其一·观沧海",
     "author": "曹操",
     "paragraphs": [
@@ -7861,13 +6524,9 @@
       "sentence_count": 14,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d13ce67f5545582954",
     "title": "短歌行二首（其一）",
     "author": "曹操",
     "paragraphs": [
@@ -7892,13 +6551,9 @@
       "sentence_count": 32,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d1c92a944ea689f48c",
     "title": "蒿里行",
     "author": "曹操",
     "paragraphs": [
@@ -7915,13 +6570,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d1a372728b0b34c7a4",
     "title": "薤露行",
     "author": "曹操",
     "paragraphs": [
@@ -7938,13 +6589,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d11dd0e64959b2abc2",
     "title": "对酒",
     "author": "曹操",
     "paragraphs": [
@@ -7967,13 +6614,9 @@
       "sentence_count": 26,
       "sentence_lengths": [3, 3, 4, 5, 7, 3, 5, 7, 4, 5, 4, 4, 3, 5, 6, 4, 5, 7, 3, 5, 6, 4, 4, 3, 5, 8],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d16c1afc012212c46a",
     "title": "度关山",
     "author": "曹操",
     "paragraphs": [
@@ -7990,13 +6633,9 @@
       "sentence_count": 32,
       "sentence_lengths": [3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d1aa6b8ecac80fe0f1",
     "title": "步出夏门行·其二·冬十月",
     "author": "曹操",
     "paragraphs": [
@@ -8012,13 +6651,9 @@
       "sentence_count": 14,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d148478cd733fc2c4c",
     "title": "苦寒行",
     "author": "曹操",
     "paragraphs": [
@@ -8039,13 +6674,9 @@
       "sentence_count": 24,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d1cb6205c529f0fa3b",
     "title": "秋胡行二首",
     "author": "曹操",
     "paragraphs": [
@@ -8101,13 +6732,9 @@
       "sentence_count": 90,
       "sentence_lengths": [2, 5, 5, 4, 4, 5, 5, 5, 4, 4, 5, 5, 5, 4, 4, 9, 4, 4, 4, 5, 5, 5, 5, 4, 4, 6, 4, 4, 4, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 5, 2, 5, 5, 5, 3, 4, 4, 4, 4, 4, 5, 5, 5, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 5, 5, 5, 8, 4, 4, 4, 4, 4, 5, 5, 5, 4, 4, 4, 4, 4, 4, 4, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d15ad0a5bae7c27b83",
     "title": "短歌行二首（其二）",
     "author": "曹操",
     "paragraphs": [
@@ -8135,13 +6762,9 @@
       "sentence_count": 43,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 6, 4, 4, 4, 4, 4, 5, 4, 4, 4, 4, 4, 4, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d1d9a113aed3fe242a",
     "title": "步出夏门行·序曲·艳",
     "author": "曹操",
     "paragraphs": [
@@ -8153,13 +6776,9 @@
       "sentence_count": 7,
       "sentence_lengths": [4, 6, 4, 5, 6, 6, 6],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d15a39db7f4e840af8",
     "title": "步出夏门行·其三·土不同",
     "author": "曹操",
     "paragraphs": [
@@ -8175,13 +6794,9 @@
       "sentence_count": 14,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d1b55e0e31c539f7c1",
     "title": "谣俗词",
     "author": "曹操",
     "paragraphs": [
@@ -8192,13 +6807,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d132ccf1affeb1d031",
     "title": "精列",
     "author": "曹操",
     "paragraphs": [
@@ -8216,13 +6827,9 @@
       "sentence_count": 19,
       "sentence_lengths": [3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d16a9de59e3a6b4961",
     "title": "却东西门行",
     "author": "曹操",
     "paragraphs": [
@@ -8241,13 +6848,9 @@
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d1517ddccf291742c6",
     "title": "陌上桑",
     "author": "曹操",
     "paragraphs": [
@@ -8262,13 +6865,9 @@
       "sentence_count": 18,
       "sentence_lengths": [3, 3, 7, 3, 3, 7, 3, 3, 7, 3, 3, 7, 3, 3, 7, 3, 3, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d1dc0a40de43e75a44",
     "title": "气出唱三首",
     "author": "曹操",
     "paragraphs": [
@@ -8322,13 +6921,9 @@
       "sentence_count": 92,
       "sentence_lengths": [2, 3, 4, 4, 5, 7, 4, 4, 4, 4, 4, 7, 3, 3, 3, 3, 3, 5, 5, 3, 4, 4, 4, 4, 5, 5, 7, 7, 3, 3, 4, 4, 4, 3, 4, 5, 4, 5, 4, 4, 5, 5, 3, 3, 3, 3, 2, 3, 4, 3, 5, 4, 3, 3, 4, 3, 3, 4, 7, 3, 5, 6, 5, 5, 4, 4, 4, 6, 4, 6, 4, 4, 5, 7, 4, 3, 3, 2, 3, 3, 4, 4, 5, 5, 5, 3, 3, 5, 7, 7, 6, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e37a86d1d742d83b274c2c46",
     "title": "善哉行",
     "author": "曹操",
     "paragraphs": [
@@ -8365,13 +6960,9 @@
       "sentence_count": 54,
       "sentence_lengths": [2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 8, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8e7be717cc78e00eaea08ad32",
     "title": "歌诗",
     "author": "杨恽",
     "paragraphs": [
@@ -8381,13 +6972,9 @@
       "sentence_count": 6,
       "sentence_lengths": [4, 4, 4, 4, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8f1aac2751f5dea6589f09c34",
     "title": "李翕析里桥郙阁颂新诗",
     "author": "仇靖",
     "paragraphs": [
@@ -8400,13 +6987,9 @@
       "sentence_count": 11,
       "sentence_lengths": [5, 9, 9, 3, 9, 9, 6, 6, 9, 14, 9],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8f29ae2295844d0209f862f0f",
     "title": "饮马长城窟行",
     "author": "陈琳",
     "paragraphs": [
@@ -8429,13 +7012,9 @@
       "sentence_count": 28,
       "sentence_lengths": [5, 5, 5, 7, 5, 5, 7, 7, 5, 5, 5, 5, 5, 5, 5, 7, 5, 7, 5, 7, 5, 5, 7, 7, 5, 5, 5, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8f5f04e068258f83573a2252c",
     "title": "诗二首",
     "author": "郦炎",
     "paragraphs": [
@@ -8454,13 +7033,9 @@
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8f5f04e068258f8355552e098",
     "title": "诗二首",
     "author": "郦炎",
     "paragraphs": [
@@ -8477,13 +7052,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8fc8204e6a534c9f384c834cc",
     "title": "临终诗",
     "author": "孔融",
     "paragraphs": [
@@ -8500,13 +7071,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8fc8204e631bfdac09f4bd503",
     "title": "离合作郡姓名字诗",
     "author": "孔融",
     "paragraphs": [
@@ -8526,13 +7093,9 @@
       "sentence_count": 22,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8fc8204e6ff35fa9d1d308ac4",
     "title": "六言诗三首",
     "author": "孔融",
     "paragraphs": [
@@ -8546,13 +7109,9 @@
       "sentence_count": 5,
       "sentence_lengths": [6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8fc8204e6ff35fa9dd94d5be8",
     "title": "六言诗三首",
     "author": "孔融",
     "paragraphs": [
@@ -8565,13 +7124,9 @@
       "sentence_count": 4,
       "sentence_lengths": [6, 6, 6, 6],
       "uniform_sentence_length": 6
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   },
   {
-    "id": "cadf00a8fc8204e6ff35fa9d4ab32c44",
     "title": "六言诗三首",
     "author": "孔融",
     "paragraphs": [
@@ -8586,9 +7141,6 @@
       "sentence_count": 6,
       "sentence_lengths": [6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
-    },
-    "tags": [
-      "汉"
-    ]
+    }
   }
 ]

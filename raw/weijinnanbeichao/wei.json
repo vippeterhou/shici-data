@@ -1,6 +1,5 @@
 [
   {
-    "id": "5434236d15acba7b42fe621f8343a937",
     "title": "从军行",
     "author": "左延年",
     "paragraphs": [
@@ -10,13 +9,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac7d4df018663cd6cd",
     "title": "咏怀八十二首（其一）",
     "author": "阮籍",
     "paragraphs": [
@@ -29,13 +24,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacaaf1aabdefb4b085",
     "title": "咏怀八十二首（其七十九）",
     "author": "阮籍",
     "paragraphs": [
@@ -50,13 +41,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacda491a242022a23d",
     "title": "咏怀八十二首（其二）",
     "author": "阮籍",
     "paragraphs": [
@@ -69,13 +56,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac86b1d8c12e3c6f75",
     "title": "咏怀八十二首（其三）",
     "author": "阮籍",
     "paragraphs": [
@@ -88,13 +71,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac34c88e46d3b88491",
     "title": "咏怀八十二首（其四）",
     "author": "阮籍",
     "paragraphs": [
@@ -110,13 +89,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac5e84cabe0e72113e",
     "title": "咏怀八十二首（其五）",
     "author": "阮籍",
     "paragraphs": [
@@ -131,13 +106,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac1b4f1085da4b5dd9",
     "title": "咏怀八十二首（其六）",
     "author": "阮籍",
     "paragraphs": [
@@ -151,13 +122,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacd28bd60b7b292d90",
     "title": "咏怀八十二首（其七）",
     "author": "阮籍",
     "paragraphs": [
@@ -172,13 +139,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac1cd00cc9a3ea3d80",
     "title": "咏怀八十二首（其三十一）",
     "author": "阮籍",
     "paragraphs": [
@@ -193,13 +156,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac690532b6f5351efe",
     "title": "咏怀八十二首（其八）",
     "author": "阮籍",
     "paragraphs": [
@@ -213,13 +172,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac11f4b0bcfff80085",
     "title": "咏怀八十二首（其九）",
     "author": "阮籍",
     "paragraphs": [
@@ -233,13 +188,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacaff21d01c76cf504",
     "title": "咏怀八十二首（其十）",
     "author": "阮籍",
     "paragraphs": [
@@ -255,13 +206,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaaca0a9f679db881805",
     "title": "咏怀八十二首（其十一）",
     "author": "阮籍",
     "paragraphs": [
@@ -276,13 +223,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac12a826831d58aed4",
     "title": "咏怀八十二首（其十二）",
     "author": "阮籍",
     "paragraphs": [
@@ -296,13 +239,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac7302961a29ee3b1a",
     "title": "咏怀八十二首（其十三）",
     "author": "阮籍",
     "paragraphs": [
@@ -317,13 +256,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac42b15c74057a2163",
     "title": "咏怀八十二首（其十四）",
     "author": "阮籍",
     "paragraphs": [
@@ -339,13 +274,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac9dae1ed1c51867ee",
     "title": "咏怀八十二首（其十五）",
     "author": "阮籍",
     "paragraphs": [
@@ -361,13 +292,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac3504b6029ba63619",
     "title": "咏怀八十二首（其十六）",
     "author": "阮籍",
     "paragraphs": [
@@ -383,13 +310,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac4916ab18d7cd7bb6",
     "title": "咏怀八十二首（其十七）",
     "author": "阮籍",
     "paragraphs": [
@@ -403,13 +326,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacc82607bc03b2cba2",
     "title": "咏怀八十二首（其十八）",
     "author": "阮籍",
     "paragraphs": [
@@ -423,13 +342,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac4b56563536974aaf",
     "title": "咏怀八十二首（其十九）",
     "author": "阮籍",
     "paragraphs": [
@@ -444,13 +359,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaace51a2bd6075a6cb5",
     "title": "咏怀八十二首（其二十）",
     "author": "阮籍",
     "paragraphs": [
@@ -467,13 +378,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacedf9a91ea057fbda",
     "title": "咏怀八十二首（其二十一）",
     "author": "阮籍",
     "paragraphs": [
@@ -487,13 +394,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac52a56bebacc4bb39",
     "title": "咏怀八十二首（其二十二）",
     "author": "阮籍",
     "paragraphs": [
@@ -507,13 +410,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 3, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac87384c2a08f0aeb2",
     "title": "咏怀八十二首（其二十三）",
     "author": "阮籍",
     "paragraphs": [
@@ -528,13 +427,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac02a64de63ebfb685",
     "title": "咏怀八十二首（其二十四）",
     "author": "阮籍",
     "paragraphs": [
@@ -548,13 +443,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac7e5515622e4f8d06",
     "title": "咏怀八十二首（其二十五）",
     "author": "阮籍",
     "paragraphs": [
@@ -568,13 +459,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacf8970f8853bcb633",
     "title": "咏怀八十二首（其二十六）",
     "author": "阮籍",
     "paragraphs": [
@@ -588,13 +475,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac306532616dd07796",
     "title": "咏怀八十二首（其二十七） ",
     "author": "阮籍",
     "paragraphs": [
@@ -607,13 +490,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac91865c461c795413",
     "title": "咏怀八十二首（其二十八）",
     "author": "阮籍",
     "paragraphs": [
@@ -625,13 +504,9 @@
       "sentence_count": 6,
       "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac240766fc6fe148d3",
     "title": "咏怀八十二首（其二十九）",
     "author": "阮籍",
     "paragraphs": [
@@ -645,13 +520,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac5ca0dd438b575ace",
     "title": "咏怀八十二首（其三十）",
     "author": "阮籍",
     "paragraphs": [
@@ -663,13 +534,9 @@
       "sentence_count": 6,
       "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac1cd00cc9d8354c1a",
     "title": "咏怀八十二首（其三十一）",
     "author": "阮籍",
     "paragraphs": [
@@ -683,13 +550,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacec24d55112bdada4",
     "title": "咏怀八十二首（其三十二）",
     "author": "阮籍",
     "paragraphs": [
@@ -705,13 +568,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac48d532d6a0920783",
     "title": "咏怀八十二首（其三十三）",
     "author": "阮籍",
     "paragraphs": [
@@ -726,13 +585,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac2edb3febb24e46c4",
     "title": "咏怀八十二首（其三十四）",
     "author": "阮籍",
     "paragraphs": [
@@ -747,13 +602,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaaca3422cc77a7548c5",
     "title": "咏怀八十二首（其三十五）",
     "author": "阮籍",
     "paragraphs": [
@@ -768,13 +619,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac59ad21f2a5e7fc95",
     "title": "咏怀八十二首（其三十六）",
     "author": "阮籍",
     "paragraphs": [
@@ -788,13 +635,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac8b3b57c7c93b20f6",
     "title": "咏怀八十二首（其三十七）",
     "author": "阮籍",
     "paragraphs": [
@@ -809,13 +652,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaace732ec5cf22fe93c",
     "title": "咏怀八十二首（其三十八）",
     "author": "阮籍",
     "paragraphs": [
@@ -829,13 +668,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacf6497de041431656",
     "title": "咏怀八十二首（其三十九）",
     "author": "阮籍",
     "paragraphs": [
@@ -849,13 +684,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac47d27bbd4b08d14b",
     "title": "咏怀八十二首（其四十）",
     "author": "阮籍",
     "paragraphs": [
@@ -870,13 +701,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac79f3150ddaf39707",
     "title": "咏怀八十二首（其四十一）",
     "author": "阮籍",
     "paragraphs": [
@@ -890,13 +717,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacb9846865c6219c80",
     "title": "咏怀八十二首（其四十二）",
     "author": "阮籍",
     "paragraphs": [
@@ -910,13 +733,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac75c9464b8c742f23",
     "title": "咏怀八十二首（其四十三）",
     "author": "阮籍",
     "paragraphs": [
@@ -931,13 +750,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac0add40daad1d5688",
     "title": "咏怀八十二首（其四十四）",
     "author": "阮籍",
     "paragraphs": [
@@ -952,13 +767,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac6262375ad2ea368b",
     "title": "咏怀八十二首（其四十五）",
     "author": "阮籍",
     "paragraphs": [
@@ -974,13 +785,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacd6a64da1b3de9b9f",
     "title": "咏怀八十二首（其四十六）",
     "author": "阮籍",
     "paragraphs": [
@@ -994,13 +801,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac0fc4e123325a73ce",
     "title": "咏怀八十二首（其四十七）",
     "author": "阮籍",
     "paragraphs": [
@@ -1015,13 +818,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac118e59c483a70a1c",
     "title": "咏怀八十二首（其四十八）",
     "author": "阮籍",
     "paragraphs": [
@@ -1036,13 +835,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacdb35d04f881397d0",
     "title": "咏怀八十二首（其四十九）",
     "author": "阮籍",
     "paragraphs": [
@@ -1055,13 +850,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac670c6f78d6029eaa",
     "title": "咏怀八十二首（其五十）",
     "author": "阮籍",
     "paragraphs": [
@@ -1073,13 +864,9 @@
       "sentence_count": 6,
       "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaaceb355c352ebd2f38",
     "title": "咏怀八十二首（其五十一）",
     "author": "阮籍",
     "paragraphs": [
@@ -1092,13 +879,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac918813bd26305fae",
     "title": "咏怀八十二首（其五十二）",
     "author": "阮籍",
     "paragraphs": [
@@ -1112,13 +895,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac81cf999a699e5265",
     "title": "咏怀八十二首（其五十三）",
     "author": "阮籍",
     "paragraphs": [
@@ -1134,13 +913,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaaca36ce1191a2f5314",
     "title": "咏怀八十二首（其五十四）",
     "author": "阮籍",
     "paragraphs": [
@@ -1155,13 +930,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac03af1d96524663bd",
     "title": "咏怀八十二首（其五十五）",
     "author": "阮籍",
     "paragraphs": [
@@ -1177,13 +948,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacfc74d9618149b17e",
     "title": "咏怀八十二首（其五十六）",
     "author": "阮籍",
     "paragraphs": [
@@ -1201,13 +968,9 @@
       "sentence_count": 18,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacc078461d3c221069",
     "title": "咏怀八十二首（其五十七）",
     "author": "阮籍",
     "paragraphs": [
@@ -1222,13 +985,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac2a35442bb99a002a",
     "title": "咏怀八十二首（其五十八）",
     "author": "阮籍",
     "paragraphs": [
@@ -1243,13 +1002,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac9c19a251a35bfb91",
     "title": "咏怀八十二首（其五十九）",
     "author": "阮籍",
     "paragraphs": [
@@ -1267,13 +1022,9 @@
       "sentence_count": 18,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac15f489231b91dce1",
     "title": "咏怀八十二首（其六十）",
     "author": "阮籍",
     "paragraphs": [
@@ -1288,13 +1039,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaaca63feb60be933bad",
     "title": "咏怀八十二首（其六十一）",
     "author": "阮籍",
     "paragraphs": [
@@ -1307,13 +1054,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac4046cb82dd2991f7",
     "title": "咏怀八十二首（其六十二）",
     "author": "阮籍",
     "paragraphs": [
@@ -1330,13 +1073,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaaccf81a6488074bf7b",
     "title": "咏怀八十二首（其六十三）",
     "author": "阮籍",
     "paragraphs": [
@@ -1351,13 +1090,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacd6611025840fae16",
     "title": "咏怀八十二首（其六十四）",
     "author": "阮籍",
     "paragraphs": [
@@ -1373,13 +1108,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac87696f46c98babe6",
     "title": "咏怀八十二首（其六十五）",
     "author": "阮籍",
     "paragraphs": [
@@ -1393,13 +1124,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacaf156c20d394e669",
     "title": "咏怀八十二首（其六十六）",
     "author": "阮籍",
     "paragraphs": [
@@ -1414,13 +1141,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac4b6f493aeedf65cf",
     "title": "咏怀八十二首（其六十七）",
     "author": "阮籍",
     "paragraphs": [
@@ -1434,13 +1157,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac8c9ae26f6be0fc70",
     "title": "咏怀八十二首（其六十八）",
     "author": "阮籍",
     "paragraphs": [
@@ -1454,13 +1173,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac6abc1daf52649a64",
     "title": "咏怀八十二首（其六十九）",
     "author": "阮籍",
     "paragraphs": [
@@ -1477,13 +1192,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac676a340e1542f9e9",
     "title": "咏怀八十二首（其七十）",
     "author": "阮籍",
     "paragraphs": [
@@ -1500,13 +1211,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacb259e67015cfa6aa",
     "title": "咏怀八十二首（其七十一）",
     "author": "阮籍",
     "paragraphs": [
@@ -1523,13 +1230,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacde629222d68c2a1e",
     "title": "咏怀八十二首（其七十二）",
     "author": "阮籍",
     "paragraphs": [
@@ -1545,13 +1248,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac66fd4a2dded7beaf",
     "title": "咏怀八十二首（其七十三）",
     "author": "阮籍",
     "paragraphs": [
@@ -1567,13 +1266,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacacce3f8463087ea3",
     "title": "咏怀八十二首（其七十四）",
     "author": "阮籍",
     "paragraphs": [
@@ -1588,13 +1283,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac4b43cc20095c6cd9",
     "title": "咏怀八十二首（其七十五）",
     "author": "阮籍",
     "paragraphs": [
@@ -1609,13 +1300,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacc4c7e242835b1eea",
     "title": "咏怀八十二首（其七十六）",
     "author": "阮籍",
     "paragraphs": [
@@ -1630,13 +1317,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaace139cec55fee65eb",
     "title": "咏怀八十二首（其七十七）",
     "author": "阮籍",
     "paragraphs": [
@@ -1650,13 +1333,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacb41c28e5b6b84585",
     "title": "咏怀八十二首（其七十八）",
     "author": "阮籍",
     "paragraphs": [
@@ -1670,13 +1349,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaacaaf1aabd3dba0df3",
     "title": "咏怀八十二首（其七十九）",
     "author": "阮籍",
     "paragraphs": [
@@ -1690,13 +1365,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac2c0be8facca3a41a",
     "title": "咏怀八十二首（其八十）",
     "author": "阮籍",
     "paragraphs": [
@@ -1710,13 +1381,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac5db516473d2c09af",
     "title": "咏怀八十二首（其八十一）",
     "author": "阮籍",
     "paragraphs": [
@@ -1730,13 +1397,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac543a4fe203e33229",
     "title": "咏怀八十二首（其八十二）",
     "author": "阮籍",
     "paragraphs": [
@@ -1750,13 +1413,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3016aaac1e0ce3e2b9ed8eb7",
     "title": "咏怀诗十三首",
     "author": "阮籍",
     "paragraphs": [
@@ -1907,13 +1566,9 @@
       "sentence_count": 271,
       "sentence_lengths": [2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d31ac3c8cf29e671babfca697",
     "title": "大腊",
     "author": "裴秀",
     "paragraphs": [
@@ -1940,13 +1595,9 @@
       "sentence_count": 36,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429220c768d8acf04c7",
     "title": "燕歌行（其一）",
     "author": "曹丕",
     "paragraphs": [
@@ -1961,13 +1612,9 @@
       "sentence_count": 15,
       "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429df839500f762eaef",
     "title": "燕歌行（其二）",
     "author": "曹丕",
     "paragraphs": [
@@ -1982,13 +1629,9 @@
       "sentence_count": 13,
       "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429d5f5446aff405f8f",
     "title": "善哉行二首",
     "author": "曹丕",
     "paragraphs": [
@@ -2021,13 +1664,9 @@
       "sentence_count": 46,
       "sentence_lengths": [2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b4394298248fb54f83caab3",
     "title": "杂诗二首",
     "author": "曹丕",
     "paragraphs": [
@@ -2052,13 +1691,9 @@
       "sentence_count": 30,
       "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429dbc7a3563279838e",
     "title": "煌煌京洛行",
     "author": "曹丕",
     "paragraphs": [
@@ -2083,13 +1718,9 @@
       "sentence_count": 32,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429b3a75a8fee74a6ea",
     "title": "大墙上蒿行",
     "author": "曹丕",
     "paragraphs": [
@@ -2137,13 +1768,9 @@
       "sentence_count": 77,
       "sentence_lengths": [6, 4, 4, 6, 7, 6, 7, 6, 7, 7, 6, 8, 6, 7, 4, 5, 7, 7, 6, 7, 6, 7, 6, 4, 4, 7, 5, 4, 4, 4, 4, 4, 4, 3, 5, 4, 4, 4, 4, 4, 4, 4, 6, 9, 6, 4, 4, 4, 3, 5, 4, 4, 4, 4, 3, 3, 4, 4, 3, 3, 4, 4, 4, 4, 3, 3, 7, 4, 4, 3, 3, 3, 5, 3, 3, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429dca9a698016dc7be",
     "title": "丹霞蔽日行",
     "author": "曹丕",
     "paragraphs": [
@@ -2157,13 +1784,9 @@
       "sentence_count": 10,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b4394294270707c2e447d8f",
     "title": "清河作",
     "author": "曹丕",
     "paragraphs": [
@@ -2177,13 +1800,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b4394293952c78d48f6b22a",
     "title": "秋胡行",
     "author": "曹丕",
     "paragraphs": [
@@ -2201,13 +1820,9 @@
       "sentence_count": 18,
       "sentence_lengths": [5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b4394291b267db80838fc02",
     "title": "芙蓉池作",
     "author": "曹丕",
     "paragraphs": [
@@ -2224,13 +1839,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b4394297b79d04524c12cea",
     "title": "寡妇诗",
     "author": "曹丕",
     "paragraphs": [
@@ -2246,13 +1857,9 @@
       "sentence_count": 14,
       "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429517ddccf74e4570e",
     "title": "陌上桑",
     "author": "曹丕",
     "paragraphs": [
@@ -2273,13 +1880,9 @@
       "sentence_count": 20,
       "sentence_lengths": [3, 3, 7, 3, 3, 5, 3, 4, 4, 4, 3, 5, 7, 3, 3, 7, 3, 5, 5, 3],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b4394295844d02097771c85",
     "title": "饮马长城窟行",
     "author": "曹丕",
     "paragraphs": [
@@ -2292,13 +1895,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429804306b35afce17c",
     "title": "至广陵于马上作诗",
     "author": "曹丕",
     "paragraphs": [
@@ -2318,13 +1917,9 @@
       "sentence_count": 22,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b4394298cca2f3afb8f4ed1",
     "title": "秋胡行·歌魏德",
     "author": "曹丕",
     "paragraphs": [
@@ -2340,13 +1935,9 @@
       "sentence_count": 14,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b4394294cc87c50de6b3e62",
     "title": "秋胡行·浮萍篇",
     "author": "曹丕",
     "paragraphs": [
@@ -2363,13 +1954,9 @@
       "sentence_count": 16,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b4394299477c9dac04a8f50",
     "title": "秋胡行 ·佳人期",
     "author": "曹丕",
     "paragraphs": [
@@ -2387,13 +1974,9 @@
       "sentence_count": 18,
       "sentence_lengths": [5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b4394299359068ec3ade209",
     "title": "上留田行",
     "author": "曹丕",
     "paragraphs": [
@@ -2408,13 +1991,9 @@
       "sentence_count": 12,
       "sentence_lengths": [6, 3, 6, 3, 6, 3, 5, 3, 6, 3, 8, 3],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429c4bf51e0cf88c77f",
     "title": "短歌行",
     "author": "曹丕",
     "paragraphs": [
@@ -2435,13 +2014,9 @@
       "sentence_count": 24,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b4394295c87c5ed9b5d434a",
     "title": "于明津作",
     "author": "曹丕",
     "paragraphs": [
@@ -2453,13 +2028,9 @@
       "sentence_count": 6,
       "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429256d9c0f91d538bc",
     "title": "月重轮行",
     "author": "曹丕",
     "paragraphs": [
@@ -2472,13 +2043,9 @@
       "sentence_count": 8,
       "sentence_lengths": [4, 4, 5, 7, 4, 4, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429df061f35efb4a92f",
     "title": "黎阳作",
     "author": "曹丕",
     "paragraphs": [
@@ -2496,13 +2063,9 @@
       "sentence_count": 9,
       "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b43942954510405fd1aa6b5",
     "title": "黎阳作诗三首",
     "author": "曹丕",
     "paragraphs": [
@@ -2534,13 +2097,9 @@
       "sentence_count": 43,
       "sentence_lengths": [2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429e679d9679b9efe39",
     "title": "于谯作",
     "author": "曹丕",
     "paragraphs": [
@@ -2556,13 +2115,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429c23e742411c465c5",
     "title": "于玄武陂作诗",
     "author": "曹丕",
     "paragraphs": [
@@ -2579,13 +2134,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429fae13aa94d5b77dc",
     "title": "孟津诗",
     "author": "曹丕",
     "paragraphs": [
@@ -2600,13 +2151,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429dfe79e1619d2b9f9",
     "title": "清河见挽船士新婚与妻别作",
     "author": "曹丕",
     "paragraphs": [
@@ -2622,13 +2169,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b439429d6cefc535b6ef982",
     "title": "钓竿行",
     "author": "曹丕",
     "paragraphs": [
@@ -2640,13 +2183,9 @@
       "sentence_count": 6,
       "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d3b4394296a92ee0e6068bbcc",
     "title": "折杨柳行",
     "author": "曹丕",
     "paragraphs": [
@@ -2667,13 +2206,9 @@
       "sentence_count": 24,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d50f83702be45fbf4680f79a0",
     "title": "别诗二首",
     "author": "应玚",
     "paragraphs": [
@@ -2691,13 +2226,9 @@
       "sentence_count": 16,
       "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d5bed4a6bed32653a90af17e4",
     "title": "酒会诗",
     "author": "嵇康",
     "paragraphs": [
@@ -2716,13 +2247,9 @@
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d5bed4a6bc839cddcb8df15c9",
     "title": "幽愤诗",
     "author": "嵇康",
     "paragraphs": [
@@ -2742,13 +2269,9 @@
       "sentence_count": 86,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d5bed4a6bb237b4e7b05c0fbe",
     "title": "四言赠兄秀才入军",
     "author": "嵇康",
     "paragraphs": [
@@ -2863,13 +2386,9 @@
       "sentence_count": 194,
       "sentence_lengths": [2, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236d90c9300dd3dd8721e095197f",
     "title": "北芒客舍",
     "author": "刘伶",
     "paragraphs": [
@@ -2885,13 +2404,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236db0359decea084689c7af54ec",
     "title": "征辽东歌",
     "author": "司马懿",
     "paragraphs": [
@@ -2905,13 +2420,9 @@
       "sentence_count": 10,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236dbcdb9e643d5c5cc9122d7005",
     "title": "塘上行",
     "author": "甄宓",
     "paragraphs": [
@@ -2932,13 +2443,9 @@
       "sentence_count": 24,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbb167f16fa8b87227",
     "title": "七步诗",
     "author": "曹植",
     "paragraphs": [
@@ -2949,13 +2456,9 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb5f59eb9650be8aaa",
     "title": "七哀诗",
     "author": "曹植",
     "paragraphs": [
@@ -2972,13 +2475,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb63097e6423fac72c",
     "title": "白马篇",
     "author": "曹植",
     "paragraphs": [
@@ -3001,13 +2500,9 @@
       "sentence_count": 28,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cba7c229e66371f751",
     "title": "侍太子坐",
     "author": "曹植",
     "paragraphs": [
@@ -3021,13 +2516,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbca1dde753af44238",
     "title": "君子行",
     "author": "曹植",
     "paragraphs": [
@@ -3042,13 +2533,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbe482dad5656efb38",
     "title": "情诗",
     "author": "曹植",
     "paragraphs": [
@@ -3063,13 +2550,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb3a3c5067d232cdc2",
     "title": "美女篇",
     "author": "曹植",
     "paragraphs": [
@@ -3093,13 +2576,9 @@
       "sentence_count": 30,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb31312bfdf2c66e61",
     "title": "箜篌引",
     "author": "曹植",
     "paragraphs": [
@@ -3120,13 +2599,9 @@
       "sentence_count": 24,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb708194767967f641",
     "title": "怨歌行",
     "author": "曹植",
     "paragraphs": [
@@ -3146,13 +2621,9 @@
       "sentence_count": 22,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb5c38a3c636059a2a",
     "title": "飞龙篇",
     "author": "曹植",
     "paragraphs": [
@@ -3169,13 +2640,9 @@
       "sentence_count": 16,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbf12424c725a9f930",
     "title": "妾薄命二首",
     "author": "曹植",
     "paragraphs": [
@@ -3203,13 +2670,9 @@
       "sentence_count": 40,
       "sentence_lengths": [2, 3, 3, 6, 6, 6, 6, 6, 6, 6, 2, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbe38462f6d9755a04",
     "title": "矫志诗",
     "author": "曹植",
     "paragraphs": [
@@ -3238,13 +2701,9 @@
       "sentence_count": 40,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbd6abbbd50b1b9643",
     "title": "公宴诗",
     "author": "曹植",
     "paragraphs": [
@@ -3260,13 +2719,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb6bbfbab8d0383e36",
     "title": "朔风诗",
     "author": "曹植",
     "paragraphs": [
@@ -3295,13 +2750,9 @@
       "sentence_count": 40,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb22b97af188035444",
     "title": "野田黄雀行",
     "author": "曹植",
     "paragraphs": [
@@ -3316,13 +2767,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb39f7f0b30779aa6a",
     "title": "杂诗七首（其四）",
     "author": "曹植",
     "paragraphs": [
@@ -3335,13 +2782,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbf96b48ee46937f65",
     "title": "行女哀辞",
     "author": "曹植",
     "paragraphs": [
@@ -3356,13 +2799,9 @@
       "sentence_count": 12,
       "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb9dfdbac5992b4f09",
     "title": "迷迭香赋",
     "author": "曹植",
     "paragraphs": [
@@ -3378,13 +2817,9 @@
       "sentence_count": 14,
       "sentence_lengths": [7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6, 7, 6],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbeef2fe79649e63fe",
     "title": "门有万里客行",
     "author": "曹植",
     "paragraphs": [
@@ -3398,13 +2833,9 @@
       "sentence_count": 10,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb5e947ab4bd1f3d27",
     "title": "名都篇",
     "author": "曹植",
     "paragraphs": [
@@ -3427,13 +2858,9 @@
       "sentence_count": 28,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbd0e750f61e731ff8",
     "title": "薤露",
     "author": "曹植",
     "paragraphs": [
@@ -3450,13 +2877,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb629aa7911f5bdd87",
     "title": "赠徐幹",
     "author": "曹植",
     "paragraphs": [
@@ -3479,13 +2902,9 @@
       "sentence_count": 28,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbdca9a6984eaa3129",
     "title": "丹霞蔽日行",
     "author": "曹植",
     "paragraphs": [
@@ -3500,13 +2919,9 @@
       "sentence_count": 12,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb298182cde6b979e8",
     "title": "仙人篇",
     "author": "曹植",
     "paragraphs": [
@@ -3530,13 +2945,9 @@
       "sentence_count": 30,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb696670fe349a7d96",
     "title": "惟汉行",
     "author": "曹植",
     "paragraphs": [
@@ -3555,13 +2966,9 @@
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb940c737a0917d3e5",
     "title": "送应氏二首",
     "author": "曹植",
     "paragraphs": [
@@ -3588,13 +2995,9 @@
       "sentence_count": 34,
       "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbe078dc60bf28fe53",
     "title": "泰山梁甫行",
     "author": "曹植",
     "paragraphs": [
@@ -3607,13 +3010,9 @@
       "sentence_count": 8,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb27b56c196dfc53a5",
     "title": "吁嗟篇",
     "author": "曹植",
     "paragraphs": [
@@ -3634,13 +3033,9 @@
       "sentence_count": 24,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb54216f8548b93f9b",
     "title": "浮萍篇",
     "author": "曹植",
     "paragraphs": [
@@ -3661,13 +3056,9 @@
       "sentence_count": 24,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbcabedbf9114cdb8c",
     "title": "弃妇诗",
     "author": "曹植",
     "paragraphs": [
@@ -3693,13 +3084,9 @@
       "sentence_count": 34,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb2016a1e813a5c56a",
     "title": "灵芝篇",
     "author": "曹植",
     "paragraphs": [
@@ -3733,13 +3120,9 @@
       "sentence_count": 49,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbc767a1dab0723eaf",
     "title": "精微篇",
     "author": "曹植",
     "paragraphs": [
@@ -3780,13 +3163,9 @@
       "sentence_count": 64,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbf4ff13d019b1bbdc",
     "title": "当墙欲高行",
     "author": "曹植",
     "paragraphs": [
@@ -3799,13 +3178,9 @@
       "sentence_count": 10,
       "sentence_lengths": [7, 7, 6, 4, 4, 4, 4, 7, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbd686598fb06fd18d",
     "title": "种葛篇",
     "author": "曹植",
     "paragraphs": [
@@ -3827,13 +3202,9 @@
       "sentence_count": 26,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbf10e803eb837985b",
     "title": "当来日大难",
     "author": "曹植",
     "paragraphs": [
@@ -3849,13 +3220,9 @@
       "sentence_count": 13,
       "sentence_lengths": [3, 3, 7, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbf622e53d0a3e6b45",
     "title": "赠王粲",
     "author": "曹植",
     "paragraphs": [
@@ -3872,13 +3239,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb7be3bfd23111f340",
     "title": "桂之树行",
     "author": "曹植",
     "paragraphs": [
@@ -3896,13 +3259,9 @@
       "sentence_count": 16,
       "sentence_lengths": [3, 3, 6, 6, 5, 4, 4, 3, 10, 6, 6, 6, 6, 7, 7, 7],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbbdf9ade86afcd65b",
     "title": "五游咏",
     "author": "曹植",
     "paragraphs": [
@@ -3923,13 +3282,9 @@
       "sentence_count": 24,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbc5c96d0d2359c13c",
     "title": "杂诗七首（其一）",
     "author": "曹植",
     "paragraphs": [
@@ -3944,13 +3299,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbe748793478ebc5da",
     "title": "杂诗七首（其二）",
     "author": "曹植",
     "paragraphs": [
@@ -3965,13 +3316,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb8a0a2c6a3301caa1",
     "title": "杂诗七首（其三）",
     "author": "曹植",
     "paragraphs": [
@@ -3987,13 +3334,9 @@
       "sentence_count": 14,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb18e2474bd5d0740c",
     "title": "杂诗七首（其五）",
     "author": "曹植",
     "paragraphs": [
@@ -4008,13 +3351,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb8629be2d2ce641b4",
     "title": "杂诗七首（其六）",
     "author": "曹植",
     "paragraphs": [
@@ -4029,13 +3368,9 @@
       "sentence_count": 12,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb2220e093a2ffbaec",
     "title": "杂诗七首（其七）",
     "author": "曹植",
     "paragraphs": [
@@ -4054,13 +3389,9 @@
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbda14743adea0d11e",
     "title": "当欲游南山行",
     "author": "曹植",
     "paragraphs": [
@@ -4077,13 +3408,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb83d93e5419ddc988",
     "title": "升天行",
     "author": "曹植",
     "paragraphs": [
@@ -4102,13 +3429,9 @@
       "sentence_count": 18,
       "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbaa14930d165974c1",
     "title": "鼙舞歌五首·其一·圣皇篇",
     "author": "曹植",
     "paragraphs": [
@@ -4142,13 +3465,9 @@
       "sentence_count": 50,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb3a957e3f679078d7",
     "title": "鼙舞歌五首·其二·灵芝篇",
     "author": "曹植",
     "paragraphs": [
@@ -4182,13 +3501,9 @@
       "sentence_count": 49,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb12072469d22eb007",
     "title": "鼙舞歌五首·其三·大魏篇",
     "author": "曹植",
     "paragraphs": [
@@ -4222,13 +3537,9 @@
       "sentence_count": 50,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 7, 5, 5, 5, 5, 5, 5, 5, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 5, 5, 5, 5, 6, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cbf00f2199a2fa1318",
     "title": "鼙舞歌五首·其四·精微篇",
     "author": "曹植",
     "paragraphs": [
@@ -4269,13 +3580,9 @@
       "sentence_count": 64,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb9174233e225c7c2b",
     "title": "鼙舞歌五首·其五·孟冬篇",
     "author": "曹植",
     "paragraphs": [
@@ -4315,13 +3622,9 @@
       "sentence_count": 61,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb149612169926385e",
     "title": "正会诗",
     "author": "曹植",
     "paragraphs": [
@@ -4342,13 +3645,9 @@
       "sentence_count": 24,
       "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb3974d2ea3a4ea73b",
     "title": "斗鸡",
     "author": "曹植",
     "paragraphs": [
@@ -4365,13 +3664,9 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236de5b1a9cb84d28f3a55456db8",
     "title": "远游篇",
     "author": "曹植",
     "paragraphs": [
@@ -4390,13 +3685,9 @@
       "sentence_count": 20,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   },
   {
-    "id": "5434236dfda93c79cb978fe0b55f8408",
     "title": "凤翔轩",
     "author": "诸葛亮",
     "paragraphs": [
@@ -4407,9 +3698,6 @@
       "sentence_count": 8,
       "sentence_lengths": [7, 4, 7, 4, 7, 4, 7, 4],
       "uniform_sentence_length": null
-    },
-    "tags": [
-      "三国"
-    ]
+    }
   }
 ]

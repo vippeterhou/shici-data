@@ -29,12 +29,6 @@
         "type": "string"
       }
     },
-    "tags": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      }
-    },
     "format": {
       "type": "object",
       "required": [
@@ -63,7 +57,15 @@
         }
       },
       "additionalProperties": true
+    },
+    "chapter": {
+      "type": "string",
+      "minLength": 1
+    },
+    "section": {
+      "type": "string",
+      "minLength": 1
     }
   },
-  "additionalProperties": true
+  "additionalProperties": false
 }
