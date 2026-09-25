@@ -26,10 +26,14 @@ from content. Shijing also retains its chapter and section hierarchy.
 | `qts`: `raw/qts/*.json` | `chinese-poetry`: `御定全唐詩/json/` | Added format metadata and editorial corrections. |
 | `quansongci`: `raw/quansongci/ci.song.*.json` | `chinese-poetry`: `宋词/` | Renamed `rhythmic` to `title`; added format metadata. |
 | `quansongshi`: `raw/quansongshi/poet.song.*.json` | `chinese-poetry`: `全唐诗/` | Added format metadata; pruned unusable records; includes editorial corrections. |
-| `sc300`: `raw/sc300/sc300.json` | `chinese-poetry`: `宋词/宋词三百首.json`; Wikisource: [`宋詞三百首`](https://zh.wikisource.org/wiki/宋詞三百首) | Renamed and relocated; rebuilt in the canonical 283-entry anthology order; removed seven non-index or substitute records retained in `quansongci`; restored ten missing ci from Wikisource; normalized tune titles and attributions; applied source-backed textual corrections; added format metadata. |
+| `sc300`: `raw/sc300/sc300.json` | Wikisource: [`宋詞三百首`](https://zh.wikisource.org/wiki/宋詞三百首) | Rebuilt as the canonical 283-entry anthology from Wikisource's displayed primary readings; rendered in Simplified Chinese (`zh-hans`); excluded prefaces, annotations, and alternate readings; normalized tune titles and attributions; represented displayed lines as paragraph arrays; added format metadata. |
 | `shijing`: `raw/shijing/shijing.json` | `chinese-poetry`: `诗经/shijing.json` | Renamed fields; added author and format metadata; retained chapter and section hierarchy. |
-| `ts300`: `raw/ts300/ts300.json` | `chinese-poetry`: `全唐诗/唐诗三百首.json`; Wikisource: [`題破山寺後禪院`](https://zh.wikisource.org/wiki/題破山寺後禪院), [`送李中丞歸漢陽別業`](https://zh.wikisource.org/wiki/送李中丞歸漢陽別業), and [`寄揚州韓綽判官`](https://zh.wikisource.org/wiki/寄揚州韓綽判官) | Renamed and relocated; rebuilt in the canonical 320-entry anthology order; removed non-index and duplicate records; restored three missing poems from Wikisource; normalized titles and attributions; removed square-bracket editorial notation; added format metadata. |
+| `ts300`: `raw/ts300/ts300.json` | Wikisource: [`唐詩三百首`](https://zh.wikisource.org/wiki/唐詩三百首) | Rebuilt as the canonical 320-entry anthology from Wikisource's displayed primary readings; rendered in Traditional Chinese (`zh-hant`); excluded prefaces, annotations, and alternate readings; normalized titles and attributions; represented displayed lines as paragraph arrays; added format metadata. |
 | `weijinnanbeichao`: `raw/weijinnanbeichao/*.json` | `poetry-source`: `source/诗/三国/`, `source/诗/晋/`, `source/诗/南北朝/` | Consolidated by period; renamed fields; omitted ancillary fields; added format metadata; split labeled collections into individual poems; normalized titles; removed duplicate records and poems with unrecoverable lacunae; corrected the order, numbering, and duplicate entries in Ruan Ji's 82 `咏怀` poems; resolved one disputed attribution using the source anthology's editorial note. |
 
 Generated releases validate and compress records and keep each source's terms.
 Update this file before adding a dataset.
+
+Earlier project revisions seeded `ts300` and `sc300` from
+`chinese-poetry`. The current files were independently rebuilt from
+Wikisource and no longer use `chinese-poetry` as a source.
