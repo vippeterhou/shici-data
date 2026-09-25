@@ -15,7 +15,12 @@
     "rhythmic": "湘春夜月",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [3, 6, 6, 5, 6, 5, 4, 5, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 3, 4, 3, 7, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "陆叡",
@@ -37,7 +42,12 @@
     "rhythmic": "瑞鹤仙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [5, 5, 4, 5, 5, 4, 3, 3, 4, 3, 4, 6, 2, 4, 4, 4, 4, 3, 3, 5, 4, 6, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -55,7 +65,12 @@
     "rhythmic": "渡江云三犯・渡江云",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [5, 4, 5, 5, 4, 5, 4, 3, 4, 3, 4, 5, 2, 4, 4, 5, 3, 4, 4, 7, 3, 4, 3, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -75,7 +90,12 @@
     "rhythmic": "霜叶飞",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 3, 6, 7, 4, 3, 4, 7, 5, 3, 4, 4, 6, 4, 6, 7, 5, 3, 4, 7, 3, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -97,7 +117,12 @@
     "rhythmic": "瑞鹤仙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [5, 5, 4, 5, 5, 4, 4, 3, 4, 3, 4, 6, 2, 4, 4, 4, 4, 3, 3, 5, 4, 6, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -115,7 +140,12 @@
     "rhythmic": "宴清都",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [5, 3, 6, 4, 4, 4, 6, 3, 4, 3, 4, 6, 6, 4, 4, 4, 4, 4, 6, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -134,7 +164,12 @@
     "rhythmic": "齐天乐",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 21,
+      "sentence_lengths": [7, 6, 4, 4, 6, 4, 5, 4, 4, 7, 6, 5, 4, 4, 4, 6, 4, 5, 4, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -151,7 +186,12 @@
     "rhythmic": "风入松",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [7, 5, 7, 3, 4, 6, 6, 7, 5, 7, 3, 4, 6, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -177,7 +217,12 @@
     "tags": [
       "宋词三百首",
       "西湖"
-    ]
+    ],
+    "format": {
+      "sentence_count": 55,
+      "sentence_lengths": [6, 5, 3, 4, 6, 3, 4, 7, 5, 6, 4, 4, 5, 3, 4, 6, 3, 4, 3, 4, 3, 4, 4, 4, 4, 5, 3, 4, 4, 4, 4, 4, 4, 7, 3, 5, 4, 6, 6, 4, 4, 5, 3, 4, 4, 3, 4, 4, 4, 7, 3, 5, 6, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -198,7 +243,12 @@
     "rhythmic": "惜黄花慢",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [4, 5, 4, 4, 4, 4, 4, 7, 3, 4, 3, 4, 4, 6, 5, 4, 4, 4, 4, 4, 7, 3, 4, 3, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "袁去华",
@@ -220,7 +270,12 @@
     "rhythmic": "瑞鹤仙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [5, 5, 4, 5, 5, 4, 4, 3, 4, 3, 6, 4, 2, 4, 4, 4, 4, 3, 3, 5, 4, 6, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "袁去华",
@@ -244,7 +299,12 @@
     "rhythmic": "剑器近",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [3, 3, 4, 6, 3, 3, 3, 4, 6, 3, 2, 5, 4, 3, 5, 7, 5, 6, 4, 4, 6, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "袁去华",
@@ -265,7 +325,12 @@
     "rhythmic": "安公子",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 20,
+      "sentence_lengths": [5, 7, 7, 5, 5, 5, 3, 5, 5, 6, 5, 7, 7, 5, 5, 5, 3, 5, 5, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "陆游",
@@ -278,7 +343,12 @@
     "rhythmic": "卜算子",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 7, 5, 5, 5, 7, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "韩缜",
@@ -296,7 +366,12 @@
     "rhythmic": "凤箫吟・芳草",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [3, 4, 6, 5, 4, 4, 5, 3, 4, 5, 6, 2, 4, 3, 4, 5, 5, 3, 5, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "王安石",
@@ -315,7 +390,12 @@
     "rhythmic": "桂枝香",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 5, 4, 6, 4, 7, 3, 4, 4, 4, 4, 3, 4, 5, 4, 4, 6, 7, 3, 4, 4, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "王安石",
@@ -331,7 +411,12 @@
     "rhythmic": "清平乐",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [4, 5, 7, 6, 6, 6, 6, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "王安石",
@@ -349,7 +434,12 @@
     "rhythmic": "千秋岁引",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [4, 4, 7, 7, 7, 3, 3, 3, 7, 7, 7, 7, 7, 3, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "王安国",
@@ -365,7 +455,12 @@
     "rhythmic": "清平乐",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [4, 5, 7, 6, 6, 6, 6, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏几道",
@@ -380,7 +475,12 @@
     "rhythmic": "临江仙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [6, 6, 7, 5, 5, 6, 6, 7, 5, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏几道",
@@ -397,7 +497,12 @@
     "rhythmic": "蝶恋花",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 4, 5, 7, 7, 7, 4, 5, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏几道",
@@ -414,7 +519,12 @@
     "rhythmic": "蝶恋花",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 4, 5, 7, 7, 7, 4, 5, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏几道",
@@ -431,7 +541,12 @@
     "rhythmic": "蝶恋花",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 4, 5, 7, 7, 7, 4, 5, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏几道",
@@ -446,7 +561,12 @@
     "rhythmic": "鹧鸪天",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏几道",
@@ -459,7 +579,12 @@
     "rhythmic": "生查子",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
   },
   {
     "author": "晏几道",
@@ -475,7 +600,12 @@
     "rhythmic": "清平乐",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [4, 5, 7, 6, 6, 6, 6, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏几道",
@@ -490,7 +620,12 @@
     "rhythmic": "木兰花・玉楼春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "晏几道",
@@ -507,7 +642,12 @@
     "rhythmic": "菩萨蛮",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏几道",
@@ -522,7 +662,12 @@
     "rhythmic": "玉楼春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "晏几道",
@@ -539,7 +684,12 @@
     "rhythmic": "阮郎归",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 5, 7, 5, 3, 3, 5, 7, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏几道",
@@ -556,7 +706,12 @@
     "rhythmic": "阮郎归",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 5, 7, 5, 3, 3, 5, 7, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏几道",
@@ -575,7 +730,12 @@
     "rhythmic": "六么令",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [4, 5, 6, 5, 6, 5, 4, 4, 7, 6, 5, 6, 5, 6, 5, 4, 4, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏几道",
@@ -592,7 +752,12 @@
     "rhythmic": "御街行",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [7, 5, 7, 6, 4, 4, 5, 7, 5, 7, 6, 4, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏几道",
@@ -609,7 +774,12 @@
     "rhythmic": "虞美人",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 5, 7, 6, 3, 7, 5, 7, 6, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏几道",
@@ -623,7 +793,12 @@
     "rhythmic": "留春令",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 11,
+      "sentence_lengths": [4, 4, 4, 7, 3, 3, 7, 5, 7, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏几道",
@@ -637,7 +812,12 @@
     "rhythmic": "思远人",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 5, 4, 4, 5, 7, 5, 5, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "王观",
@@ -650,7 +830,12 @@
     "rhythmic": "生查子",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
   },
   {
     "author": "苏轼",
@@ -667,7 +852,12 @@
     "rhythmic": "水龙吟",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [6, 7, 4, 4, 4, 4, 4, 4, 5, 4, 3, 3, 6, 3, 4, 4, 4, 4, 4, 4, 4, 3, 6, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "苏轼",
@@ -684,7 +874,12 @@
     "rhythmic": "水调歌头",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 19,
+      "sentence_lengths": [5, 5, 6, 5, 6, 6, 5, 5, 5, 3, 3, 3, 4, 7, 6, 6, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "苏轼",
@@ -699,7 +894,12 @@
     "rhythmic": "临江仙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 6, 7, 5, 5, 7, 6, 7, 5, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "苏轼",
@@ -719,7 +919,12 @@
     "rhythmic": "定风波",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 11,
+      "sentence_lengths": [7, 7, 7, 2, 7, 7, 2, 7, 7, 2, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "苏轼",
@@ -732,7 +937,12 @@
     "rhythmic": "卜算子",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 7, 5, 5, 5, 7, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "苏轼",
@@ -753,7 +963,12 @@
     "rhythmic": "贺新郎",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [5, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 3, 4, 4, 6, 6, 3, 4, 7, 7, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "苏轼",
@@ -768,7 +983,12 @@
     "rhythmic": "洞仙歌",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [4, 5, 7, 3, 6, 3, 5, 5, 4, 7, 5, 4, 3, 4, 3, 5, 3, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "苏轼",
@@ -787,7 +1007,12 @@
     "rhythmic": "江神子・江城子",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [7, 3, 3, 4, 5, 7, 3, 3, 7, 3, 3, 4, 5, 7, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "苏轼",
@@ -804,7 +1029,12 @@
     "rhythmic": "永遇乐",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 4, 4, 4, 4, 5, 3, 4, 6, 3, 4, 6, 4, 4, 6, 4, 4, 5, 4, 4, 6, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "苏轼",
@@ -822,7 +1052,12 @@
     "tags": [
       "宋词三百首",
       "西湖"
-    ]
+    ],
+    "format": {
+      "sentence_count": 13,
+      "sentence_lengths": [7, 3, 3, 7, 4, 4, 5, 7, 7, 7, 4, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "李之仪",
@@ -841,7 +1076,12 @@
     "rhythmic": "谢池春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 3, 3, 5, 5, 5, 5, 3, 3, 4, 5, 4, 3, 3, 5, 5, 5, 5, 3, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "李之仪",
@@ -855,7 +1095,12 @@
     "tags": [
       "宋词三百首",
       "长江"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 7, 5, 5, 5, 7, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "舒亶",
@@ -872,7 +1117,12 @@
     "rhythmic": "虞美人",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 5, 7, 6, 3, 7, 5, 7, 6, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "韩",
@@ -891,7 +1141,12 @@
     "rhythmic": "高阳台",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 4, 6, 4, 6, 7, 3, 4, 3, 4, 4, 7, 5, 4, 4, 6, 7, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "严仁",
@@ -906,7 +1161,12 @@
     "rhythmic": "玉楼春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "刘克庄",
@@ -920,7 +1180,12 @@
     "rhythmic": "生查子",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
   },
   {
     "author": "张炎",
@@ -939,7 +1204,12 @@
     "rhythmic": "高阳台",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 4, 6, 4, 6, 7, 3, 4, 3, 4, 4, 7, 5, 4, 4, 6, 7, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "刘克庄",
@@ -960,7 +1230,12 @@
     "rhythmic": "贺新郎",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 26,
+      "sentence_lengths": [5, 3, 3, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "刘克庄",
@@ -981,7 +1256,12 @@
     "rhythmic": "贺新郎",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 26,
+      "sentence_lengths": [5, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "刘克庄",
@@ -996,7 +1276,12 @@
     "rhythmic": "玉楼春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "韩元吉",
@@ -1009,7 +1294,12 @@
     "rhythmic": "好事近",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 6, 6, 5, 7, 5, 6, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "韩元吉",
@@ -1048,7 +1338,12 @@
     "rhythmic": "六州歌头",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 39,
+      "sentence_lengths": [4, 5, 3, 3, 3, 3, 4, 4, 3, 3, 3, 3, 6, 3, 4, 5, 5, 4, 3, 4, 3, 3, 3, 3, 3, 3, 3, 5, 3, 3, 3, 3, 3, 4, 5, 4, 5, 5, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张抡",
@@ -1067,7 +1362,12 @@
     "rhythmic": "烛影摇红",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 20,
+      "sentence_lengths": [4, 7, 7, 5, 6, 3, 4, 4, 4, 4, 4, 7, 7, 5, 6, 3, 4, 4, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "辛弃疾",
@@ -1084,7 +1384,12 @@
     "rhythmic": "永遇乐",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 4, 4, 4, 4, 5, 4, 4, 6, 3, 4, 6, 4, 4, 6, 4, 4, 5, 4, 4, 6, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张炎",
@@ -1102,7 +1407,12 @@
     "rhythmic": "绿意・疏影",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 5, 4, 4, 4, 6, 7, 3, 4, 3, 4, 6, 6, 3, 6, 4, 4, 6, 7, 3, 4, 3, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晁端礼",
@@ -1122,7 +1432,12 @@
     "rhythmic": "绿头鸭・多丽",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 34,
+      "sentence_lengths": [3, 6, 3, 4, 6, 3, 4, 3, 4, 4, 4, 7, 3, 4, 5, 3, 4, 4, 3, 4, 6, 3, 4, 3, 4, 4, 4, 7, 3, 4, 5, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "李元膺",
@@ -1139,7 +1454,12 @@
     "rhythmic": "洞仙歌",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 17,
+      "sentence_lengths": [4, 5, 7, 5, 4, 3, 5, 5, 4, 7, 5, 7, 6, 5, 3, 5, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "朱服",
@@ -1158,7 +1478,12 @@
     "rhythmic": "渔家傲",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 7, 7, 3, 7, 7, 7, 7, 3, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "时彦",
@@ -1175,7 +1500,12 @@
     "rhythmic": "青门饮",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 6, 5, 3, 4, 4, 4, 4, 6, 4, 4, 4, 4, 6, 5, 3, 4, 6, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "秦观",
@@ -1196,7 +1526,12 @@
     "rhythmic": "望海潮",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 4, 6, 4, 4, 6, 5, 5, 4, 4, 7, 6, 5, 4, 4, 4, 6, 5, 5, 4, 4, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "秦观",
@@ -1214,7 +1549,12 @@
     "rhythmic": "满庭芳",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 4, 6, 4, 5, 6, 3, 4, 3, 4, 5, 2, 3, 4, 4, 3, 5, 6, 3, 4, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "秦观",
@@ -1228,7 +1568,12 @@
     "rhythmic": "浣溪沙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "秦观",
@@ -1245,7 +1590,12 @@
     "rhythmic": "阮郎归",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 5, 7, 5, 3, 3, 5, 7, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "秦观",
@@ -1263,7 +1613,12 @@
     "rhythmic": "满庭芳",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 4, 6, 4, 5, 6, 3, 4, 3, 4, 6, 2, 3, 4, 4, 4, 4, 6, 3, 4, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "李甲",
@@ -1283,7 +1638,12 @@
     "rhythmic": "帝台春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 5, 4, 3, 4, 7, 3, 4, 3, 4, 4, 3, 3, 3, 3, 3, 4, 3, 3, 4, 7, 7, 5, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "赵令",
@@ -1300,7 +1660,12 @@
     "rhythmic": "蝶恋花",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 4, 5, 7, 7, 7, 4, 5, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "贺铸",
@@ -1314,7 +1679,12 @@
     "rhythmic": "醉中真・浣溪沙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "贺铸",
@@ -1335,7 +1705,12 @@
     "rhythmic": "人南渡・感皇恩",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [5, 4, 5, 2, 4, 6, 5, 3, 4, 4, 5, 2, 4, 6, 5, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "贺铸",
@@ -1354,7 +1729,12 @@
     "rhythmic": "薄幸",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 3, 4, 3, 4, 6, 3, 4, 7, 5, 4, 6, 6, 3, 4, 5, 4, 7, 4, 5, 7, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "贺铸",
@@ -1373,7 +1753,12 @@
     "rhythmic": "伴云来・天香",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 20,
+      "sentence_lengths": [4, 4, 6, 4, 4, 6, 4, 3, 4, 6, 4, 6, 3, 4, 6, 4, 6, 8, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "无名氏",
@@ -1389,7 +1774,12 @@
     "rhythmic": "青玉案",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 13,
+      "sentence_lengths": [7, 3, 3, 7, 4, 4, 5, 7, 8, 7, 4, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -1407,7 +1797,12 @@
     "tags": [
       "宋词三百首",
       "西湖"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 4, 6, 4, 6, 7, 3, 4, 3, 4, 4, 7, 5, 4, 4, 6, 7, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -1425,7 +1820,12 @@
     "rhythmic": "高阳台",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 4, 6, 4, 6, 7, 3, 4, 3, 4, 4, 6, 5, 4, 4, 6, 7, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -1444,7 +1844,12 @@
     "rhythmic": "三姝媚",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [5, 3, 6, 4, 5, 3, 4, 3, 4, 4, 4, 4, 6, 3, 6, 4, 5, 4, 4, 3, 4, 6, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -1461,7 +1866,12 @@
     "rhythmic": "八声甘州",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [5, 3, 5, 5, 4, 4, 6, 5, 5, 4, 6, 5, 4, 5, 5, 3, 4, 3, 5, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -1482,7 +1892,12 @@
     "tags": [
       "宋词三百首",
       "西湖"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 4, 6, 4, 6, 3, 3, 3, 4, 4, 4, 4, 6, 5, 4, 4, 6, 3, 3, 3, 4, 4, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -1497,7 +1912,12 @@
     "rhythmic": "蹋莎行・踏莎行",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [4, 4, 7, 7, 7, 4, 4, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -1514,7 +1934,12 @@
     "rhythmic": "夜游宫",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [6, 3, 4, 7, 3, 3, 3, 5, 3, 4, 7, 3, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -1529,7 +1954,12 @@
     "rhythmic": "鹧鸪天",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -1546,7 +1976,12 @@
     "rhythmic": "唐多令",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 3, 5, 7, 3, 3, 5, 5, 3, 4, 7, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -1567,7 +2002,12 @@
     "rhythmic": "金缕歌・贺新郎",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 26,
+      "sentence_lengths": [5, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 3, 4, 4, 7, 6, 3, 4, 6, 3, 5, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "潘希白",
@@ -1585,7 +2025,12 @@
     "rhythmic": "大有",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 4, 3, 4, 3, 6, 7, 3, 4, 6, 6, 3, 3, 5, 4, 4, 6, 5, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "刘辰翁",
@@ -1613,7 +2058,12 @@
     "rhythmic": "兰陵王",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 29,
+      "sentence_lengths": [3, 6, 3, 4, 7, 5, 6, 3, 4, 7, 2, 3, 5, 4, 7, 5, 4, 7, 5, 2, 3, 5, 4, 7, 5, 4, 4, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "刘辰翁",
@@ -1641,7 +2091,12 @@
     "rhythmic": "宝鼎现",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 35,
+      "sentence_lengths": [4, 3, 4, 3, 4, 7, 3, 5, 6, 3, 4, 6, 7, 3, 4, 3, 4, 6, 3, 5, 6, 3, 4, 6, 6, 3, 4, 7, 5, 3, 4, 5, 3, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "刘辰翁",
@@ -1658,7 +2113,12 @@
     "rhythmic": "永遇乐",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 4, 4, 4, 4, 5, 4, 4, 6, 3, 4, 6, 4, 4, 6, 4, 4, 5, 4, 3, 6, 3, 3, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "刘辰翁",
@@ -1681,7 +2141,12 @@
     "tags": [
       "宋词三百首",
       "西湖"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [3, 4, 6, 7, 6, 3, 5, 5, 4, 5, 4, 5, 3, 6, 6, 7, 6, 3, 5, 5, 4, 5, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周密",
@@ -1701,7 +2166,12 @@
     "rhythmic": "绣鸾凤花犯・花犯",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [3, 4, 5, 4, 5, 4, 7, 5, 3, 4, 5, 7, 3, 6, 3, 3, 4, 3, 4, 3, 5, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周密",
@@ -1719,7 +2189,12 @@
     "rhythmic": "瑶花慢",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [3, 4, 5, 4, 3, 6, 4, 3, 4, 3, 4, 6, 6, 5, 4, 4, 3, 6, 4, 3, 4, 3, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周密",
@@ -1740,7 +2215,12 @@
     "rhythmic": "玉京秋",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [3, 5, 4, 4, 4, 6, 3, 4, 3, 4, 4, 6, 3, 4, 4, 4, 4, 4, 3, 6, 3, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周密",
@@ -1761,7 +2241,12 @@
     "rhythmic": "曲游春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [5, 4, 4, 4, 5, 4, 5, 3, 4, 3, 4, 6, 2, 4, 5, 4, 4, 5, 4, 5, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周密",
@@ -1779,7 +2264,12 @@
     "tags": [
       "宋词三百首",
       "西湖"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 4, 6, 4, 5, 7, 3, 4, 3, 4, 4, 7, 5, 4, 4, 6, 7, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "朱嗣发",
@@ -1802,7 +2292,12 @@
     "rhythmic": "摸鱼儿",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [3, 4, 6, 7, 6, 3, 5, 5, 4, 5, 4, 5, 3, 6, 6, 7, 6, 3, 3, 7, 4, 5, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "彭元逊",
@@ -1819,7 +2314,12 @@
     "rhythmic": "解佩环・疏影",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 5, 4, 4, 4, 6, 7, 3, 4, 3, 4, 6, 6, 5, 4, 4, 4, 6, 7, 5, 5, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "彭元逊",
@@ -1843,7 +2343,12 @@
     "rhythmic": "六丑",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 32,
+      "sentence_lengths": [5, 3, 4, 4, 5, 4, 5, 4, 5, 7, 4, 4, 6, 5, 4, 4, 5, 4, 4, 6, 5, 4, 1, 4, 3, 4, 4, 3, 4, 4, 4, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "陆淞",
@@ -1865,7 +2370,12 @@
     "rhythmic": "瑞鹤仙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [5, 3, 6, 5, 5, 4, 4, 3, 4, 3, 4, 6, 2, 4, 4, 4, 4, 3, 3, 3, 6, 6, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "贺铸",
@@ -1879,7 +2389,12 @@
     "rhythmic": "减字浣溪沙・浣溪沙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "贺铸",
@@ -1896,7 +2411,12 @@
     "rhythmic": "天门谣",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 3, 4, 3, 5, 8, 7, 3, 3, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "贺铸",
@@ -1914,7 +2434,12 @@
     "rhythmic": "石州引・石州慢",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 21,
+      "sentence_lengths": [4, 4, 4, 6, 6, 4, 6, 7, 5, 5, 2, 4, 4, 4, 4, 6, 4, 6, 7, 5, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "贺铸",
@@ -1934,7 +2459,12 @@
     "rhythmic": "望湘人",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [5, 4, 6, 4, 4, 6, 4, 4, 4, 3, 4, 6, 6, 5, 4, 5, 6, 4, 4, 6, 3, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "贺铸",
@@ -1951,7 +2481,12 @@
     "rhythmic": "蝶恋花",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 4, 5, 7, 7, 7, 4, 5, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "仲殊",
@@ -1972,7 +2507,12 @@
     "rhythmic": "夏云峰",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 28,
+      "sentence_lengths": [4, 4, 6, 3, 4, 3, 4, 3, 4, 5, 4, 5, 4, 6, 7, 5, 4, 3, 4, 3, 4, 3, 4, 5, 4, 5, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "李邴",
@@ -1989,7 +2529,12 @@
     "rhythmic": "汉宫春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 5, 4, 6, 4, 4, 3, 4, 3, 4, 6, 6, 5, 4, 6, 4, 4, 3, 4, 3, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "潘汾",
@@ -2010,7 +2555,12 @@
     "rhythmic": "贺新郎",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 26,
+      "sentence_lengths": [5, 3, 4, 4, 7, 6, 3, 4, 7, 3, 4, 2, 2, 7, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "李重元",
@@ -2024,7 +2574,12 @@
     "rhythmic": "忆王孙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 3, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "李玉",
@@ -2045,7 +2600,12 @@
     "rhythmic": "贺新郎",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 26,
+      "sentence_lengths": [5, 3, 4, 4, 7, 6, 3, 4, 7, 3, 4, 3, 2, 7, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "陈与义",
@@ -2060,7 +2620,12 @@
     "rhythmic": "临江仙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 6, 7, 5, 5, 7, 6, 7, 5, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "陈与义",
@@ -2075,7 +2640,12 @@
     "rhythmic": "临江仙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 6, 7, 5, 5, 7, 6, 7, 5, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张元干",
@@ -2102,7 +2672,12 @@
     "rhythmic": "兰陵王",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 29,
+      "sentence_lengths": [3, 6, 3, 4, 7, 5, 2, 4, 3, 4, 7, 5, 5, 4, 7, 5, 4, 7, 5, 2, 3, 5, 4, 7, 5, 4, 4, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张元干",
@@ -2120,7 +2695,12 @@
     "rhythmic": "石州慢",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 21,
+      "sentence_lengths": [4, 4, 4, 6, 6, 4, 6, 7, 5, 5, 2, 4, 4, 4, 6, 4, 4, 6, 7, 5, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吕渭老",
@@ -2139,7 +2719,12 @@
     "rhythmic": "薄幸",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [4, 3, 4, 3, 4, 6, 3, 4, 7, 5, 4, 6, 3, 3, 3, 4, 5, 4, 7, 4, 3, 4, 5, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "岳飞",
@@ -2157,7 +2742,12 @@
     "rhythmic": "满江红",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 3, 4, 3, 4, 4, 7, 7, 3, 5, 3, 3, 3, 3, 3, 5, 4, 7, 7, 3, 5, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "陈亮",
@@ -2175,7 +2765,12 @@
     "rhythmic": "水龙吟",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [6, 7, 4, 4, 4, 4, 4, 4, 5, 4, 3, 3, 6, 3, 4, 4, 4, 4, 4, 4, 4, 3, 6, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张",
@@ -2194,7 +2789,12 @@
     "rhythmic": "宴山亭・燕山亭",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 4, 6, 4, 4, 6, 4, 3, 4, 2, 5, 4, 6, 3, 6, 4, 4, 6, 4, 3, 4, 2, 3, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "刘过",
@@ -2211,7 +2811,12 @@
     "rhythmic": "唐多令",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 3, 4, 7, 3, 3, 5, 5, 3, 4, 7, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2228,7 +2833,12 @@
     "tags": [
       "宋词三百首",
       "太湖"
-    ]
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [4, 7, 4, 5, 4, 5, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2243,7 +2853,12 @@
     "rhythmic": "鹧鸪天",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2261,7 +2876,12 @@
     "rhythmic": "杏花天",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 15,
+      "sentence_lengths": [7, 3, 4, 7, 2, 3, 3, 3, 4, 3, 4, 7, 2, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2276,7 +2896,12 @@
     "rhythmic": "踏莎行",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [4, 4, 7, 7, 7, 4, 4, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2300,7 +2925,12 @@
     "rhythmic": "霓裳中序第一",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [5, 7, 6, 5, 4, 4, 3, 4, 3, 4, 5, 2, 4, 3, 4, 6, 4, 4, 5, 3, 4, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2317,7 +2947,12 @@
     "rhythmic": "庆宫春・高阳台",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 4, 6, 4, 4, 6, 4, 3, 4, 4, 4, 4, 6, 4, 4, 4, 4, 6, 4, 3, 3, 4, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2338,7 +2973,12 @@
     "rhythmic": "齐天乐",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 21,
+      "sentence_lengths": [7, 6, 4, 4, 6, 4, 5, 4, 4, 7, 6, 5, 4, 4, 4, 6, 4, 5, 4, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2356,7 +2996,12 @@
     "rhythmic": "一萼红",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [3, 5, 5, 4, 4, 6, 3, 4, 3, 5, 4, 4, 4, 6, 5, 4, 4, 4, 6, 3, 4, 3, 5, 6, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2374,7 +3019,12 @@
     "rhythmic": "念奴娇",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 21,
+      "sentence_lengths": [4, 3, 6, 7, 6, 4, 4, 5, 4, 6, 2, 4, 4, 5, 7, 6, 4, 4, 5, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2391,7 +3041,12 @@
     "rhythmic": "琵琶仙・自度曲",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 3, 6, 6, 5, 3, 4, 3, 3, 4, 4, 4, 3, 4, 3, 5, 6, 5, 3, 4, 3, 4, 6, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2408,7 +3063,12 @@
     "rhythmic": "八归",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 4, 6, 7, 6, 4, 7, 3, 4, 3, 4, 4, 6, 4, 6, 4, 4, 6, 5, 7, 3, 4, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2425,7 +3085,12 @@
     "rhythmic": "扬州慢",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 4, 6, 5, 5, 7, 4, 4, 3, 4, 4, 4, 3, 4, 5, 4, 4, 6, 3, 4, 5, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2444,7 +3109,12 @@
     "rhythmic": "长亭怨慢",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [3, 4, 4, 4, 4, 7, 4, 3, 3, 5, 3, 4, 2, 5, 6, 4, 3, 4, 3, 4, 3, 4, 5, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2461,7 +3131,12 @@
     "rhythmic": "淡黄柳",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 13,
+      "sentence_lengths": [4, 5, 7, 6, 7, 3, 5, 3, 3, 8, 4, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2483,7 +3158,12 @@
     "tags": [
       "宋词三百首",
       "西湖"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 5, 4, 4, 7, 6, 3, 4, 3, 4, 5, 2, 3, 5, 4, 4, 7, 6, 3, 4, 3, 3, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2501,7 +3181,12 @@
     "rhythmic": "疏影",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 5, 4, 4, 4, 6, 7, 3, 4, 3, 4, 6, 6, 5, 4, 4, 4, 6, 7, 3, 4, 3, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姜夔",
@@ -2523,7 +3208,12 @@
     "rhythmic": "翠楼吟",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [4, 4, 5, 5, 3, 4, 4, 5, 4, 3, 4, 4, 2, 4, 5, 4, 5, 3, 4, 4, 4, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "钱惟演",
@@ -2538,7 +3228,12 @@
     "rhythmic": "木兰花・玉楼春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "范仲淹",
@@ -2555,7 +3250,12 @@
     "rhythmic": "苏幕遮",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [3, 3, 4, 5, 7, 4, 5, 3, 3, 4, 5, 7, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "范仲淹",
@@ -2573,7 +3273,12 @@
     "rhythmic": "御街行",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [7, 3, 3, 7, 6, 4, 4, 5, 7, 3, 3, 7, 6, 4, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "柳永",
@@ -2591,7 +3296,12 @@
     "rhythmic": "曲玉管",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 4, 7, 6, 4, 3, 4, 4, 7, 4, 6, 3, 4, 3, 4, 6, 6, 3, 5, 6, 4, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "柳永",
@@ -2610,7 +3320,12 @@
     "rhythmic": "雨霖铃",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 4, 4, 6, 3, 4, 6, 5, 3, 4, 7, 7, 3, 5, 6, 3, 4, 4, 4, 4, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "柳永",
@@ -2627,7 +3342,12 @@
     "rhythmic": "采莲令",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 21,
+      "sentence_lengths": [3, 5, 3, 4, 7, 5, 3, 4, 4, 6, 4, 7, 3, 4, 4, 3, 5, 3, 4, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "柳永",
@@ -2644,7 +3364,12 @@
     "rhythmic": "凤栖梧・蝶恋花",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 4, 5, 7, 7, 7, 4, 5, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "柳永",
@@ -2662,7 +3387,12 @@
     "rhythmic": "浪淘沙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 32,
+      "sentence_lengths": [2, 5, 4, 4, 4, 4, 3, 5, 3, 4, 3, 4, 6, 2, 4, 4, 6, 5, 5, 4, 3, 5, 4, 4, 4, 6, 3, 5, 5, 5, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "柳永",
@@ -2684,7 +3414,12 @@
     "rhythmic": "定风波",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [3, 4, 6, 4, 4, 5, 3, 2, 7, 2, 5, 4, 4, 3, 5, 3, 6, 5, 3, 3, 7, 2, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "柳永",
@@ -2698,7 +3433,12 @@
     "rhythmic": "少年游",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 5, 4, 4, 5, 7, 5, 4, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "柳永",
@@ -2730,7 +3470,12 @@
     "rhythmic": "戚氏",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 48,
+      "sentence_lengths": [3, 7, 4, 7, 2, 3, 7, 6, 7, 4, 4, 5, 5, 4, 4, 6, 4, 5, 3, 4, 4, 3, 4, 4, 4, 4, 4, 6, 5, 4, 4, 6, 3, 5, 6, 4, 5, 3, 5, 3, 4, 3, 4, 3, 5, 4, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "柳永",
@@ -2753,7 +3498,12 @@
     "rhythmic": "夜半乐",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 31,
+      "sentence_lengths": [6, 4, 5, 5, 4, 4, 4, 6, 4, 3, 5, 6, 4, 4, 3, 6, 4, 4, 6, 4, 3, 5, 4, 4, 4, 8, 3, 7, 3, 5, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "柳永",
@@ -2773,7 +3523,12 @@
     "rhythmic": "玉蝴蝶",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [6, 4, 4, 4, 6, 3, 4, 3, 4, 3, 4, 4, 2, 4, 4, 4, 4, 7, 3, 4, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "柳永",
@@ -2791,7 +3546,12 @@
     "tags": [
       "宋词三百首",
       "长江"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [3, 5, 5, 5, 4, 4, 6, 5, 5, 4, 6, 5, 4, 5, 5, 3, 3, 3, 5, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "柳永",
@@ -2809,7 +3569,12 @@
     "rhythmic": "竹马子・竹马儿",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [5, 4, 4, 5, 4, 4, 6, 4, 4, 5, 3, 6, 5, 4, 4, 6, 6, 6, 4, 5, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "柳永",
@@ -2830,7 +3595,12 @@
     "rhythmic": "迷神引",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [7, 6, 4, 4, 3, 3, 3, 5, 3, 5, 3, 4, 5, 4, 3, 4, 3, 3, 3, 3, 3, 5, 3, 5, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张先",
@@ -2849,7 +3619,12 @@
     "rhythmic": "醉垂鞭",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 3, 3, 5, 5, 5, 3, 3, 5, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张先",
@@ -2866,7 +3641,12 @@
     "rhythmic": "一丛花令・一丛花",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [7, 5, 7, 3, 2, 4, 4, 5, 7, 5, 7, 3, 4, 4, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张先",
@@ -2885,7 +3665,12 @@
     "rhythmic": "天仙子",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 3, 3, 7, 7, 7, 7, 3, 3, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张先",
@@ -2904,7 +3689,12 @@
     "rhythmic": "千秋岁",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 15,
+      "sentence_lengths": [4, 5, 7, 5, 5, 3, 7, 5, 5, 3, 3, 5, 5, 3, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张先",
@@ -2919,7 +3709,12 @@
     "rhythmic": "青门引・青门饮",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [5, 6, 7, 4, 5, 7, 5, 6, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏殊",
@@ -2933,7 +3728,12 @@
     "rhythmic": "浣溪沙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "晏殊",
@@ -2947,7 +3747,12 @@
     "rhythmic": "浣溪沙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "晏殊",
@@ -2963,7 +3768,12 @@
     "rhythmic": "清平乐",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [4, 5, 7, 6, 6, 6, 6, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏殊",
@@ -2979,7 +3789,12 @@
     "rhythmic": "清平乐",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [4, 5, 7, 6, 6, 6, 6, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏殊",
@@ -2994,7 +3809,12 @@
     "rhythmic": "木兰花・玉楼春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "晏殊",
@@ -3009,7 +3829,12 @@
     "rhythmic": "木兰花・玉楼春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "晏殊",
@@ -3024,7 +3849,12 @@
     "rhythmic": "踏莎行",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [4, 4, 7, 7, 7, 4, 4, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏殊",
@@ -3039,7 +3869,12 @@
     "rhythmic": "踏莎行",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [4, 4, 7, 7, 5, 4, 4, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晏殊",
@@ -3054,7 +3889,12 @@
     "rhythmic": "玉楼春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "宋祁",
@@ -3069,7 +3909,12 @@
     "rhythmic": "玉楼春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 6, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "欧阳修",
@@ -3085,7 +3930,12 @@
     "tags": [
       "宋词三百首",
       "西湖"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 4, 4, 7, 7, 4, 4, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "欧阳修",
@@ -3100,7 +3950,12 @@
     "rhythmic": "诉衷情",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 5, 6, 6, 3, 3, 3, 4, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "欧阳修",
@@ -3115,7 +3970,12 @@
     "rhythmic": "踏莎行",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [4, 4, 7, 7, 7, 4, 4, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "欧阳修",
@@ -3132,7 +3992,12 @@
     "rhythmic": "蝶恋花",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 4, 5, 7, 7, 7, 4, 5, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "欧阳修",
@@ -3147,7 +4012,12 @@
     "rhythmic": "玉楼春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "欧阳修",
@@ -3162,7 +4032,12 @@
     "rhythmic": "玉楼春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 6, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "欧阳修",
@@ -3177,7 +4052,12 @@
     "rhythmic": "玉楼春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "欧阳修",
@@ -3194,7 +4074,12 @@
     "rhythmic": "浪淘沙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 4, 7, 7, 4, 5, 4, 7, 7, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "俞国宝",
@@ -3212,7 +4097,12 @@
     "tags": [
       "宋词三百首",
       "西湖"
-    ]
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [7, 5, 7, 3, 4, 6, 6, 7, 5, 7, 3, 4, 6, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "史达祖",
@@ -3229,7 +4119,12 @@
     "rhythmic": "绮罗香",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 4, 6, 4, 6, 3, 4, 3, 4, 3, 4, 7, 6, 6, 4, 4, 6, 3, 4, 3, 4, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "史达祖",
@@ -3250,7 +4145,12 @@
     "rhythmic": "双双燕",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 21,
+      "sentence_lengths": [4, 5, 4, 4, 6, 6, 3, 4, 6, 6, 2, 4, 5, 4, 4, 6, 6, 3, 4, 6, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "史达祖",
@@ -3268,7 +4168,12 @@
     "rhythmic": "东风第一枝",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 4, 6, 6, 6, 4, 3, 4, 3, 4, 6, 3, 4, 3, 4, 6, 6, 4, 7, 3, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "史达祖",
@@ -3288,7 +4193,12 @@
     "rhythmic": "喜迁莺",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [4, 5, 4, 4, 4, 6, 5, 3, 4, 3, 5, 4, 2, 3, 4, 5, 4, 4, 6, 5, 3, 4, 3, 3, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "史达祖",
@@ -3307,7 +4217,12 @@
     "rhythmic": "三姝媚",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [5, 5, 4, 4, 5, 4, 4, 3, 4, 4, 4, 4, 6, 5, 4, 4, 5, 4, 4, 3, 4, 6, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "史达祖",
@@ -3327,7 +4242,12 @@
     "rhythmic": "夜合花",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 4, 6, 4, 6, 3, 3, 3, 4, 4, 4, 4, 6, 6, 4, 4, 6, 3, 3, 3, 4, 4, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "史达祖",
@@ -3344,7 +4264,12 @@
     "rhythmic": "八归",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 4, 6, 7, 6, 4, 7, 3, 4, 3, 4, 5, 6, 3, 6, 4, 4, 6, 5, 7, 3, 4, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "史达祖",
@@ -3364,7 +4289,12 @@
     "rhythmic": "玉胡蝶・玉蝴蝶",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [6, 4, 4, 4, 6, 3, 4, 3, 4, 3, 3, 4, 2, 4, 4, 4, 4, 7, 3, 4, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "史达祖",
@@ -3383,7 +4313,12 @@
     "rhythmic": "秋霁",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 5, 4, 4, 4, 6, 4, 7, 3, 2, 7, 4, 4, 4, 4, 3, 4, 7, 7, 4, 6, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "卢祖皋",
@@ -3403,7 +4338,12 @@
     "rhythmic": "宴清都",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [5, 3, 6, 4, 4, 4, 6, 3, 4, 7, 6, 6, 4, 4, 4, 4, 4, 6, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "卢祖皋",
@@ -3422,7 +4362,12 @@
     "rhythmic": "江城子",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [7, 3, 3, 4, 5, 7, 3, 3, 7, 3, 3, 4, 5, 7, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "章良能",
@@ -3439,7 +4384,12 @@
     "rhythmic": "小重山",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [7, 5, 3, 7, 3, 5, 5, 5, 3, 7, 3, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张",
@@ -3456,7 +4406,12 @@
     "rhythmic": "满庭芳",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 3, 6, 4, 5, 6, 3, 4, 3, 4, 5, 2, 3, 4, 4, 5, 4, 6, 3, 4, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -3475,7 +4430,12 @@
     "rhythmic": "花犯",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [3, 4, 5, 4, 5, 4, 7, 5, 3, 4, 5, 7, 3, 6, 3, 3, 4, 3, 4, 3, 5, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -3489,7 +4449,12 @@
     "rhythmic": "浣溪沙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "吴文英",
@@ -3503,7 +4468,12 @@
     "rhythmic": "浣溪沙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   },
   {
     "author": "吴文英",
@@ -3519,7 +4489,12 @@
     "rhythmic": "点绛唇",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [4, 7, 4, 5, 4, 5, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -3535,7 +4510,12 @@
     "rhythmic": "祝英台近",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [3, 3, 5, 4, 5, 6, 4, 3, 4, 3, 6, 5, 4, 5, 6, 4, 3, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -3551,7 +4531,12 @@
     "rhythmic": "祝英台近",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [3, 3, 5, 4, 5, 6, 4, 3, 4, 3, 6, 5, 4, 5, 6, 4, 3, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "吴文英",
@@ -3568,7 +4553,12 @@
     "rhythmic": "澡兰香",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 4, 6, 4, 3, 6, 3, 4, 6, 6, 4, 6, 4, 4, 4, 4, 6, 3, 4, 6, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "赵佶",
@@ -3587,7 +4577,12 @@
     "rhythmic": "燕山亭",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 4, 6, 4, 4, 6, 4, 3, 4, 2, 5, 4, 6, 3, 6, 4, 4, 6, 4, 3, 4, 2, 3, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "廖世美",
@@ -3606,7 +4601,12 @@
     "rhythmic": "烛影摇红",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 20,
+      "sentence_lengths": [4, 7, 7, 5, 6, 3, 4, 4, 4, 4, 4, 7, 7, 5, 6, 3, 4, 4, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "李清照",
@@ -3623,7 +4623,12 @@
     "rhythmic": "凤凰台上忆吹箫",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 4, 6, 5, 4, 6, 3, 4, 3, 4, 4, 2, 4, 5, 4, 5, 4, 6, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "李清照",
@@ -3637,7 +4642,12 @@
     "rhythmic": "醉花阴",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 5, 5, 4, 5, 7, 5, 5, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "李清照",
@@ -3654,7 +4664,12 @@
     "rhythmic": "念奴娇",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 20,
+      "sentence_lengths": [4, 5, 4, 7, 6, 4, 4, 5, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "李清照",
@@ -3671,7 +4686,12 @@
     "rhythmic": "永遇乐",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 4, 4, 4, 4, 5, 4, 4, 6, 3, 4, 6, 4, 4, 6, 4, 4, 5, 4, 4, 6, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "李清照",
@@ -3689,7 +4709,12 @@
     "rhythmic": "声声慢",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 4, 6, 6, 4, 6, 3, 4, 3, 3, 6, 6, 3, 5, 4, 6, 6, 3, 4, 3, 3, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "蔡伸",
@@ -3706,7 +4731,12 @@
     "rhythmic": "苏武慢",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [4, 4, 6, 4, 4, 6, 4, 6, 4, 5, 4, 4, 3, 4, 4, 6, 4, 4, 6, 4, 4, 6, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "蔡伸",
@@ -3720,7 +4750,12 @@
     "rhythmic": "柳梢青",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 6, 3, 4, 4, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "辛弃疾",
@@ -3743,7 +4778,12 @@
     "rhythmic": "摸鱼儿",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [3, 4, 6, 7, 6, 3, 3, 7, 4, 5, 4, 5, 3, 6, 6, 7, 6, 3, 3, 7, 4, 5, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "辛弃疾",
@@ -3761,7 +4801,12 @@
     "rhythmic": "水龙吟",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [6, 7, 4, 4, 4, 4, 4, 4, 5, 4, 3, 3, 5, 3, 4, 4, 4, 4, 4, 4, 4, 3, 6, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "辛弃疾",
@@ -3778,7 +4823,12 @@
     "rhythmic": "念奴娇",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 20,
+      "sentence_lengths": [4, 3, 6, 6, 6, 4, 4, 5, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "辛弃疾",
@@ -3793,7 +4843,12 @@
     "rhythmic": "鹧鸪天",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "辛弃疾",
@@ -3810,7 +4865,12 @@
     "rhythmic": "菩萨蛮",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "辛弃疾",
@@ -3829,7 +4889,12 @@
     "rhythmic": "木兰花慢",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [5, 3, 3, 5, 4, 4, 3, 3, 3, 5, 6, 6, 2, 5, 5, 5, 4, 4, 6, 3, 5, 6, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "辛弃疾",
@@ -3847,7 +4912,12 @@
     "rhythmic": "祝英台令",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [3, 3, 5, 4, 5, 6, 4, 3, 4, 3, 6, 5, 4, 5, 6, 4, 3, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "辛弃疾",
@@ -3864,7 +4934,12 @@
     "rhythmic": "青玉案",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 13,
+      "sentence_lengths": [7, 3, 3, 7, 4, 4, 5, 7, 7, 7, 4, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "辛弃疾",
@@ -3885,7 +4960,12 @@
     "rhythmic": "贺新郎",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [5, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 3, 4, 4, 7, 6, 3, 4, 7, 8, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "辛弃疾",
@@ -3906,7 +4986,12 @@
     "rhythmic": "贺新郎",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [4, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 3, 4, 4, 7, 6, 3, 4, 7, 8, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "辛弃疾",
@@ -3923,7 +5008,12 @@
     "rhythmic": "汉宫春",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 5, 4, 4, 6, 4, 3, 4, 3, 4, 6, 6, 5, 4, 6, 4, 4, 3, 4, 3, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "程垓",
@@ -3941,7 +5031,12 @@
     "rhythmic": "水龙吟",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [6, 7, 4, 4, 4, 4, 4, 4, 5, 4, 3, 3, 6, 3, 4, 4, 4, 4, 5, 3, 4, 5, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "贺铸",
@@ -3961,7 +5056,12 @@
     "rhythmic": "绿头鸭・多丽",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 34,
+      "sentence_lengths": [3, 6, 3, 4, 6, 3, 4, 3, 3, 4, 4, 7, 3, 4, 5, 3, 4, 4, 3, 4, 6, 3, 4, 3, 3, 4, 4, 7, 3, 4, 5, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晁补之",
@@ -3979,7 +5079,12 @@
     "rhythmic": "水龙吟",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [6, 7, 4, 4, 4, 4, 4, 4, 5, 4, 3, 3, 6, 3, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晁补之",
@@ -3993,7 +5098,12 @@
     "rhythmic": "忆少年",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [4, 4, 4, 5, 5, 7, 3, 4, 5, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晁补之",
@@ -4008,7 +5118,12 @@
     "rhythmic": "洞仙歌",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [4, 5, 7, 3, 5, 3, 6, 5, 4, 7, 6, 4, 3, 4, 3, 5, 5, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4032,7 +5147,12 @@
     "rhythmic": "瑞龙吟",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 30,
+      "sentence_lengths": [3, 6, 4, 4, 4, 4, 3, 6, 4, 6, 4, 4, 6, 4, 4, 6, 4, 4, 5, 3, 4, 4, 5, 4, 4, 5, 3, 6, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4051,7 +5171,12 @@
     "rhythmic": "锁窗寒・琐寒窗",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 4, 4, 4, 6, 3, 4, 7, 5, 4, 4, 2, 3, 5, 4, 4, 6, 3, 4, 7, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4069,7 +5194,12 @@
     "rhythmic": "风流子",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [5, 3, 5, 5, 4, 4, 4, 7, 6, 4, 4, 4, 4, 5, 3, 6, 4, 6, 5, 4, 4, 4, 4, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4088,7 +5218,12 @@
     "rhythmic": "应天长",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 4, 6, 6, 5, 3, 3, 3, 4, 3, 4, 4, 5, 4, 5, 6, 5, 3, 3, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4108,7 +5243,12 @@
     "rhythmic": "解连环",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 26,
+      "sentence_lengths": [4, 5, 4, 3, 4, 5, 4, 4, 3, 4, 5, 4, 4, 6, 5, 4, 3, 4, 5, 4, 4, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4130,7 +5270,12 @@
     "rhythmic": "瑞鹤仙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [5, 3, 6, 5, 3, 6, 4, 3, 4, 5, 4, 4, 6, 4, 4, 4, 3, 3, 3, 6, 6, 5, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4155,7 +5300,12 @@
     "rhythmic": "浪涛沙・浪淘沙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 29,
+      "sentence_lengths": [3, 4, 4, 6, 6, 8, 3, 4, 8, 5, 2, 6, 5, 3, 5, 5, 4, 4, 5, 4, 7, 3, 4, 3, 5, 3, 4, 3, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4173,7 +5323,12 @@
     "rhythmic": "满庭芳",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 4, 6, 4, 5, 6, 3, 4, 3, 4, 5, 2, 3, 4, 4, 5, 4, 6, 3, 4, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4190,7 +5345,12 @@
     "rhythmic": "过秦楼",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 4, 6, 4, 4, 6, 6, 4, 4, 5, 4, 4, 3, 4, 4, 6, 4, 4, 6, 3, 6, 4, 5, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4207,7 +5367,12 @@
     "rhythmic": "夜游宫",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [6, 3, 4, 7, 3, 3, 3, 5, 3, 4, 7, 3, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4230,7 +5395,12 @@
     "rhythmic": "解语花",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 3, 5, 4, 3, 6, 4, 3, 4, 3, 4, 5, 6, 5, 4, 4, 3, 6, 4, 3, 4, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4251,7 +5421,12 @@
     "rhythmic": "大",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 31,
+      "sentence_lengths": [4, 3, 6, 5, 5, 4, 4, 4, 6, 5, 5, 4, 5, 4, 4, 5, 3, 5, 3, 4, 3, 3, 4, 5, 3, 4, 3, 3, 4, 6, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4270,7 +5445,12 @@
     "rhythmic": "花犯",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [3, 4, 5, 4, 5, 4, 7, 5, 3, 4, 5, 7, 5, 4, 3, 3, 4, 3, 4, 3, 5, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4296,7 +5476,12 @@
     "rhythmic": "六丑",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 32,
+      "sentence_lengths": [5, 3, 4, 4, 5, 4, 5, 4, 5, 7, 4, 4, 6, 5, 4, 4, 5, 5, 3, 6, 5, 4, 3, 4, 5, 4, 3, 3, 4, 3, 5, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4323,7 +5508,12 @@
     "rhythmic": "兰陵王",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 29,
+      "sentence_lengths": [3, 6, 3, 4, 7, 5, 2, 4, 3, 4, 7, 5, 5, 4, 7, 5, 4, 7, 5, 2, 3, 5, 4, 7, 5, 4, 4, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4344,7 +5534,12 @@
     "rhythmic": "西河",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 21,
+      "sentence_lengths": [3, 6, 7, 4, 7, 6, 3, 3, 6, 7, 4, 7, 6, 7, 3, 4, 6, 3, 4, 6, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4364,7 +5559,12 @@
     "rhythmic": "绮寮怨",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [6, 5, 3, 4, 3, 4, 6, 3, 5, 3, 4, 3, 5, 6, 4, 6, 4, 3, 3, 6, 3, 3, 4, 5, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4383,7 +5583,12 @@
     "rhythmic": "拜星月・拜星月慢",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 4, 6, 4, 5, 3, 8, 6, 4, 5, 3, 5, 3, 5, 6, 5, 3, 5, 3, 5, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4401,7 +5606,12 @@
     "rhythmic": "尉迟杯",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [3, 3, 5, 6, 6, 4, 3, 5, 3, 4, 6, 6, 3, 6, 7, 3, 4, 3, 4, 3, 5, 3, 3, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4418,7 +5628,12 @@
     "rhythmic": "蝶恋花",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 11,
+      "sentence_lengths": [7, 4, 1, 3, 7, 7, 7, 4, 5, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4436,7 +5651,12 @@
     "rhythmic": "夜飞鹊・夜飞鹊慢",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [5, 4, 6, 7, 6, 5, 5, 4, 4, 3, 4, 6, 5, 4, 6, 4, 4, 4, 3, 4, 5, 3, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周邦彦",
@@ -4450,7 +5670,12 @@
     "rhythmic": "关河令・清商怨",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 5, 4, 5, 6, 3, 4, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "孔夷",
@@ -4467,7 +5692,12 @@
     "rhythmic": "南浦",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 21,
+      "sentence_lengths": [4, 3, 5, 4, 5, 6, 3, 5, 5, 4, 5, 6, 3, 5, 6, 5, 6, 3, 5, 5, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "晁冲之",
@@ -4482,7 +5712,12 @@
     "rhythmic": "临江仙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 6, 7, 5, 5, 7, 6, 7, 5, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "毛滂",
@@ -4501,7 +5736,12 @@
     "rhythmic": "惜分飞",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 6, 5, 4, 3, 7, 6, 5, 4, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "王沂孙",
@@ -4519,7 +5759,12 @@
     "rhythmic": "天香",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 21,
+      "sentence_lengths": [4, 4, 6, 4, 4, 6, 4, 3, 4, 6, 6, 5, 3, 4, 6, 4, 6, 3, 5, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "王沂孙",
@@ -4538,7 +5783,12 @@
     "rhythmic": "眉妩",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [5, 4, 5, 5, 3, 6, 4, 3, 4, 3, 5, 5, 6, 5, 4, 5, 3, 6, 4, 3, 4, 5, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "王沂孙",
@@ -4557,7 +5807,12 @@
     "rhythmic": "齐天乐",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 21,
+      "sentence_lengths": [7, 6, 4, 4, 6, 4, 5, 4, 4, 7, 6, 5, 4, 4, 4, 6, 4, 5, 4, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "王沂孙",
@@ -4574,7 +5829,12 @@
     "rhythmic": "高阳台",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 4, 6, 4, 6, 7, 3, 4, 3, 4, 4, 7, 5, 4, 4, 6, 7, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "王沂孙",
@@ -4591,7 +5851,12 @@
     "rhythmic": "法曲献仙音",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 21,
+      "sentence_lengths": [4, 4, 6, 4, 4, 6, 6, 5, 3, 3, 4, 3, 6, 5, 3, 4, 4, 3, 4, 5, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "王沂孙",
@@ -4611,7 +5876,12 @@
     "rhythmic": "长亭怨・长亭怨慢",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [3, 4, 4, 4, 4, 7, 4, 3, 3, 5, 3, 4, 2, 5, 6, 4, 3, 4, 3, 4, 3, 4, 5, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "姚云文",
@@ -4632,7 +5902,12 @@
     "rhythmic": "紫萸香慢",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 28,
+      "sentence_lengths": [3, 4, 6, 5, 3, 3, 6, 5, 4, 3, 7, 3, 4, 2, 4, 3, 3, 5, 4, 4, 6, 3, 3, 3, 4, 4, 6, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "蒋捷",
@@ -4653,7 +5928,12 @@
     "rhythmic": "贺新郎",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 26,
+      "sentence_lengths": [5, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 2, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "蒋捷",
@@ -4675,7 +5955,12 @@
     "rhythmic": "女冠子",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [4, 6, 4, 4, 4, 4, 5, 6, 4, 3, 4, 6, 7, 5, 5, 4, 5, 4, 5, 6, 4, 5, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "蒋捷",
@@ -4697,7 +5982,12 @@
     "rhythmic": "瑞鹤仙",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 25,
+      "sentence_lengths": [5, 5, 4, 5, 5, 4, 4, 3, 4, 3, 4, 6, 2, 4, 4, 4, 4, 3, 3, 3, 6, 6, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张炎",
@@ -4715,7 +6005,12 @@
     "rhythmic": "甘州・八声甘州",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 21,
+      "sentence_lengths": [3, 5, 5, 5, 4, 4, 6, 5, 5, 4, 6, 5, 4, 5, 5, 7, 3, 5, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张炎",
@@ -4734,7 +6029,12 @@
     "tags": [
       "宋词三百首",
       "西湖"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [5, 4, 5, 5, 4, 5, 4, 3, 4, 3, 4, 5, 2, 4, 4, 5, 3, 4, 4, 7, 3, 4, 3, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张炎",
@@ -4753,7 +6053,12 @@
     "rhythmic": "解连环",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 26,
+      "sentence_lengths": [4, 5, 4, 3, 4, 5, 4, 4, 3, 4, 5, 4, 4, 6, 5, 4, 3, 4, 5, 4, 4, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张炎",
@@ -4773,7 +6078,12 @@
     "rhythmic": "月下笛",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 4, 4, 4, 7, 7, 3, 4, 5, 4, 4, 2, 3, 3, 6, 4, 6, 7, 3, 4, 3, 3, 6],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "苏过",
@@ -4789,7 +6099,12 @@
     "rhythmic": "点绛唇",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [4, 7, 4, 5, 4, 5, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "叶梦得",
@@ -4810,7 +6125,12 @@
     "rhythmic": "贺新郎",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 26,
+      "sentence_lengths": [5, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "叶梦得",
@@ -4827,7 +6147,12 @@
     "rhythmic": "虞美人",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 5, 7, 6, 2, 7, 5, 7, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "刘一止",
@@ -4845,7 +6170,12 @@
     "rhythmic": "喜迁莺",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 5, 4, 4, 4, 6, 6, 6, 3, 3, 6, 2, 3, 4, 5, 4, 4, 6, 6, 6, 3, 5, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "汪藻",
@@ -4861,7 +6191,12 @@
     "rhythmic": "点绛唇",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [4, 7, 4, 5, 4, 5, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "曹组",
@@ -4876,7 +6211,12 @@
     "rhythmic": "蓦山溪",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 20,
+      "sentence_lengths": [4, 5, 5, 3, 4, 4, 5, 3, 3, 5, 4, 5, 5, 3, 4, 4, 5, 3, 3, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "万俟咏",
@@ -4900,7 +6240,12 @@
     "rhythmic": "三台",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 42,
+      "sentence_lengths": [7, 6, 3, 5, 3, 4, 3, 5, 3, 4, 3, 4, 3, 4, 7, 6, 3, 5, 3, 4, 3, 5, 3, 4, 3, 4, 3, 4, 7, 6, 3, 5, 3, 4, 3, 5, 3, 4, 3, 4, 3, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "田为",
@@ -4922,7 +6267,12 @@
     "rhythmic": "江神子慢・江城子慢",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [5, 3, 5, 3, 3, 6, 3, 7, 3, 5, 6, 6, 6, 5, 4, 3, 3, 6, 3, 7, 3, 5, 6, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "陈克",
@@ -4939,7 +6289,12 @@
     "rhythmic": "菩萨蛮",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "陈克",
@@ -4956,7 +6311,12 @@
     "rhythmic": "菩萨蛮",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周紫芝",
@@ -4971,7 +6331,12 @@
     "rhythmic": "鹧鸪天",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "周紫芝",
@@ -4986,7 +6351,12 @@
     "rhythmic": "踏莎行",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [4, 4, 7, 7, 7, 4, 4, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "无名氏",
@@ -5003,7 +6373,12 @@
     "rhythmic": "青玉案",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 13,
+      "sentence_lengths": [7, 3, 3, 7, 4, 4, 5, 7, 7, 7, 4, 4, 5],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "范成大",
@@ -5020,7 +6395,12 @@
     "rhythmic": "秦楼月・忆秦娥",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [3, 7, 3, 4, 4, 7, 7, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "范成大",
@@ -5036,7 +6416,12 @@
     "rhythmic": "霜天晓角",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 11,
+      "sentence_lengths": [4, 5, 6, 3, 3, 2, 3, 5, 6, 3, 3],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "范成大",
@@ -5050,7 +6435,12 @@
     "rhythmic": "眼儿媚",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 5, 4, 4, 4, 7, 5, 4, 4, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张孝祥",
@@ -5075,7 +6465,12 @@
     "rhythmic": "六州歌头",
     "tags": [
       "宋词三百首"
-    ]
+    ],
+    "format": {
+      "sentence_count": 39,
+      "sentence_lengths": [4, 5, 3, 3, 3, 3, 5, 3, 3, 3, 3, 3, 4, 5, 4, 5, 5, 4, 3, 4, 3, 3, 3, 3, 3, 3, 3, 5, 3, 3, 3, 3, 3, 6, 3, 4, 5, 5, 4],
+      "uniform_sentence_length": null
+    }
   },
   {
     "author": "张孝祥",
@@ -5093,6 +6488,11 @@
     "tags": [
       "宋词三百首",
       "洞庭湖"
-    ]
+    ],
+    "format": {
+      "sentence_count": 20,
+      "sentence_lengths": [4, 3, 6, 7, 6, 4, 4, 5, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 6],
+      "uniform_sentence_length": null
+    }
   }
 ]

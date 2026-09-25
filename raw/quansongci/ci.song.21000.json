@@ -11,7 +11,12 @@
       "论功医国，合在药王之右。", 
       "不妨千岁饮，长生酒。"
     ], 
-    "rhythmic": "感皇恩"
+    "rhythmic": "感皇恩",
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 4, 7, 4, 6, 5, 3, 4, 4, 7, 4, 6, 5, 3],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "臧馀庆", 
@@ -28,7 +33,12 @@
     "rhythmic": "感皇恩", 
     "tags": [
       "衡山"
-    ]
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 4, 7, 4, 6, 5, 3, 4, 4, 7, 4, 6, 5, 3],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "臧馀庆", 
@@ -42,7 +52,12 @@
       "五双纸拈，管打十个喷嚏。", 
       "□□□□儿，一百岁。"
     ], 
-    "rhythmic": "感皇恩"
+    "rhythmic": "感皇恩",
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 4, 7, 4, 6, 5, 3, 4, 4, 7, 4, 6, 1, 3],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "胡于", 
@@ -54,7 +69,12 @@
       "天教慈母寿无穷。", 
       "遥知今夕称觞处，衣彩还将衣绣同。"
     ], 
-    "rhythmic": "鹧鸪天"
+    "rhythmic": "鹧鸪天",
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "胡于", 
@@ -66,7 +86,12 @@
       "天教二老鬓长青。", 
       "明年今日称觞处，更有孙枝满谢庭。"
     ], 
-    "rhythmic": "鹧鸪天"
+    "rhythmic": "鹧鸪天",
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "胡于", 
@@ -78,7 +103,12 @@
       "老人沉醉弟兄扶。", 
       "问将何物为儿寿，付与家传万卷书。"
     ], 
-    "rhythmic": "鹧鸪天"
+    "rhythmic": "鹧鸪天",
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "胡于", 
@@ -90,7 +120,12 @@
       "衮衣象服镇团栾。", 
       "年年此日称觞处，留待菖蒲驻玉颜。"
     ], 
-    "rhythmic": "鹧鸪天"
+    "rhythmic": "鹧鸪天",
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "申国章", 
@@ -102,7 +137,12 @@
       "御沟金袅柳如丝。", 
       "凤池留得梅花住，欲与先生荐寿卮。"
     ], 
-    "rhythmic": "鹧鸪天"
+    "rhythmic": "鹧鸪天",
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "陈日章", 
@@ -114,7 +154,12 @@
       "休辞潋滟十分舡。", 
       "来年此日称觞处，定有重孙戏膝前。"
     ], 
-    "rhythmic": "鹧鸪天"
+    "rhythmic": "鹧鸪天",
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "李景良", 
@@ -126,7 +171,12 @@
       "轻红莲叶荐金盘。", 
       "沉香小院浑先暑，更有杯传数百年。"
     ], 
-    "rhythmic": "鹧鸪天"
+    "rhythmic": "鹧鸪天",
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "张思济", 
@@ -138,7 +188,12 @@
       "从今三万六千场。", 
       "桑麻休说桑田变，自是经门日月长。"
     ], 
-    "rhythmic": "鹧鸪天"
+    "rhythmic": "鹧鸪天",
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "李夫人", 
@@ -152,7 +207,12 @@
       "好着丹青。", 
       "画与人间作寿星。"
     ], 
-    "rhythmic": "减字木兰花"
+    "rhythmic": "减字木兰花",
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [4, 7, 4, 7, 4, 7, 4, 7],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "李夫人", 
@@ -165,7 +225,12 @@
       "莫向尊前辞醉倒。", 
       "松枝鹤骨偏宜老。"
     ], 
-    "rhythmic": "蝶恋花"
+    "rhythmic": "蝶恋花",
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 4, 5, 7, 7, 7, 4, 5, 7, 7],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "李夫人", 
@@ -176,7 +241,12 @@
       "自来忠孝传家世，所以芝兰满户庭。", 
       "簪笏成行称寿处，老来皆已鬓星星。"
     ], 
-    "rhythmic": "瑞鹧鸪"
+    "rhythmic": "瑞鹧鸪",
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
   }, 
   {
     "author": "张藻", 
@@ -193,7 +263,12 @@
       "看佩珂鸣玉，促侍宸旒。", 
       "直待功成名遂，归作赤松游。"
     ], 
-    "rhythmic": "望海潮"
+    "rhythmic": "望海潮",
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 4, 6, 4, 4, 6, 5, 5, 4, 4, 7, 6, 5, 4, 4, 4, 6, 5, 5, 4, 6, 5],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "胡文卿", 
@@ -207,7 +282,12 @@
       "蟠桃结子几番红。", 
       "笑赏清歌声调、叶黄锺。"
     ], 
-    "rhythmic": "虞美人"
+    "rhythmic": "虞美人",
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 5, 7, 6, 3, 7, 5, 7, 6, 3],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "胡文卿", 
@@ -221,7 +301,12 @@
       "香醪满满十分斟。", 
       "香信传时延寿、保千春。"
     ], 
-    "rhythmic": "虞美人"
+    "rhythmic": "虞美人",
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 5, 7, 6, 3, 7, 5, 7, 6, 3],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "胡文卿", 
@@ -235,7 +320,12 @@
       "寿杯满劝庆遐龄。", 
       "寿比南山松柏、永长春。"
     ], 
-    "rhythmic": "虞美人"
+    "rhythmic": "虞美人",
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 5, 7, 6, 3, 7, 5, 7, 6, 3],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "胡文卿", 
@@ -248,7 +338,12 @@
       "从今几度见河清。", 
       "笑傲壶中日月、镇长春。"
     ], 
-    "rhythmic": "虞美人"
+    "rhythmic": "虞美人",
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 5, 7, 6, 3, 7, 5, 7, 6, 3],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "胡文卿", 
@@ -262,7 +357,12 @@
       "满庭佳客捧殷勤。", 
       "此日蒲菊新绿、瓮头春。"
     ], 
-    "rhythmic": "虞美人"
+    "rhythmic": "虞美人",
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 5, 7, 6, 3, 7, 5, 7, 6, 3],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "胡文卿", 
@@ -276,7 +376,12 @@
       "愿如彭祖寿齐年。", 
       "金杯劝寿仙。"
     ], 
-    "rhythmic": "阮郎归"
+    "rhythmic": "阮郎归",
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 5, 7, 5, 3, 3, 5, 7, 5],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "胡文卿", 
@@ -290,7 +395,12 @@
       "一尊仙酝祝芳丛。", 
       "蟠桃千岁红。"
     ], 
-    "rhythmic": "阮郎归"
+    "rhythmic": "阮郎归",
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 5, 7, 5, 3, 3, 5, 7, 5],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "胡文卿", 
@@ -304,7 +414,12 @@
       "狨鞍长傍九重城。", 
       "年年双鬓青。"
     ], 
-    "rhythmic": "阮郎归"
+    "rhythmic": "阮郎归",
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 5, 7, 5, 3, 3, 5, 7, 5],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "杨道居", 
@@ -318,7 +433,12 @@
       "乐事赏心千岁有。", 
       "黑头人做三公有。"
     ], 
-    "rhythmic": "蝶恋花"
+    "rhythmic": "蝶恋花",
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 4, 5, 7, 7, 7, 4, 5, 7, 7],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "史佐尧", 
@@ -332,7 +452,12 @@
       "好继平阳腾茂躅。", 
       "富贵千秋，饮听瑶池曲。"
     ], 
-    "rhythmic": "苏幕遮"
+    "rhythmic": "苏幕遮",
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [3, 3, 4, 5, 7, 4, 5, 3, 3, 4, 5, 7, 4, 5],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "徐去非", 
@@ -346,7 +471,12 @@
       "飘洒风流酥满盏，浑疑醉，月影蓬莱。", 
       "从今去，诗高未老，点化尽多才。"
     ], 
-    "rhythmic": "满庭芳"
+    "rhythmic": "满庭芳",
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 4, 6, 4, 5, 6, 7, 3, 4, 5, 2, 3, 4, 4, 5, 4, 7, 3, 4, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "徐去非", 
@@ -357,7 +487,12 @@
       "春造化、密与天知。", 
       "羞将脂粉隈桃李，独先结实，还同戴胜，归宴瑶池。"
     ], 
-    "rhythmic": "锦被堆"
+    "rhythmic": "锦被堆",
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 3, 4, 7, 4, 4, 4, 5, 3, 4, 7, 4, 4, 4],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "徐去非", 
@@ -370,7 +505,12 @@
       "玉带金鱼，共愿人长久。", 
       "偷取蟠桃荐芳酒，更看南极星朝斗。"
     ], 
-    "rhythmic": "卷珠帘・蝶恋花"
+    "rhythmic": "卷珠帘・蝶恋花",
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [6, 4, 5, 7, 7, 7, 4, 5, 7, 7],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "舒大成", 
@@ -383,7 +523,12 @@
       "两行红袖。", 
       "争劝长生酒。"
     ], 
-    "rhythmic": "点绛唇"
+    "rhythmic": "点绛唇",
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [4, 7, 4, 5, 4, 5, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "贾少卿", 
@@ -395,7 +540,12 @@
       "且将风月剩酧身。", 
       "樽中长有酒，花下不辜春。"
     ], 
-    "rhythmic": "临江仙"
+    "rhythmic": "临江仙",
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 6, 7, 5, 5, 7, 5, 7, 5, 5],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "陆汉广", 
@@ -411,7 +561,12 @@
       "画鼓新歌，喜映两疏眉。", 
       "袖里蟠桃花露湿，应不惜，醉金卮。"
     ], 
-    "rhythmic": "江城子"
+    "rhythmic": "江城子",
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [7, 3, 3, 4, 5, 7, 3, 3, 7, 3, 3, 4, 5, 7, 3, 3],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "王阜民", 
@@ -426,7 +581,12 @@
     "rhythmic": "临江仙", 
     "tags": [
       "长江"
-    ]
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 6, 7, 5, 5, 7, 6, 7, 5, 5],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "霍安人", 
@@ -440,7 +600,12 @@
       "兼金五福，行被君恩宠贲。", 
       "愿祈龟鹤算，千千岁。"
     ], 
-    "rhythmic": "感皇恩"
+    "rhythmic": "感皇恩",
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 4, 7, 4, 6, 4, 4, 4, 4, 7, 4, 6, 5, 3],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "霍安人", 
@@ -454,7 +619,12 @@
       "增盛斑衣列。", 
       "福禄无穷，年过卫武，辉光阀阅。"
     ], 
-    "rhythmic": "醉蓬莱"
+    "rhythmic": "醉蓬莱",
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [5, 4, 4, 4, 5, 4, 4, 5, 4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4, 5, 4, 4, 4],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "霍安人", 
@@ -469,7 +639,12 @@
       "冷笑浮云坠甑，鲈鱼美、归老扁舟。", 
       "祝君寿，青山不尽，绿水自悠悠。"
     ], 
-    "rhythmic": "满庭芳"
+    "rhythmic": "满庭芳",
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 4, 6, 4, 5, 6, 3, 4, 3, 4, 5, 2, 3, 4, 4, 5, 4, 6, 3, 4, 3, 4, 5],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "希叟", 
@@ -488,7 +663,12 @@
       "对芝兰玉树，宝杯交劝，何惜玉山醉倒。", 
       "看乘鸾跨鹤，归来洞天未晓。"
     ], 
-    "rhythmic": "瑞鹤仙"
+    "rhythmic": "瑞鹤仙",
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [5, 5, 4, 5, 5, 4, 4, 3, 4, 5, 4, 4, 2, 4, 4, 4, 4, 3, 3, 5, 4, 6, 5, 6],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "沈元实", 
@@ -502,7 +682,12 @@
       "清晓凉风凝露，晴昼秋光满院，岁岁奉君。", 
       "待看云台画，荣观侈人寰。"
     ], 
-    "rhythmic": "水调歌头"
+    "rhythmic": "水调歌头",
+    "format": {
+      "sentence_count": 19,
+      "sentence_lengths": [5, 5, 6, 5, 6, 6, 5, 5, 5, 3, 3, 3, 4, 7, 6, 6, 4, 5, 5],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "游子蒙", 
@@ -517,7 +702,12 @@
       "见说蟠桃花正发，柔风暖日瑶池碧。", 
       "待他年、结子欲成时，留君摘。"
     ], 
-    "rhythmic": "满江红"
+    "rhythmic": "满江红",
+    "format": {
+      "sentence_count": 21,
+      "sentence_lengths": [4, 3, 4, 5, 6, 7, 7, 3, 5, 3, 3, 3, 3, 3, 5, 4, 7, 7, 3, 5, 3],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "游子蒙", 
@@ -532,7 +722,12 @@
       "不用殷勤千岁祝，姓名已上神仙籍。", 
       "但时从、王母借蟠桃，躬亲摘。"
     ], 
-    "rhythmic": "满江红"
+    "rhythmic": "满江红",
+    "format": {
+      "sentence_count": 22,
+      "sentence_lengths": [4, 3, 4, 3, 4, 4, 7, 7, 3, 5, 3, 3, 3, 3, 3, 5, 4, 7, 7, 3, 5, 3],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "贾逋", 
@@ -544,7 +739,12 @@
       "今年乐事尤新。", 
       "日侍玉皇香案，钧天日月常春。"
     ], 
-    "rhythmic": "清平乐"
+    "rhythmic": "清平乐",
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [4, 5, 7, 6, 6, 6, 6, 6],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "吴文若", 
@@ -557,7 +757,12 @@
       "□领彩衣椿祝劝。", 
       "蟠桃待熟瑶池宴。"
     ], 
-    "rhythmic": "蝶恋花"
+    "rhythmic": "蝶恋花",
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [7, 4, 5, 7, 7, 7, 4, 5, 6, 7],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "去非", 
@@ -571,7 +776,12 @@
       "便好纽为佩王，瀛洲路、同赏蓬莱。", 
       "蟠桃宴，从今曼倩，三骋奇材。"
     ], 
-    "rhythmic": "满庭芳"
+    "rhythmic": "满庭芳",
+    "format": {
+      "sentence_count": 23,
+      "sentence_lengths": [4, 4, 6, 4, 5, 6, 3, 4, 3, 4, 5, 2, 3, 4, 4, 5, 4, 6, 3, 4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "潘熊飞", 
@@ -585,7 +795,12 @@
       "二仲相期三径在，徜徉。", 
       "何用功成似子房。"
     ], 
-    "rhythmic": "南乡子"
+    "rhythmic": "南乡子",
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 7, 7, 2, 7, 5, 7, 7, 2, 7],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "黄庭佐", 
@@ -599,48 +814,83 @@
       "应为娉婷一笑，烂醉葡萄新熟，明月满西楼。", 
       "西北雨峰峙，端与寿山侔。"
     ], 
-    "rhythmic": "水调歌头"
+    "rhythmic": "水调歌头",
+    "format": {
+      "sentence_count": 19,
+      "sentence_lengths": [5, 5, 6, 5, 6, 6, 5, 5, 5, 3, 3, 3, 4, 7, 6, 6, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "赵□", 
     "paragraphs": [
       "寸心千里。"
     ], 
-    "rhythmic": "失调名"
+    "rhythmic": "失调名",
+    "format": {
+      "sentence_count": 1,
+      "sentence_lengths": [4],
+      "uniform_sentence_length": 4
+    }
   }, 
   {
     "author": "吴氏3", 
     "paragraphs": [
       "剪新幡儿，斜插真珠髻。"
     ], 
-    "rhythmic": "失调名"
+    "rhythmic": "失调名",
+    "format": {
+      "sentence_count": 2,
+      "sentence_lengths": [4, 5],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "吴氏3", 
     "paragraphs": [
       "楼台里，春风淡荡。"
     ], 
-    "rhythmic": "南乡子"
+    "rhythmic": "南乡子",
+    "format": {
+      "sentence_count": 2,
+      "sentence_lengths": [3, 4],
+      "uniform_sentence_length": null
+    }
   }, 
   {
     "author": "吴氏3", 
     "paragraphs": [
       "乍卷珠帘新燕入。"
     ], 
-    "rhythmic": "南乡子"
+    "rhythmic": "南乡子",
+    "format": {
+      "sentence_count": 1,
+      "sentence_lengths": [7],
+      "uniform_sentence_length": 7
+    }
   }, 
   {
     "author": "吴氏3", 
     "paragraphs": [
       "几声天外归鸿。"
     ], 
-    "rhythmic": "多丽"
+    "rhythmic": "多丽",
+    "format": {
+      "sentence_count": 1,
+      "sentence_lengths": [6],
+      "uniform_sentence_length": 6
+    }
   }, 
   {
     "author": "吴氏3", 
     "paragraphs": [
       "鶗鴂一声初报晓。"
     ], 
-    "rhythmic": "渔家傲"
+    "rhythmic": "渔家傲",
+    "format": {
+      "sentence_count": 1,
+      "sentence_lengths": [7],
+      "uniform_sentence_length": 7
+    }
   }
 ]
