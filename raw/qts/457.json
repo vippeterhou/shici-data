@@ -967,19 +967,41 @@
     }
   },
   {
-    "title": "《憶江南詞三首",
+    "title": "《憶江南詞三首·其一",
     "author": "白居易",
     "paragraphs": [
       "江南好，風景舊曾諳。日出江花紅勝火，春來江水綠如藍。",
-      "能不憶江南？",
+      "能不憶江南？"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [3, 5, 7, 7, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "《憶江南詞三首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "江南憶，最憶是杭州。山寺月中尋桂子，郡亭枕上看潮頭。",
-      "何日更重遊？",
+      "何日更重遊？"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [3, 5, 7, 7, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "《憶江南詞三首·其三",
+    "author": "白居易",
+    "paragraphs": [
       "江南憶，其次憶吳宮。吳酒一杯春竹葉，吳娃雙舞醉芙蓉。",
       "早晚複相逢。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [3, 5, 7, 7, 5, 3, 5, 7, 7, 5, 3, 5, 7, 7, 5],
+      "sentence_count": 5,
+      "sentence_lengths": [3, 5, 7, 7, 5],
       "uniform_sentence_length": null
     }
   }

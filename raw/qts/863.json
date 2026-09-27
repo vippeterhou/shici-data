@@ -235,24 +235,68 @@
     }
   },
   {
-    "title": "仙詩五首",
+    "title": "仙詩五首·其一",
     "author": "吳清妻",
     "paragraphs": [
       "道啟真心覺漸清，天教絕粒應精誠。",
-      "雲外仙歌笙管合，花間風引步虛聲。",
+      "雲外仙歌笙管合，花間風引步虛聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "仙詩五首·其二",
+    "author": "吳清妻",
+    "paragraphs": [
       "□□□□□□□，□君隱處當一星。",
-      "□□蓮花山頭飯，黃精仙人掌上經。",
+      "□□蓮花山頭飯，黃精仙人掌上經。"
+    ],
+    "format": {
+      "sentence_count": 3,
+      "sentence_lengths": [6, 5, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "仙詩五首·其三",
+    "author": "吳清妻",
+    "paragraphs": [
       "飛鳥莫到人莫攀，一隱十年不下山。",
-      "袖中短書誰為達，華山道士賣藥還。",
+      "袖中短書誰為達，華山道士賣藥還。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "仙詩五首·其四",
+    "author": "吳清妻",
+    "paragraphs": [
       "日落焚香坐醮壇，庭花露濕漸更闌。",
-      "淨水仙童調玉液，春宵羽客化金丹。",
+      "淨水仙童調玉液，春宵羽客化金丹。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "仙詩五首·其五",
+    "author": "吳清妻",
+    "paragraphs": [
       "攝念精思引彩霞，焚香虛室對煙花。",
       "道合雲霄遊紫府，湛然真境瑞皇家。"
     ],
     "format": {
-      "sentence_count": 19,
-      "sentence_lengths": [7, 7, 7, 7, 6, 5, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -388,15 +432,26 @@
     }
   },
   {
-    "title": "贈郭翰二首",
+    "title": "贈郭翰二首·其一",
     "author": "織女",
     "paragraphs": [
-      "河漢雖雲闊，三秋尚有期。情人終已矣，良會更何時。",
+      "河漢雖雲闊，三秋尚有期。情人終已矣，良會更何時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "贈郭翰二首·其二",
+    "author": "織女",
+    "paragraphs": [
       "朱閣臨清溪，瓊宮銜紫房。佳情期在此，只是斷人腸。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

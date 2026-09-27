@@ -471,34 +471,67 @@
     }
   },
   {
-    "title": "感故府二首",
+    "title": "感故府二首·其一",
     "author": "李建勳",
     "paragraphs": [
       "戚戚複戚戚，期懷安可釋。百年金石心，中路生死隔。",
-      "新墳應草合，舊地空苔色。白日燈熒熒，凝塵滿幾席。",
-      "悒悒複悒悒，思君安可及。永日在階前，披衣隨風立。",
-      "高樓暮角斷，遠樹寒鴉集。惆悵幾行書，遺蹤墨猶濕。"
+      "新墳應草合，舊地空苔色。白日燈熒熒，凝塵滿幾席。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "田家三首",
+    "title": "感故府二首·其二",
+    "author": "李建勳",
+    "paragraphs": [
+      "悒悒複悒悒，思君安可及。永日在階前，披衣隨風立。",
+      "高樓暮角斷，遠樹寒鴉集。惆悵幾行書，遺蹤墨猶濕。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "田家三首·其一",
     "author": "李建勳",
     "paragraphs": [
       "畢歲知無事，兵銷復舊丁。竹門桑徑狹，春日稻畦青。",
-      "犬吠隈籬落，雞飛上碓桯。歸田起囗思，蛙叫草冥冥。",
+      "犬吠隈籬落，雞飛上碓桯。歸田起囗思，蛙叫草冥冥。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "田家三首·其二",
+    "author": "李建勳",
+    "paragraphs": [
       "不識城中路，熙熙樂有年。木盤擎社酒，瓦鼓送神錢。",
-      "霜落牛歸屋，禾收雀滿田。遙陂過秋水，閑閣釣魚船。",
+      "霜落牛歸屋，禾收雀滿田。遙陂過秋水，閑閣釣魚船。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "田家三首·其三",
+    "author": "李建勳",
+    "paragraphs": [
       "長愛田家事，時時欲一過。垣籬皆樹槿，廳院亦堆禾。",
       "病果因風落，寒蔬向日多。遙聞數聲笛，牛晚下前坡。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -533,17 +566,28 @@
     }
   },
   {
-    "title": "題魏壇二首",
+    "title": "題魏壇二首·其一",
     "author": "李建勳",
     "paragraphs": [
       "不遇至真傳道要，曾看真誥亦何為。舊碑經亂沈荒澗，",
-      "蕭條夕景空壇畔，朽檜枝斜綠蔓垂。",
+      "蕭條夕景空壇畔，朽檜枝斜綠蔓垂。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題魏壇二首·其二",
+    "author": "李建勳",
+    "paragraphs": [
       "一尋遺跡到仙鄉，雲鶴沉沉思渺茫。丹井歲深生草木，",
       "薄暮欲歸仍佇立，菖蒲風起水泱泱。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -626,17 +670,28 @@
     }
   },
   {
-    "title": "薔薇二首",
+    "title": "薔薇二首·其一",
     "author": "李建勳",
     "paragraphs": [
       "萬蕊爭開照檻光，詩家何物可相方。錦江風撼雲霞碎，",
-      "彩箋蠻榼旬休日，欲召親賓看一場。",
+      "彩箋蠻榼旬休日，欲召親賓看一場。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "薔薇二首·其二",
+    "author": "李建勳",
+    "paragraphs": [
       "拂簷拖地對前墀，蝶影蜂聲爛熳時。萬倍馨香勝玉蕊，",
       "將並舞腰誰得及，惹衣傷手盡從伊。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -654,17 +709,28 @@
     }
   },
   {
-    "title": "春雨二首",
+    "title": "春雨二首·其一",
     "author": "李建勳",
     "paragraphs": [
       "春霖未免妨遊賞，唯到詩家自有情。花徑不通新草合，",
-      "閑憶昔年為客處，悶留山館阻行行。",
+      "閑憶昔年為客處，悶留山館阻行行。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "春雨二首·其二",
+    "author": "李建勳",
+    "paragraphs": [
       "蕭蕭春雨密還疏，景象三時固不如，寒入遠林鶯翅重，",
       "唯稱乖慵多睡者，掩門中酒覽閒書。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

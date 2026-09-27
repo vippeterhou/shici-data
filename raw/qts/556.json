@@ -159,17 +159,28 @@
     }
   },
   {
-    "title": "離夜二首",
+    "title": "離夜二首·其一",
     "author": "馬戴",
     "paragraphs": [
       "東征遼水迥，北近單于台。戎衣掛寶劍，玉箸銜金杯。",
-      "紅燭暗將滅，翠蛾終不開。",
+      "紅燭暗將滅，翠蛾終不開。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "離夜二首·其二",
+    "author": "馬戴",
+    "paragraphs": [
       "凝夜照離色，恐聞啼晚鴉。前年營雁塞，明月戍龍沙。",
       "曾與五陵子，休裝孤劍花。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -419,17 +430,28 @@
     }
   },
   {
-    "title": "謁仙觀二首",
+    "title": "謁仙觀二首·其一",
     "author": "馬戴",
     "paragraphs": [
       "我生求羽化，齋沐造仙居。葛蔓沒丹井，石函盛道書。",
-      "寒松多偃側，靈洞遍清虛。一就泉西飲，雲中采藥蔬。",
+      "寒松多偃側，靈洞遍清虛。一就泉西飲，雲中采藥蔬。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "謁仙觀二首·其二",
+    "author": "馬戴",
+    "paragraphs": [
       "山空蕙氣香，乳管折雲房。願值壺中客，親傳肘後方。",
       "三更禮星斗，寸匕服丹霜。默坐樹陰下，仙經橫石床。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -527,17 +549,28 @@
     }
   },
   {
-    "title": "贈鄠縣尉李先輩二首",
+    "title": "贈鄠縣尉李先輩二首·其一",
     "author": "馬戴",
     "paragraphs": [
       "同人家鄠杜，相見罷官時。野坐苔生石，荒居菊入籬。",
-      "聽蟬臨水久，送鶴背山遲。未擬還城闕，溪僧別有期。",
+      "聽蟬臨水久，送鶴背山遲。未擬還城闕，溪僧別有期。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "贈鄠縣尉李先輩二首·其二",
+    "author": "馬戴",
+    "paragraphs": [
       "休官不到闕，求靜匪營他。種藥唯愁晚，看雲肯厭多。",
       "渚邊逢鷺下，林表伴僧過。閑檢仙方試，松花酒自和。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -716,17 +749,28 @@
     }
   },
   {
-    "title": "送僧二首",
+    "title": "送僧二首·其一",
     "author": "馬戴",
     "paragraphs": [
       "親在平陽憶久歸，洪河雨漲出關遲。",
-      "獨過舊寺人稀識，一一杉松老別時。",
+      "獨過舊寺人稀識，一一杉松老別時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送僧二首·其二",
+    "author": "馬戴",
+    "paragraphs": [
       "龕中破衲自持行，樹下禪床坐一生。",
       "來往白雲知歲久，滿山猿鳥會經聲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -835,15 +879,26 @@
     }
   },
   {
-    "title": "秋思二首",
+    "title": "秋思二首·其一",
     "author": "馬戴",
     "paragraphs": [
-      "萬木秋霖後，孤山夕照餘。田園無歲計，寒近憶樵漁。",
+      "萬木秋霖後，孤山夕照餘。田園無歲計，寒近憶樵漁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋思二首·其二",
+    "author": "馬戴",
+    "paragraphs": [
       "亭樹霜霰滿，野塘鳧鳥多。蕙蘭不可折，楚老徒悲歌。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

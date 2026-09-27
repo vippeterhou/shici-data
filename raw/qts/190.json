@@ -72,16 +72,38 @@
     }
   },
   {
-    "title": "答李浣三首",
+    "title": "答李浣三首·其一",
     "author": "韋應物",
     "paragraphs": [
-      "孤客逢春暮，緘情寄舊遊。海隅人使遠，書到洛陽秋。",
-      "馬卿猶有壁，漁父自無家。想子今何處，扁舟隱荻花。",
+      "孤客逢春暮，緘情寄舊遊。海隅人使遠，書到洛陽秋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "答李浣三首·其二",
+    "author": "韋應物",
+    "paragraphs": [
+      "馬卿猶有壁，漁父自無家。想子今何處，扁舟隱荻花。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "答李浣三首·其三",
+    "author": "韋應物",
+    "paragraphs": [
       "林中觀易罷，溪上對鷗閑。楚俗饒辭客，何人最往還。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

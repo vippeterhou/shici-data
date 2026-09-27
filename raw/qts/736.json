@@ -26,17 +26,28 @@
     }
   },
   {
-    "title": "荊南席上詠胡琴妓二首",
+    "title": "荊南席上詠胡琴妓二首·其一",
     "author": "王仁裕",
     "paragraphs": [
       "紅妝齊抱紫檀槽，一抹朱弦四十條。湘水淩波慚鼓瑟，",
-      "丹禁舊臣來側耳，骨清神爽似聞韶。",
+      "丹禁舊臣來側耳，骨清神爽似聞韶。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "荊南席上詠胡琴妓二首·其二",
+    "author": "王仁裕",
+    "paragraphs": [
       "玉纖挑落折冰聲，散入秋空韻轉清。二五指中句塞雁，",
       "無限細腰宮裏女，就中偏愜楚王情。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

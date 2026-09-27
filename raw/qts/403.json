@@ -58,24 +58,46 @@
     }
   },
   {
-    "title": "酬樂天赴江州路上見寄三首",
+    "title": "酬樂天赴江州路上見寄三首·其一",
     "author": "元稹",
     "paragraphs": [
       "昔在京城心，今在吳楚末。千山道路險，萬里音塵闊。",
       "天上參與商，地上胡與越。終天升沉異，滿地網羅設。",
       "心有無眹環，腸有無繩結。有結解不開，有環尋不歇。",
       "山嶽移可盡，江海塞可絕。離恨若空虛，窮年思不徹。",
-      "生莫強相同，相同會相別。",
+      "生莫強相同，相同會相別。"
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "酬樂天赴江州路上見寄三首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "襄陽大堤繞，我向堤前住。燭隨花豔來，騎送朝雲去。",
       "萬竿高廟竹，三月徐亭樹。我昔憶君時，君今懷我處。",
-      "有身有離別，無地無岐路。風塵同古今，人世勞新故。",
+      "有身有離別，無地無岐路。風塵同古今，人世勞新故。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "酬樂天赴江州路上見寄三首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "人亦有相愛，我爾殊眾人。朝朝寧不食，日日願見君。",
       "一日不得見，愁腸坐氛氳。如何遠相失，各作萬里雲。",
       "雲高風苦多，會合難遽因。天上猶有礙，何況地上身。"
     ],
     "format": {
-      "sentence_count": 42,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -159,17 +181,28 @@
     }
   },
   {
-    "title": "代杭人作使君一朝去二首",
+    "title": "代杭人作使君一朝去二首·其一",
     "author": "元稹",
     "paragraphs": [
       "使君一朝去，遺愛在人口。惠化境內春，才名天下首。",
-      "為問龔黃輩，兼能作詩否。",
+      "為問龔黃輩，兼能作詩否。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "代杭人作使君一朝去二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "使君一朝去，斷腸如剉檗。無複見冰壺，唯應鏤金石。",
       "自此一州人，生男盡名白。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -187,74 +220,184 @@
     }
   },
   {
-    "title": "順宗至德大聖大安孝皇帝挽歌詞三首",
+    "title": "順宗至德大聖大安孝皇帝挽歌詞三首·其一",
     "author": "元稹",
     "paragraphs": [
       "不改延洪祚，因成揖讓朝。謳歌同戴啟，遏密共思堯。",
-      "雨露施恩廣，梯航會葬遙。號弓那獨切，曾感昔年招。",
+      "雨露施恩廣，梯航會葬遙。號弓那獨切，曾感昔年招。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "順宗至德大聖大安孝皇帝挽歌詞三首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "前春文祖廟，大舜嗣堯登。及此逾年感，還因是月崩。",
-      "壽緣追孝促，業在繼明興。儉詔同今古，山川繞灞陵。",
+      "壽緣追孝促，業在繼明興。儉詔同今古，山川繞灞陵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "順宗至德大聖大安孝皇帝挽歌詞三首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "七月悲風起，淒涼萬國人。羽儀經巷內，轀fm轉城闉。",
       "暝色依陵早，秋聲入輅新。自嗟同草木，不識永貞春。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 4, 5, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },
   {
-    "title": "憲宗章武孝皇帝挽歌詞三首",
+    "title": "憲宗章武孝皇帝挽歌詞三首·其一",
     "author": "元稹",
     "paragraphs": [
       "國付重離後，身隨十聖仙。北辰移帝座，西日到虞泉。",
-      "方丈言虛設，華胥事眇然。觸鱗曾在宥，偏哭墮髯前。",
+      "方丈言虛設，華胥事眇然。觸鱗曾在宥，偏哭墮髯前。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "憲宗章武孝皇帝挽歌詞三首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "天寶遺餘事，元和盛聖功。二凶梟帳下，三叛斬都中。",
-      "始服沙陀虜，方吞邏逤戎。狼星如要射，猶有鼎湖弓。",
+      "始服沙陀虜，方吞邏逤戎。狼星如要射，猶有鼎湖弓。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "憲宗章武孝皇帝挽歌詞三首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "月落禁垣西，星攢曉仗齊。風傳宮漏苦，雲拂羽儀低。",
       "路隘車千兩，橋危馬萬蹄。共蹉封石檢，不為報功泥。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "恭王故太妃挽歌詞二首",
+    "title": "恭王故太妃挽歌詞二首·其一",
     "author": "元稹",
     "paragraphs": [
       "燕姞貽天夢，梁王盡孝思。雖從魏詔葬，得用漢藩儀。",
-      "曙月殘光斂，寒簫度曲遲。平生奉恩地，哀挽欲何之。",
+      "曙月殘光斂，寒簫度曲遲。平生奉恩地，哀挽欲何之。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "恭王故太妃挽歌詞二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "文衛羅新壙，仙娥掩暝山。雪雲埋隴合，簫鼓望城還。",
       "寒樹風難靜，霜郊夜更閑。哀榮深孝嗣，儀錶在河間。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "哭呂衡州六首",
+    "title": "哭呂衡州六首·其一",
     "author": "元稹",
     "paragraphs": [
       "氣敵三人傑，交深一紙書。我投冰瑩眼，君報水憐魚。",
-      "髀股惟誇瘦，膏肓豈暇除。傷心死諸葛，憂道不憂餘。",
+      "髀股惟誇瘦，膏肓豈暇除。傷心死諸葛，憂道不憂餘。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "哭呂衡州六首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "望有經綸釣，虔收宰相刀。江文駕風遠，雲貌接天高。",
-      "國待球琳器，家藏虎豹韜。盡將千載寶，埋入五原蒿。",
+      "國待球琳器，家藏虎豹韜。盡將千載寶，埋入五原蒿。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "哭呂衡州六首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "白馬雙旌隊，青山八陣圖。請纓期系虜，枕草誓捐軀。",
-      "勢激三千壯，年應四十無。遙聞不瞑目，非是不憐吳。",
+      "勢激三千壯，年應四十無。遙聞不瞑目，非是不憐吳。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "哭呂衡州六首·其四",
+    "author": "元稹",
+    "paragraphs": [
       "雕鶚生難敵，沉檀死更香。兒童喧巷市，羸老哭碑堂。",
-      "雁起沙汀暗，雲連海氣黃。祝融峰上月，幾照北人喪。",
+      "雁起沙汀暗，雲連海氣黃。祝融峰上月，幾照北人喪。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "哭呂衡州六首·其五",
+    "author": "元稹",
+    "paragraphs": [
       "回雁峰前雁，春回盡卻回。聯行四人去，同葬一人來。",
-      "鐃吹臨江返，城池隔霧開。滿船深夜哭，風棹楚猿哀。",
+      "鐃吹臨江返，城池隔霧開。滿船深夜哭，風棹楚猿哀。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "哭呂衡州六首·其六",
+    "author": "元稹",
+    "paragraphs": [
       "杜預春秋癖，揚雄著述精。在時兼不語，終古定歸名。",
       "耒水波文細，湘江竹葉輕。平生思風月，潛寐若為情。"
     ],
     "format": {
-      "sentence_count": 48,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -324,32 +467,54 @@
     }
   },
   {
-    "title": "褒城驛二首",
+    "title": "褒城驛二首·其一",
     "author": "元稹",
     "paragraphs": [
       "容州詩句在褒城，幾度經過眼暫明。",
-      "今日重看滿衫淚，可憐名字已前生。",
-      "憶昔萬株梨映竹，遇逢黃令醉殘春。",
-      "梨枯竹盡黃令死，今日再來衰病身。"
+      "今日重看滿衫淚，可憐名字已前生。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "和樂天夢亡友劉太白同遊二首",
+    "title": "褒城驛二首·其二",
+    "author": "元稹",
+    "paragraphs": [
+      "憶昔萬株梨映竹，遇逢黃令醉殘春。",
+      "梨枯竹盡黃令死，今日再來衰病身。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和樂天夢亡友劉太白同遊二首·其一",
     "author": "元稹",
     "paragraphs": [
       "君詩昨日到通州，萬里知君一夢劉。",
-      "閑坐思量小來事，只應元是夢中游。",
+      "閑坐思量小來事，只應元是夢中游。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和樂天夢亡友劉太白同遊二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "老來東郡複西州，行處生塵為喪劉。",
       "縱使劉君魂魄在，也應至死不同遊。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

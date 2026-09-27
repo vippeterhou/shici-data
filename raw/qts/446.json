@@ -1126,17 +1126,28 @@
     }
   },
   {
-    "title": "泛小fq二首",
+    "title": "泛小fq二首·其一",
     "author": "白居易",
     "paragraphs": [
       "水一塘，fq一隻。fq頭漾漾知風起，fq背蕭蕭聞雨滴。",
-      "醉臥船中欲醒時，忽疑身是江南客。",
+      "醉臥船中欲醒時，忽疑身是江南客。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [3, 2, 6, 6, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "泛小fq二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "船緩進，水準流。一莖竹篙剔船尾，兩幅青幕覆船頭。",
       "亞竹亂藤多照岸，如從鳳口向湖州。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [3, 2, 6, 6, 7, 7, 3, 3, 7, 7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [3, 3, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

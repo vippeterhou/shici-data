@@ -260,17 +260,28 @@
     }
   },
   {
-    "title": "題清遠峽觀音院二首",
+    "title": "題清遠峽觀音院二首·其一",
     "author": "盧肇",
     "paragraphs": [
       "清潭洞澈深千丈，危岫攀蘿上幾層。",
-      "秋盡更無黃葉樹，夜闌唯對白頭僧。",
+      "秋盡更無黃葉樹，夜闌唯對白頭僧。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題清遠峽觀音院二首·其二",
+    "author": "盧肇",
+    "paragraphs": [
       "風入古松添急雨，月臨虛檻背殘燈。",
       "老猿嘯狖還欺客，來撼窗前百尺藤。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

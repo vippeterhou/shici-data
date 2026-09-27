@@ -1,52 +1,118 @@
 [
   {
-    "title": "從軍行五首",
+    "title": "從軍行五首·其一",
     "author": "皎然",
     "paragraphs": [
       "候騎出紛紛，元戎霍冠軍。漢鞞秋聒地，羌火晝燒雲。",
-      "萬里戈城合，三邊羽檄分。烏孫驅未盡，肯顧遼陽勳。",
+      "萬里戈城合，三邊羽檄分。烏孫驅未盡，肯顧遼陽勳。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍行五首·其二",
+    "author": "皎然",
+    "paragraphs": [
       "韓旆拂丹霄，漢軍新破遼。紅塵驅鹵簿，白羽擁嫖姚。",
-      "戰苦軍猶樂，功高將不驕。至今丁零塞，朔吹空蕭蕭。",
+      "戰苦軍猶樂，功高將不驕。至今丁零塞，朔吹空蕭蕭。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍行五首·其三",
+    "author": "皎然",
+    "paragraphs": [
       "百萬逐呼韓，頻年不解鞍。兵屯絕漠暗，馬飲濁河幹。",
-      "破虜功未錄，勞師力已殫。須防肘腋下，飛禍出無端。",
+      "破虜功未錄，勞師力已殫。須防肘腋下，飛禍出無端。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍行五首·其四",
+    "author": "皎然",
+    "paragraphs": [
       "飛將下天來，奇謀閫外裁。水心龍劍動，地肺雁山開。",
-      "望氣燕師銳，當鋒虜陣摧。從今射雕騎，不敢過雲堆。",
+      "望氣燕師銳，當鋒虜陣摧。從今射雕騎，不敢過雲堆。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍行五首·其五",
+    "author": "皎然",
+    "paragraphs": [
       "黃紙君王詔，青泥校尉書。誓師張虎落，選將擐犀渠。",
       "霧暗津蒲失，天寒塞柳疏。橫行十萬騎，欲掃虜塵餘。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "隴頭水二首",
+    "title": "隴頭水二首·其一",
     "author": "皎然",
     "paragraphs": [
       "隴頭水欲絕，隴水不堪聞。碎影搖槍壘，寒聲咽幔軍。",
-      "素從鹽海積，綠帶柳城分。日落天邊望，逶迤入塞雲。",
+      "素從鹽海積，綠帶柳城分。日落天邊望，逶迤入塞雲。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "隴頭水二首·其二",
+    "author": "皎然",
+    "paragraphs": [
       "秦隴逼氐羌，征人去未央。如何幽咽水，並欲斷君腸。",
       "西注悲窮漠，東分憶故鄉。旅魂聲攪亂，無夢到咸陽。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "塞下曲二首",
+    "title": "塞下曲二首·其一",
     "author": "皎然",
     "paragraphs": [
       "寒塞無因見落梅，胡人吹入笛聲來。",
-      "勞勞亭上春應度，夜夜城南戰未回。",
+      "勞勞亭上春應度，夜夜城南戰未回。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞下曲二首·其二",
+    "author": "皎然",
+    "paragraphs": [
       "都護今年破武威，胡沙萬里鳥空飛。",
       "旄竿瀚海掃雲出，氈騎天山蹋雪歸。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -788,17 +854,28 @@
     }
   },
   {
-    "title": "戲題二首",
+    "title": "戲題二首·其一",
     "author": "皎然",
     "paragraphs": [
       "看飲逢歌日屢曛，我身何似系浮雲。",
-      "時人不解野僧意，歸去溪頭作鳥群。",
+      "時人不解野僧意，歸去溪頭作鳥群。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "戲題二首·其二",
+    "author": "皎然",
+    "paragraphs": [
       "喧喧共在是非間，終日誰知我自閑。",
       "偶客狂歌何所為，欲于人事強相關。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -819,41 +896,140 @@
     }
   },
   {
-    "title": "雜興六首",
+    "title": "雜興六首·其一",
     "author": "皎然",
     "paragraphs": [
       "吾觀談天客，工言喪其精。萬物資廣庇，此中何有情。",
       "若為昧顏蹠，修短怨太清。高論讓鄒子，放詞征屈生。",
-      "請從象外推，至論尤明明。",
-      "短齡役長世，擾擾悟不早。嬪女身後空，歡娛夢中好。",
-      "從教西陵樹，千載傷懷抱。鶴駕何冥冥，鼇洲去浩浩。",
-      "柔顏感三花，凋發悲蔓草。月中伐桂人是誰，",
-      "誰高齊公子，泣聽雍門琴。死且何足傷，殊非達人心。",
-      "獨高庭中鶴，意遠貴氛埃。有時青冥游，顧我還下來。",
-      "白雲琅玕色，一片生虛無。此物若無心，若何卷還舒。",
-      "疏散遂吾性，棲山更無機。寥寥高松下，獨有閑雲歸。",
-      "精意不可道，冥然還掩扉。"
+      "請從象外推，至論尤明明。"
     ],
     "format": {
-      "sentence_count": 39,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜興六首·其二",
+    "author": "皎然",
+    "paragraphs": [
+      "短齡役長世，擾擾悟不早。嬪女身後空，歡娛夢中好。",
+      "從教西陵樹，千載傷懷抱。鶴駕何冥冥，鼇洲去浩浩。",
+      "柔顏感三花，凋發悲蔓草。月中伐桂人是誰，"
+    ],
+    "format": {
+      "sentence_count": 11,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7],
       "uniform_sentence_length": null
     }
   },
   {
-    "title": "偶然五首",
+    "title": "雜興六首·其三",
     "author": "皎然",
     "paragraphs": [
-      "樂禪心似蕩，吾道不相妨。獨悟歌還笑，誰言老更狂。",
-      "偶然寂無喧，吾了心性源。可嫌蟲食木，不笑鳥能言。",
+      "誰高齊公子，泣聽雍門琴。死且何足傷，殊非達人心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜興六首·其四",
+    "author": "皎然",
+    "paragraphs": [
+      "獨高庭中鶴，意遠貴氛埃。有時青冥游，顧我還下來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜興六首·其五",
+    "author": "皎然",
+    "paragraphs": [
+      "白雲琅玕色，一片生虛無。此物若無心，若何卷還舒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜興六首·其六",
+    "author": "皎然",
+    "paragraphs": [
+      "疏散遂吾性，棲山更無機。寥寥高松下，獨有閑雲歸。",
+      "精意不可道，冥然還掩扉。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "偶然五首·其一",
+    "author": "皎然",
+    "paragraphs": [
+      "樂禪心似蕩，吾道不相妨。獨悟歌還笑，誰言老更狂。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "偶然五首·其二",
+    "author": "皎然",
+    "paragraphs": [
+      "偶然寂無喧，吾了心性源。可嫌蟲食木，不笑鳥能言。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "偶然五首·其三",
+    "author": "皎然",
+    "paragraphs": [
       "隱心不隱跡，卻欲住人寰。欠樹移春樹，無山看畫山。",
-      "居喧我未錯，真意在其間。",
-      "虜語嫌不學，胡音從不翻。說禪顛倒是，樂殺金王孫。",
+      "居喧我未錯，真意在其間。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "偶然五首·其四",
+    "author": "皎然",
+    "paragraphs": [
+      "虜語嫌不學，胡音從不翻。說禪顛倒是，樂殺金王孫。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "偶然五首·其五",
+    "author": "皎然",
+    "paragraphs": [
       "真隱須無矯，忘名要似愚。只將兩條事，空卻漢潛夫。"
     ],
     "format": {
-      "sentence_count": 22,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

@@ -221,111 +221,496 @@
     }
   },
   {
-    "title": "景申秋八首",
+    "title": "景申秋八首·其一",
     "author": "元稹",
     "paragraphs": [
       "年年秋意緒，多向雨中生。漸欲煙火近，稍憐衣服輕。",
-      "詠詩閑處立，憶事夜深行。濩落尋常慣，淒涼別為情。",
+      "詠詩閑處立，憶事夜深行。濩落尋常慣，淒涼別為情。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "景申秋八首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "蚊幌雨來卷，燭蛾燈上稀。啼兒冷秋簟，思婦問寒衣。",
-      "簾斷螢火入，窗明蝙蝠飛。良辰日夜去，漸與壯心違。",
+      "簾斷螢火入，窗明蝙蝠飛。良辰日夜去，漸與壯心違。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "景申秋八首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "嗢嗢簷溜凝，丁丁窗雨繁。枕傾筒簟滑，幔颭案燈翻。",
-      "喚魘兒難覺，吟詩婢苦煩。強眠終不著，閑臥暗消魂。",
+      "喚魘兒難覺，吟詩婢苦煩。強眠終不著，閑臥暗消魂。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "景申秋八首·其四",
+    "author": "元稹",
+    "paragraphs": [
       "瓶瀉高簷雨，窗來激箭風。病憎燈火暗，寒覺薄幃空。",
-      "婢報樵蘇竭，妻愁院落通。老夫慵計數，教想蔡城東。",
+      "婢報樵蘇竭，妻愁院落通。老夫慵計數，教想蔡城東。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "景申秋八首·其五",
+    "author": "元稹",
+    "paragraphs": [
       "風頭難著枕，病眼厭看書。無酒銷長夜，回燈照小餘。",
-      "三元推廢王，九曜入乘除。廊廟應多算，參差斡太虛。",
+      "三元推廢王，九曜入乘除。廊廟應多算，參差斡太虛。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "景申秋八首·其六",
+    "author": "元稹",
+    "paragraphs": [
       "經雨籬落壞，入秋田地荒。竹垂哀折節，蓮敗惜空房。",
-      "小片慈菇白，低叢柚子黃。眼前撩亂輩，無不是同鄉。",
+      "小片慈菇白，低叢柚子黃。眼前撩亂輩，無不是同鄉。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "景申秋八首·其七",
+    "author": "元稹",
+    "paragraphs": [
       "雨柳枝枝弱，風光片片斜。蜻蜓憐曉露，蛺蝶戀秋花。",
-      "饑啅空籬雀，寒棲滿樹鴉。荒涼池館內，不似有人家。",
+      "饑啅空籬雀，寒棲滿樹鴉。荒涼池館內，不似有人家。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "景申秋八首·其八",
+    "author": "元稹",
+    "paragraphs": [
       "病苦十年後，連陰十日餘。人方教作鼠，天豈遣為魚。",
       "鮫綻酆城劍，蟲凋鬼火書。出聞泥濘盡，何地不摧車。"
     ],
     "format": {
-      "sentence_count": 64,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "遣行十首",
+    "title": "遣行十首·其一",
     "author": "元稹",
     "paragraphs": [
       "慘切風雨夕，沉吟離別情。燕辭前日社，蟬是每年聲。",
-      "暗淚深相感，危心亦自驚。不如元不識，俱作路人行。",
+      "暗淚深相感，危心亦自驚。不如元不識，俱作路人行。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣行十首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "十五年前事，恓惶無限情。病僮更借出，羸馬共馳聲。",
-      "射葉楊才破，聞弓雁已驚。小年辛苦學，求得苦辛行。",
+      "射葉楊才破，聞弓雁已驚。小年辛苦學，求得苦辛行。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣行十首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "徙倚簷宇下，思量去住情。暗螢穿竹見，斜雨隔窗聲。",
-      "就枕回轉數，聞雞撩亂驚。一家同草草，排比送君行。",
+      "就枕回轉數，聞雞撩亂驚。一家同草草，排比送君行。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣行十首·其四",
+    "author": "元稹",
+    "paragraphs": [
       "已愴朋交別，複懷兒女情。相兄亦相舊，同病又同聲。",
-      "白髮年年剩，秋蓬處處驚。不堪身漸老，頻送異鄉行。",
+      "白髮年年剩，秋蓬處處驚。不堪身漸老，頻送異鄉行。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣行十首·其五",
+    "author": "元稹",
+    "paragraphs": [
       "塞上風雨思，城中兄弟情。北隨鵷立位，南送雁來聲。",
-      "遇適尤兼恨，聞書喜複驚。唯應遙料得，知我伴君行。",
+      "遇適尤兼恨，聞書喜複驚。唯應遙料得，知我伴君行。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣行十首·其六",
+    "author": "元稹",
+    "paragraphs": [
       "暮欲歌吹樂，暗沖泥水情。稻花秋雨氣，江石夜灘聲。",
-      "犬吠穿籬出，鷗眠起水驚。愁君明月夜，獨自入山行。",
+      "犬吠穿籬出，鷗眠起水驚。愁君明月夜，獨自入山行。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣行十首·其七",
+    "author": "元稹",
+    "paragraphs": [
       "七過褒城驛，回回各為情。八年身世夢，一種水風聲。",
-      "尋覓詩章在，思量歲月驚。更悲西塞別，終夜繞池行。",
+      "尋覓詩章在，思量歲月驚。更悲西塞別，終夜繞池行。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣行十首·其八",
+    "author": "元稹",
+    "paragraphs": [
       "褒縣驛前境，曲江池上情。南堤衰柳意，西寺晚鐘聲。",
-      "雲水興方遠，風波心已驚。可憐皆老大，不得自由行。",
+      "雲水興方遠，風波心已驚。可憐皆老大，不得自由行。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣行十首·其九",
+    "author": "元稹",
+    "paragraphs": [
       "見說巴風俗，都無漢性情。猿聲蘆管調，羌笛竹雞聲。",
-      "迎候人應少，平安火莫驚。每逢危棧處，須作貫魚行。",
+      "迎候人應少，平安火莫驚。每逢危棧處，須作貫魚行。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣行十首·其十",
+    "author": "元稹",
+    "paragraphs": [
       "聞道陰平郡，翛然古戍情。橋兼麋鹿蹋，山應鼓鼙聲。",
       "羌婦梳頭緊，蕃牛護尾驚。憐君閑悶極，只傍白江行。"
     ],
     "format": {
-      "sentence_count": 80,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "生春二十首",
+    "title": "生春二十首·其一",
     "author": "元稹",
     "paragraphs": [
       "何處生春早，春生雲色中。籠蔥閑著水，晻淡欲隨風。",
-      "度曉分霞態，餘光庇雪融。晚來低漠漠，渾欲泥幽叢。",
+      "度曉分霞態，餘光庇雪融。晚來低漠漠，渾欲泥幽叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生漫雪中。渾無到地片，唯逐入樓風。",
-      "屋上些些薄，池心旋旋融。自悲銷散盡，誰假入蘭叢。",
+      "屋上些些薄，池心旋旋融。自悲銷散盡，誰假入蘭叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生霽色中。遠林橫返照，高樹亞東風。",
-      "水凍霜威庇，泥新地氣融。漸知殘雪薄，杪近最憐叢。",
+      "水凍霜威庇，泥新地氣融。漸知殘雪薄，杪近最憐叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其四",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生曙火中。星圍分暗陌，煙氣滿晴風。",
-      "宮樹棲鴉亂，城樓帶雪融。競排閶闔側，珂傘自相叢。",
+      "宮樹棲鴉亂，城樓帶雪融。競排閶闔側，珂傘自相叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其五",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生曉禁中。殿階龍旆日，漏閣寶箏風。",
-      "藥樹香煙重，天顏瑞氣融。柳梅渾未覺，青紫已叢叢。",
+      "藥樹香煙重，天顏瑞氣融。柳梅渾未覺，青紫已叢叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其六",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生江路中。雨移臨浦市，晴候過湖風。",
-      "蘆筍錐猶短，淩澌玉漸融。數宗船載足，商婦兩眉叢。",
+      "蘆筍錐猶短，淩澌玉漸融。數宗船載足，商婦兩眉叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其七",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生野墅中。病翁閑向日，征婦懶成風。",
-      "斫筤天雖暖，穿區凍未融。鞭牛縣門外，爭土蓋蠶叢。",
+      "斫筤天雖暖，穿區凍未融。鞭牛縣門外，爭土蓋蠶叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其八",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生冰岸中。尚憐扶臘雪，漸覺受東風。",
-      "織女雲橋斷，波神玉貌融。便成嗚咽去，流恨與蓮叢。",
+      "織女雲橋斷，波神玉貌融。便成嗚咽去，流恨與蓮叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其九",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生柳眼中。芽新才綻日，茸短未含風。",
-      "綠誤眉心重，黃驚蠟淚融。碧條殊未合，愁緒已先叢。",
+      "綠誤眉心重，黃驚蠟淚融。碧條殊未合，愁緒已先叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其十",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生梅援中。蕊排難犯雪，香乞擬來風。",
-      "隴迥羌聲怨，江遙客思融。年年最相惱，緣未有諸叢。",
+      "隴迥羌聲怨，江遙客思融。年年最相惱，緣未有諸叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其十一",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生鳥思中。鵲巢移舊歲，鳶羽旋高風。",
-      "鴻雁驚沙暖，鴛鴦愛水融。最憐雙翡翠，飛入小梅叢。",
+      "鴻雁驚沙暖，鴛鴦愛水融。最憐雙翡翠，飛入小梅叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其十二",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生池榭中。鏤瓊冰陷日，文縠水回風。",
-      "柳愛和身動，梅愁合樹融。草芽猶未出，挑得小萱叢。",
+      "柳愛和身動，梅愁合樹融。草芽猶未出，挑得小萱叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其十三",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生稚戲中。亂騎殘爆竹，爭唾小旋風。",
-      "罵雨愁妨走，呵冰喜旋融。女兒針線盡，偷學五辛叢。",
+      "罵雨愁妨走，呵冰喜旋融。女兒針線盡，偷學五辛叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其十四",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生人意中。曉妝雖近火，晴戲漸憐風。",
-      "暗入心情懶，先添酒思融。預知花好惡，偏在最深叢。",
+      "暗入心情懶，先添酒思融。預知花好惡，偏在最深叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其十五",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生半睡中。見燈如見霧，聞雨似聞風。",
-      "開眼猶殘夢，抬身便恐融。卻成雙翅蝶，還繞庳花叢。",
+      "開眼猶殘夢，抬身便恐融。卻成雙翅蝶，還繞庳花叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其十六",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生曉鏡中。手寒勻麵粉，鬟動倚簾風。",
-      "宿霧梅心滴，朝光幕上融。思牽梳洗懶，空拔綠絲叢。",
+      "宿霧梅心滴，朝光幕上融。思牽梳洗懶，空拔綠絲叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其十七",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生綺戶中。玉櫳穿細日，羅幔張輕風。",
-      "柳軟腰支嫩，梅香密氣融。獨眠傍妒物，偷鏟合歡叢。",
+      "柳軟腰支嫩，梅香密氣融。獨眠傍妒物，偷鏟合歡叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其十八",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生老病中。土膏蒸足腫，天暖癢頭風。",
-      "似覺肌膚展，潛知血氣融。又添新一歲，衰白轉成叢。",
+      "似覺肌膚展，潛知血氣融。又添新一歲，衰白轉成叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其十九",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生客思中。旅魂驚北雁，鄉信是東風。",
-      "縱有心灰動，無由鬢雪融。未知開眼日，空繞未開叢。",
+      "縱有心灰動，無由鬢雪融。未知開眼日，空繞未開叢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "生春二十首·其二十",
+    "author": "元稹",
+    "paragraphs": [
       "何處生春早，春生蒙雨中。裛塵微有氣，拂面細如風。",
       "柳誤啼珠密，梅驚粉汗融。滿空愁淡淡，應豫憶芳叢。"
     ],
     "format": {
-      "sentence_count": 160,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

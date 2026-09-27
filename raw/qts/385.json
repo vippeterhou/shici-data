@@ -455,17 +455,28 @@
     }
   },
   {
-    "title": "寒食內宴二首",
+    "title": "寒食內宴二首·其一",
     "author": "張籍",
     "paragraphs": [
       "朝光瑞氣滿宮樓，彩纛魚龍四周稠。廊下禦廚分冷食，",
-      "共喜拜恩侵夜出，金吾不敢問行由。",
+      "共喜拜恩侵夜出，金吾不敢問行由。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寒食內宴二首·其二",
+    "author": "張籍",
+    "paragraphs": [
       "城闕沉沉向曉寒，恩當令節賜餘歡，瑞煙深處開三殿，",
       "宮筵戲樂年年別，已得三回對禦看。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

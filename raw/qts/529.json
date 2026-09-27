@@ -364,17 +364,28 @@
     }
   },
   {
-    "title": "春日題韋曲野老村舍二首",
+    "title": "春日題韋曲野老村舍二首·其一",
     "author": "許渾",
     "paragraphs": [
       "繞屋遍桑麻，村南第一家。林繁樹勢直，溪轉水紋斜。",
-      "竹院晝看筍，藥欄春賣花。故園歸未得，到此是天涯。",
+      "竹院晝看筍，藥欄春賣花。故園歸未得，到此是天涯。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日題韋曲野老村舍二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "北嶺枕南塘，數家村落長。鶯啼幼婦懶，蠶出小姑忙。",
       "煙草近溝濕，風花臨路香。自憐非楚客，春望亦心傷。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -470,17 +481,28 @@
     }
   },
   {
-    "title": "溪亭二首",
+    "title": "溪亭二首·其一",
     "author": "許渾",
     "paragraphs": [
       "溪亭四面山，橫柳半溪灣。蟬響螳螂急，魚深翡翠閑。",
-      "水寒留客醉，月上與僧還。猶戀蕭蕭竹，西齋未掩關。",
+      "水寒留客醉，月上與僧還。猶戀蕭蕭竹，西齋未掩關。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "溪亭二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "暖枕眠溪柳，僧齋昨夜期。茶香秋夢後，松韻晚吟時。",
       "共戲魚翻藻，爭棲鳥墜枝。重陽應一醉，栽菊助東籬。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

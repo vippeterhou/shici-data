@@ -1,103 +1,521 @@
 [
   {
-    "title": "閒居遣懷十首",
+    "title": "閒居遣懷十首·其一",
     "author": "姚合",
     "paragraphs": [
       "身外無徭役，開門百事閑。倚松聽唳鶴，策杖望秋山。",
-      "萍任連池綠，苔從匝地斑。料無車馬客，何必掃柴關。",
-      "閑臥銷長日，親朋笑我疏。詩篇隨分有，人事度年無。",
-      "情性僻難改，愁懷酒為除。誰能思此計，空備滿床書。",
-      "白日逍遙過，看山複繞池。展書尋古事，翻卷改新詩。",
-      "賒酒風前酌，留僧竹裏棋。同人笑相問，羨我足閒時。",
-      "好景時牽目，茅齋興有餘。遠山經雨後，庭樹得秋初。",
-      "道侶憐栽藥，高人笑養魚。優遊隨本性，甘被棄慵疏。",
-      "永日廚煙絕，何曾暫廢吟。閒時隨思緝，小酒恣情斟。",
-      "看月嫌松密，垂綸愛水深。世間多少事，無事可關心。",
-      "一生能幾日，愁恨也無端。遇酒酕醄飲，逢花爛熳看。",
-      "青雲非失路，白髮未相干。以此多攜解，將心但自寬。",
-      "萬事徒紛擾，難關枕上身。朗吟銷白日，沈醉度青春。",
-      "演步憐山近，閑眠厭客頻。市朝曾不到，長免滿衣塵。",
-      "野性多疏惰，幽棲更稱情。獨行看影笑，閑坐弄琴聲。",
-      "懶拜腰肢硬，慵趨禮樂生。業文隨日遣，不是為求名。",
-      "生計甘寥落，高名愧自由。慣無身外事，不信世間愁。",
-      "好酒盈杯酌，閑詩任筆酬。涼風從入戶，雲水更宜秋。",
-      "拙直難和洽，從人笑掩關。不能行戶外，甯解走塵間。",
-      "被酒長酣思，無愁可上顏。何言歸去事，著處是青山。"
+      "萍任連池綠，苔從匝地斑。料無車馬客，何必掃柴關。"
     ],
     "format": {
-      "sentence_count": 80,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "武功縣中作三十首",
+    "title": "閒居遣懷十首·其二",
+    "author": "姚合",
+    "paragraphs": [
+      "閑臥銷長日，親朋笑我疏。詩篇隨分有，人事度年無。",
+      "情性僻難改，愁懷酒為除。誰能思此計，空備滿床書。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閒居遣懷十首·其三",
+    "author": "姚合",
+    "paragraphs": [
+      "白日逍遙過，看山複繞池。展書尋古事，翻卷改新詩。",
+      "賒酒風前酌，留僧竹裏棋。同人笑相問，羨我足閒時。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閒居遣懷十首·其四",
+    "author": "姚合",
+    "paragraphs": [
+      "好景時牽目，茅齋興有餘。遠山經雨後，庭樹得秋初。",
+      "道侶憐栽藥，高人笑養魚。優遊隨本性，甘被棄慵疏。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閒居遣懷十首·其五",
+    "author": "姚合",
+    "paragraphs": [
+      "永日廚煙絕，何曾暫廢吟。閒時隨思緝，小酒恣情斟。",
+      "看月嫌松密，垂綸愛水深。世間多少事，無事可關心。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閒居遣懷十首·其六",
+    "author": "姚合",
+    "paragraphs": [
+      "一生能幾日，愁恨也無端。遇酒酕醄飲，逢花爛熳看。",
+      "青雲非失路，白髮未相干。以此多攜解，將心但自寬。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閒居遣懷十首·其七",
+    "author": "姚合",
+    "paragraphs": [
+      "萬事徒紛擾，難關枕上身。朗吟銷白日，沈醉度青春。",
+      "演步憐山近，閑眠厭客頻。市朝曾不到，長免滿衣塵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閒居遣懷十首·其八",
+    "author": "姚合",
+    "paragraphs": [
+      "野性多疏惰，幽棲更稱情。獨行看影笑，閑坐弄琴聲。",
+      "懶拜腰肢硬，慵趨禮樂生。業文隨日遣，不是為求名。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閒居遣懷十首·其九",
+    "author": "姚合",
+    "paragraphs": [
+      "生計甘寥落，高名愧自由。慣無身外事，不信世間愁。",
+      "好酒盈杯酌，閑詩任筆酬。涼風從入戶，雲水更宜秋。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閒居遣懷十首·其十",
+    "author": "姚合",
+    "paragraphs": [
+      "拙直難和洽，從人笑掩關。不能行戶外，甯解走塵間。",
+      "被酒長酣思，無愁可上顏。何言歸去事，著處是青山。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其一",
     "author": "姚合",
     "paragraphs": [
       "縣去帝城遠，為官與隱齊。馬隨山鹿放，雞雜野禽棲。",
-      "繞舍惟藤架，侵階是藥畦。更師嵇叔夜，不擬作書題。",
+      "繞舍惟藤架，侵階是藥畦。更師嵇叔夜，不擬作書題。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其二",
+    "author": "姚合",
+    "paragraphs": [
       "方拙天然性，為官是事疏。惟尋向山路，不寄入城書。",
-      "因病多收藥，緣餐學釣魚。養身成好事，此外更空虛。",
+      "因病多收藥，緣餐學釣魚。養身成好事，此外更空虛。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其三",
+    "author": "姚合",
+    "paragraphs": [
       "微官如馬足，只是在泥塵。到處貧隨我，終年老趁人。",
-      "簿書銷眼力，杯酒耗心神。早作歸休計，深居養此身。",
+      "簿書銷眼力，杯酒耗心神。早作歸休計，深居養此身。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其四",
+    "author": "姚合",
+    "paragraphs": [
       "簿書多不會，薄俸亦難銷。醉臥慵開眼，閑行懶系腰。",
-      "移花兼蝶至，買石得雲饒。且自心中樂，從他笑寂寥。",
+      "移花兼蝶至，買石得雲饒。且自心中樂，從他笑寂寥。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其五",
+    "author": "姚合",
+    "paragraphs": [
       "曉鐘驚睡覺，事事便相關。小市柴薪貴，貧家砧杵閑。",
-      "讀書多旋忘，賒酒數空還。長羨劉伶輩，高眠出世間。",
+      "讀書多旋忘，賒酒數空還。長羨劉伶輩，高眠出世間。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其六",
+    "author": "姚合",
+    "paragraphs": [
       "性疏常愛臥，親故笑悠悠。縱出多攜枕，因衙始裹頭。",
-      "上山方覺老，過寺暫忘愁。三考千餘日，低腰不擬休。",
+      "上山方覺老，過寺暫忘愁。三考千餘日，低腰不擬休。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其七",
+    "author": "姚合",
+    "paragraphs": [
       "客至皆相笑，詩書滿臥床。愛閑求病假，因醉棄官方。",
-      "鬢髮寒唯短，衣衫瘦漸長。自嫌多檢束，不似舊來狂。",
+      "鬢髮寒唯短，衣衫瘦漸長。自嫌多檢束，不似舊來狂。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其八",
+    "author": "姚合",
+    "paragraphs": [
       "一日看除目，終年損道心。山宜沖雪上，詩好帶風吟。",
-      "野客嫌知印，家人笑買琴。只應隨分過，已是錯彌深。",
+      "野客嫌知印，家人笑買琴。只應隨分過，已是錯彌深。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其九",
+    "author": "姚合",
+    "paragraphs": [
       "鄰里皆相愛，門開數見過。秋涼送客遠，夜靜詠詩多。",
-      "就架題書目，尋欄記藥窠。到官無別事，種得滿庭莎。",
+      "就架題書目，尋欄記藥窠。到官無別事，種得滿庭莎。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其十",
+    "author": "姚合",
+    "paragraphs": [
       "窮達天應與，人間事莫論。微官長似客，遠縣豈勝村。",
-      "竟日多無食，連宵不閉門。齋心調筆硯，唯寫五千言。",
+      "竟日多無食，連宵不閉門。齋心調筆硯，唯寫五千言。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其十一",
+    "author": "姚合",
+    "paragraphs": [
       "縣僻仍牢落，遊人到便回。路當邊地去，村入郭門來。",
-      "酒戶愁偏長，詩情病不開。可曾衙小吏，恐謂踏青苔。",
+      "酒戶愁偏長，詩情病不開。可曾衙小吏，恐謂踏青苔。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其十二",
+    "author": "姚合",
+    "paragraphs": [
       "自下青山路，三年著綠衣。官卑食肉僭，才短事人非。",
-      "野客教長醉，高僧勸早歸。不知何計是，免與本心違。",
+      "野客教長醉，高僧勸早歸。不知何計是，免與本心違。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其十三",
+    "author": "姚合",
+    "paragraphs": [
       "月出方能起，庭前看種莎。吏來山鳥散，酒熟野人過。",
-      "岐路荒城少，煙霞遠岫多。同官數相引，下馬上西坡。",
+      "岐路荒城少，煙霞遠岫多。同官數相引，下馬上西坡。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其十四",
+    "author": "姚合",
+    "paragraphs": [
       "作吏荒城裏，窮愁欲不勝。病多唯識藥，年老漸親僧。",
-      "夢覺空堂月，詩成滿硯冰。故人多得路，寂寞不相稱。",
+      "夢覺空堂月，詩成滿硯冰。故人多得路，寂寞不相稱。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其十五",
+    "author": "姚合",
+    "paragraphs": [
       "誰念東山客，棲棲守印床。何年得事盡，終日逐人忙。",
-      "醉臥誰知叫，閒書不著行。人間長檢束，與此豈相當。",
+      "醉臥誰知叫，閒書不著行。人間長檢束，與此豈相當。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其十六",
+    "author": "姚合",
+    "paragraphs": [
       "朝朝眉不展，多病怕逢迎。引水遠通澗，壘山高過城。",
-      "秋燈照樹色，寒雨落池聲。好是吟詩夜，披衣坐到明。",
+      "秋燈照樹色，寒雨落池聲。好是吟詩夜，披衣坐到明。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其十七",
+    "author": "姚合",
+    "paragraphs": [
       "簿籍誰能問，風寒趁早眠。每旬常乞假，隔月探支錢。",
-      "還往嫌詩僻，親情怪酒顛。謀身須上計，終久是歸田。",
+      "還往嫌詩僻，親情怪酒顛。謀身須上計，終久是歸田。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其十八",
+    "author": "姚合",
+    "paragraphs": [
       "閉門風雨裏，落葉與階齊。野客嫌杯小，山翁喜枕低。",
-      "聽琴知道性，尋藥得詩題。誰更能騎馬，閑行只杖藜。",
+      "聽琴知道性，尋藥得詩題。誰更能騎馬，閑行只杖藜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其十九",
+    "author": "姚合",
+    "paragraphs": [
       "腥膻都不食，稍稍覺神清。夜犬因風吠，鄰雞帶雨鳴。",
-      "守官常臥病，學道別稱名。小有洞中路，誰能引我行。",
+      "守官常臥病，學道別稱名。小有洞中路，誰能引我行。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其二十",
+    "author": "姚合",
+    "paragraphs": [
       "宦名渾不計，酒熟且開封。晴月銷燈色，寒天挫筆鋒。",
-      "驚禽時並起，閑客數相逢。舊國蕭條思，青山隔幾重。",
+      "驚禽時並起，閑客數相逢。舊國蕭條思，青山隔幾重。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其二十一",
+    "author": "姚合",
+    "paragraphs": [
       "假日多無事，誰知我獨忙。移山入縣宅，種竹上城牆。",
-      "驚蝶遺花蕊，遊蜂帶蜜香。唯愁明早出，端坐吏人旁。",
+      "驚蝶遺花蕊，遊蜂帶蜜香。唯愁明早出，端坐吏人旁。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其二十二",
+    "author": "姚合",
+    "paragraphs": [
       "門外青山路，因循自不歸。養生宜縣僻，說品喜官微。",
-      "淨愛山僧飯，閑披野客衣。誰憐幽谷鳥，不解入城飛。",
+      "淨愛山僧飯，閑披野客衣。誰憐幽谷鳥，不解入城飛。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其二十三",
+    "author": "姚合",
+    "paragraphs": [
       "一官無限日，愁悶欲何如。掃舍驚巢燕，尋方落壁魚。",
-      "從僧乞淨水，憑客報閒書。白髮誰能鑷，年來四十餘。",
+      "從僧乞淨水，憑客報閒書。白髮誰能鑷，年來四十餘。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其二十四",
+    "author": "姚合",
+    "paragraphs": [
       "朝朝門不閉，長似在山時。賓客抽書讀，兒童斫竹騎。",
-      "久貧還易老，多病懶能醫。道友應相怪，休官日已遲。",
+      "久貧還易老，多病懶能醫。道友應相怪，休官日已遲。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其二十五",
+    "author": "姚合",
+    "paragraphs": [
       "戚戚常無思，循資格上官。閒人得事晚，常骨覓仙難。",
-      "醉臥疑身病，貧居覺道寬。新詩久不寫，自算少人看。",
+      "醉臥疑身病，貧居覺道寬。新詩久不寫，自算少人看。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其二十六",
+    "author": "姚合",
+    "paragraphs": [
       "漫作容身計，今知拙有餘。青衫迎驛使，白髮憶山居。",
-      "道友憐蔬食，吏人嫌草書。須為長久事，歸去自耕鋤。",
+      "道友憐蔬食，吏人嫌草書。須為長久事，歸去自耕鋤。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其二十七",
+    "author": "姚合",
+    "paragraphs": [
       "主印三年坐，山居百事休。焚香開敕庫，踏月上城樓。",
-      "飲酒多成病，吟詩易長愁。殷勤問漁者，暫借手中鉤。",
+      "飲酒多成病，吟詩易長愁。殷勤問漁者，暫借手中鉤。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其二十八",
+    "author": "姚合",
+    "paragraphs": [
       "長憶青山下，深居遂性情。壘階溪石淨，燒竹灶煙輕。",
-      "點筆圖雲勢，彈琴學鳥聲。今朝知縣印，夢裏百憂生。",
+      "點筆圖雲勢，彈琴學鳥聲。今朝知縣印，夢裏百憂生。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其二十九",
+    "author": "姚合",
+    "paragraphs": [
       "自知狂僻性，吏事固相疏。只是看山立，無嫌出縣居。",
-      "印朱沾墨硯，戶籍雜經書。月俸尋常請，無妨乏鬥儲。",
+      "印朱沾墨硯，戶籍雜經書。月俸尋常請，無妨乏鬥儲。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武功縣中作三十首·其三十",
+    "author": "姚合",
+    "paragraphs": [
       "作吏無能事，為文舊致功。詩標八病外，心落百憂中。",
       "拜別登朝客，歸依煉藥翁。不知還往內，誰與此心同。"
     ],
     "format": {
-      "sentence_count": 240,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -117,17 +535,28 @@
     }
   },
   {
-    "title": "秋日閒居二首",
+    "title": "秋日閒居二首·其一",
     "author": "姚合",
     "paragraphs": [
       "九陌宅重重，何門憐此翁。荒庭唯菊茂，幽徑與山通。",
-      "落葉帶衣上，閑雲來酒中。此心誰得見，林下鹿應同。",
+      "落葉帶衣上，閑雲來酒中。此心誰得見，林下鹿應同。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋日閒居二首·其二",
+    "author": "姚合",
+    "paragraphs": [
       "先憶花時節，家山聽更歸。愛詩看古集，憶酒典寒衣。",
       "睡少身還健，愁多食不肥。自憐疏懶性，無事出門稀。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -158,20 +587,42 @@
     }
   },
   {
-    "title": "街西居三首",
+    "title": "街西居三首·其一",
     "author": "姚合",
     "paragraphs": [
       "受得山野性，住城多事違。青山在宅南，回首東西稀。",
       "淺淺一井泉，數家同汲之。獨我惡水濁，鑿井庭之陲。",
-      "自鑿還自飲，亦為眾所非。籲嗟世間事，潔身誠難為。",
+      "自鑿還自飲，亦為眾所非。籲嗟世間事，潔身誠難為。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "街西居三首·其二",
+    "author": "姚合",
+    "paragraphs": [
       "日出窮巷喜，溫然勝重衣。重衣豈不暖，所暖人不齊。",
-      "兀兀複行行，不離階與墀。",
+      "兀兀複行行，不離階與墀。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "街西居三首·其三",
+    "author": "姚合",
+    "paragraphs": [
       "丈夫非馬蹄，安得知路岐。窮賤餐茹薄，興與養性宜。",
       "乃知長生術，豪貴難得之。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -415,37 +866,158 @@
     }
   },
   {
-    "title": "遊春十二首",
+    "title": "遊春十二首·其一",
     "author": "姚合",
     "paragraphs": [
       "正月一日後，尋春更不眠。自知還近僻，眾說過於顛。",
-      "看水甯依路，登山欲到天。悠悠芳思起，多是晚風前。",
+      "看水甯依路，登山欲到天。悠悠芳思起，多是晚風前。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遊春十二首·其二",
+    "author": "姚合",
+    "paragraphs": [
       "官卑長少事，縣僻又無城。未曉沖寒起，迎春忍病行。",
-      "樹枝風掉軟，菜甲土浮輕。好個林間鵲，今朝足喜聲。",
+      "樹枝風掉軟，菜甲土浮輕。好個林間鵲，今朝足喜聲。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遊春十二首·其三",
+    "author": "姚合",
+    "paragraphs": [
       "詩酒相牽引，朝朝思不窮。苔痕雪水裏，春色竹煙中。",
-      "迎雨緣池草，摧花倚樹風。書非名利事，愛此少人同。",
+      "迎雨緣池草，摧花倚樹風。書非名利事，愛此少人同。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遊春十二首·其四",
+    "author": "姚合",
+    "paragraphs": [
       "塵中主印吏，誰遣有高情。趁暖簷前坐，尋芳樹底行。",
-      "土融凝墅色，冰敗滿池聲。漸覺春相泥，朝來睡不輕。",
+      "土融凝墅色，冰敗滿池聲。漸覺春相泥，朝來睡不輕。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遊春十二首·其五",
+    "author": "姚合",
+    "paragraphs": [
       "疏頑無異事，隨例但添年。舊曆藏深篋，新衣薄絮綿。",
-      "暖風渾酒色，晴日暢琴弦。同伴無辭困，遊春貴在先。",
+      "暖風渾酒色，晴日暢琴弦。同伴無辭困，遊春貴在先。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遊春十二首·其六",
+    "author": "姚合",
+    "paragraphs": [
       "看春長不足，豈更覺身勞。寺裏花枝淨，山中水色高。",
-      "嫩雲輕似絮，新草細如毛。並起詩人思，還應費筆毫。",
+      "嫩雲輕似絮，新草細如毛。並起詩人思，還應費筆毫。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遊春十二首·其七",
+    "author": "姚合",
+    "paragraphs": [
       "悠悠小縣吏，憔悴入新年。遠思遭詩惱，閒情被酒牽。",
-      "戀花林下飲，愛草野中眠。疏懶今成性，誰人肯更憐。",
+      "戀花林下飲，愛草野中眠。疏懶今成性，誰人肯更憐。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遊春十二首·其八",
+    "author": "姚合",
+    "paragraphs": [
       "處處春光遍，遊人亦不稀。向陽傾冷酒，看影試新衣。",
-      "嫩樹行移長，幽禽語旋飛。同來皆去盡，沖夜獨吟歸。",
+      "嫩樹行移長，幽禽語旋飛。同來皆去盡，沖夜獨吟歸。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遊春十二首·其九",
+    "author": "姚合",
+    "paragraphs": [
       "朝朝看春色，春色似相憐。酒醒鶯啼裏，詩成蝶舞前。",
-      "摘花盈手露，折竹滿庭煙。親故多相笑，疏狂似少年。",
+      "摘花盈手露，折竹滿庭煙。親故多相笑，疏狂似少年。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遊春十二首·其十",
+    "author": "姚合",
+    "paragraphs": [
       "卑官還不惡，行止得逍遙。晴野花侵路，春陂水上橋。",
-      "塵埃生暖色，藥草長新苗。看卻煙光散，狂風處處飄。",
+      "塵埃生暖色，藥草長新苗。看卻煙光散，狂風處處飄。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遊春十二首·其十一",
+    "author": "姚合",
+    "paragraphs": [
       "身被春光引，經時更不歸。嚼花香滿口，書竹粉黏衣。",
-      "弄日鶯狂語，迎風蝶倒飛。自知疏懶性，得事亦應稀。",
+      "弄日鶯狂語，迎風蝶倒飛。自知疏懶性，得事亦應稀。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遊春十二首·其十二",
+    "author": "姚合",
+    "paragraphs": [
       "曉脫青衫出，閑行氣味長。一瓶春酒色，數頃野花香。",
       "朝客聞應羨，山僧見亦狂。不將僮僕去，恐為損風光。"
     ],
     "format": {
-      "sentence_count": 96,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -489,34 +1061,67 @@
     }
   },
   {
-    "title": "揚州春詞三首",
+    "title": "揚州春詞三首·其一",
     "author": "姚合",
     "paragraphs": [
       "廣陵寒食天，無霧複無煙。暖日凝花柳，春風散管弦。",
-      "園林多是宅，車馬少於船。莫喚遊人住，遊人困不眠。",
-      "滿郭是春光，街衢土亦香。竹風輕履舄，花露膩衣裳。",
-      "穀鳥鳴還豔，山夫到更狂。可憐遊賞地，煬帝國傾亡。",
-      "江北煙光裏，淮南勝事多。市鄽持燭入，鄰里漾船過。",
-      "有地惟栽竹，無家不養鵝。春風蕩城郭，滿耳是笙歌。"
+      "園林多是宅，車馬少於船。莫喚遊人住，遊人困不眠。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "寒食二首",
+    "title": "揚州春詞三首·其二",
+    "author": "姚合",
+    "paragraphs": [
+      "滿郭是春光，街衢土亦香。竹風輕履舄，花露膩衣裳。",
+      "穀鳥鳴還豔，山夫到更狂。可憐遊賞地，煬帝國傾亡。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "揚州春詞三首·其三",
+    "author": "姚合",
+    "paragraphs": [
+      "江北煙光裏，淮南勝事多。市鄽持燭入，鄰里漾船過。",
+      "有地惟栽竹，無家不養鵝。春風蕩城郭，滿耳是笙歌。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寒食二首·其一",
     "author": "姚合",
     "paragraphs": [
       "今朝一百五，出戶雨初晴。舞愛雙飛蝶，歌聞百囀鶯。",
-      "江深青草岸，花滿白雲城。為政多孱懦，應無酷吏名。",
+      "江深青草岸，花滿白雲城。為政多孱懦，應無酷吏名。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寒食二首·其二",
+    "author": "姚合",
+    "paragraphs": [
       "出城煙火少，況複是今朝。閑坐將誰語，臨觴只自謠。",
       "階前春蘚遍，衣上落花飄。伎樂州人戲，使君心寂寥。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -663,31 +1268,64 @@
     }
   },
   {
-    "title": "除夜二首",
+    "title": "除夜二首·其一",
     "author": "姚合",
     "paragraphs": [
       "衰殘歸未遂，寂寞此宵情。舊國當千里，新年隔數更。",
-      "寒猶近北峭，風漸向東生。誰見長安陌，晨鐘度火城。",
-      "殷勤惜此夜，此夜在逡巡。燭盡年還別，雞鳴老更新。",
-      "儺聲方去疫，酒色已迎春。明日持杯處，誰為最後人。"
+      "寒猶近北峭，風漸向東生。誰見長安陌，晨鐘度火城。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "晦日送窮三首",
+    "title": "除夜二首·其二",
     "author": "姚合",
     "paragraphs": [
-      "年年到此日，瀝酒拜街中。萬戶千門看，無人不送窮。",
-      "送窮窮不去，相泥欲何為。今日官家宅，淹留又幾時。",
+      "殷勤惜此夜，此夜在逡巡。燭盡年還別，雞鳴老更新。",
+      "儺聲方去疫，酒色已迎春。明日持杯處，誰為最後人。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "晦日送窮三首·其一",
+    "author": "姚合",
+    "paragraphs": [
+      "年年到此日，瀝酒拜街中。萬戶千門看，無人不送窮。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "晦日送窮三首·其二",
+    "author": "姚合",
+    "paragraphs": [
+      "送窮窮不去，相泥欲何為。今日官家宅，淹留又幾時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "晦日送窮三首·其三",
+    "author": "姚合",
+    "paragraphs": [
       "古人皆恨別，此別恨消魂。只是空相送，年年不出門。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

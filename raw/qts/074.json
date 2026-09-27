@@ -476,15 +476,26 @@
     }
   },
   {
-    "title": "山鷓鴣詞二首",
+    "title": "山鷓鴣詞二首·其一",
     "author": "蘇頲",
     "paragraphs": [
-      "玉關征戍久，空閨人獨愁。寒露濕青苔，別來蓬鬢秋。",
+      "玉關征戍久，空閨人獨愁。寒露濕青苔，別來蓬鬢秋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "山鷓鴣詞二首·其二",
+    "author": "蘇頲",
+    "paragraphs": [
       "人坐青樓晚，鶯語百花時。愁多人易老，斷腸君不知。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

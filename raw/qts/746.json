@@ -379,42 +379,350 @@
     }
   },
   {
-    "title": "續古二十九首",
+    "title": "續古二十九首·其一",
     "author": "陳陶",
     "paragraphs": [
-      "大堯登寶位，麟鳳煥宸居。海曲沾恩澤，還生比目魚。",
-      "生值揖遜曆，長歌東南春。釣鼇年三十，未見天子巡。",
-      "軒轅承化日，群鳳戲池台。大朴衰喪後，仲尼生不來。",
-      "大道歸孟門，蕭蘭日爭長。想得巢居時，碧江應無浪。",
-      "矻矻蓬捨下，慕君麒麟閣。笑殺王子喬，寥天乘白鶴。",
-      "杳杳巫峽雲，悠悠漢江水。愁殺幾少年，春風相憶地。",
-      "吳洲采芳客，桂棹木蘭船。日晚欲有寄，裴回春風前。",
-      "仙家風景晏，浮世年華速。邂逅漢武時，蟠桃海東熟。",
-      "南國珊瑚樹，好裁天馬鞭。魚龍不解語，海曲空蟬娟。",
-      "周穆恣遊幸，橫天驅八龍。甯知泰山下，日日望登封。",
-      "秦國饒羅網，中原絕麟鳳。萬乘巡海回，鮑魚空相送。",
-      "秦家無廟略，遮虜續長城。萬姓隴頭死，中原荊棘生。",
-      "秦作東海橋，中州鬼辛苦。縱得跨蓬萊，群仙亦飛去。",
-      "隋煬棄中國，龍舟巡海涯。春風廣陵苑，不見秦宮花。",
-      "範子相句踐，滅吳成大勳。雖然五湖去，終愧磻溪雲。",
-      "麟鳳識翔蟄，聖賢明卷舒。哀哉嵇叔夜，智不及鶢鶋。",
-      "戰地三尺骨，將軍一身貴。自古若吊冤，落花少於淚。",
-      "楚國千里旱，土龍日已多。九穀竟枯死，好雲閑嵯峨。",
-      "漢家三殿色，恩澤若飄風。今日黃金屋，明朝長信宮。",
-      "南園杏花發，北渚梅花落。吳女妒西施，容華日消鑠。",
-      "山雞理毛羽，自言勝烏鳶。一朝逢鸑鷟，羞死南海邊。",
-      "秦家卷衣貴，本是倡家子。金殿一承恩，貂蟬滿鄉里。",
-      "魏宮薛家女，秀色傾三殿。武帝鼎湖歸，一身似秋扇。",
-      "嬋娟越機裏，織得雙棲鳳。慰此殊世花，金梭忽停弄。",
-      "學古三十載，猶依白雲居。每覽班超傳，令人慵讀書。",
-      "雄劍久濩落，夜吟秋風起。不是懶為龍，此非延平水。",
-      "朝為楊柳色，暮作芙蓉好。春風若有情，江山相逐老。",
-      "景龍臨太極，五鳳當庭舞。誰信壁間梭，升天作雲雨。",
+      "大堯登寶位，麟鳳煥宸居。海曲沾恩澤，還生比目魚。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其二",
+    "author": "陳陶",
+    "paragraphs": [
+      "生值揖遜曆，長歌東南春。釣鼇年三十，未見天子巡。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其三",
+    "author": "陳陶",
+    "paragraphs": [
+      "軒轅承化日，群鳳戲池台。大朴衰喪後，仲尼生不來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其四",
+    "author": "陳陶",
+    "paragraphs": [
+      "大道歸孟門，蕭蘭日爭長。想得巢居時，碧江應無浪。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其五",
+    "author": "陳陶",
+    "paragraphs": [
+      "矻矻蓬捨下，慕君麒麟閣。笑殺王子喬，寥天乘白鶴。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其六",
+    "author": "陳陶",
+    "paragraphs": [
+      "杳杳巫峽雲，悠悠漢江水。愁殺幾少年，春風相憶地。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其七",
+    "author": "陳陶",
+    "paragraphs": [
+      "吳洲采芳客，桂棹木蘭船。日晚欲有寄，裴回春風前。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其八",
+    "author": "陳陶",
+    "paragraphs": [
+      "仙家風景晏，浮世年華速。邂逅漢武時，蟠桃海東熟。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其九",
+    "author": "陳陶",
+    "paragraphs": [
+      "南國珊瑚樹，好裁天馬鞭。魚龍不解語，海曲空蟬娟。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其十",
+    "author": "陳陶",
+    "paragraphs": [
+      "周穆恣遊幸，橫天驅八龍。甯知泰山下，日日望登封。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其十一",
+    "author": "陳陶",
+    "paragraphs": [
+      "秦國饒羅網，中原絕麟鳳。萬乘巡海回，鮑魚空相送。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其十二",
+    "author": "陳陶",
+    "paragraphs": [
+      "秦家無廟略，遮虜續長城。萬姓隴頭死，中原荊棘生。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其十三",
+    "author": "陳陶",
+    "paragraphs": [
+      "秦作東海橋，中州鬼辛苦。縱得跨蓬萊，群仙亦飛去。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其十四",
+    "author": "陳陶",
+    "paragraphs": [
+      "隋煬棄中國，龍舟巡海涯。春風廣陵苑，不見秦宮花。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其十五",
+    "author": "陳陶",
+    "paragraphs": [
+      "範子相句踐，滅吳成大勳。雖然五湖去，終愧磻溪雲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其十六",
+    "author": "陳陶",
+    "paragraphs": [
+      "麟鳳識翔蟄，聖賢明卷舒。哀哉嵇叔夜，智不及鶢鶋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其十七",
+    "author": "陳陶",
+    "paragraphs": [
+      "戰地三尺骨，將軍一身貴。自古若吊冤，落花少於淚。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其十八",
+    "author": "陳陶",
+    "paragraphs": [
+      "楚國千里旱，土龍日已多。九穀竟枯死，好雲閑嵯峨。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其十九",
+    "author": "陳陶",
+    "paragraphs": [
+      "漢家三殿色，恩澤若飄風。今日黃金屋，明朝長信宮。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其二十",
+    "author": "陳陶",
+    "paragraphs": [
+      "南園杏花發，北渚梅花落。吳女妒西施，容華日消鑠。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其二十一",
+    "author": "陳陶",
+    "paragraphs": [
+      "山雞理毛羽，自言勝烏鳶。一朝逢鸑鷟，羞死南海邊。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其二十二",
+    "author": "陳陶",
+    "paragraphs": [
+      "秦家卷衣貴，本是倡家子。金殿一承恩，貂蟬滿鄉里。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其二十三",
+    "author": "陳陶",
+    "paragraphs": [
+      "魏宮薛家女，秀色傾三殿。武帝鼎湖歸，一身似秋扇。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其二十四",
+    "author": "陳陶",
+    "paragraphs": [
+      "嬋娟越機裏，織得雙棲鳳。慰此殊世花，金梭忽停弄。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其二十五",
+    "author": "陳陶",
+    "paragraphs": [
+      "學古三十載，猶依白雲居。每覽班超傳，令人慵讀書。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其二十六",
+    "author": "陳陶",
+    "paragraphs": [
+      "雄劍久濩落，夜吟秋風起。不是懶為龍，此非延平水。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其二十七",
+    "author": "陳陶",
+    "paragraphs": [
+      "朝為楊柳色，暮作芙蓉好。春風若有情，江山相逐老。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其二十八",
+    "author": "陳陶",
+    "paragraphs": [
+      "景龍臨太極，五鳳當庭舞。誰信壁間梭，升天作雲雨。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "續古二十九首·其二十九",
+    "author": "陳陶",
+    "paragraphs": [
       "曾夢諸侯笑，康囚議脫枷。千根池底藕，一朵火中花。"
     ],
     "format": {
-      "sentence_count": 116,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -469,21 +777,54 @@
     }
   },
   {
-    "title": "朝元引四首",
+    "title": "朝元引四首·其一",
     "author": "陳陶",
     "paragraphs": [
       "帝燭熒煌下九天，蓬萊宮曉玉爐煙。",
-      "無央鸞鳳隨金母，來賀熏風一萬年。",
+      "無央鸞鳳隨金母，來賀熏風一萬年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "朝元引四首·其二",
+    "author": "陳陶",
+    "paragraphs": [
       "正殿雲開露冕旒，下方珠翠壓鼇頭。",
-      "天雞唱罷南山曉，春色光輝十二樓。",
+      "天雞唱罷南山曉，春色光輝十二樓。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "朝元引四首·其三",
+    "author": "陳陶",
+    "paragraphs": [
       "萬宇靈祥擁帝居，東華元老薦屠蘇。",
-      "龍池遙望非煙拜，五色曈曨在玉壺。",
+      "龍池遙望非煙拜，五色曈曨在玉壺。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "朝元引四首·其四",
+    "author": "陳陶",
+    "paragraphs": [
       "寶祚河宮一向清，龜魚天篆益分明。",
       "近臣誰獻登封草，五嶽齊呼萬歲聲。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -618,17 +959,28 @@
     }
   },
   {
-    "title": "吳興秋思二首",
+    "title": "吳興秋思二首·其一",
     "author": "陳陶",
     "paragraphs": [
       "不是苕溪厭看月，天涯有程雲樹涼。",
-      "何意汀洲剩風雨，白蘋今日似瀟湘。",
+      "何意汀洲剩風雨，白蘋今日似瀟湘。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "吳興秋思二首·其二",
+    "author": "陳陶",
+    "paragraphs": [
       "日夕鯤魚夢南國，苕陽水高迷渡頭。",
       "故山秋風憶歸去，白雲又被王孫留。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -646,35 +998,145 @@
     }
   },
   {
-    "title": "竹十一首",
+    "title": "竹十一首·其一",
     "author": "陳陶",
     "paragraphs": [
       "不厭東溪綠玉君，天壇雙鳳有時聞。",
-      "一峰曉似朝仙處，青節森森倚絳雲。",
+      "一峰曉似朝仙處，青節森森倚絳雲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹十一首·其二",
+    "author": "陳陶",
+    "paragraphs": [
       "萬枝朝露學瀟湘，杳靄孤亭白石涼。",
-      "誰道乖龍不得雨，春雷入地馬鞭狂。",
+      "誰道乖龍不得雨，春雷入地馬鞭狂。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹十一首·其三",
+    "author": "陳陶",
+    "paragraphs": [
       "嘯入新篁一裏行，萬竿如甕鎖龍泓。",
-      "驚巢翡翠無尋處，閑倚雲根刻姓名。",
+      "驚巢翡翠無尋處，閑倚雲根刻姓名。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹十一首·其四",
+    "author": "陳陶",
+    "paragraphs": [
       "青嵐帚亞思吾祖，綠潤偏多憶蔡邕。",
-      "長聽南園風雨夜，恐生鱗甲盡為龍。",
+      "長聽南園風雨夜，恐生鱗甲盡為龍。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹十一首·其五",
+    "author": "陳陶",
+    "paragraphs": [
       "迸玉閑抽上釣磯，翠苗番次脫霞衣。",
-      "山童泥乞青驄馬，騎過春泉掣手飛。",
+      "山童泥乞青驄馬，騎過春泉掣手飛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹十一首·其六",
+    "author": "陳陶",
+    "paragraphs": [
       "須題內史琅玕塢，幾醉山陽瑟瑟村。",
-      "剩養萬莖將掃俗，莫教凡鳥鬧雲門。",
+      "剩養萬莖將掃俗，莫教凡鳥鬧雲門。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹十一首·其七",
+    "author": "陳陶",
+    "paragraphs": [
       "一溪雲母間靈花，似到封侯逸士家。",
-      "誰識雌雄九成律，子喬丹井在深涯。",
+      "誰識雌雄九成律，子喬丹井在深涯。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹十一首·其八",
+    "author": "陳陶",
+    "paragraphs": [
       "燕燕雛時紫米香，野溪羞色過東牆。",
-      "諸兒莫拗成蹊筍，從結高籠養鳳凰。",
+      "諸兒莫拗成蹊筍，從結高籠養鳳凰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹十一首·其九",
+    "author": "陳陶",
+    "paragraphs": [
       "一節呼龍萬里秋，數莖垂海六鼇愁。",
-      "更須瀑布峰前種，雲裏闌幹過子猷。",
+      "更須瀑布峰前種，雲裏闌幹過子猷。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹十一首·其十",
+    "author": "陳陶",
+    "paragraphs": [
       "丘壑誰堪話碧鮮，靜尋春譜認嬋娟。",
-      "會當小殺青瑤簡，圖寫龜魚把上天。",
+      "會當小殺青瑤簡，圖寫龜魚把上天。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹十一首·其十一",
+    "author": "陳陶",
+    "paragraphs": [
       "玄圃千春閉玉叢，湛陽一祖碧雲空。",
       "不須騷屑愁江島，今日南枝在國風。"
     ],
     "format": {
-      "sentence_count": 44,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -705,33 +1167,132 @@
     }
   },
   {
-    "title": "水調詞十首",
+    "title": "水調詞十首·其一",
     "author": "陳陶",
     "paragraphs": [
       "黠虜迢迢未肯和，五陵年少重橫戈。",
-      "誰家不結空閨恨，玉箸闌幹妾最多。",
+      "誰家不結空閨恨，玉箸闌幹妾最多。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "水調詞十首·其二",
+    "author": "陳陶",
+    "paragraphs": [
       "羽管慵調怨別離，西園新月伴愁眉。",
-      "容華不分隨年去，獨有妝樓明鏡知。",
+      "容華不分隨年去，獨有妝樓明鏡知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "水調詞十首·其三",
+    "author": "陳陶",
+    "paragraphs": [
       "憶餞良人玉塞行，梨花三見換啼鶯。",
-      "邊場豈得勝閨閣，莫逞雕弓過一生。",
+      "邊場豈得勝閨閣，莫逞雕弓過一生。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "水調詞十首·其四",
+    "author": "陳陶",
+    "paragraphs": [
       "惆悵江南早雁飛，年年辛苦寄寒衣。",
-      "征人豈不思鄉國，只是皇恩未放歸。",
+      "征人豈不思鄉國，只是皇恩未放歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "水調詞十首·其五",
+    "author": "陳陶",
+    "paragraphs": [
       "水閣蓮開燕引雛，朝朝攀折望金吾。",
-      "聞道磧西春不到，花時還憶故園無。",
+      "聞道磧西春不到，花時還憶故園無。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "水調詞十首·其六",
+    "author": "陳陶",
+    "paragraphs": [
       "自從清野戍遼東，舞袖香銷羅幌空。",
-      "幾度長安發梅柳，節旄零落不成功。",
+      "幾度長安發梅柳，節旄零落不成功。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "水調詞十首·其七",
+    "author": "陳陶",
+    "paragraphs": [
       "長夜孤眠倦錦衾，秦樓霜月苦邊心。",
-      "征衣一倍裝綿厚，猶慮交河雪凍深。",
+      "征衣一倍裝綿厚，猶慮交河雪凍深。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "水調詞十首·其八",
+    "author": "陳陶",
+    "paragraphs": [
       "瀚海長征古別離，華山歸馬是何時。",
-      "仍聞萬乘尊猶屈，裝束千嬌嫁郅支。",
+      "仍聞萬乘尊猶屈，裝束千嬌嫁郅支。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "水調詞十首·其九",
+    "author": "陳陶",
+    "paragraphs": [
       "沙塞依稀落日邊，寒宵魂夢怯山川。",
-      "離居漸覺笙歌懶，君逐嫖姚已十年。",
+      "離居漸覺笙歌懶，君逐嫖姚已十年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "水調詞十首·其十",
+    "author": "陳陶",
+    "paragraphs": [
       "萬里輪台音信稀，傳聞移帳護金微。",
       "會須麟閣留蹤跡，不斬天驕莫議歸。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -749,23 +1310,67 @@
     }
   },
   {
-    "title": "閒居雜興五首",
+    "title": "閒居雜興五首·其一",
     "author": "陳陶",
     "paragraphs": [
       "虞韶九奏音猶在，只是巴童自棄遺。",
-      "閑臥清秋憶師曠，好風搖動古松枝。",
+      "閑臥清秋憶師曠，好風搖動古松枝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "閒居雜興五首·其二",
+    "author": "陳陶",
+    "paragraphs": [
       "一顧成周力有餘，白雲閑釣五溪魚。",
-      "中原莫道無麟鳳，自是皇家結網疏。",
+      "中原莫道無麟鳳，自是皇家結網疏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "閒居雜興五首·其三",
+    "author": "陳陶",
+    "paragraphs": [
       "長愛真人王子喬，五松山月伴吹簫。",
-      "從他浮世悲生死，獨駕蒼鱗入九霄。",
+      "從他浮世悲生死，獨駕蒼鱗入九霄。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "閒居雜興五首·其四",
+    "author": "陳陶",
+    "paragraphs": [
       "越裏娃童錦作襦，豔歌聲壓郢中姝。",
-      "無人說向張京兆，一曲江南十斛珠。",
+      "無人說向張京兆，一曲江南十斛珠。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "閒居雜興五首·其五",
+    "author": "陳陶",
+    "paragraphs": [
       "雲堆西望賊連營，分閫何當舉義兵。",
       "莫道羔裘無壯節，古來成事盡書生。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -793,36 +1398,80 @@
     }
   },
   {
-    "title": "投贈福建桂常侍二首",
+    "title": "投贈福建桂常侍二首·其一",
     "author": "陳陶",
     "paragraphs": [
       "後來台席更何人，都護朝天拜近臣。",
-      "長笑當時漢卿士，等閒恩澤畫麒麟。",
-      "匝地歌鐘鎮海隅，城池鞅掌舊名都。",
-      "不知珠履三千外，更許侯嬴寄食無。"
+      "長笑當時漢卿士，等閒恩澤畫麒麟。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "隴西行四首",
+    "title": "投贈福建桂常侍二首·其二",
+    "author": "陳陶",
+    "paragraphs": [
+      "匝地歌鐘鎮海隅，城池鞅掌舊名都。",
+      "不知珠履三千外，更許侯嬴寄食無。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "隴西行四首·其一",
     "author": "陳陶",
     "paragraphs": [
       "漢主東封報太平，無人金闕議邊兵。",
-      "縱饒奪得林胡塞，磧地桑麻種不生。",
+      "縱饒奪得林胡塞，磧地桑麻種不生。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "隴西行四首·其二",
+    "author": "陳陶",
+    "paragraphs": [
       "誓掃匈奴不顧身，五千貂錦喪胡塵。",
-      "可憐無定河邊骨，猶是春閨夢裏人。",
+      "可憐無定河邊骨，猶是春閨夢裏人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "隴西行四首·其三",
+    "author": "陳陶",
+    "paragraphs": [
       "隴戍三看塞草青，樓煩新替護羌兵。",
-      "同來死者傷離別，一夜孤魂哭舊營。",
+      "同來死者傷離別，一夜孤魂哭舊營。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "隴西行四首·其四",
+    "author": "陳陶",
+    "paragraphs": [
       "黠虜生擒未有涯，黑山營陣識龍蛇。",
       "自從貴主和親後，一半胡風似漢家。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

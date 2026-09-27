@@ -52,17 +52,28 @@
     }
   },
   {
-    "title": "宋二首",
+    "title": "宋二首·其一",
     "author": "徐夤",
     "paragraphs": [
       "天爵休將儋石論，一身恭儉萬邦尊。賭將金帶驚寰海，",
-      "草中求活非吾事，豈啻橫身向廟門。",
+      "草中求活非吾事，豈啻橫身向廟門。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "宋二首·其二",
+    "author": "徐夤",
+    "paragraphs": [
       "百萬人甘一擲輸，玄穹惟與道相符。豈知紫殿新天子，",
       "三年未得分明夢，卻為蘭陵起霸圖。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -301,17 +312,28 @@
     }
   },
   {
-    "title": "蝴蝶二首",
+    "title": "蝴蝶二首·其一",
     "author": "徐夤",
     "paragraphs": [
       "縹緲青蟲脫殼微，不堪煙重雨霏霏。一枝穠豔留教住，",
-      "無情豈解關魂夢，莫信莊周說是非。",
+      "無情豈解關魂夢，莫信莊周說是非。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "蝴蝶二首·其二",
+    "author": "徐夤",
+    "paragraphs": [
       "拂綠穿紅麗日長，一生心事住春光。最嫌神女來行雨，",
       "鳴蟬性分殊迂闊，空解三秋噪夕陽。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -433,17 +455,28 @@
     }
   },
   {
-    "title": "詠筆二首",
+    "title": "詠筆二首·其一",
     "author": "徐夤",
     "paragraphs": [
       "秦代將軍欲建功，截龍搜兔助英雄。用多誰念毛皆拔，",
-      "班超握管不成事，投擲翻從萬里戎。",
+      "班超握管不成事，投擲翻從萬里戎。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "詠筆二首·其二",
+    "author": "徐夤",
+    "paragraphs": [
       "君子三歸擅一名，秋毫雖細握非輕。軍書羽檄教誰錄，",
       "毛幹時有何人潤，盡把燒焚恨始平。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

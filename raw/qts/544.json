@@ -767,17 +767,28 @@
     }
   },
   {
-    "title": "秋夜寄友人二首",
+    "title": "秋夜寄友人二首·其一",
     "author": "劉得仁",
     "paragraphs": [
       "永夜無他慮，長吟畢二更。暗燈搖碧影，滯雨滴階聲。",
-      "道進愁還淺，年加睡自輕。如何得深術，相與舍浮名。",
+      "道進愁還淺，年加睡自輕。如何得深術，相與舍浮名。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋夜寄友人二首·其二",
+    "author": "劉得仁",
+    "paragraphs": [
       "所思同海岱，所夢亦煙波。默坐看山久，閑行值寺過。",
       "獨吟黃葉亂，相去碧峰多。我有歸心在，君行竟若何。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

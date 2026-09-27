@@ -603,36 +603,80 @@
     }
   },
   {
-    "title": "竹枝詞二首",
+    "title": "竹枝詞二首·其一",
     "author": "孫光憲",
     "paragraphs": [
       "門前春水白蘋花，岸上無人小艇斜。",
-      "商女經過江欲暮，散拋殘食飼神鴉。",
-      "亂繩千結絆人深，越羅萬丈表長尋。",
-      "楊柳在身垂意緒，藕花落盡見蓮心。"
+      "商女經過江欲暮，散拋殘食飼神鴉。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "楊柳枝詞四首",
+    "title": "竹枝詞二首·其二",
+    "author": "孫光憲",
+    "paragraphs": [
+      "亂繩千結絆人深，越羅萬丈表長尋。",
+      "楊柳在身垂意緒，藕花落盡見蓮心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞四首·其一",
     "author": "孫光憲",
     "paragraphs": [
       "閶門風暖落花幹，飛遍江城雪不寒。",
-      "獨有晚來臨水驛，閒人多憑赤欄幹。",
+      "獨有晚來臨水驛，閒人多憑赤欄幹。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞四首·其二",
+    "author": "孫光憲",
+    "paragraphs": [
       "有池有榭即濛濛，浸潤翻成長養功。",
-      "恰似有人長點檢，著行排立向春風。",
+      "恰似有人長點檢，著行排立向春風。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞四首·其三",
+    "author": "孫光憲",
+    "paragraphs": [
       "根柢雖然傍濁河，無妨終日近笙歌。",
-      "毿毿金帶誰堪比，還共黃鶯不較多。",
+      "毿毿金帶誰堪比，還共黃鶯不較多。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞四首·其四",
+    "author": "孫光憲",
+    "paragraphs": [
       "萬株枯槁怨亡隋，似吊吳台各自垂。",
       "好是淮陰明月裏，酒樓橫笛不勝吹。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

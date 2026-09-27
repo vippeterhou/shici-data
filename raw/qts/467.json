@@ -143,17 +143,28 @@
     }
   },
   {
-    "title": "有感二首",
+    "title": "有感二首·其一",
     "author": "牟融",
     "paragraphs": [
       "何事離懷入夢頻，貧居寂寞四無鄰。詩因韻險難成律，",
-      "十年飄泊如萍跡，一度登臨一悵神。",
+      "十年飄泊如萍跡，一度登臨一悵神。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "有感二首·其二",
+    "author": "牟融",
+    "paragraphs": [
       "搔首臨風獨倚欄，客邊驚覺歲華殘。棲遲未遇常鋾薦，",
       "何如日日長如醉，付與詩人一笑看。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -431,17 +442,28 @@
     }
   },
   {
-    "title": "寫意二首",
+    "title": "寫意二首·其一",
     "author": "牟融",
     "paragraphs": [
       "寂寥荒館閉閑門，苔徑陰陰屐少痕。白髮顛狂塵夢斷，",
-      "醉後曲肱林下臥，此生榮辱不須論。",
+      "醉後曲肱林下臥，此生榮辱不須論。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寫意二首·其二",
+    "author": "牟融",
+    "paragraphs": [
       "蕭蕭華髮滿頭生，深遠蓬門倦送迎。獨喜冥心無外慕，",
       "林下貧居甘困守，盡教城市不知名。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -671,21 +693,54 @@
     }
   },
   {
-    "title": "題朱慶餘閒居四首",
+    "title": "題朱慶餘閒居四首·其一",
     "author": "牟融",
     "paragraphs": [
       "瀟灑藏修處，琴書與畫圖。白丁門外遠，俗子眼前無。",
-      "楚楚臨軒竹，青青映水蒲。道人能愛靜，諸事近清枯。",
+      "楚楚臨軒竹，青青映水蒲。道人能愛靜，諸事近清枯。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "題朱慶餘閒居四首·其二",
+    "author": "牟融",
+    "paragraphs": [
       "盡日衡門閉，蒼苔一徑新。客心非厭靜，悟道不憂貧。",
-      "白屋懸塵榻，清樽憶故人。近來疏懶甚，詩債後吟身。",
+      "白屋懸塵榻，清樽憶故人。近來疏懶甚，詩債後吟身。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "題朱慶餘閒居四首·其三",
+    "author": "牟融",
+    "paragraphs": [
       "閑客幽棲處，瀟然一草廬。路通元亮宅，門對子雲居。",
-      "按劍心猶壯，琴書樂有餘。黃金都散盡，收得鄴侯書。",
+      "按劍心猶壯，琴書樂有餘。黃金都散盡，收得鄴侯書。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "題朱慶餘閒居四首·其四",
+    "author": "牟融",
+    "paragraphs": [
       "寂寥荒館下，投老欲何為。草色凝陳榻，書聲出董帷。",
       "閑雲長作伴，歸鶴獨相隨。才薄知無用，安貧不自危。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

@@ -228,15 +228,26 @@
     }
   },
   {
-    "title": "疊韻吳宮詞二首",
+    "title": "疊韻吳宮詞二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
-      "膚愉吳都姝，眷戀便殿宴。逡巡新春人，轉面見戰箭。",
+      "膚愉吳都姝，眷戀便殿宴。逡巡新春人，轉面見戰箭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "疊韻吳宮詞二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "紅櫳通東風，翠珥醉易墜。平明兵盈城，棄置遂至地。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -334,49 +345,93 @@
     }
   },
   {
-    "title": "藥名離合夏日即事三首",
+    "title": "藥名離合夏日即事三首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "乘屐著來幽砌滑，石罌煎得遠泉甘。",
-      "草堂只待新秋景，天色微涼酒半酣。",
+      "草堂只待新秋景，天色微涼酒半酣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "藥名離合夏日即事三首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "避暑最須從朴野，葛巾筠席更相當。",
-      "歸來又好乘涼釣，藤蔓陰陰著雨香。",
+      "歸來又好乘涼釣，藤蔓陰陰著雨香。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "藥名離合夏日即事三首·其三",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "窗外曉簾還自卷，柏煙蘭露思晴空。",
       "青箱有意終須續，斷簡遺編一半通。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "和襲美懷錫山藥名離合二首",
+    "title": "和襲美懷錫山藥名離合二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "鶴伴前溪栽白杏，人來陰洞寫枯松。",
-      "蘿深境靜日欲落，石上未眠聞遠鐘。",
+      "蘿深境靜日欲落，石上未眠聞遠鐘。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和襲美懷錫山藥名離合二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "佳句成來誰不伏，神丹偷去亦須防。",
       "風前莫怪攜詩槁，本是吳吟蕩槳郎。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "和襲美懷鹿門縣名離合二首",
+    "title": "和襲美懷鹿門縣名離合二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "雲容覆枕無非白，水色侵磯直是藍。",
-      "田種紫芝餐可壽，春來何事戀江南。",
+      "田種紫芝餐可壽，春來何事戀江南。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和襲美懷鹿門縣名離合二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "竹溪深處猿同宿，松閣秋來客共登。",
       "封徑古苔侵石鹿，城中誰解訪山僧。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

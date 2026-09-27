@@ -89,23 +89,67 @@
     }
   },
   {
-    "title": "楊柳枝詞五首",
+    "title": "楊柳枝詞五首·其一",
     "author": "姚合",
     "paragraphs": [
       "黃金絲掛粉牆頭，動似顛狂靜似愁。",
-      "遊客見時心自醉，無因得見謝家樓。",
+      "遊客見時心自醉，無因得見謝家樓。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞五首·其二",
+    "author": "姚合",
+    "paragraphs": [
       "葉葉如眉翠色濃，黃鶯偏戀語從容。",
-      "橋邊陌上無人識，雨濕煙和思萬重。",
+      "橋邊陌上無人識，雨濕煙和思萬重。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞五首·其三",
+    "author": "姚合",
+    "paragraphs": [
       "江上東西離別饒，舊條折盡折新條。",
-      "亦知春色人將去，猶勝狂風取次飄。",
+      "亦知春色人將去，猶勝狂風取次飄。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞五首·其四",
+    "author": "姚合",
+    "paragraphs": [
       "二月楊花觸處飛，悠悠漠漠自東西。",
-      "謝家詠雪徒相比，吹落庭前便作泥。",
+      "謝家詠雪徒相比，吹落庭前便作泥。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞五首·其五",
+    "author": "姚合",
+    "paragraphs": [
       "江亭楊柳折還垂，月照深黃幾樹絲。",
       "見說隋堤枯已盡，年年行客怪春遲。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -279,98 +323,197 @@
     }
   },
   {
-    "title": "窮邊詞二首",
+    "title": "窮邊詞二首·其一",
     "author": "姚合",
     "paragraphs": [
       "將軍作鎮古汧洲，水膩山春節氣柔。",
-      "清夜滿城絲管散，行人不信是邊頭。",
-      "箭利弓調四鎮兵，蕃人不敢近東行。",
-      "沿邊千里渾無事，唯見平安火入城。"
+      "清夜滿城絲管散，行人不信是邊頭。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "劍器詞三首",
+    "title": "窮邊詞二首·其二",
+    "author": "姚合",
+    "paragraphs": [
+      "箭利弓調四鎮兵，蕃人不敢近東行。",
+      "沿邊千里渾無事，唯見平安火入城。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "劍器詞三首·其一",
     "author": "姚合",
     "paragraphs": [
       "聖朝能用將，破敵速如神。掉劍龍纏臂，開旗火滿身。",
-      "積屍川沒岸，流血野無塵。今日當場舞，應知是戰人。",
+      "積屍川沒岸，流血野無塵。今日當場舞，應知是戰人。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "劍器詞三首·其二",
+    "author": "姚合",
+    "paragraphs": [
       "晝渡黃河水，將軍險用師。雪光偏著甲，風力不禁旗。",
-      "陣變龍蛇活，軍雄鼓角知。今朝重起舞，記得戰酣時。",
+      "陣變龍蛇活，軍雄鼓角知。今朝重起舞，記得戰酣時。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "劍器詞三首·其三",
+    "author": "姚合",
+    "paragraphs": [
       "破虜行千里，三軍意氣粗。展旗遮日黑，驅馬飲河枯。",
       "鄰境求兵略，皇恩索陣圖。元和太平樂，自古恐應無。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "從軍樂二首",
+    "title": "從軍樂二首·其一",
     "author": "姚合",
     "paragraphs": [
       "每日尋兵籍，經年別酒徒。眼疼長不校，肺病且還無。",
-      "僮僕驚衣窄，親情覺語粗。幾時得歸去，依舊作山夫。",
+      "僮僕驚衣窄，親情覺語粗。幾時得歸去，依舊作山夫。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍樂二首·其二",
+    "author": "姚合",
+    "paragraphs": [
       "朝朝十指痛，唯署點兵符。貧賤依前在，顛狂一半無。",
       "身慚山友棄，膽賴酒杯扶。誰道從軍樂，年來鑷白須。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "敬宗皇帝挽詞三首",
+    "title": "敬宗皇帝挽詞三首·其一",
     "author": "姚合",
     "paragraphs": [
       "從諫停東幸，垂衣寶曆昌。漢昭登位少，周代蔔年長。",
-      "彩仗三清路，麻衣萬國喪。玄宮今一閉，終古柏蒼蒼。",
+      "彩仗三清路，麻衣萬國喪。玄宮今一閉，終古柏蒼蒼。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "敬宗皇帝挽詞三首·其二",
+    "author": "姚合",
+    "paragraphs": [
       "晚色啟重扉，旌旗路漸移。荊山鼎成日，湘浦竹斑時。",
-      "臣子終身感，山園七月期。金莖看尚在，承露複何為。",
+      "臣子終身感，山園七月期。金莖看尚在，承露複何為。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "敬宗皇帝挽詞三首·其三",
+    "author": "姚合",
+    "paragraphs": [
       "紫陌起仙飆，川原共寂寥。靈輴萬國護，儀殿百神朝。",
       "漏滴秋風路，笳吟灞水橋。微臣空感咽，踴絕覺天遙。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "文宗皇帝挽詞三首",
+    "title": "文宗皇帝挽詞三首·其一",
     "author": "姚合",
     "paragraphs": [
       "垂拱開成化，愔愔雅樂全。千官方就日，四海忽無天。",
-      "堯舜非傳子，殷周但蔔年。聖功青史外，刊石在陵前。",
+      "堯舜非傳子，殷周但蔔年。聖功青史外，刊石在陵前。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "文宗皇帝挽詞三首·其二",
+    "author": "姚合",
+    "paragraphs": [
       "代以無為理，車書萬國同。繼兄還付弟，授聖悉推公。",
-      "雲霧疑無日，笳簫別起風。金莖難複見，寒露落空中。",
+      "雲霧疑無日，笳簫別起風。金莖難複見，寒露落空中。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "文宗皇帝挽詞三首·其三",
+    "author": "姚合",
+    "paragraphs": [
       "龍歸攀不得，髯在侍臣邊。徹奠新阡起，登山吉從全。",
       "關河佳氣散，夷夏哭聲連。寂寞玄宮閉，朝昏千萬年。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "莊恪太子挽詞二首",
+    "title": "莊恪太子挽詞二首·其一",
     "author": "姚合",
     "paragraphs": [
       "曉漏啟嚴城，宮臣縞素行。靈儀先鹵簿，新諡在銘旌。",
-      "雲晦郊原色，風連霰雪聲。淒涼望苑路，春草即應生。",
+      "雲晦郊原色，風連霰雪聲。淒涼望苑路，春草即應生。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "莊恪太子挽詞二首·其二",
+    "author": "姚合",
+    "paragraphs": [
       "寒日青宮閉，玄堂渭水濱。華夷箋乍絕，凶吉禮空新。",
       "薤露歌連哭，泉扉夜作晨。吹笙今一去，千古在逡巡。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -401,17 +544,28 @@
     }
   },
   {
-    "title": "哭賈島二首",
+    "title": "哭賈島二首·其一",
     "author": "姚合",
     "paragraphs": [
       "白日西邊沒，滄波東去流。名雖千古在，身已一生休。",
-      "豈料文章遠，那知瑞草秋。曾聞有書劍，應是別人收。",
+      "豈料文章遠，那知瑞草秋。曾聞有書劍，應是別人收。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "哭賈島二首·其二",
+    "author": "姚合",
+    "paragraphs": [
       "杳杳黃泉下，嗟君向此行。有名傳後世，無子過今生。",
       "新墓松三尺，空階月二更。從今舊詩卷，人覓寫應爭。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

@@ -310,17 +310,28 @@
     }
   },
   {
-    "title": "看山木瓜花二首",
+    "title": "看山木瓜花二首·其一",
     "author": "劉言史",
     "paragraphs": [
       "裛露凝氛紫豔新，千般婉娜不勝春。",
-      "年年此樹花開日，出盡丹陽郭裏人。",
+      "年年此樹花開日，出盡丹陽郭裏人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "看山木瓜花二首·其二",
+    "author": "劉言史",
+    "paragraphs": [
       "柔枝濕豔亞朱欄，暫作庭芳便欲殘。",
       "深藏數片將歸去，紅縷金針繡取看。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -338,19 +349,41 @@
     }
   },
   {
-    "title": "樂府雜詞三首",
+    "title": "樂府雜詞三首·其一",
     "author": "劉言史",
     "paragraphs": [
       "紫禁梨花飛雪毛，春風絲管翠樓高。",
-      "城裏萬家聞不見，君王試舞鄭櫻桃。",
+      "城裏萬家聞不見，君王試舞鄭櫻桃。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "樂府雜詞三首·其二",
+    "author": "劉言史",
+    "paragraphs": [
       "蟬鬢紅冠粉黛輕，雲和新教羽衣成。",
-      "月光如雪金階上，迸卻頗梨義甲聲。",
+      "月光如雪金階上，迸卻頗梨義甲聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "樂府雜詞三首·其三",
+    "author": "劉言史",
+    "paragraphs": [
       "不耐簷前紅槿枝，薄妝春寢覺仍遲。",
       "夢中無限風流事，夫婿多情亦未知。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -485,17 +518,28 @@
     }
   },
   {
-    "title": "病僧二首",
+    "title": "病僧二首·其一",
     "author": "劉言史",
     "paragraphs": [
       "竺國鄉程算不回，病中衣錫遍浮埃。",
-      "如今漢地諸經本，自過流沙遠背來。",
+      "如今漢地諸經本，自過流沙遠背來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "病僧二首·其二",
+    "author": "劉言史",
+    "paragraphs": [
       "空林衰病臥多時，白髮從成數寸絲。",
       "西行卻過流沙日，枕上寥寥心獨知。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -578,21 +622,54 @@
     }
   },
   {
-    "title": "贈成煉師四首",
+    "title": "贈成煉師四首·其一",
     "author": "劉言史",
     "paragraphs": [
       "花冠蕊帔色嬋娟，一曲清簫淩紫煙。",
-      "不知今日重來意，更住人間幾百年。",
+      "不知今日重來意，更住人間幾百年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈成煉師四首·其二",
+    "author": "劉言史",
+    "paragraphs": [
       "黃昏騎得下天龍，巡遍茅山數十峰。",
-      "采芝卻到蓬萊上，花裏猶殘碧玉鐘。",
+      "采芝卻到蓬萊上，花裏猶殘碧玉鐘。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈成煉師四首·其三",
+    "author": "劉言史",
+    "paragraphs": [
       "等閒何處得靈方，丹臉雲鬟日月長。",
-      "大羅過卻三千歲，更向人間魅阮郎。",
+      "大羅過卻三千歲，更向人間魅阮郎。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈成煉師四首·其四",
+    "author": "劉言史",
+    "paragraphs": [
       "曾隨阿母漢宮齋，鳳駕龍輧列玉階。",
       "當時白燕無尋處，今日雲鬟見玉釵。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -779,17 +856,28 @@
     }
   },
   {
-    "title": "偶題二首",
+    "title": "偶題二首·其一",
     "author": "劉言史",
     "paragraphs": [
       "金榜榮名俱失盡，病身為庶更投魑。",
-      "春娥慢笑無愁色，別向人家舞柘枝。",
+      "春娥慢笑無愁色，別向人家舞柘枝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "偶題二首·其二",
+    "author": "劉言史",
+    "paragraphs": [
       "得罪除名謫海頭，驚心無暇與身愁。",
       "中使不知何處住，家書莫寄向春州。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -900,23 +988,45 @@
     }
   },
   {
-    "title": "北原情三首",
+    "title": "北原情三首·其一",
     "author": "劉言史",
     "paragraphs": [
       "錯莫天色愁，挽歌出重闉。誰家白網車，送客入幽塵。",
       "銘旌下官道，葬輿去轔轔。蕭條黃蒿中，奠酒花翠新。",
       "米雪晚霏微，墓成悄無人。烏鳶下空地，煙火殘荒榛。",
       "生人更多苦，入戶事盈身。營營日易深，卻到不得頻。",
-      "寂寥孤隧頭，草綠棠梨春。",
+      "寂寥孤隧頭，草綠棠梨春。"
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "北原情三首·其二",
+    "author": "劉言史",
+    "paragraphs": [
       "洛陽城北山，古今葬冥客。聚骨朽成泥，此山土多白。",
       "近來送葬人，亦去聞歸聲。豈能車輪疾，漸是墓侵城。",
-      "城中人不絕，哀挽相次行。莫非北邙後，重向洛城生。",
+      "城中人不絕，哀挽相次行。莫非北邙後，重向洛城生。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "北原情三首·其三",
+    "author": "劉言史",
+    "paragraphs": [
       "蔔地起孤墳，全家送葬去。歸來卻到時，不復重知處。",
       "疊疊葬相續，土乾草已綠。列紙瀉壺漿，空向春雲哭。"
     ],
     "format": {
-      "sentence_count": 38,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

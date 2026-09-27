@@ -130,49 +130,93 @@
     }
   },
   {
-    "title": "寄羅浮山道者二首",
+    "title": "寄羅浮山道者二首·其一",
     "author": "黃滔",
     "paragraphs": [
       "天際雙山壓海濆，天漫絕頂海漫根。時聞雷雨驚樵客，",
-      "林間學道如容我，今便辭他寵辱喧。",
+      "林間學道如容我，今便辭他寵辱喧。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄羅浮山道者二首·其二",
+    "author": "黃滔",
+    "paragraphs": [
       "有人曾見洞中仙，才到人間便越年。金鼎藥成龍入海，",
       "誰到月明朝禮處，翠岩深鎖荔枝煙。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "喜侯舍人蜀中新命三首",
+    "title": "喜侯舍人蜀中新命三首·其一",
     "author": "黃滔",
     "paragraphs": [
       "八都詞客漫喧然，誰解飛揚誥誓間。五色彩毫裁鳳詔，",
-      "謀及中興多少事，莫愁明月不收關。",
+      "謀及中興多少事，莫愁明月不收關。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "喜侯舍人蜀中新命三首·其二",
+    "author": "黃滔",
+    "paragraphs": [
       "卻搜文學起吾唐，暫失都城亦未妨。錦裏幸為丹鳳闕，",
-      "若以掌言看諫獵，相如從此病輝光。",
+      "若以掌言看諫獵，相如從此病輝光。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "喜侯舍人蜀中新命三首·其三",
+    "author": "黃滔",
+    "paragraphs": [
       "賈誼才承宣室召，左思唯預秘書流。賦家達者無過此，",
       "內人未識江淹筆，竟問當時不早求。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "經安州感故鄭郎中二首",
+    "title": "經安州感故鄭郎中二首·其一",
     "author": "黃滔",
     "paragraphs": [
       "雲夢江頭見故城，人間四十載垂名。馬蹄踐處東風急，",
-      "騰身飛上鳳凰閣，惆悵終乖吾黨情。",
+      "騰身飛上鳳凰閣，惆悵終乖吾黨情。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "經安州感故鄭郎中二首·其二",
+    "author": "黃滔",
+    "paragraphs": [
       "錦帳先生作牧州，干戈缺後見荒丘。兼無姓賈兒童在，",
       "旅魂頻此歸來否，千載雲山屬一遊。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -334,17 +378,28 @@
     }
   },
   {
-    "title": "禦試二首",
+    "title": "禦試二首·其一",
     "author": "黃滔",
     "paragraphs": [
       "已表隋珠各自攜，更從瓊殿立丹梯。九華燈作三條燭，",
-      "明朝莫惜場場醉，青桂新香有紫泥。",
+      "明朝莫惜場場醉，青桂新香有紫泥。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "禦試二首·其二",
+    "author": "黃滔",
+    "paragraphs": [
       "六曹三省列簪裾，丹詔宣來試士初。不是玉皇疑羽客，",
       "禦目四篇酬九百，敢從燈下略躊躇。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

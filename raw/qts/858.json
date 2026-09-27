@@ -392,17 +392,28 @@
     }
   },
   {
-    "title": "別詩二首",
+    "title": "別詩二首·其一",
     "author": "呂岩",
     "paragraphs": [
       "無心獨坐轉黃庭，不逐時流入利名。救老只存真一氣，",
-      "莫笑老人貧裏樂，十年功滿上三清。",
+      "莫笑老人貧裏樂，十年功滿上三清。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "別詩二首·其二",
+    "author": "呂岩",
+    "paragraphs": [
       "時人受氣稟陰陽，均體乾坤壽命長。為重本宗能壽永，",
       "咫尺昆侖山上玉，幾人知是藥中王。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -600,17 +611,28 @@
     }
   },
   {
-    "title": "題廣陵妓屏二首",
+    "title": "題廣陵妓屏二首·其一",
     "author": "呂岩",
     "paragraphs": [
       "嫫母西施共此身，可憐老少隔千春。",
-      "他年鶴發雞皮媼，今日玉顏花貌人。",
+      "他年鶴發雞皮媼，今日玉顏花貌人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題廣陵妓屏二首·其二",
+    "author": "呂岩",
+    "paragraphs": [
       "花開花落兩悲歡，花與人還事一般。",
       "開在枝間妨客折，落來地上請誰看。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

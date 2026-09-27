@@ -78,18 +78,29 @@
     }
   },
   {
-    "title": "李給事中敏二首",
+    "title": "李給事中敏二首·其一",
     "author": "杜牧",
     "paragraphs": [
       "一章緘拜皂囊中，懍懍朝廷有古風。元禮去歸緱氏學，",
-      "曲突徙薪人不會，海邊今作釣魚翁。",
+      "曲突徙薪人不會，海邊今作釣魚翁。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "李給事中敏二首·其二",
+    "author": "杜牧",
+    "paragraphs": [
       "晚發悶還梳，憶君秋醉餘。可憐劉校尉，曾訟石中書。",
       "消長雖殊事，仁賢每自如。因看魯褒論，何處是吾廬。"
     ],
     "format": {
-      "sentence_count": 13,
-      "sentence_lengths": [7, 7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -174,20 +185,42 @@
     }
   },
   {
-    "title": "念昔遊三首",
+    "title": "念昔遊三首·其一",
     "author": "杜牧",
     "paragraphs": [
       "十載飄然繩檢外，樽前自獻自為酬。",
-      "秋山春雨閑吟處，倚遍江南寺寺樓。",
+      "秋山春雨閑吟處，倚遍江南寺寺樓。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "念昔遊三首·其二",
+    "author": "杜牧",
+    "paragraphs": [
       "雲門寺外逢猛雨，林黑山高雨腳長。",
-      "曾奉郊宮為近侍，分明羽林槍。",
+      "曾奉郊宮為近侍，分明羽林槍。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "念昔遊三首·其三",
+    "author": "杜牧",
+    "paragraphs": [
       "李白題詩水西寺，古木回岩樓閣風。",
       "半醒半醉遊三日，紅白花開山雨中。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 5, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -217,19 +250,41 @@
     }
   },
   {
-    "title": "過華清宮絕句三首",
+    "title": "過華清宮絕句三首·其一",
     "author": "杜牧",
     "paragraphs": [
       "長安回望繡成堆，山頂千門次第開。",
-      "一騎紅塵妃子笑，無人知是荔枝來。",
+      "一騎紅塵妃子笑，無人知是荔枝來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "過華清宮絕句三首·其二",
+    "author": "杜牧",
+    "paragraphs": [
       "新豐綠樹起黃埃，數騎漁陽探使回。",
-      "霓裳一曲千峰上，舞破中原始下來。",
+      "霓裳一曲千峰上，舞破中原始下來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "過華清宮絕句三首·其三",
+    "author": "杜牧",
+    "paragraphs": [
       "萬國笙歌醉太平，倚天樓殿月分明。",
       "雲中亂拍祿山舞，風過重巒下笑聲。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -586,34 +641,67 @@
     }
   },
   {
-    "title": "朱坡絕句三首",
+    "title": "朱坡絕句三首·其一",
     "author": "杜牧",
     "paragraphs": [
       "故國池塘倚禦渠，江城三詔換魚書。",
-      "賈生辭賦恨流落，只向長沙住歲餘。",
-      "煙深苔巷唱樵兒，花落寒輕倦客歸。",
-      "藤岸竹洲相掩映，滿池春雨鸊鵜飛。",
-      "乳肥春洞生鵝管，沼避回岩勢犬牙。",
-      "自笑卷懷頭角縮，歸盤煙磴恰如蝸。"
+      "賈生辭賦恨流落，只向長沙住歲餘。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "出宮人二首",
+    "title": "朱坡絕句三首·其二",
+    "author": "杜牧",
+    "paragraphs": [
+      "煙深苔巷唱樵兒，花落寒輕倦客歸。",
+      "藤岸竹洲相掩映，滿池春雨鸊鵜飛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "朱坡絕句三首·其三",
+    "author": "杜牧",
+    "paragraphs": [
+      "乳肥春洞生鵝管，沼避回岩勢犬牙。",
+      "自笑卷懷頭角縮，歸盤煙磴恰如蝸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "出宮人二首·其一",
     "author": "杜牧",
     "paragraphs": [
       "閑吹玉殿昭華管，醉折梨園縹蒂花。",
-      "十年一夢歸人世，絳縷猶封系臂紗。",
+      "十年一夢歸人世，絳縷猶封系臂紗。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "出宮人二首·其二",
+    "author": "杜牧",
+    "paragraphs": [
       "平陽拊背穿馳道，銅雀分香下璧門。",
       "幾向綴珠深殿裏，妒拋羞態臥黃昏。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

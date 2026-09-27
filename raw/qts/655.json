@@ -195,17 +195,28 @@
     }
   },
   {
-    "title": "得宣州竇尚書書因投寄二首",
+    "title": "得宣州竇尚書書因投寄二首·其一",
     "author": "羅隱",
     "paragraphs": [
       "雙魚迢遞到江濱，傷感南陵舊主人。萬里朝台勞寄夢，",
-      "時見齊山敬亭客，不堪戎馬戰征頻。",
+      "時見齊山敬亭客，不堪戎馬戰征頻。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "得宣州竇尚書書因投寄二首·其二",
+    "author": "羅隱",
+    "paragraphs": [
       "曾逐旌旗過板橋，世途多難竟蓬飄。步兵校尉辭公府，",
       "遺簪墮履應留念，門客如今只下僚。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -390,17 +390,28 @@
     }
   },
   {
-    "title": "池上雙鳧二首",
+    "title": "池上雙鳧二首·其一",
     "author": "吳融",
     "paragraphs": [
       "碧池悠漾小鳧雛，兩兩依依只自娛。釣艇忽移還散去，",
-      "幸是羽毛無取處，一生安穩老菰蒲。",
+      "幸是羽毛無取處，一生安穩老菰蒲。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "池上雙鳧二首·其二",
+    "author": "吳融",
+    "paragraphs": [
       "雙鳧狎得傍池台，戲藻銜蒲遠又回。敢為稻粱淩險去，",
       "不在籠欄夜仍好，月汀星沼剩裴回。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

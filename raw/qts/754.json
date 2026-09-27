@@ -130,17 +130,28 @@
     }
   },
   {
-    "title": "和張先輩見寄二首",
+    "title": "和張先輩見寄二首·其一",
     "author": "徐鉉",
     "paragraphs": [
       "去國離群擲歲華，病容憔悴愧丹砂。溪連捨下衣長潤，",
-      "故人書劄頻相慰，誰道西京道路賒。",
+      "故人書劄頻相慰，誰道西京道路賒。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和張先輩見寄二首·其二",
+    "author": "徐鉉",
+    "paragraphs": [
       "清時淪放在山州，邛竹紗巾處處遊。野日蒼茫悲鵩舍，",
       "兩首新詩千里道，感君情分獨知丘。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -374,50 +385,127 @@
     }
   },
   {
-    "title": "拋球樂辭二首",
+    "title": "拋球樂辭二首·其一",
     "author": "徐鉉",
     "paragraphs": [
       "歌舞送飛球，金觥碧玉籌。管弦桃李月，簾幕鳳凰樓。",
-      "一笑千場醉，浮生任白頭。",
+      "一笑千場醉，浮生任白頭。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "拋球樂辭二首·其二",
+    "author": "徐鉉",
+    "paragraphs": [
       "灼灼傳花枝，紛紛度畫旗。不知紅燭下，照見彩球飛。",
       "借勢因期克，巫山暮雨歸。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "離歌辭五首",
+    "title": "離歌辭五首·其一",
     "author": "徐鉉",
     "paragraphs": [
-      "莫折紅芳樹，但知盡意看。狂風幸無意，那忍折教殘。",
-      "朝日城南路，旌旗照綠蕪。使君何處去，桑下覓羅敷。",
-      "事與年俱往，情將分共深。莫驚容鬢改，只是舊時心。",
-      "暫別勞相送，佳期願莫違。朱顏不須老，留取待郎歸。",
+      "莫折紅芳樹，但知盡意看。狂風幸無意，那忍折教殘。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "離歌辭五首·其二",
+    "author": "徐鉉",
+    "paragraphs": [
+      "朝日城南路，旌旗照綠蕪。使君何處去，桑下覓羅敷。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "離歌辭五首·其三",
+    "author": "徐鉉",
+    "paragraphs": [
+      "事與年俱往，情將分共深。莫驚容鬢改，只是舊時心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "離歌辭五首·其四",
+    "author": "徐鉉",
+    "paragraphs": [
+      "暫別勞相送，佳期願莫違。朱顏不須老，留取待郎歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "離歌辭五首·其五",
+    "author": "徐鉉",
+    "paragraphs": [
       "拂匣收珠佩，回燈拭薄妝。莫嫌春夜短，匹似楚襄王。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "夢遊三首",
+    "title": "夢遊三首·其一",
     "author": "徐鉉",
     "paragraphs": [
       "魂夢悠揚不奈何，夜來還在故人家。香蒙蠟燭時時暗，",
-      "天明又作人間別，洞口春深道路賒。",
+      "天明又作人間別，洞口春深道路賒。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "夢遊三首·其二",
+    "author": "徐鉉",
+    "paragraphs": [
       "繡幌銀屏杳靄間，若非魂夢到應難。窗前人靜偏宜夜，",
-      "錦書若要知名字，滿縣花開不姓潘。",
+      "錦書若要知名字，滿縣花開不姓潘。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "夢遊三首·其三",
+    "author": "徐鉉",
+    "paragraphs": [
       "南國佳人字玉兒，芙蓉雙臉遠山眉。仙郎有約長相憶，",
       "因思別後閑窗下，織得回文幾首詩。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

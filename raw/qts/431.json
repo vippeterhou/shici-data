@@ -573,17 +573,28 @@
     }
   },
   {
-    "title": "三年為刺史二首",
+    "title": "三年為刺史二首·其一",
     "author": "白居易",
     "paragraphs": [
       "三年為刺史，無政在人口。唯向城郡中，題詩十餘首。",
-      "慚非甘棠詠，豈有思人不。",
+      "慚非甘棠詠，豈有思人不。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "三年為刺史二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "三年為刺史，飲冰複食檗。唯向天竺山，取得兩片石。",
       "此抵有千金，無乃傷清白。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -770,15 +781,26 @@
     }
   },
   {
-    "title": "池畔二首",
+    "title": "池畔二首·其一",
     "author": "白居易",
     "paragraphs": [
-      "結構池西廊，疏理池東樹。此意人不知，欲為待月處。",
+      "結構池西廊，疏理池東樹。此意人不知，欲為待月處。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "池畔二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "持刀gN密竹，竹少風來多。此意人不會，欲令池有波。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 4, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [4, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },

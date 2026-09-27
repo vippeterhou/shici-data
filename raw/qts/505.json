@@ -1,14 +1,25 @@
 [
   {
-    "title": "題寺壁二首",
+    "title": "題寺壁二首·其一",
     "author": "呂群",
     "paragraphs": [
-      "路行三蜀盡，身及一陽生。賴有殘燈火，相依坐到明。",
+      "路行三蜀盡，身及一陽生。賴有殘燈火，相依坐到明。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "題寺壁二首·其二",
+    "author": "呂群",
+    "paragraphs": [
       "社後辭巢燕，霜前別蒂蓬。願為蝴蝶夢，飛去覓關中。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -78,17 +89,28 @@
     }
   },
   {
-    "title": "雜嘲二首",
+    "title": "雜嘲二首·其一",
     "author": "崔涯",
     "paragraphs": [
       "二年不到宋家東，阿母深居僻巷中。",
-      "含淚向人羞不語，琵琶弦斷倚屏風。",
+      "含淚向人羞不語，琵琶弦斷倚屏風。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "雜嘲二首·其二",
+    "author": "崔涯",
+    "paragraphs": [
       "日暮迎來香合中，百年心事一宵同。",
       "寒雞鼓翼紗窗外，已覺恩情逐曉風。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -187,17 +209,28 @@
     }
   },
   {
-    "title": "祠漁山神女歌二首",
+    "title": "祠漁山神女歌二首·其一",
     "author": "王睿",
     "paragraphs": [
       "蓪草頭花椰葉裙，蒲葵樹下舞蠻雲。",
-      "引領望江遙滴酒，白蘋風起水生文。",
+      "引領望江遙滴酒，白蘋風起水生文。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "祠漁山神女歌二首·其二",
+    "author": "王睿",
+    "paragraphs": [
       "棖棖山響答琵琶，酒濕青莎肉飼鴉。",
       "樹葉無聲神去後，紙錢灰出木綿花。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

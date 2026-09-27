@@ -194,17 +194,28 @@
     }
   },
   {
-    "title": "留別南溪二首",
+    "title": "留別南溪二首·其一",
     "author": "李渤",
     "paragraphs": [
       "常歎春泉去不回，我今此去更難來。",
-      "欲知別後留情處，手種岩花次第開。",
+      "欲知別後留情處，手種岩花次第開。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "留別南溪二首·其二",
+    "author": "李渤",
+    "paragraphs": [
       "如雲不厭蒼梧遠，似雁逢春又北歸。",
       "惟有隱山溪上月，年年相望兩依依。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

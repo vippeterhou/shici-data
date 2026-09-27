@@ -15,36 +15,80 @@
     }
   },
   {
-    "title": "蜀王登福感寺塔三首",
+    "title": "蜀王登福感寺塔三首·其一",
     "author": "貫休",
     "paragraphs": [
       "天資忠孝佐金輪，香火空王有宿因。此世喜登金骨塔，",
-      "釋子沾恩無以報，只擎章句貢平津。",
-      "似聖悲增道不窮，憂民憂國契堯聰。兩髯有雪丹霄外，",
-      "林僧歲月知何幸，還似支公見謝公。",
-      "步步層層孰可陪，相輪邊日照三台。喜歡烝庶皆相逐，",
-      "一年一度常如此，願見文翁百度來。"
+      "釋子沾恩無以報，只擎章句貢平津。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "少監三首",
+    "title": "蜀王登福感寺塔三首·其二",
+    "author": "貫休",
+    "paragraphs": [
+      "似聖悲增道不窮，憂民憂國契堯聰。兩髯有雪丹霄外，",
+      "林僧歲月知何幸，還似支公見謝公。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "蜀王登福感寺塔三首·其三",
+    "author": "貫休",
+    "paragraphs": [
+      "步步層層孰可陪，相輪邊日照三台。喜歡烝庶皆相逐，",
+      "一年一度常如此，願見文翁百度來。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "少監三首·其一",
     "author": "貫休",
     "paragraphs": [
       "器琢仙珪美有餘，席珍國寶比難如。銜花乳燕看調瑟，",
-      "即期寰海隆平日，歸佐吾皇侍玉除。",
+      "即期寰海隆平日，歸佐吾皇侍玉除。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "少監三首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "益友相隨益自強，趨庭問禮日昭彰。袍新宮錦千人目，",
-      "八龍三虎森如也，萬古千秋瑞聖唐。",
+      "八龍三虎森如也，萬古千秋瑞聖唐。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "少監三首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "具體而微太少年，鳳毛五色帶非煙。倚天長劍看無敵，",
       "即應出將傳家法，聖澤恩波浩浩然。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -192,19 +236,41 @@
     }
   },
   {
-    "title": "道情偈三首",
+    "title": "道情偈三首·其一",
     "author": "貫休",
     "paragraphs": [
       "崆峒老人專一一，黃梅真叟卻無無。",
-      "獨坐松根石頭上，四溟無限月輪孤。",
+      "獨坐松根石頭上，四溟無限月輪孤。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "道情偈三首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "非色非空非不空，空中真色不玲瓏。",
-      "可憐盧大擔柴者，拾得驪珠橐鑰中。",
+      "可憐盧大擔柴者，拾得驪珠橐鑰中。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "道情偈三首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "優缽羅花萬劫春，頻犁田地絕纖塵。",
       "道吾道者相招好，不是香林采葉人。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -355,32 +421,54 @@
     }
   },
   {
-    "title": "對雪寄新定馮使君二首",
+    "title": "對雪寄新定馮使君二首·其一",
     "author": "貫休",
     "paragraphs": [
       "仙掌空思歸未能，焚香冥目對殘燈。豈知瑞雪千山合，",
-      "因思太守憂民切，吟對瓊枝喜不勝。",
-      "政化由來通上靈，豐年祥瑞滿窗明。氣嚴坐久燈凝焰，",
-      "雪林中客雖無事，還有新詩半夜成。"
+      "因思太守憂民切，吟對瓊枝喜不勝。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "送劉相公朝覲二首",
+    "title": "對雪寄新定馮使君二首·其二",
+    "author": "貫休",
+    "paragraphs": [
+      "政化由來通上靈，豐年祥瑞滿窗明。氣嚴坐久燈凝焰，",
+      "雪林中客雖無事，還有新詩半夜成。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送劉相公朝覲二首·其一",
     "author": "貫休",
     "paragraphs": [
       "九苞仙瑞曜垂衣，一品高標百辟師。魏相十思常自切，",
-      "唯杜荊州最惆悵，柳門回首落花時。",
+      "唯杜荊州最惆悵，柳門回首落花時。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送劉相公朝覲二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "急征只是再登庸，生意人心萬國同。燮理久征殷傅說，",
       "從此龍顏又應瘦，寰瀛俱荷代天功。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -476,27 +564,93 @@
     }
   },
   {
-    "title": "歸東陽臨岐上杜使君七首",
+    "title": "歸東陽臨岐上杜使君七首·其一",
     "author": "貫休",
     "paragraphs": [
       "小謝清高大謝才，聖君令泰此方來。",
-      "一從到後常無事，鈴閣公庭滿綠苔。",
+      "一從到後常無事，鈴閣公庭滿綠苔。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歸東陽臨岐上杜使君七首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "紅錦帳中歌白雪，烏皮幾畔撫青英。",
-      "不知何物為心地，賽卻澄江徹底清。",
+      "不知何物為心地，賽卻澄江徹底清。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歸東陽臨岐上杜使君七首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "誰報田中有黑蟲，一家齋戒減仙容。",
-      "分憂若也皆如此，天下家家有剩舂。",
+      "分憂若也皆如此，天下家家有剩舂。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歸東陽臨岐上杜使君七首·其四",
+    "author": "貫休",
+    "paragraphs": [
       "憂民心切出沖炎，禾稼如雲喜氣兼。",
-      "林下閒人亦何幸，也隨旌旆到銀尖。",
+      "林下閒人亦何幸，也隨旌旆到銀尖。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歸東陽臨岐上杜使君七首·其五",
+    "author": "貫休",
+    "paragraphs": [
       "方恐獄中桃樹出，忽聞枯木卻生煙。",
-      "褚祥為郡曾如此，卻恐當時是偶然。",
+      "褚祥為郡曾如此，卻恐當時是偶然。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歸東陽臨岐上杜使君七首·其六",
+    "author": "貫休",
+    "paragraphs": [
       "枯骨縱橫遍水湄，盡收為塚碧參差。",
-      "分明為報精靈輩，好送旌旗到鳳池。",
+      "分明為報精靈輩，好送旌旗到鳳池。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歸東陽臨岐上杜使君七首·其七",
+    "author": "貫休",
+    "paragraphs": [
       "舍魯依劉一片雲，好風吹去遠纖塵。",
       "猶期明月清風夜，來作西園第八人。"
     ],
     "format": {
-      "sentence_count": 28,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

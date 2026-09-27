@@ -585,17 +585,28 @@
     }
   },
   {
-    "title": "武宗挽歌詞二首",
+    "title": "武宗挽歌詞二首·其一",
     "author": "顧非熊",
     "paragraphs": [
       "睿略皇威遠，英風帝業開。竹林方受位，薤露忽興哀。",
-      "靜塞妖星落，和戎貴主回。龍髯不可附，空見望仙台。",
+      "靜塞妖星落，和戎貴主回。龍髯不可附，空見望仙台。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "武宗挽歌詞二首·其二",
+    "author": "顧非熊",
+    "paragraphs": [
       "蒼生期漸泰，皇道欲中興。國用銷靈像，農功複冗僧。",
       "冕旒辭北闕，歌舞怨西陵。惟有金莖石，長宵對玉繩。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -686,17 +697,28 @@
     }
   },
   {
-    "title": "出塞即事二首",
+    "title": "出塞即事二首·其一",
     "author": "顧非熊",
     "paragraphs": [
       "塞山行盡到烏延，萬頃沙堆見極邊。河上月沉鴻雁起，",
-      "此處遊人堪下淚，更聞終日望狼煙。",
+      "此處遊人堪下淚，更聞終日望狼煙。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "出塞即事二首·其二",
+    "author": "顧非熊",
+    "paragraphs": [
       "賀蘭山便是戎疆，此去蕭關路幾荒。無限城池非漢界，",
       "回望風光成異域，誰能獻計複河湟。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

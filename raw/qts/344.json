@@ -71,19 +71,41 @@
     }
   },
   {
-    "title": "大行皇太后挽歌詞三首",
+    "title": "大行皇太后挽歌詞三首·其一",
     "author": "韓愈",
     "paragraphs": [
       "一紀尊名正，三時孝養榮。高居朝聖主，厚德載群生。",
-      "武帳虛中禁，玄堂掩太平。秋天笳鼓歇，松柏遍山鳴。",
+      "武帳虛中禁，玄堂掩太平。秋天笳鼓歇，松柏遍山鳴。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "大行皇太后挽歌詞三首·其二",
+    "author": "韓愈",
+    "paragraphs": [
       "威儀備吉凶，文物雜軍容。配地行新祭，因山托故封。",
-      "鳳飛終不返，劍化會相從。無複臨長樂，空聞報曉鐘。",
+      "鳳飛終不返，劍化會相從。無複臨長樂，空聞報曉鐘。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "大行皇太后挽歌詞三首·其三",
+    "author": "韓愈",
+    "paragraphs": [
       "追攀萬國來，警衛百神陪。畫翣登秋殿，容衣入夜台。",
       "雲隨仙馭遠，風助聖情哀。只有朝陵日，妝奩一暫開。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -101,17 +123,28 @@
     }
   },
   {
-    "title": "閒遊二首",
+    "title": "閒遊二首·其一",
     "author": "韓愈",
     "paragraphs": [
       "雨後來更好，繞池遍青青。柳花閑度竹，菱葉故穿萍。",
-      "獨坐殊未厭，孤斟詎能醒。持竿至日暮，幽詠欲誰聽。",
+      "獨坐殊未厭，孤斟詎能醒。持竿至日暮，幽詠欲誰聽。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閒遊二首·其二",
+    "author": "韓愈",
+    "paragraphs": [
       "茲遊苦不數，再到遂經旬。萍蓋汙池淨，藤籠老樹新。",
       "林烏鳴訝客，岸竹長遮鄰。子雲只自守，奚事九衢塵。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -372,21 +405,54 @@
     }
   },
   {
-    "title": "獨釣四首",
+    "title": "獨釣四首·其一",
     "author": "韓愈",
     "paragraphs": [
       "侯家林館勝，偶入得垂竿。曲樹行藤角，平池散芡盤。",
-      "羽沈知食駛，緡細覺牽難。聊取誇兒女，榆條系從鞍。",
+      "羽沈知食駛，緡細覺牽難。聊取誇兒女，榆條系從鞍。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "獨釣四首·其二",
+    "author": "韓愈",
+    "paragraphs": [
       "一徑向池斜，池塘野草花。雨多添柳耳，水長減蒲芽。",
-      "坐厭親刑柄，偷來傍釣車。太平公事少，吏隱詎相賒。",
+      "坐厭親刑柄，偷來傍釣車。太平公事少，吏隱詎相賒。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "獨釣四首·其三",
+    "author": "韓愈",
+    "paragraphs": [
       "獨往南塘上，秋晨景氣醒。露排四岸草，風約半池萍。",
-      "鳥下見人寂，魚來聞餌馨。所嗟無可召，不得倒吾瓶。",
+      "鳥下見人寂，魚來聞餌馨。所嗟無可召，不得倒吾瓶。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "獨釣四首·其四",
+    "author": "韓愈",
+    "paragraphs": [
       "秋半百物變，溪魚去不來。風能坼芡觜，露亦染梨腮。",
       "遠岫重疊出，寒花散亂開。所期終莫至，日暮與誰回。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -836,17 +902,28 @@
     }
   },
   {
-    "title": "早春呈水部張十八員外二首",
+    "title": "早春呈水部張十八員外二首·其一",
     "author": "韓愈",
     "paragraphs": [
       "天街小雨潤如酥，草色遙看近卻無。",
-      "最是一年春好處，絕勝煙柳滿皇都。",
+      "最是一年春好處，絕勝煙柳滿皇都。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "早春呈水部張十八員外二首·其二",
+    "author": "韓愈",
+    "paragraphs": [
       "莫道官忙身老大，即無年少逐春心。",
       "憑君先到江頭看，柳色如今深未深。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

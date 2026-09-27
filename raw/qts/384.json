@@ -1313,50 +1313,171 @@
     }
   },
   {
-    "title": "莊陵挽歌詞三首",
+    "title": "莊陵挽歌詞三首·其一",
     "author": "張籍",
     "paragraphs": [
       "白日已昭昭，干戈亦漸消。迎師親出道，從諫早臨朝。",
-      "佞幸威權薄，忠良寵錫饒。丘陵今一變，無複白雲謠。",
-      "觀風欲巡洛，習戰亦開池。始改三年政，旋聞七月期。",
-      "陵分內外使，官具吉凶儀。渭北新園路，簫笳遠更悲。",
-      "曉日龍車動，秋風閶闔開。行帷六宮出，執紼萬方來。",
-      "慘慘郊原暮，遲遲挽唱哀。空山煙雨夕，新陌繞陵台。"
+      "佞幸威權薄，忠良寵錫饒。丘陵今一變，無複白雲謠。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "和左司元郎中秋居十首",
+    "title": "莊陵挽歌詞三首·其二",
+    "author": "張籍",
+    "paragraphs": [
+      "觀風欲巡洛，習戰亦開池。始改三年政，旋聞七月期。",
+      "陵分內外使，官具吉凶儀。渭北新園路，簫笳遠更悲。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "莊陵挽歌詞三首·其三",
+    "author": "張籍",
+    "paragraphs": [
+      "曉日龍車動，秋風閶闔開。行帷六宮出，執紼萬方來。",
+      "慘慘郊原暮，遲遲挽唱哀。空山煙雨夕，新陌繞陵台。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和左司元郎中秋居十首·其一",
     "author": "張籍",
     "paragraphs": [
       "選得閒坊住，秋來草樹肥。風前捲筒簟，雨裏脫荷衣。",
-      "野客留方去，山童取藥歸。非因入朝省，過此出門稀。",
+      "野客留方去，山童取藥歸。非因入朝省，過此出門稀。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和左司元郎中秋居十首·其二",
+    "author": "張籍",
+    "paragraphs": [
       "有地唯栽竹，無池亦養鵝。學書求墨蹟，釀酒愛朝和。",
-      "古鏡銘文淺，神方謎語多。居貧閑自樂，豪客莫相過。",
+      "古鏡銘文淺，神方謎語多。居貧閑自樂，豪客莫相過。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和左司元郎中秋居十首·其三",
+    "author": "張籍",
+    "paragraphs": [
       "閑來松菊地，未省有埃塵。直去多將藥，朝回不訪人。",
-      "見僧收酒器，迎客換紗巾。更恐登清要，難成自在身。",
+      "見僧收酒器，迎客換紗巾。更恐登清要，難成自在身。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和左司元郎中秋居十首·其四",
+    "author": "張籍",
+    "paragraphs": [
       "自知清靜好，不要問時豪。就石安琴枕，穿松壓酒槽。",
-      "山晴因月甚，詩語入秋高。身外無餘事，唯應筆硯勞。",
+      "山晴因月甚，詩語入秋高。身外無餘事，唯應筆硯勞。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和左司元郎中秋居十首·其五",
+    "author": "張籍",
+    "paragraphs": [
       "閑堂新掃灑，稱是早秋天。書客多呈帖，琴僧與合弦。",
-      "莎台乘晚上，竹院就涼眠。終日無忙事，還應似得仙。",
+      "莎台乘晚上，竹院就涼眠。終日無忙事，還應似得仙。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和左司元郎中秋居十首·其六",
+    "author": "張籍",
+    "paragraphs": [
       "醉倚斑藤杖，閑眠癭木床。案頭行氣訣，爐裏降真香。",
-      "尚儉經營少，居閑意思長。秋茶莫夜飲，新自作松漿。",
+      "尚儉經營少，居閑意思長。秋茶莫夜飲，新自作松漿。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和左司元郎中秋居十首·其七",
+    "author": "張籍",
+    "paragraphs": [
       "每憶舊山居，新教上墨圖。晚花回地種，好酒問人沽。",
-      "夜後開朝簿，申前發省符。為郎凡幾歲，已見白髭須。",
+      "夜後開朝簿，申前發省符。為郎凡幾歲，已見白髭須。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和左司元郎中秋居十首·其八",
+    "author": "張籍",
+    "paragraphs": [
       "菊地才通履，茶房不壘階。憑醫看蜀藥，寄信覓吳鞋。",
-      "盡得仙家法，多隨道客齋。本無榮辱意，不是學安排。",
+      "盡得仙家法，多隨道客齋。本無榮辱意，不是學安排。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和左司元郎中秋居十首·其九",
+    "author": "張籍",
+    "paragraphs": [
       "林下無拘束，閑行放性靈。好時開藥灶，高處置琴亭。",
-      "更撰居山記，唯尋相鶴經。初當授衣假，無吏挽門鈴。",
+      "更撰居山記，唯尋相鶴經。初當授衣假，無吏挽門鈴。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和左司元郎中秋居十首·其十",
+    "author": "張籍",
+    "paragraphs": [
       "客散高齋晚，東園景象偏。晴明猶有蝶，涼冷漸無蟬。",
       "藤折霜來子，蝸行雨後涎。新詩才上卷，已得滿城傳。"
     ],
     "format": {
-      "sentence_count": 80,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1582,17 +1703,28 @@
     }
   },
   {
-    "title": "寒食書事二首",
+    "title": "寒食書事二首·其一",
     "author": "張籍",
     "paragraphs": [
       "今朝一百五，出戶雨初晴。舞愛雙飛蝶，歌聞數裏鶯。",
-      "江深青草岸，花滿白雲城。為政多孱懦，應無酷吏名。",
+      "江深青草岸，花滿白雲城。為政多孱懦，應無酷吏名。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寒食書事二首·其二",
+    "author": "張籍",
+    "paragraphs": [
       "出城煙火少，況複是今朝。閑坐將誰語，臨觴只自謠。",
       "階前春蘚遍，衣上落花飄。妓樂州人戲，使君心寂寥。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

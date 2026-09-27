@@ -13,17 +13,50 @@
     }
   },
   {
-    "title": "春望詞四首",
+    "title": "春望詞四首·其一",
     "author": "薛濤",
     "paragraphs": [
-      "花開不同賞，花落不同悲。欲問相思處，花開花落時。",
-      "攬草結同心，將以遺知音。春愁正斷絕，春鳥複哀吟。",
-      "風花日將老，佳期猶渺渺。不結同心人，空結同心草。",
+      "花開不同賞，花落不同悲。欲問相思處，花開花落時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春望詞四首·其二",
+    "author": "薛濤",
+    "paragraphs": [
+      "攬草結同心，將以遺知音。春愁正斷絕，春鳥複哀吟。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春望詞四首·其三",
+    "author": "薛濤",
+    "paragraphs": [
+      "風花日將老，佳期猶渺渺。不結同心人，空結同心草。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春望詞四首·其四",
+    "author": "薛濤",
+    "paragraphs": [
       "那堪花滿枝，翻作兩相思。玉箸垂朝鏡，春風知不知。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -100,15 +133,26 @@
     }
   },
   {
-    "title": "罰赴邊有懷上韋令公二首",
+    "title": "罰赴邊有懷上韋令公二首·其一",
     "author": "薛濤",
     "paragraphs": [
-      "聞道邊城苦，今來到始知。羞將門下曲，唱與隴頭兒。",
+      "聞道邊城苦，今來到始知。羞將門下曲，唱與隴頭兒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "罰赴邊有懷上韋令公二首·其二",
+    "author": "薛濤",
+    "paragraphs": [
       "黠虜猶違命，烽煙直北愁。卻教嚴譴妾，不敢向松州。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -204,17 +248,28 @@
     }
   },
   {
-    "title": "上川主武元衡相國二首",
+    "title": "上川主武元衡相國二首·其一",
     "author": "薛濤",
     "paragraphs": [
       "落日重城夕霧收，玳筵雕俎薦諸侯。",
-      "因令朗月當庭燎，不使珠簾下玉鉤。",
+      "因令朗月當庭燎，不使珠簾下玉鉤。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "上川主武元衡相國二首·其二",
+    "author": "薛濤",
+    "paragraphs": [
       "東閣移尊綺席陳，貂簪龍節更宜春。",
       "軍城畫角三聲歇，雲幕初垂紅燭新。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -414,32 +469,54 @@
     }
   },
   {
-    "title": "賦淩雲寺二首",
+    "title": "賦淩雲寺二首·其一",
     "author": "薛濤",
     "paragraphs": [
       "聞說淩雲寺裏苔，風高日近絕纖埃。",
-      "橫雲點染芙蓉壁，似待詩人寶月來。",
-      "聞說淩雲寺裏花，飛空繞磴逐江斜。",
-      "有時鎖得嫦娥鏡，鏤出瑤台五色霞。"
+      "橫雲點染芙蓉壁，似待詩人寶月來。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "九日遇雨二首",
+    "title": "賦淩雲寺二首·其二",
+    "author": "薛濤",
+    "paragraphs": [
+      "聞說淩雲寺裏花，飛空繞磴逐江斜。",
+      "有時鎖得嫦娥鏡，鏤出瑤台五色霞。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "九日遇雨二首·其一",
     "author": "薛濤",
     "paragraphs": [
       "萬里驚飆朔氣深，江城蕭索晝陰陰。",
-      "誰憐不得登山去，可惜寒芳色似金。",
+      "誰憐不得登山去，可惜寒芳色似金。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "九日遇雨二首·其二",
+    "author": "薛濤",
+    "paragraphs": [
       "茱萸秋節佳期阻，金菊寒花滿院香。",
       "神女欲來知有意，先令雲雨暗池塘。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -626,17 +703,28 @@
     }
   },
   {
-    "title": "春郊遊眺寄孫處士二首",
+    "title": "春郊遊眺寄孫處士二首·其一",
     "author": "薛濤",
     "paragraphs": [
       "低頭久立向薔薇，愛似零陵香惹衣。",
-      "何事碧溪孫處士，百勞東去燕西飛。",
+      "何事碧溪孫處士，百勞東去燕西飛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "春郊遊眺寄孫處士二首·其二",
+    "author": "薛濤",
+    "paragraphs": [
       "今朝縱目玩芳菲，夾纈籠裙繡地衣。",
       "滿袖滿頭兼手把，教人識是看花歸。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -654,19 +742,41 @@
     }
   },
   {
-    "title": "試新服裁制初成三首",
+    "title": "試新服裁制初成三首·其一",
     "author": "薛濤",
     "paragraphs": [
       "紫陽宮裏賜紅綃，仙霧朦朧隔海遙。",
-      "霜兔毳寒冰繭淨，嫦娥笑指織星橋。",
+      "霜兔毳寒冰繭淨，嫦娥笑指織星橋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "試新服裁制初成三首·其二",
+    "author": "薛濤",
+    "paragraphs": [
       "九氣分為九色霞，五靈仙馭五雲車。",
-      "春風因過東君舍，偷樣人間染百花。",
+      "春風因過東君舍，偷樣人間染百花。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "試新服裁制初成三首·其三",
+    "author": "薛濤",
+    "paragraphs": [
       "長裾本是上清儀，曾逐群仙把玉芝。",
       "每到宮中歌舞會，折腰齊唱步虛詞。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -697,17 +807,28 @@
     }
   },
   {
-    "title": "贈遠二首",
+    "title": "贈遠二首·其一",
     "author": "薛濤",
     "paragraphs": [
       "芙蓉新落蜀山秋，錦字開緘到是愁。",
-      "閨閣不知戎馬事，月高還上望夫樓。",
+      "閨閣不知戎馬事，月高還上望夫樓。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈遠二首·其二",
+    "author": "薛濤",
+    "paragraphs": [
       "擾弱新蒲葉又齊，春深花落塞前溪。",
       "知君未轉秦關騎，月照千門掩袖啼。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -971,17 +1092,28 @@
     }
   },
   {
-    "title": "罰赴邊上武相公二首",
+    "title": "罰赴邊上武相公二首·其一",
     "author": "薛濤",
     "paragraphs": [
       "螢在荒蕪月在天，螢飛豈到月輪邊。",
-      "重光萬里應相照，目斷雲霄信不傳。",
+      "重光萬里應相照，目斷雲霄信不傳。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "罰赴邊上武相公二首·其二",
+    "author": "薛濤",
+    "paragraphs": [
       "按轡嶺頭寒複寒，微風細雨徹心肝。",
       "但得放兒歸舍去，山水屏風永不看。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

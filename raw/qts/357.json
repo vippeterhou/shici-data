@@ -13,17 +13,28 @@
     }
   },
   {
-    "title": "七夕二首",
+    "title": "七夕二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "河鼓靈旗動，嫦娥破鏡斜。滿空天是幕，徐轉鬥為車。",
-      "機罷猶安石，橋成不礙槎。誰知觀津女，竟夕望雲涯。",
+      "機罷猶安石，橋成不礙槎。誰知觀津女，竟夕望雲涯。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "七夕二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "天衢啟雲帳，神馭上星橋。初喜渡河漢，頻驚轉鬥杓。",
       "餘霞張錦幛，輕電閃紅綃。非是人間世，還悲後會遙。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -93,17 +104,28 @@
     }
   },
   {
-    "title": "奉送家兄歸王屋山隱居二首",
+    "title": "奉送家兄歸王屋山隱居二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "洛陽天壇上，依稀似玉京。夜分先見日，月靜遠聞笙。",
-      "雲路將雞犬，丹台有姓名。古來成道者，兄弟亦同行。",
+      "雲路將雞犬，丹台有姓名。古來成道者，兄弟亦同行。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "奉送家兄歸王屋山隱居二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "春來山事好，歸去亦逍遙。水淨苔莎色，露香芝朮苗。",
       "登臺吸瑞景，飛步翼神飆。願薦塤篪曲，相將學玉簫。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -537,17 +559,28 @@
     }
   },
   {
-    "title": "宿誠禪師山房題贈二首",
+    "title": "宿誠禪師山房題贈二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "宴坐白雲端，清江直下看。來人望金刹，講席繞香壇。",
-      "虎嘯夜林動，鼉鳴秋澗寒。眾音徒起滅，心在淨中觀。",
+      "虎嘯夜林動，鼉鳴秋澗寒。眾音徒起滅，心在淨中觀。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宿誠禪師山房題贈二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "不出孤峰上，人間四十秋。視身如傳舍，閱世似東流。",
       "法為因緣立，心從次第修。中宵問真偈，有住是吾憂。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -591,66 +624,132 @@
     }
   },
   {
-    "title": "德宗神武孝文皇帝挽歌二首",
+    "title": "德宗神武孝文皇帝挽歌二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "出震清多難，乘時播大鈞。操弦調六氣，揮翰動三辰。",
-      "運偶升天日，哀深率土人。瑤池無轍跡，誰見屬車塵。",
+      "運偶升天日，哀深率土人。瑤池無轍跡，誰見屬車塵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "德宗神武孝文皇帝挽歌二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "鳳翣擁銘旌，威遲異吉行。漢儀陳秘器，楚挽咽繁聲。",
       "駐綍辭清廟，凝笳背直城。唯應留內傳，知是向蓬瀛。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "敬宗睿武昭湣孝皇帝挽歌三首",
+    "title": "敬宗睿武昭湣孝皇帝挽歌三首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "寶曆方無限，仙期忽有涯。事親崇漢禮，傳聖法殷家。",
-      "晚出芙蓉闕，春歸棠棣華。玉輪今日動，不是畫雲車。",
+      "晚出芙蓉闕，春歸棠棣華。玉輪今日動，不是畫雲車。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "敬宗睿武昭湣孝皇帝挽歌三首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "任賢勞夢寐，登位富春秋。欲遂東人幸，甯虞杞國憂。",
-      "長楊收羽騎，太液泊龍舟。惟有衣冠在，年年愴月遊。",
+      "長楊收羽騎，太液泊龍舟。惟有衣冠在，年年愴月遊。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "敬宗睿武昭湣孝皇帝挽歌三首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "講學金華殿，親耕鉤盾田。侍臣容諫獵，方士信求仙。",
       "虹影俄侵日，龍髯不上天。空餘水銀海，長照夜燈前。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "文宗元聖昭獻孝皇帝挽歌三首",
+    "title": "文宗元聖昭獻孝皇帝挽歌三首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "繼體三才理，承顏九族親。禹功留海內，殷曆付天倫。",
-      "調露曲常在，秋風詞尚新。本支方百代，先讓棣華春。",
+      "調露曲常在，秋風詞尚新。本支方百代，先讓棣華春。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "文宗元聖昭獻孝皇帝挽歌三首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "月落宮車動，風淒儀仗閑。路唯瞻鳳翣，人尚想龍顏。",
-      "禦宇方無事，乘雲遂不還。聖情悲望處，沉日下西山。",
+      "禦宇方無事，乘雲遂不還。聖情悲望處，沉日下西山。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "文宗元聖昭獻孝皇帝挽歌三首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "享國十五載，升天千萬年。龍鑣仙路遠，騎吹禮容全。",
       "日下初陵外，人悲舊劍前。周南有遺老，掩淚望秦川。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "故相國燕國公于司空挽歌二首",
+    "title": "故相國燕國公于司空挽歌二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "雕弓封舊國，黑弰繼前功。十年鎮南雍，九命作司空。",
-      "池台樂事盡，簫鼓葬儀雄。一代英豪氣，曉散白楊風。",
+      "池台樂事盡，簫鼓葬儀雄。一代英豪氣，曉散白楊風。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故相國燕國公于司空挽歌二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "陰山貴公子，來葬五陵西。前馬悲無主，猶帶朔風嘶。",
       "漢水晉山郭，襄陽白銅鞮。至今有遺愛，日暮人淒淒。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -668,19 +767,41 @@
     }
   },
   {
-    "title": "河南觀察使故相國袁公挽歌三首",
+    "title": "河南觀察使故相國袁公挽歌三首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "五驅龍虎節，一入鳳凰池。令尹自無喜，羊公人不疑。",
-      "天歸京兆日，葉下洞庭時。湘水秋風至，淒涼吹素旗。",
+      "天歸京兆日，葉下洞庭時。湘水秋風至，淒涼吹素旗。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "河南觀察使故相國袁公挽歌三首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "丹旐發江皋，人悲雁亦號。湘南罷亥市，漢上改詞曹。",
-      "表墓雙碑立，尊名一字褒。嘗聞平楚獄，為報裏門高。",
+      "表墓雙碑立，尊名一字褒。嘗聞平楚獄，為報裏門高。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "河南觀察使故相國袁公挽歌三首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "返葬三千里，荊衡達帝畿。逢人即故吏，拜奠盡沾衣。",
       "地得青烏相，賓驚白鶴飛。五公碑尚在，今日亦同歸。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -763,17 +884,28 @@
     }
   },
   {
-    "title": "鶴歎二首",
+    "title": "鶴歎二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "寂寞一雙鶴，主人在西京。故巢吳苑樹，深院洛陽城。",
-      "徐引竹間步，遠含雲外情。誰憐好風月，鄰舍夜吹笙。",
+      "徐引竹間步，遠含雲外情。誰憐好風月，鄰舍夜吹笙。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "鶴歎二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "丹頂宜承日，霜翎不染泥。愛池能久立，看月未成棲。",
       "一院春草長，三山歸路迷。主人朝謁早，貪養汝南雞。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -843,53 +975,262 @@
     }
   },
   {
-    "title": "同樂天和微之深春二十首",
+    "title": "同樂天和微之深春二十首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "何處深春好，春深萬乘家。宮門皆映柳，輦路盡穿花。",
-      "池色連天漢，城形象帝車。旌旗暖風裏，獵獵向西斜。",
+      "池色連天漢，城形象帝車。旌旗暖風裏，獵獵向西斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深阿母家。瑤池長不夜，珠樹正開花。",
-      "橋峻通星渚，樓暄近日車。層城十二闕，相對日西斜。",
+      "橋峻通星渚，樓暄近日車。層城十二闕，相對日西斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深執政家。恩光貪捧日，貴重不看花。",
-      "玉饌堂交印，沙堤柱礙車。多門一已閉，直道更無斜。",
+      "玉饌堂交印，沙堤柱礙車。多門一已閉，直道更無斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其四",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深大鎮家。前旌光照日，後騎蹙成花。",
-      "節院收衙隊，球場簇看車。廣筵歌舞散，書號夕陽斜。",
+      "節院收衙隊，球場簇看車。廣筵歌舞散，書號夕陽斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其五",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春多，春深貴戚家。櫪嘶無價馬，庭發有名花。",
-      "欲進宮人食，先熏命婦車。晚歸長帶酒，冠蓋任傾斜。",
+      "欲進宮人食，先熏命婦車。晚歸長帶酒，冠蓋任傾斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其六",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深恩澤家。爐添龍腦炷，綬結虎頭花。",
-      "賓客珠成履，嬰孩錦縛車。畫堂簾幕外，來去燕飛斜。",
+      "賓客珠成履，嬰孩錦縛車。畫堂簾幕外，來去燕飛斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其七",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深京兆家。人眉新柳葉，馬色醉桃花。",
-      "盜息無鳴鼓，朝回自走車。能令帝城外，不敢徑由斜。",
+      "盜息無鳴鼓，朝回自走車。能令帝城外，不敢徑由斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其八",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深刺史家。夜闌猶命樂，雨甚亦尋花。",
-      "傲客多憑酒，新姬苦上車。公門吏散後，風擺戟衣斜。",
+      "傲客多憑酒，新姬苦上車。公門吏散後，風擺戟衣斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其九",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深羽客家。芝田繞舍色，杏樹滿山花。",
-      "雲是淮王宅，風為列子車。古壇操簡處，一徑入林斜。",
+      "雲是淮王宅，風為列子車。古壇操簡處，一徑入林斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其十",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深小隱家。芟庭留野菜，撼樹去狂花。",
-      "醉酒一千日，貯書三十車。雉衣從露體，不敢有餘斜。",
+      "醉酒一千日，貯書三十車。雉衣從露體，不敢有餘斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其十一",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深富室家。唯多貯金帛，不擬負鶯花。",
-      "國樂呼聯轡，行廚載滿車。歸來看理曲，燈下寶釵斜。",
+      "國樂呼聯轡，行廚載滿車。歸來看理曲，燈下寶釵斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其十二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深豪士家。多沽味濃酒，貴買色深花。",
-      "已臂鷹隨馬，連催妓上車。城南踏青處，村落逐原斜。",
+      "已臂鷹隨馬，連催妓上車。城南踏青處，村落逐原斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其十三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深貴胄家。迎呼偏熟客，揀選最多花。",
-      "飲饌開華幄，笙歌出鈿車。興酣樽易罄，連瀉酒瓶斜。",
+      "飲饌開華幄，笙歌出鈿車。興酣樽易罄，連瀉酒瓶斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其十四",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深唱第家。名傳一紙榜，興管九衢花。",
-      "薦聽諸侯樂，來隨計吏車。杏園拋曲處，揮袖向風斜。",
+      "薦聽諸侯樂，來隨計吏車。杏園拋曲處，揮袖向風斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其十五",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深少婦家。能偷新禁曲，自剪入時花。",
-      "追逐同遊伴，平章貴價車。從來不墮馬，故遣髻鬟斜。",
+      "追逐同遊伴，平章貴價車。從來不墮馬，故遣髻鬟斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其十六",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深幼女家。雙鬟梳頂髻，兩面繡裙花。",
-      "妝壞頻臨鏡，身輕不占車。秋千爭次第，牽拽彩繩斜。",
+      "妝壞頻臨鏡，身輕不占車。秋千爭次第，牽拽彩繩斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其十七",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深蘭若家。當香收柏葉，養蜜近梨花。",
-      "野徑宜行樂，遊人盡駐車。菜園籬落短，遙見桔槔斜。",
+      "野徑宜行樂，遊人盡駐車。菜園籬落短，遙見桔槔斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其十八",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深老宿家。小欄圍蕙草，高架引藤花。",
-      "四字香書印，三乘壁畫車。遲回聽句偈，雙樹晚陰斜。",
+      "四字香書印，三乘壁畫車。遲回聽句偈，雙樹晚陰斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其十九",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深種蒔家。分畦十字水，接樹兩般花。",
-      "櫛比栽籬槿，咿啞轉井車。可憐高處望，棋布不曾斜。",
+      "櫛比栽籬槿，咿啞轉井車。可憐高處望，棋布不曾斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同樂天和微之深春二十首·其二十",
+    "author": "劉禹錫",
+    "paragraphs": [
       "何處深春好，春深稚子家。爭騎一竿竹，偷折四鄰花。",
       "笑擊羊皮鼓，行牽犢頷車。中庭貪夜戲，不覺玉繩斜。"
     ],
     "format": {
-      "sentence_count": 160,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

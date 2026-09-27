@@ -208,19 +208,6 @@
     }
   },
   {
-    "title": "蒲中霽後晚望",
-    "author": "薛能",
-    "paragraphs": [
-      "河邊霽色無人見，身帶春風立岸頭。",
-      "濁水茫茫有何意，日斜還向古蒲州。"
-    ],
-    "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [7, 7, 7, 7],
-      "uniform_sentence_length": 7
-    }
-  },
-  {
     "title": "龍門八韻",
     "author": "薛能",
     "paragraphs": [
@@ -477,19 +464,41 @@
     }
   },
   {
-    "title": "和友人題僧院薔薇花三首",
+    "title": "和友人題僧院薔薇花三首·其一",
     "author": "崔櫓",
     "paragraphs": [
       "何人移得在禪家，瑟瑟枝條簇簇霞。爭那寂寥埋草暗，",
-      "看取老僧齊物意，一般拋擲等凡花。",
+      "看取老僧齊物意，一般拋擲等凡花。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和友人題僧院薔薇花三首·其二",
+    "author": "崔櫓",
+    "paragraphs": [
       "忍委芳心此地開，似霞顏色苦低回。風驚少女偷香去，",
-      "三清上客知惆悵，勸我春醪一兩杯。",
+      "三清上客知惆悵，勸我春醪一兩杯。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和友人題僧院薔薇花三首·其三",
+    "author": "崔櫓",
+    "paragraphs": [
       "露香如醉態如慵，斜壓危闌草色中。試問更誰過野寺，",
       "一日幾回來又去，不能容易舍深紅。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

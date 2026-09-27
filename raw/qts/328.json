@@ -1,23 +1,67 @@
 [
   {
-    "title": "雜詩五首",
+    "title": "雜詩五首·其一",
     "author": "權德輿",
     "paragraphs": [
       "婉彼嬴氏女，吹簫偶蕭史。彩鸞駕非煙，綽約兩仙子。",
-      "神期諒交感，相顧乃如此。豈比成都人，琴心中夜起。",
+      "神期諒交感，相顧乃如此。豈比成都人，琴心中夜起。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜詩五首·其二",
+    "author": "權德輿",
+    "paragraphs": [
       "陽臺巫山上，風雨忽清曠。朝雲與游龍，變化千萬狀。",
-      "魂交複目斷，縹緲難比況。蘭澤不可親，凝情坐惆悵。",
+      "魂交複目斷，縹緲難比況。蘭澤不可親，凝情坐惆悵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜詩五首·其三",
+    "author": "權德輿",
+    "paragraphs": [
       "淇水春正綠，上宮蘭葉齊。光風兩搖盪，鳴佩出中閨。",
-      "一顧授橫波，千金呈瓠犀。徒然路傍子，怳怳複淒淒。",
+      "一顧授橫波，千金呈瓠犀。徒然路傍子，怳怳複淒淒。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜詩五首·其四",
+    "author": "權德輿",
+    "paragraphs": [
       "碧樹泛鮮飆，玉琴含妙曲。佳人掩鸞鏡，婉婉凝相矚。",
-      "文袿映束素，香黛宜fT綠。寂寞遠懷春，何時來比目。",
+      "文袿映束素，香黛宜fT綠。寂寞遠懷春，何時來比目。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 4, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "雜詩五首·其五",
+    "author": "權德輿",
+    "paragraphs": [
       "含顰倚瑤瑟，丹慊結繁慮。失身不自還，萬恨隨玉箸。",
       "蘼蕪山下路，團扇秋風去。君看心斷時，猶在目成處。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -187,28 +231,149 @@
     }
   },
   {
-    "title": "玉台體十二首",
+    "title": "玉台體十二首·其一",
     "author": "權德輿",
     "paragraphs": [
       "鸞啼蘭已紅，見出鳳城東。粉汗宜斜日，衣香逐上風。",
-      "情來不自覺，暗駐五花驄。",
+      "情來不自覺，暗駐五花驄。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "玉台體十二首·其二",
+    "author": "權德輿",
+    "paragraphs": [
       "嬋娟二八正嬌羞，日暮相逢南陌頭。",
-      "試問佳期不肯道，落花深處指青樓。",
-      "隱映羅衫薄，輕盈玉腕圓。相逢不肯語，微笑畫屏前。",
-      "知向遼東去，由來幾許愁。破顏君莫怪，嬌小不禁羞。",
-      "樓上吹簫罷，閨中刺繡闌。佳期不可見，盡日淚潺潺。",
-      "淚盡珊瑚枕，魂銷玳瑁床。羅衣不忍著，羞見繡鴛鴦。",
-      "君去期花時，花時君不至。簷前雙燕飛，落妾相思淚。",
-      "空閨滅燭後，羅幌獨眠時。淚盡腸欲斷，心知人不知。",
-      "秋風一夜至，吹盡後庭花。莫作經時別，西鄰是宋家。",
-      "獨自披衣坐，更深月露寒。隔簾腸欲斷，爭敢下階看。",
-      "昨夜裙帶解，今朝蟢子飛。鉛華不可棄，莫是槁砧歸。",
+      "試問佳期不肯道，落花深處指青樓。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "玉台體十二首·其三",
+    "author": "權德輿",
+    "paragraphs": [
+      "隱映羅衫薄，輕盈玉腕圓。相逢不肯語，微笑畫屏前。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "玉台體十二首·其四",
+    "author": "權德輿",
+    "paragraphs": [
+      "知向遼東去，由來幾許愁。破顏君莫怪，嬌小不禁羞。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "玉台體十二首·其五",
+    "author": "權德輿",
+    "paragraphs": [
+      "樓上吹簫罷，閨中刺繡闌。佳期不可見，盡日淚潺潺。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "玉台體十二首·其六",
+    "author": "權德輿",
+    "paragraphs": [
+      "淚盡珊瑚枕，魂銷玳瑁床。羅衣不忍著，羞見繡鴛鴦。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "玉台體十二首·其七",
+    "author": "權德輿",
+    "paragraphs": [
+      "君去期花時，花時君不至。簷前雙燕飛，落妾相思淚。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "玉台體十二首·其八",
+    "author": "權德輿",
+    "paragraphs": [
+      "空閨滅燭後，羅幌獨眠時。淚盡腸欲斷，心知人不知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "玉台體十二首·其九",
+    "author": "權德輿",
+    "paragraphs": [
+      "秋風一夜至，吹盡後庭花。莫作經時別，西鄰是宋家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "玉台體十二首·其十",
+    "author": "權德輿",
+    "paragraphs": [
+      "獨自披衣坐，更深月露寒。隔簾腸欲斷，爭敢下階看。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "玉台體十二首·其十一",
+    "author": "權德輿",
+    "paragraphs": [
+      "昨夜裙帶解，今朝蟢子飛。鉛華不可棄，莫是槁砧歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "玉台體十二首·其十二",
+    "author": "權德輿",
+    "paragraphs": [
       "萬里行人至，深閨夜未眠。雙眉燈下掃，不待鏡臺前。"
     ],
     "format": {
-      "sentence_count": 50,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -238,23 +403,67 @@
     }
   },
   {
-    "title": "雜興五首",
+    "title": "雜興五首·其一",
     "author": "權德輿",
     "paragraphs": [
       "叢鬢愁眉時勢新，初笄絕代北方人。",
-      "一顰一笑千金重，肯似成都夜失身。",
+      "一顰一笑千金重，肯似成都夜失身。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "雜興五首·其二",
+    "author": "權德輿",
+    "paragraphs": [
       "乍聽絲聲似竹聲，又疑丹穴九雛驚。",
-      "金波露洗淨於晝，寂寞不堪深夜情。",
+      "金波露洗淨於晝，寂寞不堪深夜情。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "雜興五首·其三",
+    "author": "權德輿",
+    "paragraphs": [
       "琥珀尊開月映簾，調弦理曲指纖纖。",
-      "含羞斂態勸君住，更奏新聲刮骨鹽。",
+      "含羞斂態勸君住，更奏新聲刮骨鹽。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "雜興五首·其四",
+    "author": "權德輿",
+    "paragraphs": [
       "乳燕雙飛鶯亂啼，百花如繡照深閨。",
-      "新妝對鏡知無比，微笑時時出瓠犀。",
+      "新妝對鏡知無比，微笑時時出瓠犀。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "雜興五首·其五",
+    "author": "權德輿",
+    "paragraphs": [
       "巫山雲雨洛川神，珠襻香腰穩稱身。",
       "惆悵妝成君不見，含情起立問傍人。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

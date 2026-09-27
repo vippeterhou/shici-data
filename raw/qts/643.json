@@ -78,17 +78,28 @@
     }
   },
   {
-    "title": "上元懷古二首",
+    "title": "上元懷古二首·其一",
     "author": "李山甫",
     "paragraphs": [
       "南朝天子愛風流，盡守江山不到頭。總是戰爭收拾得，",
-      "試問繁華何處有，雨苔煙草古城秋。",
+      "試問繁華何處有，雨苔煙草古城秋。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "上元懷古二首·其二",
+    "author": "李山甫",
+    "paragraphs": [
       "爭帝圖王德盡衰，驟興馳霸亦何為。君臣都是一場笑，",
       "今朝城上難回首，不見樓船索戰時。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -171,17 +182,28 @@
     }
   },
   {
-    "title": "寒食二首",
+    "title": "寒食二首·其一",
     "author": "李山甫",
     "paragraphs": [
       "柳帶東風一向斜，春陰澹澹蔽人家。有時三點兩點雨，",
-      "年年今日誰相問，獨臥長安泣歲華。",
+      "年年今日誰相問，獨臥長安泣歲華。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寒食二首·其二",
+    "author": "李山甫",
+    "paragraphs": [
       "風煙放蕩花披猖，秋千女兒飛短牆。繡袍馳馬拾遺翠，",
       "自憐塵土無他事，空脫荷衣泥醉鄉。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -459,17 +481,28 @@
     }
   },
   {
-    "title": "曲江二首",
+    "title": "曲江二首·其一",
     "author": "李山甫",
     "paragraphs": [
       "南山低對紫雲樓，翠影紅陰瑞氣浮。一種是春長富貴，",
-      "獨向江邊最惆悵，滿衣塵土避王侯。",
+      "獨向江邊最惆悵，滿衣塵土避王侯。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "曲江二首·其二",
+    "author": "李山甫",
+    "paragraphs": [
       "江色沈天萬草齊，暖煙晴靄自相迷。蜂憐杏蕊細香落，",
       "斜陽怪得長安動，陌上分飛萬馬蹄。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -786,19 +819,41 @@
     }
   },
   {
-    "title": "兵後尋邊三首",
+    "title": "兵後尋邊三首·其一",
     "author": "李山甫",
     "paragraphs": [
       "千里煙沙盡日昏，戰餘燒罷閉重門。新成劍戟皆農器，",
-      "自憐長策無人問，羞戴儒冠傍塞垣。",
+      "自憐長策無人問，羞戴儒冠傍塞垣。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "兵後尋邊三首·其二",
+    "author": "李山甫",
+    "paragraphs": [
       "旗頭指處見黃埃，萬馬橫馳鶻翅回。劍戟遠腥凝血在，",
-      "日暮卻登寒壘望，飽鴟清嘯伏屍堆。",
+      "日暮卻登寒壘望，飽鴟清嘯伏屍堆。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "兵後尋邊三首·其三",
+    "author": "李山甫",
+    "paragraphs": [
       "風怒邊沙迸鐵衣，胡兒胡馬正驕肥。將軍對陣誰教入，",
       "胸中縱有銷兵術，欲向何門說是非。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -816,17 +871,28 @@
     }
   },
   {
-    "title": "公子家二首",
+    "title": "公子家二首·其一",
     "author": "李山甫",
     "paragraphs": [
       "曾是皇家幾世侯，入雲高第照神州。柳遮門戶橫金鎖，",
-      "麻衣酷獻平生業，醉倚春風不點頭。",
+      "麻衣酷獻平生業，醉倚春風不點頭。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "公子家二首·其二",
+    "author": "李山甫",
+    "paragraphs": [
       "柳底花陰壓露塵，醉煙輕罩一團春。鴛鴦占水能嗔客，",
       "不知買盡長安笑，活得蒼生幾戶貧。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -870,19 +936,41 @@
     }
   },
   {
-    "title": "下第獻所知三首",
+    "title": "下第獻所知三首·其一",
     "author": "李山甫",
     "paragraphs": [
       "偶向江頭別釣磯，等閒經歲與心違。虛教六尺受辛苦，",
-      "春風不用相催促，回避花時也解歸。",
+      "春風不用相催促，回避花時也解歸。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "下第獻所知三首·其二",
+    "author": "李山甫",
+    "paragraphs": [
       "不識人間巧路岐，只將端拙泥神祇。與他名利本無分，",
-      "自憐心計今如此，憑仗春醪為解頤。",
+      "自憐心計今如此，憑仗春醪為解頤。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "下第獻所知三首·其三",
+    "author": "李山甫",
+    "paragraphs": [
       "十年磨鏃事鋒鋩，始逐朱旗入戰場。四海風雲難際會，",
       "今日慚知也慚命，笑餘歌罷忽淒涼。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -978,33 +1066,132 @@
     }
   },
   {
-    "title": "柳十首",
+    "title": "柳十首·其一",
     "author": "李山甫",
     "paragraphs": [
       "灞岸江頭臘雪消，東風偷軟入纖條。",
-      "春來不忍登樓望，萬架金絲著地嬌。",
+      "春來不忍登樓望，萬架金絲著地嬌。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳十首·其二",
+    "author": "李山甫",
+    "paragraphs": [
       "受盡風霜得到春，一條條是逐年新。",
-      "尋常送別無餘事，爭忍攀將過與人。",
+      "尋常送別無餘事，爭忍攀將過與人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳十首·其三",
+    "author": "李山甫",
+    "paragraphs": [
       "長恨陽和也世情，把香和豔與紅英。",
-      "家家只是栽桃李，獨自無根到處生。",
+      "家家只是栽桃李，獨自無根到處生。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳十首·其四",
+    "author": "李山甫",
+    "paragraphs": [
       "只為遮樓又拂橋，被人摧折好枝條。",
-      "假饒張緒如今在，須把風流暗裏銷。",
+      "假饒張緒如今在，須把風流暗裏銷。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳十首·其五",
+    "author": "李山甫",
+    "paragraphs": [
       "弱帶低垂可自由，傍他門戶倚他樓。",
-      "金風不解相抬舉，露壓煙欺直到秋。",
+      "金風不解相抬舉，露壓煙欺直到秋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳十首·其六",
+    "author": "李山甫",
+    "paragraphs": [
       "終日堂前學畫眉，幾人曾道勝花枝。",
-      "試看三月春殘後，門外青陰是阿誰。",
+      "試看三月春殘後，門外青陰是阿誰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳十首·其七",
+    "author": "李山甫",
+    "paragraphs": [
       "也曾飛絮謝家庭，從此風流別有名。",
-      "不是向人無用處，一枝愁殺別離情。",
+      "不是向人無用處，一枝愁殺別離情。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳十首·其八",
+    "author": "李山甫",
+    "paragraphs": [
       "從來只是愛花人，楊柳何曾占得春。",
-      "多向客亭門外立，與他迎送往來塵。",
+      "多向客亭門外立，與他迎送往來塵。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳十首·其九",
+    "author": "李山甫",
+    "paragraphs": [
       "強扶柔態酒難醒，殢著春風別有情。",
-      "公子王孫且相伴，與君俱得幾時榮。",
+      "公子王孫且相伴，與君俱得幾時榮。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳十首·其十",
+    "author": "李山甫",
+    "paragraphs": [
       "無賴秋風斗覺寒，萬條煙草一時幹。",
       "遊人若要春消息，直向江頭臘後看。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

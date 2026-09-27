@@ -53,18 +53,29 @@
     }
   },
   {
-    "title": "雪二首",
+    "title": "雪二首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "硯水池先凍，窗風酒易消。鴉聲出山郭，人跡過村橋。",
       "稍急方縈轉，才深未寂寥。細光穿暗隙，輕白駐寒條。",
-      "草靜封還折，松欹墮複搖。謝莊今病眼，無意坐通宵。",
+      "草靜封還折，松欹墮複搖。謝莊今病眼，無意坐通宵。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雪二首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
       "羸驂出更慵，林寺已疏鐘。踏緊寒聲澀，飛交細點重。",
       "圃斜人過跡，階靜鳥行蹤。寂寞梁鴻病，誰人代夜舂。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -452,18 +463,29 @@
     }
   },
   {
-    "title": "牡丹二首",
+    "title": "牡丹二首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "輕陰隔翠幃，宿雨泣晴暉。醉後佳期在，歌餘舊意非。",
-      "蝶繁經粉住，蜂重抱香歸。莫惜熏爐夜，因風到舞衣。",
+      "蝶繁經粉住，蜂重抱香歸。莫惜熏爐夜，因風到舞衣。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "牡丹二首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
       "水漾晴紅壓疊波，曉來金粉覆庭莎。裁成豔思偏應巧，",
       "華堂客散簾垂地，想憑闌幹斂翠蛾。"
     ],
     "format": {
-      "sentence_count": 13,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -661,21 +683,32 @@
     }
   },
   {
-    "title": "寒食節日寄楚望二首",
+    "title": "寒食節日寄楚望二首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "芳蘭無意綠，弱柳何窮縷。心斷入淮山，夢長穿楚雨。",
       "繁花如二八，好月當三五。愁碧竟平皋，韶紅換幽圃。",
       "流鶯隱員樹，乳燕喧餘哺。曠望戀曾台，離憂集環堵。",
-      "當年不自遣，晚得終何補。鄭谷有樵蘇，歸來要腰斧。",
+      "當年不自遣，晚得終何補。鄭谷有樵蘇，歸來要腰斧。"
+    ],
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寒食節日寄楚望二首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
       "家乏兩千萬，時當一百五。颸颸楊柳風，穰穰櫻桃雨。",
       "年芳苦沉潦，心事如摧櫓。金犢近蘭汀，銅龍接花塢。",
       "青蔥建楊宅，隱轔端門鼓。彩素拂庭柯，輕球落鄰圃。",
       "三春謝遊衍，一笑牽規矩。獨有恩澤侯，歸來看楚舞。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -718,29 +751,106 @@
     }
   },
   {
-    "title": "楊柳八首",
+    "title": "楊柳八首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "宜春苑外最長條，閑嫋春風伴舞腰。",
-      "正是玉人腸斷處，一渠春水赤闌橋。",
+      "正是玉人腸斷處，一渠春水赤闌橋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳八首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
       "南內牆東禦路旁，預知春色柳絲黃。",
-      "杏花未肯無情思，何是情人最斷腸。",
+      "杏花未肯無情思，何是情人最斷腸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳八首·其三",
+    "author": "溫庭筠",
+    "paragraphs": [
       "蘇小門前柳萬條，毿毿金線拂平橋。",
-      "黃鶯不語東風起，深閉朱門伴細腰。",
+      "黃鶯不語東風起，深閉朱門伴細腰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳八首·其四",
+    "author": "溫庭筠",
+    "paragraphs": [
       "金縷毿毿碧瓦溝，六宮眉黛惹春愁。",
-      "晚來更帶龍池雨，半拂闌幹半入樓。",
+      "晚來更帶龍池雨，半拂闌幹半入樓。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳八首·其五",
+    "author": "溫庭筠",
+    "paragraphs": [
       "館娃宮外鄴城西，遠映征帆近拂堤。",
-      "系得王孫歸意切，不關春草綠萋萋。",
+      "系得王孫歸意切，不關春草綠萋萋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳八首·其六",
+    "author": "溫庭筠",
+    "paragraphs": [
       "兩兩黃鸝色似金，嫋枝啼露動芳音。",
-      "春來幸自長如線，可惜牽纏蕩子心。",
+      "春來幸自長如線，可惜牽纏蕩子心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳八首·其七",
+    "author": "溫庭筠",
+    "paragraphs": [
       "禦柳如絲映九重，鳳凰窗柱繡芙蓉。",
-      "景陽樓畔千條露，一面新妝待曉鐘。",
+      "景陽樓畔千條露，一面新妝待曉鐘。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳八首·其八",
+    "author": "溫庭筠",
+    "paragraphs": [
       "織錦機邊鶯語頻，停梭垂淚憶征人。",
       "塞門三月猶蕭索，縱有垂楊未覺春。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -783,32 +893,54 @@
     }
   },
   {
-    "title": "南歌子詞二首",
+    "title": "南歌子詞二首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "一尺深紅勝曲塵，天生舊物不如新。",
-      "合歡桃核終堪恨，裏許元來別有人。",
-      "井底點燈深燭伊，共郎長行莫圍棋。",
-      "玲瓏骰子安紅豆，入骨相思知不知。"
+      "合歡桃核終堪恨，裏許元來別有人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "題李衛公詩二首",
+    "title": "南歌子詞二首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
+      "井底點燈深燭伊，共郎長行莫圍棋。",
+      "玲瓏骰子安紅豆，入骨相思知不知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題李衛公詩二首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "蒿棘深春衛國門，九年於此盜乾坤。兩行密疏傾天下，",
-      "當時誰是承恩者，肯有餘波達鬼村。",
+      "當時誰是承恩者，肯有餘波達鬼村。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題李衛公詩二首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
       "勢欲淩雲威觸天，權傾諸夏力排山。三年驥尾有人附，",
       "千岩萬壑應惆悵，流水斜傾出武關。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

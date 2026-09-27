@@ -325,17 +325,28 @@
     }
   },
   {
-    "title": "看牡丹二首",
+    "title": "看牡丹二首·其一",
     "author": "孫魴",
     "paragraphs": [
       "莫將紅粉比穠華，紅粉那堪比此花。隔院聞香誰不惜，",
-      "輸我一枝和曉露，真珠簾外向人斜。",
+      "輸我一枝和曉露，真珠簾外向人斜。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "看牡丹二首·其二",
+    "author": "孫魴",
+    "paragraphs": [
       "看花長到牡丹月，萬事全忘自不知。風促乍開方可惜，",
       "也擬便休還改過，迢迢爭奈一年期。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

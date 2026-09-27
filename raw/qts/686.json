@@ -169,17 +169,28 @@
     }
   },
   {
-    "title": "南遷途中作七首：登七盤嶺二首",
+    "title": "南遷途中作七首：登七盤嶺二首·其一",
     "author": "吳融",
     "paragraphs": [
       "才非賈傅亦遷官，五月驅羸上七盤。",
-      "從此自知身計定，不能回首望長安。",
+      "從此自知身計定，不能回首望長安。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "南遷途中作七首：登七盤嶺二首·其二",
+    "author": "吳融",
+    "paragraphs": [
       "七盤嶺上一長號，將謂青天鑒郁陶。",
       "近日青天都不鑒，七盤應是未高高。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -301,17 +312,28 @@
     }
   },
   {
-    "title": "海棠二首",
+    "title": "海棠二首·其一",
     "author": "吳融",
     "paragraphs": [
       "太尉園林兩樹春，年年奔走探花人。",
-      "今來獨倚荊山看，回首長安落戰塵。",
+      "今來獨倚荊山看，回首長安落戰塵。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "海棠二首·其二",
+    "author": "吳融",
+    "paragraphs": [
       "雲綻霞鋪錦水頭，占春顏色最風流。",
       "若教更近天街種，馬上多逢醉五侯。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -648,17 +670,28 @@
     }
   },
   {
-    "title": "憲丞裴公上洛退居有寄二首",
+    "title": "憲丞裴公上洛退居有寄二首·其一",
     "author": "吳融",
     "paragraphs": [
       "鴻在冥冥已自由，紫芝峰下更高秋。拋來簪紱都如夢，",
-      "自嗟不得從公去，共上仙家十二樓。",
+      "自嗟不得從公去，共上仙家十二樓。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "憲丞裴公上洛退居有寄二首·其二",
+    "author": "吳融",
+    "paragraphs": [
       "瘦如仙鶴爽風篁，外卻塵囂興緒長。偶坐幾回沈皓月，",
       "目斷瓊林攀不得，一重丹水抵三湘。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -858,17 +891,28 @@
     }
   },
   {
-    "title": "僧舍白牡丹二首",
+    "title": "僧舍白牡丹二首·其一",
     "author": "吳融",
     "paragraphs": [
       "膩若裁雲薄綴霜，春殘獨自殿群芳。梅妝向日霏霏暖，",
-      "天生潔白宜清淨，何必殷紅映洞房。",
+      "天生潔白宜清淨，何必殷紅映洞房。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "僧舍白牡丹二首·其二",
+    "author": "吳融",
+    "paragraphs": [
       "侯家萬朵簇霞丹，若並霜林素豔難。合影只應天際月，",
       "想得惠林憑此檻，肯將榮落意來看。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

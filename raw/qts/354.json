@@ -221,36 +221,80 @@
     }
   },
   {
-    "title": "送春曲三首",
+    "title": "送春曲三首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "春向晚，春晚思悠哉。風雲日已改，花葉自相催。",
-      "漠漠空中去，何時天際來。",
-      "春已暮，冉冉如人老，映葉見殘花，連天是青草。",
-      "可憐桃與李，從此同桑棗。",
-      "春景去，此去何時回。遊人千萬恨，落日上高臺。",
-      "寂寞繁花盡，流鶯歸莫來。"
+      "漠漠空中去，何時天際來。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [3, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [3, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },
   {
-    "title": "初夏曲三首",
+    "title": "送春曲三首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
+      "春已暮，冉冉如人老，映葉見殘花，連天是青草。",
+      "可憐桃與李，從此同桑棗。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [3, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "送春曲三首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
+      "春景去，此去何時回。遊人千萬恨，落日上高臺。",
+      "寂寞繁花盡，流鶯歸莫來。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [3, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "初夏曲三首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "銅壺方促夜，斗柄暫南回。稍嫌單衣重，初憐北戶開。",
-      "西園花已盡，新月為誰來。",
+      "西園花已盡，新月為誰來。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "初夏曲三首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "時節過繁華，陰陰千萬家。巢禽命子戲，園果墜枝斜。",
-      "寂寞孤飛蝶，窺叢覓晚花。",
+      "寂寞孤飛蝶，窺叢覓晚花。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "初夏曲三首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "綠水風初暖，青林露早晞。麥隴雉朝雊，桑野人暮歸。",
       "百舌悲花盡，平蕪來去飛。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -522,18 +566,29 @@
     }
   },
   {
-    "title": "觀柘枝舞二首",
+    "title": "觀柘枝舞二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "胡服何葳蕤，仙仙登綺墀。神飆獵紅蕖，龍燭映金枝。",
       "垂帶覆纖腰，安鈿當嫵眉。翹袖中繁鼓，傾眸溯華榱。",
-      "燕秦有舊曲，淮南多冶詞。欲見傾城處，君看赴節時。",
+      "燕秦有舊曲，淮南多冶詞。欲見傾城處，君看赴節時。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "觀柘枝舞二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "山雞臨清鏡，石燕赴遙津。何如上客會，長袖入華裀。",
       "體輕似無骨，觀者皆聳神。曲盡回身處，層波猶注人。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -581,19 +636,41 @@
     }
   },
   {
-    "title": "學阮公體三首",
+    "title": "學阮公體三首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "少年負志氣，通道不從時。只言繩自直，安知室可欺。",
-      "百勝難慮敵，三折乃良醫。人生不失意，焉能慕知己。",
+      "百勝難慮敵，三折乃良醫。人生不失意，焉能慕知己。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "學阮公體三首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "朔風悲老驥，秋霜動鷙禽。出門有遠道，平野多層陰。",
-      "滅沒馳絕塞，振迅拂華林。不因感衰節，安能激壯心。",
+      "滅沒馳絕塞，振迅拂華林。不因感衰節，安能激壯心。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "學阮公體三首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "昔賢多使氣，憂國不謀身。目覽千載事，心交上古人。",
       "侯門有仁義，靈台多苦辛。不學腰如磬，徒使甑生塵。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -655,17 +732,28 @@
     }
   },
   {
-    "title": "偶作二首",
+    "title": "偶作二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "終朝對尊酒，嗜興非嗜甘。終日偶眾人，縱言不縱談。",
-      "世情閒靜見，藥性病多諳。寄謝嵇中散，予無甚不堪。",
+      "世情閒靜見，藥性病多諳。寄謝嵇中散，予無甚不堪。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "偶作二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "萬卷堆床書，學者識其真。萬里長江水，征夫渡要津。",
       "養生非但藥，悟佛不因人。燕石何須辨，逢時即至珍。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

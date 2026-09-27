@@ -256,29 +256,62 @@
     }
   },
   {
-    "title": "贈夫詩三首",
+    "title": "贈夫詩三首·其一",
     "author": "孔氏",
     "paragraphs": [
-      "不忿成故人，掩涕每盈巾。死生今有隔，相見永無因。",
-      "匣裏殘妝粉，留將與後人。黃泉無用處，恨作塚中塵。",
-      "有意懷男女，無情亦任君。欲知腸斷處，明月照孤墳。"
+      "不忿成故人，掩涕每盈巾。死生今有隔，相見永無因。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "答夫詩二首",
+    "title": "贈夫詩三首·其二",
+    "author": "孔氏",
+    "paragraphs": [
+      "匣裏殘妝粉，留將與後人。黃泉無用處，恨作塚中塵。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "贈夫詩三首·其三",
+    "author": "孔氏",
+    "paragraphs": [
+      "有意懷男女，無情亦任君。欲知腸斷處，明月照孤墳。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "答夫詩二首·其一",
     "author": "張氏",
     "paragraphs": [
-      "不分殊幽顯，那堪異古今。陰陽徒自隔，聚散兩難心。",
+      "不分殊幽顯，那堪異古今。陰陽徒自隔，聚散兩難心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "答夫詩二首·其二",
+    "author": "張氏",
+    "paragraphs": [
       "蘭階兔月斜，銀燭半含花。自憐長夜客，泉路以為家。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -323,17 +356,28 @@
     }
   },
   {
-    "title": "贈夫二首",
+    "title": "贈夫二首·其一",
     "author": "韋璜",
     "paragraphs": [
-      "不得長相守，青春夭蕣華。舊遊今永已，泉路卻為家。",
+      "不得長相守，青春夭蕣華。舊遊今永已，泉路卻為家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "贈夫二首·其二",
+    "author": "韋璜",
+    "paragraphs": [
       "早知離別切人心，悔作從來恩愛深。",
       "黃泉冥寞雖長逝，白日屏帷還重尋。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -779,17 +823,28 @@
     }
   },
   {
-    "title": "題明月堂二首",
+    "title": "題明月堂二首·其一",
     "author": "劉氏亡婦",
     "paragraphs": [
       "蟬鬢驚秋華髮新，可憐紅隙盡埃塵。",
-      "西山一夢何年覺，明月堂前不見人。",
+      "西山一夢何年覺，明月堂前不見人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題明月堂二首·其二",
+    "author": "劉氏亡婦",
+    "paragraphs": [
       "玉鉤風急響丁東，回首西山似夢中。",
       "明月堂前人不到，庭前一夜老秋風。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -254,17 +254,28 @@
     }
   },
   {
-    "title": "題四老廟二首",
+    "title": "題四老廟二首·其一",
     "author": "許渾",
     "paragraphs": [
       "峨峨商嶺采芝人，雪頂霜髯虎豹茵。",
-      "山酒一卮歌一曲，漢家天子忌功臣。",
+      "山酒一卮歌一曲，漢家天子忌功臣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題四老廟二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "避秦安漢出藍關，松桂花陰滿舊山。",
       "自是無人有歸意，白雲常在水潺潺。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -308,17 +319,28 @@
     }
   },
   {
-    "title": "陳宮怨二首",
+    "title": "陳宮怨二首·其一",
     "author": "許渾",
     "paragraphs": [
       "風暖江城白日遲，昔人遺事後人悲。",
-      "草生宮闕國無主，玉樹後庭花為誰。",
+      "草生宮闕國無主，玉樹後庭花為誰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "陳宮怨二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "地雄山險水悠悠，不信隋兵到石頭。",
       "玉樹後庭花一曲，與君同上景陽樓。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -518,17 +540,28 @@
     }
   },
   {
-    "title": "楚宮怨二首",
+    "title": "楚宮怨二首·其一",
     "author": "許渾",
     "paragraphs": [
       "十二山晴花盡開，楚宮雙闕對陽臺。",
-      "細腰爭舞君沉醉，白日秦兵天上來。",
+      "細腰爭舞君沉醉，白日秦兵天上來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楚宮怨二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "獵騎秋來在內稀，渚宮雲雨濕龍衣。",
       "騰騰戰鼓動城闕，江畔射麋殊未歸。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -598,17 +631,28 @@
     }
   },
   {
-    "title": "學仙二首",
+    "title": "學仙二首·其一",
     "author": "許渾",
     "paragraphs": [
       "漢武迎仙紫禁秋，玉笙瑤瑟祀昆丘。",
-      "年年望斷無消息，空閉重城十二樓。",
+      "年年望斷無消息，空閉重城十二樓。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "學仙二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "心期仙訣意無窮，采畫雲車起壽宮。",
       "聞有三山未知處，茂陵松柏滿西風。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

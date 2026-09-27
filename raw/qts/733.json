@@ -143,15 +143,26 @@
     }
   },
   {
-    "title": "送蔡君知入蜀二首",
+    "title": "送蔡君知入蜀二首·其一",
     "author": "孔德紹",
     "paragraphs": [
-      "金陵已去國，銅梁忽背飛。失路遠相送，他鄉何日歸。",
+      "金陵已去國，銅梁忽背飛。失路遠相送，他鄉何日歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送蔡君知入蜀二首·其二",
+    "author": "孔德紹",
+    "paragraphs": [
       "靈關九折險，蜀道二星遙。乘槎若有便，希泛廣陵潮。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -249,19 +260,30 @@
     }
   },
   {
-    "title": "登樓望月二首",
+    "title": "登樓望月二首·其一",
     "author": "劉辟",
     "paragraphs": [
       "圓月當新霽，高樓見最明。素波流粉壁，丹桂拂飛甍。",
       "下瞰千門靜，旁觀萬象生。梧桐窗下影，烏鵲檻前聲。",
-      "嘯逸劉琨興，吟資庾亮情。遊人莫登眺，迢遞故鄉程。",
+      "嘯逸劉琨興，吟資庾亮情。遊人莫登眺，迢遞故鄉程。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "登樓望月二首·其二",
+    "author": "劉辟",
+    "paragraphs": [
       "皎潔三秋月，巍峨百丈樓。下分征客路，上有美人愁。",
       "帳卷芙蓉帶，簾褰玳瑁鉤。倚窗情渺渺，憑檻思悠悠。",
       "未得金波轉，俄成玉箸流。不堪三五夕，夫婿在邊州。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

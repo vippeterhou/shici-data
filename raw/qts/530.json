@@ -52,32 +52,54 @@
     }
   },
   {
-    "title": "重經姑蘇懷古二首",
+    "title": "重經姑蘇懷古二首·其一",
     "author": "許渾",
     "paragraphs": [
       "越兵驅綺羅，越女唱吳歌。宮盡燕聲少，台荒麋跡多。",
-      "茱萸垂曉露，菡萏落秋波。無複君王醉，滿城顰翠蛾。",
-      "香徑繞吳宮，千帆落照中。鸛鳴山欲雨，魚躍水多風。",
-      "城帶晚莎綠，池連秋蓼紅。當年國門外，誰識伍員忠。"
+      "茱萸垂曉露，菡萏落秋波。無複君王醉，滿城顰翠蛾。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "將赴京師，留題孫處士山居二首",
+    "title": "重經姑蘇懷古二首·其二",
+    "author": "許渾",
+    "paragraphs": [
+      "香徑繞吳宮，千帆落照中。鸛鳴山欲雨，魚躍水多風。",
+      "城帶晚莎綠，池連秋蓼紅。當年國門外，誰識伍員忠。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "將赴京師，留題孫處士山居二首·其一",
     "author": "許渾",
     "paragraphs": [
       "草堂近西郭，遙對敬亭開。枕膩海雲起，簟涼山雨來。",
-      "高歌懷地肺，遠賦憶天臺。應學相如志，終須駟馬回。",
+      "高歌懷地肺，遠賦憶天臺。應學相如志，終須駟馬回。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "將赴京師，留題孫處士山居二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "西岩有高興，路僻幾人知。松蔭花開晚，山寒酒熟遲。",
       "遊從隨野鶴，休息遇靈龜。長見鄰翁說，容華似舊時。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -238,17 +260,28 @@
     }
   },
   {
-    "title": "將歸塗口，宿郁林寺道玄上人院二首",
+    "title": "將歸塗口，宿郁林寺道玄上人院二首·其一",
     "author": "許渾",
     "paragraphs": [
       "西岩一磬長，僧起樹蒼蒼。開殿灑寒水，誦經焚晚香。",
-      "竹風雲漸散，杉露月猶光。無複重來此，歸舟淩夕陽。",
+      "竹風雲漸散，杉露月猶光。無複重來此，歸舟淩夕陽。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "將歸塗口，宿郁林寺道玄上人院二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "春尋采藥翁，歸路宿禪宮。雲起客眠處，月殘僧定中。",
       "藤花深洞水，槲葉滿山風。清境不能住，朝朝慚遠公。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -318,17 +351,28 @@
     }
   },
   {
-    "title": "病中二首",
+    "title": "病中二首·其一",
     "author": "許渾",
     "paragraphs": [
       "三年嬰酒渴，高臥似袁安。秋色鬢應改，夜涼心已寬。",
-      "風衣藤簟滑，露井竹床寒。臥憶郊扉月，恩深未掛冠。",
+      "風衣藤簟滑，露井竹床寒。臥憶郊扉月，恩深未掛冠。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "病中二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "私歸人暫適，扶杖繞西林。風急柳溪響，露寒莎徑深。",
       "一身仍白髮，萬慮只丹心。此意無言處，高窗托素琴。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

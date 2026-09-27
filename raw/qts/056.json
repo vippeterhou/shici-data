@@ -299,17 +299,28 @@
     }
   },
   {
-    "title": "銅雀妓二首",
+    "title": "銅雀妓二首·其一",
     "author": "王勃",
     "paragraphs": [
       "金鳳鄰銅雀，漳河望鄴城。君王無處所，台榭若平生。",
-      "舞席紛何就，歌梁儼未傾。西陵松檟冷，誰見綺羅情。",
+      "舞席紛何就，歌梁儼未傾。西陵松檟冷，誰見綺羅情。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "銅雀妓二首·其二",
+    "author": "王勃",
+    "paragraphs": [
       "妾本深宮妓，層城閉九重。君王歡愛盡，歌舞為誰容。",
       "錦衾不復襞，羅衣誰再縫。高臺西北望，流涕向青松。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -555,43 +566,98 @@
     }
   },
   {
-    "title": "臨江二首",
+    "title": "臨江二首·其一",
     "author": "王勃",
     "paragraphs": [
-      "泛泛東流水，飛飛北上塵。歸驂將別棹，俱是倦遊人。",
+      "泛泛東流水，飛飛北上塵。歸驂將別棹，俱是倦遊人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "臨江二首·其二",
+    "author": "王勃",
+    "paragraphs": [
       "去驂嘶別路，歸棹隱寒洲。江皋木葉下，應想故城秋。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "江亭夜月送別二首",
+    "title": "江亭夜月送別二首·其一",
     "author": "王勃",
     "paragraphs": [
-      "江送巴南水，山橫塞北雲。津亭秋月夜，誰見泣離群。",
+      "江送巴南水，山橫塞北雲。津亭秋月夜，誰見泣離群。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江亭夜月送別二首·其二",
+    "author": "王勃",
+    "paragraphs": [
       "亂煙籠碧砌，飛月向南端。寂寂離亭掩，江山此夜寒。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "別人四首",
+    "title": "別人四首·其一",
     "author": "王勃",
     "paragraphs": [
-      "久客逢餘閏，他鄉別故人。自然堪下淚，誰忍望征塵。",
-      "江上風煙積，山幽雲霧多。送君南浦外，還望將如何。",
-      "桂軺雖不駐，蘭筵幸未開。林塘風月賞，還待故人來。",
+      "久客逢餘閏，他鄉別故人。自然堪下淚，誰忍望征塵。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "別人四首·其二",
+    "author": "王勃",
+    "paragraphs": [
+      "江上風煙積，山幽雲霧多。送君南浦外，還望將如何。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "別人四首·其三",
+    "author": "王勃",
+    "paragraphs": [
+      "桂軺雖不駐，蘭筵幸未開。林塘風月賞，還待故人來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "別人四首·其四",
+    "author": "王勃",
+    "paragraphs": [
       "霜華淨天末，霧色籠江際。客子常畏人，何為久留滯。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -647,16 +713,38 @@
     }
   },
   {
-    "title": "寒夜思友三首",
+    "title": "寒夜思友三首·其一",
     "author": "王勃",
     "paragraphs": [
-      "久別侵懷抱，他鄉變容色。月下調鳴琴，相思此何極。",
-      "雲間征思斷，月下歸愁切。鴻雁西南飛，如何故人別。",
+      "久別侵懷抱，他鄉變容色。月下調鳴琴，相思此何極。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寒夜思友三首·其二",
+    "author": "王勃",
+    "paragraphs": [
+      "雲間征思斷，月下歸愁切。鴻雁西南飛，如何故人別。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寒夜思友三首·其三",
+    "author": "王勃",
+    "paragraphs": [
       "朝朝翠山下，夜夜蒼江曲。複此遙相思，清尊湛芳綠。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -709,17 +797,28 @@
     }
   },
   {
-    "title": "秋江送別二首",
+    "title": "秋江送別二首·其一",
     "author": "王勃",
     "paragraphs": [
       "早是他鄉值早秋，江亭明月帶江流。",
-      "已覺逝川傷別念，複看津樹隱離舟。",
+      "已覺逝川傷別念，複看津樹隱離舟。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "秋江送別二首·其二",
+    "author": "王勃",
+    "paragraphs": [
       "歸舟歸騎儼成行，江南江北互相望。",
       "誰謂波瀾才一水，已覺山川是兩鄉。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -737,17 +836,28 @@
     }
   },
   {
-    "title": "寒夜懷友雜體二首",
+    "title": "寒夜懷友雜體二首·其一",
     "author": "王勃",
     "paragraphs": [
       "北山煙霧始茫茫，南津霜月正蒼蒼。",
-      "秋深客思紛無已，複值征鴻中夜起。",
+      "秋深客思紛無已，複值征鴻中夜起。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寒夜懷友雜體二首·其二",
+    "author": "王勃",
+    "paragraphs": [
       "複合重樓向浦開，秋風明月度江來。",
       "故人故情懷故宴，相望相思不相見。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -781,20 +891,31 @@
     }
   },
   {
-    "title": "出境遊山二首",
+    "title": "出境遊山二首·其一",
     "author": "王勃",
     "paragraphs": [
       "源水終無路，山阿若有人。驅羊先動石，走兔欲投巾。",
       "洞晚秋泉冷，岩朝古樹新。峰斜連鳥翅，磴疊上魚鱗。",
-      "化鶴千齡早，元龜六代春。浮雲今可駕，滄海自成塵。",
+      "化鶴千齡早，元龜六代春。浮雲今可駕，滄海自成塵。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "出境遊山二首·其二",
+    "author": "王勃",
+    "paragraphs": [
       "振翮淩霜吹，正月佇天潯。回鑣淩翠壑，飛軫控青岑。",
       "岩深靈灶沒，澗毀石渠沉。宮闕雲間近，江山物外臨。",
       "玉壇棲暮夜，珠洞結秋陰。蕭蕭離俗影，擾擾望鄉心。",
       "誰意山遊好，屢傷人事侵。"
     ],
     "format": {
-      "sentence_count": 26,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

@@ -182,17 +182,28 @@
     }
   },
   {
-    "title": "春晚山莊率題二首",
+    "title": "春晚山莊率題二首·其一",
     "author": "盧照鄰",
     "paragraphs": [
       "顧步三春晚，田園四望通。遊絲橫惹樹，戲蝶亂依叢。",
-      "竹懶偏宜水，花狂不待風。唯餘詩酒意，當了一生中。",
+      "竹懶偏宜水，花狂不待風。唯餘詩酒意，當了一生中。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春晚山莊率題二首·其二",
+    "author": "盧照鄰",
+    "paragraphs": [
       "田家無四鄰，獨坐一園春。鶯啼非選樹，魚戲不驚綸。",
       "山水彈琴盡，風花酌酒頻。年華已可樂，高興複留人。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -288,17 +299,28 @@
     }
   },
   {
-    "title": "七夕泛舟二首",
+    "title": "七夕泛舟二首·其一",
     "author": "盧照鄰",
     "paragraphs": [
       "汀葭肅徂暑，江樹起初涼。水疑通織室，舟似泛仙潢。",
-      "連橈渡急響，鳴棹下浮光。日晚菱歌唱，風煙滿夕陽。",
+      "連橈渡急響，鳴棹下浮光。日晚菱歌唱，風煙滿夕陽。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "七夕泛舟二首·其二",
+    "author": "盧照鄰",
+    "paragraphs": [
       "鳳杼秋期至，鳧舟野望開。微吟翠塘側，延想白雲隈。",
       "石似支機罷，槎疑犯宿來。天潢殊漫漫，日暮獨悠哉。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -670,15 +692,26 @@
     }
   },
   {
-    "title": "宿玄武二首",
+    "title": "宿玄武二首·其一",
     "author": "盧照鄰",
     "paragraphs": [
-      "方池開曉色，圓月下秋陰。已乘千里興，還撫一弦琴。",
+      "方池開曉色，圓月下秋陰。已乘千里興，還撫一弦琴。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宿玄武二首·其二",
+    "author": "盧照鄰",
+    "paragraphs": [
       "庭搖北風柳，院繞南溟禽。累宿恩方重，窮秋歎不深。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -707,21 +740,54 @@
     }
   },
   {
-    "title": "登封大酺歌四首",
+    "title": "登封大酺歌四首·其一",
     "author": "盧照鄰",
     "paragraphs": [
       "明君封禪日重光，天子垂衣歷數長。",
-      "九州四海常無事，萬歲千秋樂未央。",
+      "九州四海常無事，萬歲千秋樂未央。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "登封大酺歌四首·其二",
+    "author": "盧照鄰",
+    "paragraphs": [
       "日觀仙雲隨鳳輦，天門瑞雪照龍衣。",
-      "繁弦綺席方終夜，妙舞清歌歡未歸。",
+      "繁弦綺席方終夜，妙舞清歌歡未歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "登封大酺歌四首·其三",
+    "author": "盧照鄰",
+    "paragraphs": [
       "翠鳳逶迤登介丘，仙鶴裴回天上游。",
-      "借問幹封何所樂，人皆壽命得千秋。",
+      "借問幹封何所樂，人皆壽命得千秋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "登封大酺歌四首·其四",
+    "author": "盧照鄰",
+    "paragraphs": [
       "千年聖主應昌期，萬國淳風王化基。",
       "請比上古無為代，何如今日太平時。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -156,17 +156,28 @@
     }
   },
   {
-    "title": "詠手二首",
+    "title": "詠手二首·其一",
     "author": "趙光遠",
     "paragraphs": [
       "妝成皓腕洗凝脂，背接紅巾掬水時。薄霧袖中拈玉斝，",
-      "好是琵琶弦畔見，細圓無節玉參差。",
+      "好是琵琶弦畔見，細圓無節玉參差。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "詠手二首·其二",
+    "author": "趙光遠",
+    "paragraphs": [
       "撚玉搓瓊軟複圓，綠窗誰見上琴弦。慢籠彩筆閒書字，",
       "象床珍簟宮棋處，拈定文楸占角邊。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -1,125 +1,521 @@
 [
   {
-    "title": "遣春十首",
+    "title": "遣春十首·其一",
     "author": "元稹",
     "paragraphs": [
       "曉月籠雲影，鶯聲餘霧中。暗芳飄露氣，輕寒生柳風。",
-      "冉冉一趨府，未為勞我躬。因茲得晨起，但覺情興隆。",
+      "冉冉一趨府，未為勞我躬。因茲得晨起，但覺情興隆。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣春十首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "久雨憐霽景，偶來堤上行。空蒙天色嫩，杳淼江面平。",
-      "百草短長出，眾禽高下鳴。春陽各有分，予亦澹無情。",
+      "百草短長出，眾禽高下鳴。春陽各有分，予亦澹無情。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣春十首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "鏡皎碧潭水，微波粗成文。煙光垂碧草，瓊脈散纖雲。",
-      "岸柳好陰影，風裾遺垢氛。悠然送春目，八荒誰與群。",
+      "岸柳好陰影，風裾遺垢氛。悠然送春目，八荒誰與群。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣春十首·其四",
+    "author": "元稹",
+    "paragraphs": [
       "低迷籠樹煙，明淨當霞日。陽焰波春空，平湖漫凝溢。",
-      "雪鷺遠近飛，渚牙淺深出。江流複浩蕩，相為坐紆鬱。",
+      "雪鷺遠近飛，渚牙淺深出。江流複浩蕩，相為坐紆鬱。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣春十首·其五",
+    "author": "元稹",
+    "paragraphs": [
       "暄寒深淺春，紅白前後花。顏色詎相讓，生成良有涯。",
-      "梅芳勿自早，菊秀勿自賒。各將一時意，終年無再華。",
+      "梅芳勿自早，菊秀勿自賒。各將一時意，終年無再華。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣春十首·其六",
+    "author": "元稹",
+    "paragraphs": [
       "高屋童稚少，春來歸燕多。葺舊良易就，新院亦已羅。",
-      "俯憐雛化卵，仰愧鵬無窠。巢棟與巢幕，秋風俱奈何。",
+      "俯憐雛化卵，仰愧鵬無窠。巢棟與巢幕，秋風俱奈何。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣春十首·其七",
+    "author": "元稹",
+    "paragraphs": [
       "撩亂撲樹蜂，摧殘戀房蕊。風吹雨又頻，安得繁於綺。",
-      "酒杯沉易過，世事紛何已。莫倚顏似花，君看歲如水。",
+      "酒杯沉易過，世事紛何已。莫倚顏似花，君看歲如水。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣春十首·其八",
+    "author": "元稹",
+    "paragraphs": [
       "繞郭高高塚，半是荊王墓。後嗣熾陽臺，前賢甘蓽路。",
-      "善惡徒自分，波流盡東注。胡然不飲酒，坐落桐花樹。",
+      "善惡徒自分，波流盡東注。胡然不飲酒，坐落桐花樹。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣春十首·其九",
+    "author": "元稹",
+    "paragraphs": [
       "花陰莎草長，藉莎閑自酌。坐看鶯鬥枝，輕花滿尊杓。",
-      "葛巾竹稍掛，書卷琴上閣。沽酒過此生，狂歌眼前樂。",
+      "葛巾竹稍掛，書卷琴上閣。沽酒過此生，狂歌眼前樂。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣春十首·其十",
+    "author": "元稹",
+    "paragraphs": [
       "梨葉已成陰，柳條紛起絮。波綠紫屏風，螺紅碧籌箸。",
       "三杯面上熱，萬事心中去。我意風散雲，何勞問行處。"
     ],
     "format": {
-      "sentence_count": 80,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "表夏十首",
+    "title": "表夏十首·其一",
     "author": "元稹",
     "paragraphs": [
       "夏風多暖暖，樹木有繁陰。新筍紫長短，早櫻紅淺深。",
-      "煙花雲幕重，榴豔朝景侵。華實各自好，詎雲芳意沉。",
+      "煙花雲幕重，榴豔朝景侵。華實各自好，詎雲芳意沉。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "表夏十首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "初日滿階前，輕風動簾影。旬時得休浣，高臥閱清景。",
-      "僮兒拂巾箱，鴉軋深林井。心到物自閑，何勞遠箕潁。",
+      "僮兒拂巾箱，鴉軋深林井。心到物自閑，何勞遠箕潁。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "表夏十首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "江瘴炎夏早，蒸騰信難度。今宵好風月，獨此荒庭趣。",
-      "露葉傾暗光，流星委餘素。但恐清夜徂，詎悲朝景暮。",
+      "露葉傾暗光，流星委餘素。但恐清夜徂，詎悲朝景暮。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "表夏十首·其四",
+    "author": "元稹",
+    "paragraphs": [
       "孟月夏猶淺，奇雲未成峰。度霞紅漠漠，壓浪白溶溶。",
-      "玉委有餘潤，飆馳無去蹤。何如捧雲雨，噴毒隨蛟龍。",
+      "玉委有餘潤，飆馳無去蹤。何如捧雲雨，噴毒隨蛟龍。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "表夏十首·其五",
+    "author": "元稹",
+    "paragraphs": [
       "流芳遞炎景，繁英盡寥落。公署香滿庭，晴霞覆闌藥。",
-      "裁紅起高焰，綴綠排新萼。憑此遣幽懷，非言念將謔。",
+      "裁紅起高焰，綴綠排新萼。憑此遣幽懷，非言念將謔。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "表夏十首·其六",
+    "author": "元稹",
+    "paragraphs": [
       "紅絲散芳樹，旋轉光風急。煙泛被籠香，露濃妝面濕。",
-      "佳人不在此，恨望階前立。忽厭夏景長，今春行已及。",
+      "佳人不在此，恨望階前立。忽厭夏景長，今春行已及。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "表夏十首·其七",
+    "author": "元稹",
+    "paragraphs": [
       "百舌漸吞聲，黃鶯正嬌小。雲鴻方警夜，籠雞已鳴曉。",
-      "當時客自適，運去誰能矯。莫厭夏蟲多，蜩螗定相擾。",
+      "當時客自適，運去誰能矯。莫厭夏蟲多，蜩螗定相擾。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "表夏十首·其八",
+    "author": "元稹",
+    "paragraphs": [
       "翩翩簾外燕，戢戢巢內雛。啖食筋力盡，毛衣成紫襦。",
-      "朝來各飛去，雄雌梁上呼。養子將備老，惡兒那勝無。",
+      "朝來各飛去，雄雌梁上呼。養子將備老，惡兒那勝無。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "表夏十首·其九",
+    "author": "元稹",
+    "paragraphs": [
       "西山夏雪消，江勢東南瀉。風波高若天，灩澦低於馬。",
-      "正被黃牛旋，難期白帝下。我在平地行，翻憂濟川者。",
+      "正被黃牛旋，難期白帝下。我在平地行，翻憂濟川者。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "表夏十首·其十",
+    "author": "元稹",
+    "paragraphs": [
       "靈均死波後，是節常浴蘭。彩縷碧筠粽，香粳白玉團。",
       "逝者良自苦，今人反為歡。哀哉徇名士，沒命求所難。"
     ],
     "format": {
-      "sentence_count": 80,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "解秋十首",
+    "title": "解秋十首·其一",
     "author": "元稹",
     "paragraphs": [
       "清晨頮寒水，動搖襟袖輕。翳翳林上葉，不知秋暗生。",
-      "回悲鏡中發，華白三四莖。豈無滿頭黑，念此衰已萌。",
+      "回悲鏡中發，華白三四莖。豈無滿頭黑，念此衰已萌。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "解秋十首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "微霜才結露，翔鳩初變鷹。無乃天地意，使之行小懲。",
-      "鴟鴞誠可惡，蔽日有高鵬。舍大以擒細，我心終不能。",
+      "鴟鴞誠可惡，蔽日有高鵬。舍大以擒細，我心終不能。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "解秋十首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "往歲學仙侶，各在無何鄉。同時騖名者，次第鵷鷺行。",
-      "而我兩不遂，三十鬢添霜。日暮江上立，蟬鳴楓樹黃。",
+      "而我兩不遂，三十鬢添霜。日暮江上立，蟬鳴楓樹黃。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "解秋十首·其四",
+    "author": "元稹",
+    "paragraphs": [
       "後伏火猶在，先秋蟬已多。雲色日夜白，驕陽能幾何。",
-      "壤隙漏江海，忽微成網羅。勿言時不至，但恐歲蹉跎。",
+      "壤隙漏江海，忽微成網羅。勿言時不至，但恐歲蹉跎。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "解秋十首·其五",
+    "author": "元稹",
+    "paragraphs": [
       "新月才到地，輕河如泛雲。螢飛高下火，樹影參差文。",
-      "露簟有微潤，清香時暗焚。夜閒心寂默，洞庭無垢氛。",
+      "露簟有微潤，清香時暗焚。夜閒心寂默，洞庭無垢氛。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "解秋十首·其六",
+    "author": "元稹",
+    "paragraphs": [
       "霽麗床前影，飄蕭簾外竹。簟涼朝睡重，夢覺茶香熟。",
-      "親烹園內葵，憑買家家曲。釀酒並毓蔬，人來有棋局。",
+      "親烹園內葵，憑買家家曲。釀酒並毓蔬，人來有棋局。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "解秋十首·其七",
+    "author": "元稹",
+    "paragraphs": [
       "寒竹秋雨重，淩霄晚花落。低回翠玉梢，散亂梔黃萼。",
-      "顏色有殊異，風霜無好惡。年年百草芳，畢意同蕭索。",
+      "顏色有殊異，風霜無好惡。年年百草芳，畢意同蕭索。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "解秋十首·其八",
+    "author": "元稹",
+    "paragraphs": [
       "春非我獨春，秋非我獨秋。豈念百草死，但念霜滿頭。",
-      "頭白古所同，胡為坐煩憂。茫茫百年內，處身良未休。",
+      "頭白古所同，胡為坐煩憂。茫茫百年內，處身良未休。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "解秋十首·其九",
+    "author": "元稹",
+    "paragraphs": [
       "西風冷衾簟，輾轉布華茵。來者承玉體，去者流芳塵。",
-      "適意醜為好，及時疏亦親。衰周仲尼出，無乃為妖人。",
+      "適意醜為好，及時疏亦親。衰周仲尼出，無乃為妖人。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "解秋十首·其十",
+    "author": "元稹",
+    "paragraphs": [
       "漠漠江面燒，微微楓樹煙。今日複今夕，秋懷方浩然。",
       "況我頭上發，衰白不待年。我懷有時極，此意何由詮。"
     ],
     "format": {
-      "sentence_count": 80,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "遣病十首",
+    "title": "遣病十首·其一",
     "author": "元稹",
     "paragraphs": [
       "服藥備江瘴，四年方一癘。豈是藥無功，伊予久留滯。",
-      "滯留人固薄，瘴久藥難制。去日良已甘，歸途奈無際。",
+      "滯留人固薄，瘴久藥難制。去日良已甘，歸途奈無際。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣病十首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "棄置何所任，鄭公憐我病。三十九萬錢，資予養頑暝。",
-      "身賤殺何益，恩深報難罄。公其萬千年，世有天之鄭。",
+      "身賤殺何益，恩深報難罄。公其萬千年，世有天之鄭。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣病十首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "憶作孩稚初，健羨成人列。倦學厭日長，嬉遊念佳節。",
-      "今來漸諱年，頓與前心別。白日速如飛，佳晨亦騷屑。",
+      "今來漸諱年，頓與前心別。白日速如飛，佳晨亦騷屑。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣病十首·其四",
+    "author": "元稹",
+    "paragraphs": [
       "昔在痛飲場，憎人病辭醉。病來身怕酒，始悟他人意。",
-      "怕酒豈不閑，悲無少年氣。傳語少年兒，杯盤莫回避。",
+      "怕酒豈不閑，悲無少年氣。傳語少年兒，杯盤莫回避。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣病十首·其五",
+    "author": "元稹",
+    "paragraphs": [
       "憶初頭始白，晝夜驚一縷。漸及鬢與須，多來不能數。",
-      "壯年等閒過，過壯年已五。華髮不再青，勞生竟何補。",
+      "壯年等閒過，過壯年已五。華髮不再青，勞生竟何補。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣病十首·其六",
+    "author": "元稹",
+    "paragraphs": [
       "在家非不病，有病心亦安。起居甥侄扶，藥餌兄嫂看。",
-      "今病兄遠路，道遙書信難。寄言嬌小弟，莫作官家官。",
+      "今病兄遠路，道遙書信難。寄言嬌小弟，莫作官家官。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣病十首·其七",
+    "author": "元稹",
+    "paragraphs": [
       "燕巢官舍內，我爾俱為客。歲晚我獨留，秋深爾安適。",
-      "風高翅羽垂，路遠煙波隔。去去玉山岑，人間網羅窄。",
+      "風高翅羽垂，路遠煙波隔。去去玉山岑，人間網羅窄。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣病十首·其八",
+    "author": "元稹",
+    "paragraphs": [
       "簷宇夜來曠，暗知秋已生。臥悲衾簟冷，病覺支體輕。",
-      "炎昏豈不倦，時去聊自驚。浩歎終一夕，空堂天欲明。",
+      "炎昏豈不倦，時去聊自驚。浩歎終一夕，空堂天欲明。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣病十首·其九",
+    "author": "元稹",
+    "paragraphs": [
       "秋依靜處多，況乃淩晨趣。深竹蟬晝風，翠茸衫曉露。",
-      "庭莎病看長，林果閑知數。何以強健時，公門日勞騖。",
+      "庭莎病看長，林果閑知數。何以強健時，公門日勞騖。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣病十首·其十",
+    "author": "元稹",
+    "paragraphs": [
       "朝結故鄉念，暮作空堂寢。夢別淚亦流，啼痕暗橫枕。",
       "昔愁憑酒遣，今病安能飲。落盡秋槿花，離人病猶甚。"
     ],
     "format": {
-      "sentence_count": 80,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

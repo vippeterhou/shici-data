@@ -896,15 +896,26 @@
     }
   },
   {
-    "title": "登荊州城望江二首",
+    "title": "登荊州城望江二首·其一",
     "author": "張九齡",
     "paragraphs": [
-      "滔滔大江水，天地相終始。經閱幾世人，複歎誰家子。",
+      "滔滔大江水，天地相終始。經閱幾世人，複歎誰家子。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "登荊州城望江二首·其二",
+    "author": "張九齡",
+    "paragraphs": [
       "東望何悠悠，西來晝夜流。歲月既如此，為心那不愁。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

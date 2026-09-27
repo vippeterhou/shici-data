@@ -276,17 +276,28 @@
     }
   },
   {
-    "title": "高安公主挽歌二首",
+    "title": "高安公主挽歌二首·其一",
     "author": "李乂",
     "paragraphs": [
       "湯沐三千賦，樓臺十二重。銀爐稱貴幸，玉輦盛過逢。",
-      "嬪則留中饋，娥輝沒下舂。平陽百歲後，歌舞為誰容。",
+      "嬪則留中饋，娥輝沒下舂。平陽百歲後，歌舞為誰容。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "高安公主挽歌二首·其二",
+    "author": "李乂",
+    "paragraphs": [
       "賓衛儼相依，橫門啟曙扉。靈陰蟾兔缺，仙影鳳凰飛。",
       "一水秋難渡，三泉夜不歸。況臨青女節，瑤草更前哀。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

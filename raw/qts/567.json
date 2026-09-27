@@ -58,17 +58,28 @@
     }
   },
   {
-    "title": "春晚岳陽言懷二首",
+    "title": "春晚岳陽言懷二首·其一",
     "author": "崔櫓",
     "paragraphs": [
       "煙花零落過清明，異國光陰老客情。雲夢夕陽愁裏色，",
-      "獨倚闌幹意難寫，暮笳嗚咽調孤城。",
+      "獨倚闌幹意難寫，暮笳嗚咽調孤城。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "春晚岳陽言懷二首·其二",
+    "author": "崔櫓",
+    "paragraphs": [
       "翠煙如鈿柳如環，晴倚南樓獨看山。江國草花三月暮，",
       "何以不羈詹父伴，睡煙歌月老潺潺。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -136,19 +147,41 @@
     }
   },
   {
-    "title": "華清宮三首",
+    "title": "華清宮三首·其一",
     "author": "崔櫓",
     "paragraphs": [
       "草遮回磴絕鳴鑾，雲樹深深碧殿寒。",
-      "明月自來還自去，更無人倚玉欄幹。",
+      "明月自來還自去，更無人倚玉欄幹。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "華清宮三首·其二",
+    "author": "崔櫓",
+    "paragraphs": [
       "障掩金雞蓄禍機，翠華西拂蜀雲飛。",
-      "珠簾一閉朝元閣，不見人歸見燕歸。",
+      "珠簾一閉朝元閣，不見人歸見燕歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "華清宮三首·其三",
+    "author": "崔櫓",
+    "paragraphs": [
       "門橫金鎖悄無人，落日秋聲渭水濱。",
       "紅葉下山寒寂寂，濕雲如夢雨如塵。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

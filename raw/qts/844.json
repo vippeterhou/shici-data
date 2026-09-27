@@ -897,17 +897,28 @@
     }
   },
   {
-    "title": "江寺春殘寄幕中知己二首",
+    "title": "江寺春殘寄幕中知己二首·其一",
     "author": "齊己",
     "paragraphs": [
       "誰遣西來負岳雲，自由歸去竟何因。山龕薜荔應殘雪，",
-      "何妨夜醮時相憶，伴醉佯狂笑老身。",
+      "何妨夜醮時相憶，伴醉佯狂笑老身。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "江寺春殘寄幕中知己二首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "社蓮慚與幕蓮同，嶽寺蕭條儉府雄。冷淡獨開香火裏，",
       "閑憶遺民此心地，一般無染喻真空。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -925,19 +936,41 @@
     }
   },
   {
-    "title": "荊渚感懷寄僧達禪弟三首",
+    "title": "荊渚感懷寄僧達禪弟三首·其一",
     "author": "齊己",
     "paragraphs": [
       "電擊流年七十三，齒衰氣沮竟何堪。誰雲有句傳天下，",
-      "鄰峰道者應彈指，蘚剝藤纏舊石龕。",
+      "鄰峰道者應彈指，蘚剝藤纏舊石龕。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "荊渚感懷寄僧達禪弟三首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "十五年前會虎溪，白蓮齋後便來西。干戈時變信雖絕，",
-      "春殘相憶荊江岸，一隻杜鵑頭上啼。",
+      "春殘相憶荊江岸，一隻杜鵑頭上啼。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "荊渚感懷寄僧達禪弟三首·其三",
+    "author": "齊己",
+    "paragraphs": [
       "鶴嶺僧來細話君，依前高尚跡難群。自拋南嶽三生石，",
       "莫將離別為相隔，心似虛空幾處分。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

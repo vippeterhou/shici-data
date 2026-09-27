@@ -38,17 +38,28 @@
     }
   },
   {
-    "title": "又詩二首",
+    "title": "又詩二首·其一",
     "author": "馬湘",
     "paragraphs": [
       "省悟前非一息間，更拋閒事棄塵寰。徒誇美酒如瓊液，",
-      "雲中幸有堪歸路，無限青山是我山。",
+      "雲中幸有堪歸路，無限青山是我山。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "又詩二首·其二",
+    "author": "馬湘",
+    "paragraphs": [
       "何用燒丹學駐顏，鬧非城市靜非山。",
       "時人若覓長生藥，對景無心是大還。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -193,17 +204,28 @@
     }
   },
   {
-    "title": "漁父引二首",
+    "title": "漁父引二首·其一",
     "author": "李夢符",
     "paragraphs": [
       "村寺鐘聲度遠灘，半輪殘月落山前。",
-      "徐徐撥棹卻歸灣，浪疊朝霞錦繡翻。",
+      "徐徐撥棹卻歸灣，浪疊朝霞錦繡翻。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "漁父引二首·其二",
+    "author": "李夢符",
+    "paragraphs": [
       "漁弟漁兄喜到來，波官賽卻坐江隈。",
       "椰榆杓子木瘤杯，爛煮鱸魚滿案堆。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -542,21 +564,54 @@
     }
   },
   {
-    "title": "大丹詩四首",
+    "title": "大丹詩四首·其一",
     "author": "李浩",
     "paragraphs": [
       "混沌未分我獨存，包含四象立乾坤。",
-      "還丹須向此中覓，得此方為至妙門。",
+      "還丹須向此中覓，得此方為至妙門。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "大丹詩四首·其二",
+    "author": "李浩",
+    "paragraphs": [
       "煮石烹金煉太元，神仙不肯等閒傳。",
-      "人能認得其中理，奪盡乾坤造化權。",
+      "人能認得其中理，奪盡乾坤造化權。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "大丹詩四首·其三",
+    "author": "李浩",
+    "paragraphs": [
       "百首荒辭義亦深，因傳同道決疑心。",
-      "華池本是真神水，神水元來是白金。",
+      "華池本是真神水，神水元來是白金。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "大丹詩四首·其四",
+    "author": "李浩",
+    "paragraphs": [
       "取將白金為鼎器，鼎成潛伏汞來侵。",
       "汞入金鼎終年盡，產出靈砂似太陰。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

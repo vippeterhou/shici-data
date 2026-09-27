@@ -377,18 +377,29 @@
     }
   },
   {
-    "title": "感寓二首",
+    "title": "感寓二首·其一",
     "author": "梁德裕",
     "paragraphs": [
       "彩雲呈瑞質，五色發人寰。獨作龍虎狀，孤飛天地間。",
-      "隱隱臨北極，峨峨象南山。恨在帝鄉外，不逢枝葉攀。",
+      "隱隱臨北極，峨峨象南山。恨在帝鄉外，不逢枝葉攀。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "感寓二首·其二",
+    "author": "梁德裕",
+    "paragraphs": [
       "幽澗生蕙若，幽渚老江蘺。榮落人不見，芳香徒爾為。",
       "不及綠萍草，生君紅蓮池。左右美人弄，朝夕春風吹。",
       "葉洗玉泉水，珠清湛露滋。心亦願如此，托君君不知。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -487,19 +498,41 @@
     }
   },
   {
-    "title": "東郊納涼，憶左威衛李錄事收昆季、太原崔參軍三首",
+    "title": "東郊納涼，憶左威衛李錄事收昆季、太原崔參軍三首·其一",
     "author": "樓穎",
     "paragraphs": [
       "水竹誰家宅，幽庭向苑門。今知季倫沼，舊是辟疆園。",
-      "饑鷺窺魚靜，鳴鴉帶子喧。興成隻自適，欲白返忘言。",
+      "饑鷺窺魚靜，鳴鴉帶子喧。興成隻自適，欲白返忘言。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "東郊納涼，憶左威衛李錄事收昆季、太原崔參軍三首·其二",
+    "author": "樓穎",
+    "paragraphs": [
       "納涼每選地，近是青門東。林與繚垣接，池將沁水通。",
-      "枝交帝女樹，橋映美人虹。想是忘機者，悠悠在興中。",
+      "枝交帝女樹，橋映美人虹。想是忘機者，悠悠在興中。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "東郊納涼，憶左威衛李錄事收昆季、太原崔參軍三首·其三",
+    "author": "樓穎",
+    "paragraphs": [
       "林間求適意，池上得清飆。稍稍斜回楫，時時一度橋。",
       "水光壁際動，山影浪中搖。不見李元禮，神仙何處要。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

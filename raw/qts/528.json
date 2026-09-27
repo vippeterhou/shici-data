@@ -52,19 +52,41 @@
     }
   },
   {
-    "title": "早秋三首",
+    "title": "早秋三首·其一",
     "author": "許渾",
     "paragraphs": [
       "遙夜泛清瑟，西風生翠蘿。殘螢委玉露，早雁拂銀河。",
-      "高樹曉還密，遠山晴更多。淮南一葉下，自覺老煙波。",
+      "高樹曉還密，遠山晴更多。淮南一葉下，自覺老煙波。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "早秋三首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "一葉下前墀，淮南人已悲。蹉跎青漢望，迢遞白雲期。",
-      "老信相如渴，貧憂曼倩饑。生公與園吏，何處是吾師。",
+      "老信相如渴，貧憂曼倩饑。生公與園吏，何處是吾師。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "早秋三首·其三",
+    "author": "許渾",
+    "paragraphs": [
       "薊北雁猶遠，淮南人已悲。殘桃間墮井，新菊亦侵籬。",
       "書劍豈相誤，琴尊聊自持。西齋風雨夜，更有詠貧詩。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -121,17 +143,28 @@
     }
   },
   {
-    "title": "晨起二首",
+    "title": "晨起二首·其一",
     "author": "許渾",
     "paragraphs": [
       "桂樹綠層層，風微煙露凝。簷楹銜落月，幃幌映殘燈。",
-      "蘄簟曙香冷，越瓶秋水澄。心閑即無事，何異住山僧。",
+      "蘄簟曙香冷，越瓶秋水澄。心閑即無事，何異住山僧。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "晨起二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "殘月皓煙露，掩門深竹齋。水蟲鳴曲檻，山鳥下空階。",
       "清鏡曉看發，素琴秋寄懷。因知北窗客，日與世情乖。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -474,17 +507,28 @@
     }
   },
   {
-    "title": "送從兄歸隱藍溪二首",
+    "title": "送從兄歸隱藍溪二首·其一",
     "author": "許渾",
     "paragraphs": [
       "名高猶素衣，窮巷掩荊扉。漸老故人少，久貧豪客稀。",
-      "塞雲橫劍望，山月抱琴歸。幾日藍溪醉，藤花拂釣磯。",
+      "塞雲橫劍望，山月抱琴歸。幾日藍溪醉，藤花拂釣磯。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送從兄歸隱藍溪二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "京洛多高蓋，憐兄劇斷蓬。身隨一劍老，家入萬山空。",
       "夜憶蕭關月，行悲易水風。無人知此意，甘臥白雲中。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

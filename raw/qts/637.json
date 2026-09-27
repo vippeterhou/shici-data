@@ -91,17 +91,28 @@
     }
   },
   {
-    "title": "詠柳二首",
+    "title": "詠柳二首·其一",
     "author": "顧雲",
     "paragraphs": [
       "帶露含煙處處垂，綻黃搖綠嫩參差。長堤未見風飄絮，",
-      "離亭不放到春暮，折盡拂簷千萬枝。",
+      "離亭不放到春暮，折盡拂簷千萬枝。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "詠柳二首·其二",
+    "author": "顧雲",
+    "paragraphs": [
       "閑花野草總爭新，眉皺絲幹獨不勻。",
       "乞取東風殘氣力，莫教虛度一年春。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

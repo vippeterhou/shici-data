@@ -111,32 +111,54 @@
     }
   },
   {
-    "title": "郴口又贈二首",
+    "title": "郴口又贈二首·其一",
     "author": "韓愈",
     "paragraphs": [
       "山作劍攢江寫鏡，扁舟鬥轉疾於飛。",
-      "回頭笑向張公子，終日思歸此日歸。",
-      "雪颭霜翻看不分，雷驚電激語難聞。",
-      "沿涯宛轉到深處，何限青天無片雲。"
+      "回頭笑向張公子，終日思歸此日歸。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "題木居士二首",
+    "title": "郴口又贈二首·其二",
+    "author": "韓愈",
+    "paragraphs": [
+      "雪颭霜翻看不分，雷驚電激語難聞。",
+      "沿涯宛轉到深處，何限青天無片雲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題木居士二首·其一",
     "author": "韓愈",
     "paragraphs": [
       "火透波穿不計春，根如頭面幹如身。",
-      "偶然題作木居士，便有無窮求福人。",
+      "偶然題作木居士，便有無窮求福人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題木居士二首·其二",
+    "author": "韓愈",
+    "paragraphs": [
       "為神詎比溝中斷，遇賞還同爨下餘。",
       "朽蠹不勝刀鋸力，匠人雖巧欲何如。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -364,17 +386,28 @@
     }
   },
   {
-    "title": "梁國惠康公主挽歌二首",
+    "title": "梁國惠康公主挽歌二首·其一",
     "author": "韓愈",
     "paragraphs": [
       "定諡芳聲遠，移封大國新。巽宮尊長女，台室屬良人。",
-      "河漢重泉夜，梧桐半樹春。龍輀非厭翟，還輾禁城塵。",
+      "河漢重泉夜，梧桐半樹春。龍輀非厭翟，還輾禁城塵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "梁國惠康公主挽歌二首·其二",
+    "author": "韓愈",
+    "paragraphs": [
       "秦地吹簫女，湘波鼓瑟妃。佩蘭初應夢，奔月竟淪輝。",
       "夫族迎魂去，宮官會葬歸。從今沁園草，無複更芳菲。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -562,23 +595,67 @@
     }
   },
   {
-    "title": "盆池五首",
+    "title": "盆池五首·其一",
     "author": "韓愈",
     "paragraphs": [
       "老翁真個似童兒，汲水埋盆作小池。",
-      "一夜青蛙鳴到曉，恰如方口釣魚時。",
+      "一夜青蛙鳴到曉，恰如方口釣魚時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "盆池五首·其二",
+    "author": "韓愈",
+    "paragraphs": [
       "莫道盆池作不成，藕稍初種已齊生。",
-      "從今有雨君須記，來聽蕭蕭打葉聲。",
+      "從今有雨君須記，來聽蕭蕭打葉聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "盆池五首·其三",
+    "author": "韓愈",
+    "paragraphs": [
       "瓦沼晨朝水自清，小蟲無數不知名。",
-      "忽然分散無蹤影，惟有魚兒作隊行。",
+      "忽然分散無蹤影，惟有魚兒作隊行。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "盆池五首·其四",
+    "author": "韓愈",
+    "paragraphs": [
       "泥盆淺小詎成池，夜半青蛙聖得知。",
-      "一聽暗來將伴侶，不煩鳴喚鬥雄雌。",
+      "一聽暗來將伴侶，不煩鳴喚鬥雄雌。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "盆池五首·其五",
+    "author": "韓愈",
+    "paragraphs": [
       "池光天影共青青，拍岸才添水數瓶。",
       "且待夜深明月去，試看涵泳幾多星。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -900,17 +977,28 @@
     }
   },
   {
-    "title": "游城南十六首：楸樹二首",
+    "title": "游城南十六首：楸樹二首·其一",
     "author": "韓愈",
     "paragraphs": [
       "幾歲生成為大樹，一朝纏繞困長藤。",
-      "誰人與脫青羅帔，看吐高花萬萬層。",
+      "誰人與脫青羅帔，看吐高花萬萬層。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "游城南十六首：楸樹二首·其二",
+    "author": "韓愈",
+    "paragraphs": [
       "幸自枝條能樹立，可煩蘿蔓作交加。",
       "傍人不解尋根本，卻道新花勝舊花。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

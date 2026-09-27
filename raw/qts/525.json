@@ -117,34 +117,67 @@
     }
   },
   {
-    "title": "洛中二首",
+    "title": "洛中二首·其一",
     "author": "杜牧",
     "paragraphs": [
       "柳動晴風拂路塵，年年宮闕鎖濃春。",
-      "一從翠輦無巡幸，老卻蛾眉幾許人。",
-      "風吹柳帶搖晴綠，蝶繞花枝戀暖香。",
-      "多把芳菲泛春酒，直教愁色對愁腸。"
+      "一從翠輦無巡幸，老卻蛾眉幾許人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "邊上聞笳三首",
+    "title": "洛中二首·其二",
+    "author": "杜牧",
+    "paragraphs": [
+      "風吹柳帶搖晴綠，蝶繞花枝戀暖香。",
+      "多把芳菲泛春酒，直教愁色對愁腸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "邊上聞笳三首·其一",
     "author": "杜牧",
     "paragraphs": [
       "何處吹笳薄暮天，塞垣高鳥沒狼煙。",
-      "遊人一聽頭堪白，蘇武爭禁十九年。",
+      "遊人一聽頭堪白，蘇武爭禁十九年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "邊上聞笳三首·其二",
+    "author": "杜牧",
+    "paragraphs": [
       "海路無塵邊草新，榮枯不見綠楊春。",
-      "白沙日暮愁雲起，獨感離鄉萬里人。",
+      "白沙日暮愁雲起，獨感離鄉萬里人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "邊上聞笳三首·其三",
+    "author": "杜牧",
+    "paragraphs": [
       "胡雛吹笛上高臺，寒雁驚飛去不回。",
       "盡日春風吹不散，只應分付客愁來。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -210,17 +210,28 @@
     }
   },
   {
-    "title": "送王永二首",
+    "title": "送王永二首·其一",
     "author": "劉商",
     "paragraphs": [
       "君去春山誰共遊，鳥啼花落水空流。",
-      "如今送別臨溪水，他日相思來水頭。",
+      "如今送別臨溪水，他日相思來水頭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送王永二首·其二",
+    "author": "劉商",
+    "paragraphs": [
       "綿衣似熱夾衣寒，時景雖和春已闌。",
       "誠知暫別那惆悵，明日藤花獨自看。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -511,17 +522,28 @@
     }
   },
   {
-    "title": "歸山留別子侄二首",
+    "title": "歸山留別子侄二首·其一",
     "author": "劉商",
     "paragraphs": [
       "車馬驅馳人在世，東西南北鶴隨雲。",
-      "莫言貧病無留別，百代簪纓將付君。",
+      "莫言貧病無留別，百代簪纓將付君。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歸山留別子侄二首·其二",
+    "author": "劉商",
+    "paragraphs": [
       "不逐浮雲不羨魚，杏花茅屋向陽居。",
       "鶴鳴華表應傳語，雁度霜天懶寄書。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -656,49 +678,93 @@
     }
   },
   {
-    "title": "題水洞二首",
+    "title": "題水洞二首·其一",
     "author": "劉商",
     "paragraphs": [
       "桃花流出武陵洞，夢想仙家雲樹春。",
-      "今看水入洞中去，卻是桃花源裏人。",
+      "今看水入洞中去，卻是桃花源裏人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題水洞二首·其二",
+    "author": "劉商",
+    "paragraphs": [
       "長看岩穴泉流出，忽聽懸泉入洞聲。",
       "莫摘山花拋水上，花浮出洞世人驚。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "代人村中悼亡二首",
+    "title": "代人村中悼亡二首·其一",
     "author": "劉商",
     "paragraphs": [
       "花落茅簷轉寂寥，魂隨暮雨此中銷。",
-      "邇來庭柳無人折，長得垂枝一萬條。",
+      "邇來庭柳無人折，長得垂枝一萬條。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "代人村中悼亡二首·其二",
+    "author": "劉商",
+    "paragraphs": [
       "虛室無人乳燕飛，蒼苔滿地履痕稀。",
       "庭前唯有薔薇在，花似殘妝葉似衣。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "觀獵三首",
+    "title": "觀獵三首·其一",
     "author": "劉商",
     "paragraphs": [
       "夢非熊虎數年間，驅盡豺狼宇宙閑。",
-      "傳道單于聞校獵，相期不敢過陰山。",
+      "傳道單于聞校獵，相期不敢過陰山。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "觀獵三首·其二",
+    "author": "劉商",
+    "paragraphs": [
       "日隱寒山獵未歸，鳴弦落羽雪霏霏。",
-      "梁園射盡南飛雁，淮楚人驚陽鳥啼。",
+      "梁園射盡南飛雁，淮楚人驚陽鳥啼。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "觀獵三首·其三",
+    "author": "劉商",
+    "paragraphs": [
       "松月東軒許獨遊，深恩未報復淹留。",
       "梁園日暮從公獵，每過青山不舉頭。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -742,17 +808,28 @@
     }
   },
   {
-    "title": "山中寄元二侍禦二首",
+    "title": "山中寄元二侍禦二首·其一",
     "author": "劉商",
     "paragraphs": [
       "心期汗漫臥雲扃，家計漂零水上萍。",
-      "桃李向秋凋落盡，一枝松色獨青青。",
+      "桃李向秋凋落盡，一枝松色獨青青。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "山中寄元二侍禦二首·其二",
+    "author": "劉商",
+    "paragraphs": [
       "拖紫鏘金濟世才，知君倚玉望三台。",
       "深山窮谷無人到，唯有狂愚獨自來。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

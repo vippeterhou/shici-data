@@ -313,19 +313,41 @@
     }
   },
   {
-    "title": "楚江懷古三首",
+    "title": "楚江懷古三首·其一",
     "author": "馬戴",
     "paragraphs": [
       "露氣寒光集，微陽下楚丘。猿啼洞庭樹，人在木蘭舟。",
-      "廣澤生明月，蒼山夾亂流。雲中君不降，竟夕自悲秋。",
+      "廣澤生明月，蒼山夾亂流。雲中君不降，竟夕自悲秋。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "楚江懷古三首·其二",
+    "author": "馬戴",
+    "paragraphs": [
       "驚鳥去無際，寒蛩鳴我傍。蘆洲生早霧，蘭隰下微霜。",
-      "列宿分窮野，空流注大荒。看山候明月，聊自整雲裝。",
+      "列宿分窮野，空流注大荒。看山候明月，聊自整雲裝。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "楚江懷古三首·其三",
+    "author": "馬戴",
+    "paragraphs": [
       "野風吹蕙帶，驟雨滴蘭橈。屈宋魂冥寞，江山思寂寥。",
       "陰霓侵晚景，海樹入回潮。欲折寒芳薦，明神詎可招。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -525,32 +547,54 @@
     }
   },
   {
-    "title": "關山曲二首",
+    "title": "關山曲二首·其一",
     "author": "馬戴",
     "paragraphs": [
       "金甲耀兜鍪，黃金拂紫騮。叛羌旗下戮，陷壁夜中收。",
-      "霜霰戎衣月，關河磧氣秋。箭瘡殊未合，更遣擊蘭州。",
-      "火發龍山北，中宵易左賢。勒兵臨漢水，驚雁散胡天。",
-      "木落防河急，軍孤受敵偏。猶聞漢皇怒，按劍待開邊。"
+      "霜霰戎衣月，關河磧氣秋。箭瘡殊未合，更遣擊蘭州。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "塞下曲二首",
+    "title": "關山曲二首·其二",
+    "author": "馬戴",
+    "paragraphs": [
+      "火發龍山北，中宵易左賢。勒兵臨漢水，驚雁散胡天。",
+      "木落防河急，軍孤受敵偏。猶聞漢皇怒，按劍待開邊。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "塞下曲二首·其一",
     "author": "馬戴",
     "paragraphs": [
       "旌旗倒北風，霜霰逐南鴻。夜救龍城急，朝焚虜帳空。",
-      "骨銷金鏃在，鬢改玉關中。卻想羲軒氏，無人尚戰功。",
+      "骨銷金鏃在，鬢改玉關中。卻想羲軒氏，無人尚戰功。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "塞下曲二首·其二",
+    "author": "馬戴",
+    "paragraphs": [
       "廣漠雲凝慘，日斜飛霰生。燒山搜猛獸，伏道擊回兵。",
       "風折旗竿曲，沙埋樹杪平。黃雲飛旦夕，偏奏苦寒聲。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

@@ -103,17 +103,28 @@
     }
   },
   {
-    "title": "樊川寒食二首",
+    "title": "樊川寒食二首·其一",
     "author": "盧延讓",
     "paragraphs": [
       "寒食權豪盡出行，一川如畫雨初晴。",
-      "誰家絡絡游春盛，擔入花間軋軋聲。",
+      "誰家絡絡游春盛，擔入花間軋軋聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "樊川寒食二首·其二",
+    "author": "盧延讓",
+    "paragraphs": [
       "鞍馬和花總是塵，歌聲處處有佳人。",
       "五陵年少粗於事，栲栳量金買斷春。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -165,34 +176,67 @@
     }
   },
   {
-    "title": "宮怨二首",
+    "title": "宮怨二首·其一",
     "author": "柯崇",
     "paragraphs": [
       "塵滿金爐不炷香，黃昏獨自立重廊。",
-      "笙歌何處承恩寵，一一隨風入上陽。",
-      "長門槐柳半蕭疏，玉輦沈思恨有餘。",
-      "紅淚漸消傾國態，黃金誰為達相如。"
+      "笙歌何處承恩寵，一一隨風入上陽。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "早春池亭獨遊三首",
+    "title": "宮怨二首·其二",
+    "author": "柯崇",
+    "paragraphs": [
+      "長門槐柳半蕭疏，玉輦沈思恨有餘。",
+      "紅淚漸消傾國態，黃金誰為達相如。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "早春池亭獨遊三首·其一",
     "author": "劉象",
     "paragraphs": [
       "春意送殘臘，春晴融小洲。蒲茸才簇岸，柳頰已遮樓。",
-      "便有杯觴興，可據羈旅愁。鳧鷖亦相狎，盡日戲清流。",
+      "便有杯觴興，可據羈旅愁。鳧鷖亦相狎，盡日戲清流。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "早春池亭獨遊三首·其二",
+    "author": "劉象",
+    "paragraphs": [
       "清流環綠筱，清景媚虹橋。鶯刷初遷羽，莎拳擬拆苗。",
-      "細沙擢暖岸，淑景動和飆。倍憶同袍侶，相歡倒一瓢。",
+      "細沙擢暖岸，淑景動和飆。倍憶同袍侶，相歡倒一瓢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "早春池亭獨遊三首·其三",
+    "author": "劉象",
+    "paragraphs": [
       "一瓢歡自足，一日興偏多。幽意人先賞，疏叢蝶未過。",
       "知音新句苦，窺沼醉顏酡。萬慮從相擬，今朝欲奈何。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -210,17 +254,28 @@
     }
   },
   {
-    "title": "春夜二首",
+    "title": "春夜二首·其一",
     "author": "劉象",
     "paragraphs": [
       "幾處兵戈阻路岐，憶山心切與山違。",
-      "時難何處披懷抱，日日日斜空醉歸。",
+      "時難何處披懷抱，日日日斜空醉歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "春夜二首·其二",
+    "author": "劉象",
+    "paragraphs": [
       "一別杜陵歸未期，只憑魂夢接親知。",
       "近來欲睡兼難睡，夜夜夜深聞子規。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

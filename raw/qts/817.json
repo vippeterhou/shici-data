@@ -344,17 +344,28 @@
     }
   },
   {
-    "title": "獨遊二首",
+    "title": "獨遊二首·其一",
     "author": "皎然",
     "paragraphs": [
       "性野趣無端，春晴路又幹。逢泉破石弄，放鶴向雲看。",
-      "好僻誰相似，從狂我自安。芳洲亦有意，步上白沙灘。",
+      "好僻誰相似，從狂我自安。芳洲亦有意，步上白沙灘。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "獨遊二首·其二",
+    "author": "皎然",
+    "paragraphs": [
       "臨水興不盡，虛舟可同嬉。還雲與歸鳥，若共山僧期。",
       "世事吾不預，此心誰得知。西峰有禪老，應見獨游時。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

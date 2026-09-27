@@ -502,17 +502,28 @@
     }
   },
   {
-    "title": "峽中寓止二首",
+    "title": "峽中寓止二首·其一",
     "author": "鄭穀",
     "paragraphs": [
       "荊州未解圍，小縣結茅茨。強對官人笑，甘為野鶴欺。",
-      "江春鋪網闊，市晚鬻蔬遲。子美猶如此，翻然不敢悲。",
+      "江春鋪網闊，市晚鬻蔬遲。子美猶如此，翻然不敢悲。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "峽中寓止二首·其二",
+    "author": "鄭穀",
+    "paragraphs": [
       "傳聞殊不定，鑾輅幾時還。俗易無常性，江清見老顏。",
       "夜船歸草市，春步上茶山。寨將來相問，兒童競啟關。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -725,17 +736,28 @@
     }
   },
   {
-    "title": "哭進士李洞二首",
+    "title": "哭進士李洞二首·其一",
     "author": "鄭穀",
     "paragraphs": [
       "所惜絕吟聲，不悲君不榮。李端終薄宦，賈島得高名。",
-      "旅葬新墳小，遺孤遠俗輕。猶疑隨計晚，昨夜草蟲鳴。",
+      "旅葬新墳小，遺孤遠俗輕。猶疑隨計晚，昨夜草蟲鳴。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "哭進士李洞二首·其二",
+    "author": "鄭穀",
+    "paragraphs": [
       "自聞東蜀病，唯我獨關情。若近長江死，想君勝在生。",
       "瘴蒸丹旐濕，燈隔素帷清。塚樹僧栽後，新蟬一兩聲。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

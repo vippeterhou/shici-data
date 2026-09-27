@@ -198,19 +198,41 @@
     }
   },
   {
-    "title": "踏歌詞三首",
+    "title": "踏歌詞三首·其一",
     "author": "謝偃",
     "paragraphs": [
       "春景嬌春台，新露泣新梅。春葉參差吐，新花重疊開。",
-      "花影飛鶯去，歌聲度鳥來。倩看飄颻雪，何如舞袖回。",
+      "花影飛鶯去，歌聲度鳥來。倩看飄颻雪，何如舞袖回。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "踏歌詞三首·其二",
+    "author": "謝偃",
+    "paragraphs": [
       "逶迤度香閣，顧步出蘭閨。欲繞鴛鴦殿，先過桃李蹊。",
-      "風帶舒還卷，簪花舉複低。欲問今宵樂，但聽歌聲齊。",
+      "風帶舒還卷，簪花舉複低。欲問今宵樂，但聽歌聲齊。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "踏歌詞三首·其三",
+    "author": "謝偃",
+    "paragraphs": [
       "夜久星沉沒，更深月影斜。裙輕才動佩，鬟薄不勝花。",
       "細風吹寶袂，輕露濕紅紗。相看樂未已，蘭燈照九華。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

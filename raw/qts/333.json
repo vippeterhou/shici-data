@@ -613,17 +613,28 @@
     }
   },
   {
-    "title": "酬于駙馬二首",
+    "title": "酬于駙馬二首·其一",
     "author": "楊巨源",
     "paragraphs": [
       "綺陌塵香曙色分，碧山如畫又逢君。蛟藏秋月一片水，",
-      "陽和本是煙霄曲，須向花間次第聞。",
+      "陽和本是煙霄曲，須向花間次第聞。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "酬于駙馬二首·其二",
+    "author": "楊巨源",
+    "paragraphs": [
       "芳時碧落心應斷，今日清詞事不同。瑤草秋殘仙圃在，",
       "長得聞詩歡自足，會看春露濕蘭叢。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -680,17 +691,28 @@
     }
   },
   {
-    "title": "述舊紀勳寄太原李光顏侍中二首",
+    "title": "述舊紀勳寄太原李光顏侍中二首·其一",
     "author": "楊巨源",
     "paragraphs": [
       "玉塞含淒見雁行，北垣新詔拜龍驤。弟兄間世真飛將，",
-      "河源收地心猶壯，笑向天西萬里霜。",
+      "河源收地心猶壯，笑向天西萬里霜。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "述舊紀勳寄太原李光顏侍中二首·其二",
+    "author": "楊巨源",
+    "paragraphs": [
       "倚天長劍截雲孤，報國縱橫見丈夫。五載登壇真宰相，",
       "料敵知機在方寸，不勞心力講陰符。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1033,17 +1055,28 @@
     }
   },
   {
-    "title": "元日含元殿下立仗丹鳳樓門下宣赦相公稱賀二首",
+    "title": "元日含元殿下立仗丹鳳樓門下宣赦相公稱賀二首·其一",
     "author": "楊巨源",
     "paragraphs": [
       "天垂台耀掃欃槍，壽獻香山祝聖明。丹鳳樓前歌九奏，",
-      "從此登封資廟略，兩河連海一時清。",
+      "從此登封資廟略，兩河連海一時清。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "元日含元殿下立仗丹鳳樓門下宣赦相公稱賀二首·其二",
+    "author": "楊巨源",
+    "paragraphs": [
       "臨軒啟扇似雲收，率土朝天劇水流。瑞色含春當正殿，",
       "請問漢家功第一，麒麟閣上識酂侯。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1285,43 +1318,142 @@
     }
   },
   {
-    "title": "春日奉獻聖壽無疆詞十首",
+    "title": "春日奉獻聖壽無疆詞十首·其一",
     "author": "楊巨源",
     "paragraphs": [
       "文物京華盛，謳歌國步康。瑤池供壽酒，銀漢麗宸章。",
       "靈雨含雙闕，雷霆肅萬方。代推仙祚遠，春共聖恩長。",
-      "鳳扆臨花暖，龍壚旁日香。遙知千萬歲，天意奉君王。",
+      "鳳扆臨花暖，龍壚旁日香。遙知千萬歲，天意奉君王。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日奉獻聖壽無疆詞十首·其二",
+    "author": "楊巨源",
+    "paragraphs": [
       "鴛鷺彤庭際，軒車綺陌前。九城多好色，萬井半祥煙。",
       "人醉逢堯酒，鶯歌答舜弦。花明禦溝水，香暖禁城天。",
-      "賜宴文逾盛，征歌物更妍。無窮豔陽月，長照太平年。",
+      "賜宴文逾盛，征歌物更妍。無窮豔陽月，長照太平年。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日奉獻聖壽無疆詞十首·其三",
+    "author": "楊巨源",
+    "paragraphs": [
       "雲陛臨黃道，天門在碧虛。大明含睿藻，元氣抱宸居。",
       "戈偃征苗後，詩傳宴鎬初。年華富仙苑，時哲滿公車。",
-      "化入絪縕大，恩垂渙汗餘。悠然萬方靜，風俗揖華胥。",
+      "化入絪縕大，恩垂渙汗餘。悠然萬方靜，風俗揖華胥。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日奉獻聖壽無疆詞十首·其四",
+    "author": "楊巨源",
+    "paragraphs": [
       "玉漏飄青瑣，金鋪麗紫宸。雲山九門曙，天地一家春。",
       "瑞靄方呈賞，暄風本配仁。岩廊開鳳翼，水殿壓鼇身。",
-      "文雅逢明代，歡娛及賤臣。年年未央闕，恩共物華新。",
+      "文雅逢明代，歡娛及賤臣。年年未央闕，恩共物華新。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日奉獻聖壽無疆詞十首·其五",
+    "author": "楊巨源",
+    "paragraphs": [
       "垂拱乾坤正，歡心品類同。紫煙含北極，玄澤付東風。",
       "珠綴留晴景，金莖直曉空。發生資盛德，交泰讓全功。",
-      "間氣登三事，祥光啟四聰。遐荒似川水，天外亦朝宗。",
+      "間氣登三事，祥光啟四聰。遐荒似川水，天外亦朝宗。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日奉獻聖壽無疆詞十首·其六",
+    "author": "楊巨源",
+    "paragraphs": [
       "代是文明晝，春當宴喜時。壚煙添柳重，宮漏出花遲。",
       "漢典方寬律，周官正采詩。碧宵傳鳳吹，紅旭在龍旗。",
-      "造化膺神契，陽和沃聖思。無因隨百獸，率舞奉丹墀。",
+      "造化膺神契，陽和沃聖思。無因隨百獸，率舞奉丹墀。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日奉獻聖壽無疆詞十首·其七",
+    "author": "楊巨源",
+    "paragraphs": [
       "睿德符玄化，芳情翊太和。日輪皇鑒遠，天仗聖朝多。",
       "曙色含金榜，晴光轉玉珂。中宮陳廣樂，元老進賡歌。",
-      "蓮葉看龜上，桐花識鳳過。小臣空擊壤，滄海是恩波。",
+      "蓮葉看龜上，桐花識鳳過。小臣空擊壤，滄海是恩波。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日奉獻聖壽無疆詞十首·其八",
+    "author": "楊巨源",
+    "paragraphs": [
       "物象朝高殿，簪裾溢上京。春當九衢好，天向萬方明。",
       "樂報簫韶發，杯看沆瀣生。芙蓉丹闕暖，楊柳玉樓晴。",
-      "閶闔開中禁，衣裳儼太清。南山同聖壽，長對鳳凰城。",
+      "閶闔開中禁，衣裳儼太清。南山同聖壽，長對鳳凰城。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日奉獻聖壽無疆詞十首·其九",
+    "author": "楊巨源",
+    "paragraphs": [
       "日上蒼龍闕，香含紫禁林。晴光五雲疊，春色九重深。",
       "賞葉元和德，文垂雅頌音。景雲隨禦輦，顥氣在宸襟。",
-      "永保無疆壽，長懷不戰心。聖朝多慶賜，瓊樹粉牆陰。",
+      "永保無疆壽，長懷不戰心。聖朝多慶賜，瓊樹粉牆陰。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日奉獻聖壽無疆詞十首·其十",
+    "author": "楊巨源",
+    "paragraphs": [
       "化洽生成遂，功宣動植知。瑞凝三秀草，春入萬年枝。",
       "鳳掖嘉言進，鴛行喜氣隨。仗臨丹地近，衣對碧山垂。",
       "渥澤方柔遠，聰明本聽卑。願同東觀士，長對漢威儀。"
     ],
     "format": {
-      "sentence_count": 120,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1413,17 +1545,28 @@
     }
   },
   {
-    "title": "盧龍塞行送韋掌記二首",
+    "title": "盧龍塞行送韋掌記二首·其一",
     "author": "楊巨源",
     "paragraphs": [
       "雨雪紛紛黑水外，行人共指盧龍塞。",
-      "萬里飛沙壓鼓鼙，三軍殺氣凝旌旆。",
+      "萬里飛沙壓鼓鼙，三軍殺氣凝旌旆。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "盧龍塞行送韋掌記二首·其二",
+    "author": "楊巨源",
+    "paragraphs": [
       "陳琳書記本翩翩，料敵能兵奪酒泉。",
       "聖主好文兼好武，封侯莫比漢皇年。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1558,17 +1701,28 @@
     }
   },
   {
-    "title": "石水詞二首",
+    "title": "石水詞二首·其一",
     "author": "楊巨源",
     "paragraphs": [
       "銀罌深鎖貯清光，無限來人不得嘗。",
-      "知共金丹爭氣力，一杯全勝五雲漿。",
+      "知共金丹爭氣力，一杯全勝五雲漿。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "石水詞二首·其二",
+    "author": "楊巨源",
+    "paragraphs": [
       "山叟和雲劚翠屏，煎時分日檢仙經。",
       "天人持此扶衰病，勝得瑤池水一瓶。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1612,17 +1766,28 @@
     }
   },
   {
-    "title": "聽李憑彈箜篌二首",
+    "title": "聽李憑彈箜篌二首·其一",
     "author": "楊巨源",
     "paragraphs": [
       "聽奏繁弦玉殿清，風傳曲度禁林明。",
-      "君王聽樂梨園暖，翻到雲門第幾聲。",
+      "君王聽樂梨園暖，翻到雲門第幾聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "聽李憑彈箜篌二首·其二",
+    "author": "楊巨源",
+    "paragraphs": [
       "花咽嬌鶯玉漱泉，名高半在禦筵前。",
       "漢王欲助人間樂，從遣新聲墜九天。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1640,17 +1805,28 @@
     }
   },
   {
-    "title": "觀妓人入道二首",
+    "title": "觀妓人入道二首·其一",
     "author": "楊巨源",
     "paragraphs": [
       "荀令歌鐘北裏亭，翠娥紅粉敞雲屏。",
-      "舞衣施盡餘香在，今日花前學誦經。",
+      "舞衣施盡餘香在，今日花前學誦經。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "觀妓人入道二首·其二",
+    "author": "楊巨源",
+    "paragraphs": [
       "碧玉芳年事冠軍，清歌空得隔花聞。",
       "春來削髮芙蓉寺，蟬鬢臨風墮綠雲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

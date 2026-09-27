@@ -117,16 +117,38 @@
     }
   },
   {
-    "title": "從獵三首",
+    "title": "從獵三首·其一",
     "author": "韓偓",
     "paragraphs": [
-      "獵犬諳斜路，宮嬪識認旗。馬前雙兔起，宣爾羽林兒。",
-      "小鐙狹秋鞘，鞍輕妓細腰。有時齊走馬，也學唱交交。",
+      "獵犬諳斜路，宮嬪識認旗。馬前雙兔起，宣爾羽林兒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從獵三首·其二",
+    "author": "韓偓",
+    "paragraphs": [
+      "小鐙狹秋鞘，鞍輕妓細腰。有時齊走馬，也學唱交交。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從獵三首·其三",
+    "author": "韓偓",
+    "paragraphs": [
       "蹀躞巴陵駿，毰毸碧野雞。忽聞仙樂動，賜酒玉偏提。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -394,17 +416,28 @@
     }
   },
   {
-    "title": "病中初聞複官二首",
+    "title": "病中初聞複官二首·其一",
     "author": "韓偓",
     "paragraphs": [
       "抽毫連夜侍明光，執靮三年從省方。燒玉謾勞曾曆試，",
-      "聞道複官翻涕泗，屬車何在水茫茫。",
+      "聞道複官翻涕泗，屬車何在水茫茫。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "病中初聞複官二首·其二",
+    "author": "韓偓",
+    "paragraphs": [
       "又掛朝衣一自驚，始知天意重推誠。青雲有路通還去，",
       "宦途巇嶮終難測，穩泊漁舟隱姓名。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -448,17 +481,28 @@
     }
   },
   {
-    "title": "即目二首",
+    "title": "即目二首·其一",
     "author": "韓偓",
     "paragraphs": [
       "萬古離懷憎物色，幾生愁緒溺風光。廢城沃土肥春草，",
-      "宦途棄擲須甘分，回避紅塵是所長。",
+      "宦途棄擲須甘分，回避紅塵是所長。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "即目二首·其二",
+    "author": "韓偓",
+    "paragraphs": [
       "動非求進靜非禪，咋舌吞聲過十年。溪漲浪花如積石，",
       "攻苦慣來無不可，寸心如水但澄鮮。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -579,19 +623,41 @@
     }
   },
   {
-    "title": "荔枝三首",
+    "title": "荔枝三首·其一",
     "author": "韓偓",
     "paragraphs": [
       "遐方不許貢珍奇，密詔唯教進荔枝。",
-      "漢武碧桃爭比得，枉令方朔號偷兒。",
+      "漢武碧桃爭比得，枉令方朔號偷兒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "荔枝三首·其二",
+    "author": "韓偓",
+    "paragraphs": [
       "封開玉籠雞冠濕，葉襯金盤鶴頂鮮。",
-      "想得佳人微啟齒，翠釵先取一雙懸。",
+      "想得佳人微啟齒，翠釵先取一雙懸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "荔枝三首·其三",
+    "author": "韓偓",
+    "paragraphs": [
       "巧裁霞片裹神漿，崖蜜天然有異香。",
       "應是仙人金掌露，結成冰入蒨羅囊。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

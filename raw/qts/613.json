@@ -221,17 +221,28 @@
     }
   },
   {
-    "title": "洛中寒食二首",
+    "title": "洛中寒食二首·其一",
     "author": "皮日休",
     "paragraphs": [
       "千門萬戶掩斜暉，繡幰金銜晚未歸。擊鞠王孫如錦地，",
-      "唯有路傍無意者，獻書未納問淮肥。",
+      "唯有路傍無意者，獻書未納問淮肥。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "洛中寒食二首·其二",
+    "author": "皮日休",
+    "paragraphs": [
       "遠近垂楊映鈿車，天津橋影壓神霞。弄春公子正回首，",
       "欲知豪貴堪愁處，請看邙山晚照斜。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -275,20 +286,42 @@
     }
   },
   {
-    "title": "江南道中懷茅山廣文南陽博士三首",
+    "title": "江南道中懷茅山廣文南陽博士三首·其一",
     "author": "皮日休",
     "paragraphs": [
       "寒嵐依約認華陽，遙想高人臥草堂。半日始齋青z3飯，",
-      "誰道夫君無伴侶，不離窗下見羲皇。",
+      "誰道夫君無伴侶，不離窗下見羲皇。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 6, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "江南道中懷茅山廣文南陽博士三首·其二",
+    "author": "皮日休",
+    "paragraphs": [
       "住在華陽第八天，望君唯欲結良緣。堂扃洞裏千秋燕，",
-      "不知何事迎新歲，烏納裘中一覺眠。",
+      "不知何事迎新歲，烏納裘中一覺眠。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "江南道中懷茅山廣文南陽博士三首·其三",
+    "author": "皮日休",
+    "paragraphs": [
       "五色香煙惹內文，石飴初熟酒初醺。將開丹灶那防鶴，",
       "如何世外無交者，一臥金壇只有君。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

@@ -147,18 +147,29 @@
     }
   },
   {
-    "title": "戰城南二首",
+    "title": "戰城南二首·其一",
     "author": "貫休",
     "paragraphs": [
       "萬里桑幹傍，茫茫古蕃壤。將軍貌憔悴，撫劍悲年長。",
       "胡兵尚陵逼，久住亦非強。邯鄲少年輩，個個有伎倆。",
-      "拖槍半夜去，雪片大如掌。",
+      "拖槍半夜去，雪片大如掌。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "戰城南二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "磧中有陰兵，戰馬時驚蹶。輕猛李陵心，摧殘蘇武節。",
       "黃金鎖子甲，風吹色如鐵。十載不封侯，茫茫向誰說。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -178,33 +189,77 @@
     }
   },
   {
-    "title": "夢遊仙四首",
+    "title": "夢遊仙四首·其一",
     "author": "貫休",
     "paragraphs": [
-      "夢到海中山，入個白銀宅。逢見一道士，稱是李八伯。",
-      "三四仙女兒，身著瑟瑟衣。手把明月珠，打落金色梨。",
-      "車渠地無塵，行至瑤池濱。森森椿樹下，白龍來嗅人。",
+      "夢到海中山，入個白銀宅。逢見一道士，稱是李八伯。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "夢遊仙四首·其二",
+    "author": "貫休",
+    "paragraphs": [
+      "三四仙女兒，身著瑟瑟衣。手把明月珠，打落金色梨。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "夢遊仙四首·其三",
+    "author": "貫休",
+    "paragraphs": [
+      "車渠地無塵，行至瑤池濱。森森椿樹下，白龍來嗅人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "夢遊仙四首·其四",
+    "author": "貫休",
+    "paragraphs": [
       "宮殿崢嶸籠紫氣，金渠玉砂五色水。",
       "守閽仙婢相倚睡，偷摘蟠桃幾倒地。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "輕薄篇二首·其一",
+    "author": "貫休",
+    "paragraphs": [
+      "繡林錦野，春態相壓。誰家少年，馬蹄蹋蹋。",
+      "鬥雞走狗夜不歸，一擲賭卻如花妾。誰雲不顛不狂，"
+    ],
+    "format": {
+      "sentence_count": 7,
+      "sentence_lengths": [4, 4, 4, 4, 7, 7, 6],
       "uniform_sentence_length": null
     }
   },
   {
-    "title": "輕薄篇二首",
+    "title": "輕薄篇二首·其二",
     "author": "貫休",
     "paragraphs": [
-      "繡林錦野，春態相壓。誰家少年，馬蹄蹋蹋。",
-      "鬥雞走狗夜不歸，一擲賭卻如花妾。誰雲不顛不狂，",
       "木落蕭蕭，蟲鳴唧唧。不覺朱蔫臉紅，霜劫鬢漆。",
       "世途多事，泣向秋日。方今少壯不努力，老大徒傷悲，"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [4, 4, 4, 4, 7, 7, 6, 4, 4, 6, 4, 4, 4, 7, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [4, 4, 6, 4, 4, 4, 7, 5],
       "uniform_sentence_length": null
     }
   },
@@ -263,34 +318,122 @@
     }
   },
   {
-    "title": "古意九首",
+    "title": "古意九首·其一",
     "author": "貫休",
     "paragraphs": [
       "一雨火雲盡，閉門心冥冥。蘭花與芙蓉，滿院同芳馨。",
       "佳人天一涯，好鳥何嚶嚶。我有雙白璧，不羨于虞卿。",
       "我有徑寸珠，別是天地精。玩之室生白，瀟灑身安輕。",
-      "只應天上人，見我雙眼明。",
+      "只應天上人，見我雙眼明。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古意九首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "陽烏爍萬物，草木懷春恩。茫茫塵土飛，培壅名利根。",
       "我本是蓑笠，幼知天子尊。學為毛氏詩，亦多直致言。",
-      "不慕需臑類，附勢同崩奔。唯尋桃李蹊，去去長者門。",
+      "不慕需臑類，附勢同崩奔。唯尋桃李蹊，去去長者門。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古意九首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "美人如游龍，被服金鴛鴦。手把古刀尺，在彼白玉堂。",
       "文章深掣曳，珂佩鳴丁當。好風吹桃花，片片落銀床。",
-      "何妨學羽翰，遠逐朱鳥翔。",
+      "何妨學羽翰，遠逐朱鳥翔。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古意九首·其四",
+    "author": "貫休",
+    "paragraphs": [
       "乾坤有清氣，散入詩人脾。聖賢遺清風，不在惡木枝。",
       "千人萬人中，一人兩人知。憶在東溪日，花開葉落時。",
-      "幾擬以黃金，鑄作鐘子期。",
+      "幾擬以黃金，鑄作鐘子期。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古意九首·其五",
+    "author": "貫休",
+    "paragraphs": [
       "莫輕白雲白，不與風雨會。莫見守羊兒，或是初平輩。",
       "人生非日月，光輝豈常在。一榮與一辱，古今常相對。",
-      "君不見於公門，子孫好冠蓋。",
+      "君不見於公門，子孫好冠蓋。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 6, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "古意九首·其六",
+    "author": "貫休",
+    "paragraphs": [
       "古交如真金，百煉色不回。今交如暴流，倏忽生塵埃。",
       "我願君子氣，散為青松栽。我恐荊棘花，只為小人開。",
-      "傷心複傷心，吟上高高臺。",
+      "傷心複傷心，吟上高高臺。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古意九首·其七",
+    "author": "貫休",
+    "paragraphs": [
       "常思謝康樂，文章有神力。是何清風清，凜然似相識。",
       "一種為頑嚚，得作翻經石。一種為枯槁，得作登山屐。",
-      "永嘉為郡後，山水添鮮碧。何當學羽翰，一去觀遺跡。",
+      "永嘉為郡後，山水添鮮碧。何當學羽翰，一去觀遺跡。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古意九首·其八",
+    "author": "貫休",
+    "paragraphs": [
       "常思李太白，仙筆驅造化。玄宗致之七寶床，",
       "紫皇殿前五色麟，忽然掣斷黃金鎖。五湖大浪如銀山，",
-      "甯知江邊墳，不是猶醉臥。",
+      "甯知江邊墳，不是猶醉臥。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 7, 7, 7, 7, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "古意九首·其九",
+    "author": "貫休",
+    "paragraphs": [
       "憶在山中時，丹桂花葳蕤。紅泉浸瑤草，白日生華滋。",
       "箬屋開地爐，翠牆掛藤衣。看經竹窗邊，白猿三兩枝。",
       "東峰有老人，眼碧頭骨奇。種薤煮白石，旨趣如嬰兒。",
@@ -298,9 +441,9 @@
       "別來六七年，只恐白日飛。"
     ],
     "format": {
-      "sentence_count": 104,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 18,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -343,18 +486,29 @@
     }
   },
   {
-    "title": "擬齊梁酬所知見贈二首",
+    "title": "擬齊梁酬所知見贈二首·其一",
     "author": "貫休",
     "paragraphs": [
       "靜只焚香坐，詠懷悲歲闌。佳人忽有贈，滿手紅琅玕。",
-      "不獨耀肌魄，將行為羽翰。酬如上青天，風雪空漫漫。",
+      "不獨耀肌魄，將行為羽翰。酬如上青天，風雪空漫漫。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "擬齊梁酬所知見贈二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "美如仙鼎金，清如纖手琴。孫登嘯一聲，縹緲不可尋。",
       "但覺神洋洋，如入三昧林。釋手複在手，古意深複深。",
       "慚無英瓊瑤，何以酬知音。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -438,19 +592,30 @@
     }
   },
   {
-    "title": "偶作二首",
+    "title": "偶作二首·其一",
     "author": "貫休",
     "paragraphs": [
       "新詩一千首，古錦初下機。除月與鬼神，別未有人知。",
-      "子期去不返，浩浩良不悲。不知天地間，知者複是誰。",
+      "子期去不返，浩浩良不悲。不知天地間，知者複是誰。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "偶作二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "門前數枝路，路路車馬鳴。名埃與利塵，千里萬里行。",
       "只見青山高，豈見青山平。朱門勢峨峨，冠蓋何光明。",
       "黃鳥在花裏，青蟬奪其聲。爾生非金玉，豈常貴複貞。",
       "寄言之子心，可以歸無形。"
     ],
     "format": {
-      "sentence_count": 22,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -468,17 +633,28 @@
     }
   },
   {
-    "title": "春晚書山家屋壁二首",
+    "title": "春晚書山家屋壁二首·其一",
     "author": "貫休",
     "paragraphs": [
       "柴門寂寂黍飯馨，山家煙火春雨晴。",
-      "庭花濛濛水泠泠，小兒啼索樹上鶯。",
+      "庭花濛濛水泠泠，小兒啼索樹上鶯。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "春晚書山家屋壁二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "水香塘黑蒲森森，鴛鴦鸂鶒如家禽。前村後壟桑柘深，",
       "山翁留我宿又宿，笑指西坡瓜豆熟。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -79,17 +79,28 @@
     }
   },
   {
-    "title": "江南雜體二首",
+    "title": "江南雜體二首·其一",
     "author": "王建",
     "paragraphs": [
       "江上風翛翛，竹間湘水流。日夜桂花落，行人去悠悠。",
-      "複見離別處，蟲聲陰雨秋。",
+      "複見離別處，蟲聲陰雨秋。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江南雜體二首·其二",
+    "author": "王建",
+    "paragraphs": [
       "處處江草綠，行人發瀟湘。瀟湘回雁多，日夜思故鄉。",
       "春夢不知數，空山蘭蕙芳。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

@@ -284,21 +284,32 @@
     }
   },
   {
-    "title": "塞北二首",
+    "title": "塞北二首·其一",
     "author": "沈佺期",
     "paragraphs": [
       "虜障天驕起，秦城地脈分。柏壇飛五將，梅吹動三軍。",
       "鋒刃奔濤色，旌旗焰火文。朔風吹汗漫，飄礫灑轒轀。",
       "海氣如秋雨，邊峰似夏雲。二庭無歲月，百戰有功勳。",
-      "形影隨魚貫，音書在雁群。歸來拜天子，凱樂助南熏。",
+      "形影隨魚貫，音書在雁群。歸來拜天子，凱樂助南熏。"
+    ],
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "塞北二首·其二",
+    "author": "沈佺期",
+    "paragraphs": [
       "胡騎犯邊埃，風從醜上來。五原烽火急，六郡羽書催。",
       "冰壯飛狐冷，霜濃候雁哀。將軍朝授鉞，戰士夜銜枚。",
       "紫塞金河裏，蔥山鐵勒隈。蓮花秋劍發，桂葉曉旗開。",
       "秘略三軍動，妖氛百戰摧。何言投筆去，終作勒銘回。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -663,17 +674,28 @@
     }
   },
   {
-    "title": "獄中聞駕幸長安二首",
+    "title": "獄中聞駕幸長安二首·其一",
     "author": "沈佺期",
     "paragraphs": [
       "傳聞聖旨向秦京，誰念羈囚滯洛城。",
-      "扈從由來是方朔，為申冤氣在長平。",
+      "扈從由來是方朔，為申冤氣在長平。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "獄中聞駕幸長安二首·其二",
+    "author": "沈佺期",
+    "paragraphs": [
       "無事今朝來下獄，誰期十月是橫河。",
       "君看鷹隼俱堪擊，為報蜘蛛收網羅。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

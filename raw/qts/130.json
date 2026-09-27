@@ -534,17 +534,50 @@
     }
   },
   {
-    "title": "長幹曲四首",
+    "title": "長幹曲四首·其一",
     "author": "崔顥",
     "paragraphs": [
-      "君家何處住，妾住在橫塘。停船暫借問，或恐是同鄉。",
-      "家臨九江水，來去九江側。同是長幹人，自小不相識。",
-      "下渚多風浪，蓮舟漸覺稀。那能不相待，獨自逆潮歸。",
+      "君家何處住，妾住在橫塘。停船暫借問，或恐是同鄉。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "長幹曲四首·其二",
+    "author": "崔顥",
+    "paragraphs": [
+      "家臨九江水，來去九江側。同是長幹人，自小不相識。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "長幹曲四首·其三",
+    "author": "崔顥",
+    "paragraphs": [
+      "下渚多風浪，蓮舟漸覺稀。那能不相待，獨自逆潮歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "長幹曲四首·其四",
+    "author": "崔顥",
+    "paragraphs": [
       "三江潮水急，五湖風浪湧。由來花性輕，莫畏蓮舟重。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

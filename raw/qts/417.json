@@ -288,21 +288,54 @@
     }
   },
   {
-    "title": "寄浙西李大夫四首",
+    "title": "寄浙西李大夫四首·其一",
     "author": "元稹",
     "paragraphs": [
       "柳眼梅心漸欲春，白頭西望憶何人。",
-      "金陵太守曾相伴，共蹋銀台一路塵。",
+      "金陵太守曾相伴，共蹋銀台一路塵。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄浙西李大夫四首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "蕊珠深處少人知，網索西臨太液池。",
-      "浴殿曉聞天語後，步廊騎馬笑相隨。",
+      "浴殿曉聞天語後，步廊騎馬笑相隨。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄浙西李大夫四首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "禁林同直話交情，無夜無曾不到明。",
-      "最憶西樓人靜夜，玉晨鐘磬兩三聲。",
+      "最憶西樓人靜夜，玉晨鐘磬兩三聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄浙西李大夫四首·其四",
+    "author": "元稹",
+    "paragraphs": [
       "由來鵬化便圖南，浙右雖雄我未甘。",
       "早渡西江好歸去，莫拋舟楫滯春潭。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

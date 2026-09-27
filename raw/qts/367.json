@@ -94,32 +94,98 @@
     }
   },
   {
-    "title": "宮中樂五首",
+    "title": "宮中樂五首·其一",
     "author": "張仲素",
     "paragraphs": [
-      "網戶交如綺，紗窗薄似煙。樂吹天上曲，人是月中仙。",
-      "翠匣開寒鏡，珠釵掛步搖。妝成隻畏曉，更漏促春宵。",
-      "紅果瑤池實，金盤露井冰。甘泉將避暑，台殿曉光凝。",
-      "月采浮鸞殿，砧聲隔鳳樓。笙歌臨水檻，紅燭乍迎秋。",
-      "奇樹留寒翠，神池結夕波。黃山一夜雪，渭水瀉聲多。"
+      "網戶交如綺，紗窗薄似煙。樂吹天上曲，人是月中仙。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "春遊曲三首",
+    "title": "宮中樂五首·其二",
     "author": "張仲素",
     "paragraphs": [
-      "煙柳飛輕絮，風榆落小錢。濛濛百花裏，羅綺競秋千。",
-      "騁望登香閣，爭高下砌台。林間踏青去，席上寄箋來。",
+      "翠匣開寒鏡，珠釵掛步搖。妝成隻畏曉，更漏促春宵。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宮中樂五首·其三",
+    "author": "張仲素",
+    "paragraphs": [
+      "紅果瑤池實，金盤露井冰。甘泉將避暑，台殿曉光凝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宮中樂五首·其四",
+    "author": "張仲素",
+    "paragraphs": [
+      "月采浮鸞殿，砧聲隔鳳樓。笙歌臨水檻，紅燭乍迎秋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宮中樂五首·其五",
+    "author": "張仲素",
+    "paragraphs": [
+      "奇樹留寒翠，神池結夕波。黃山一夜雪，渭水瀉聲多。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春遊曲三首·其一",
+    "author": "張仲素",
+    "paragraphs": [
+      "煙柳飛輕絮，風榆落小錢。濛濛百花裏，羅綺競秋千。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春遊曲三首·其二",
+    "author": "張仲素",
+    "paragraphs": [
+      "騁望登香閣，爭高下砌台。林間踏青去，席上寄箋來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春遊曲三首·其三",
+    "author": "張仲素",
+    "paragraphs": [
       "行樂三春節，林花百和香。當年重意氣，先占鬥雞場。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -136,15 +202,26 @@
     }
   },
   {
-    "title": "春江曲二首",
+    "title": "春江曲二首·其一",
     "author": "張仲素",
     "paragraphs": [
-      "家寄征河岸，征人幾歲遊。不如潮水信，每日到沙頭。",
+      "家寄征河岸，征人幾歲遊。不如潮水信，每日到沙頭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春江曲二首·其二",
+    "author": "張仲素",
+    "paragraphs": [
       "乘曉南湖去，參差疊浪橫。前洲在何處，霜裏雁嚶嚶。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -236,85 +313,184 @@
     }
   },
   {
-    "title": "塞下曲五首",
+    "title": "塞下曲五首·其一",
     "author": "張仲素",
     "paragraphs": [
       "三戍漁陽再渡遼，騂弓在臂劍橫腰。",
-      "匈奴似若知名姓，休傍陰山更射雕。",
+      "匈奴似若知名姓，休傍陰山更射雕。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞下曲五首·其二",
+    "author": "張仲素",
+    "paragraphs": [
       "獵馬千行雁幾雙，燕然山下碧油幢。",
-      "傳聲漠北單于破，火照旌旗夜受降。",
+      "傳聲漠北單于破，火照旌旗夜受降。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞下曲五首·其三",
+    "author": "張仲素",
+    "paragraphs": [
       "朔雪飄飄開雁門，平沙曆亂卷蓬根。",
-      "功名恥計擒生數，直斬樓蘭報國恩。",
+      "功名恥計擒生數，直斬樓蘭報國恩。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞下曲五首·其四",
+    "author": "張仲素",
+    "paragraphs": [
       "隴水潺湲隴樹秋，征人到此淚雙流。",
-      "鄉關萬里無因見，西戍河源早晚休。",
+      "鄉關萬里無因見，西戍河源早晚休。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞下曲五首·其五",
+    "author": "張仲素",
+    "paragraphs": [
       "陰磧茫茫塞草肥，桔槔烽上暮雲飛。",
       "交河北望天連海，蘇武曾將漢節歸。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "秋思二首",
+    "title": "秋思二首·其一",
     "author": "張仲素",
     "paragraphs": [
       "碧窗斜日藹深暉，愁聽寒螿淚濕衣。",
-      "夢裏分明見關塞，不知何路向金微。",
+      "夢裏分明見關塞，不知何路向金微。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "秋思二首·其二",
+    "author": "張仲素",
+    "paragraphs": [
       "秋天一夜靜無雲，斷續鴻聲到曉聞。",
       "欲寄征衣問消息，居延城外又移軍。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "漢苑行二首",
+    "title": "漢苑行二首·其一",
     "author": "張仲素",
     "paragraphs": [
       "回雁高飛太液池，新花低發上林枝。",
-      "年光到處皆堪賞，春色人間總不知。",
+      "年光到處皆堪賞，春色人間總不知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "漢苑行二首·其二",
+    "author": "張仲素",
+    "paragraphs": [
       "春風淡蕩景悠悠，鶯囀高枝燕入樓。",
       "千步回廊聞鳳吹，珠簾處處上銀鉤。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "天馬辭二首",
+    "title": "天馬辭二首·其一",
     "author": "張仲素",
     "paragraphs": [
       "天馬初從渥水來，郊歌曾唱得龍媒。",
-      "不知玉塞沙中路，苜蓿殘花幾處開。",
+      "不知玉塞沙中路，苜蓿殘花幾處開。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "天馬辭二首·其二",
+    "author": "張仲素",
+    "paragraphs": [
       "躞蹀宛駒齒未齊，摐金噴玉向風嘶。",
       "來時欲盡金河道，獵獵輕風在碧蹄。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "燕子樓詩三首",
+    "title": "燕子樓詩三首·其一",
     "author": "張仲素",
     "paragraphs": [
       "樓上殘燈伴曉霜，獨眠人起合歡床。",
-      "相思一夜情多少，地角天涯不是長。",
+      "相思一夜情多少，地角天涯不是長。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "燕子樓詩三首·其二",
+    "author": "張仲素",
+    "paragraphs": [
       "北邙松柏鎖愁煙，燕子樓人思悄然。",
-      "自埋劍履歌塵散，紅袖香消已十年。",
+      "自埋劍履歌塵散，紅袖香消已十年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "燕子樓詩三首·其三",
+    "author": "張仲素",
+    "paragraphs": [
       "適看鴻雁岳陽回，又睹玄禽逼社來。",
       "瑤瑟玉簫無意緒，任從蛛網任從灰。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

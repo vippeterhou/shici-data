@@ -592,17 +592,50 @@
     }
   },
   {
-    "title": "江南曲四首",
+    "title": "江南曲四首·其一",
     "author": "儲光羲",
     "paragraphs": [
-      "綠江深見底，高浪直翻空。慣是湖邊住，舟輕不畏風。",
-      "逐流牽荇葉，緣岸摘蘆苗。為惜鴛鴦鳥，輕輕動畫橈。",
-      "日暮長江裏，相邀歸渡頭。落花如有意，來去逐船流。",
+      "綠江深見底，高浪直翻空。慣是湖邊住，舟輕不畏風。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江南曲四首·其二",
+    "author": "儲光羲",
+    "paragraphs": [
+      "逐流牽荇葉，緣岸摘蘆苗。為惜鴛鴦鳥，輕輕動畫橈。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江南曲四首·其三",
+    "author": "儲光羲",
+    "paragraphs": [
+      "日暮長江裏，相邀歸渡頭。落花如有意，來去逐船流。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江南曲四首·其四",
+    "author": "儲光羲",
+    "paragraphs": [
       "隔江看樹色，沿月聽歌聲。不是長幹住，那從此路行。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -655,21 +688,54 @@
     }
   },
   {
-    "title": "明妃曲四首",
+    "title": "明妃曲四首·其一",
     "author": "儲光羲",
     "paragraphs": [
       "西行隴上泣胡天，南向雲中指渭川。",
-      "毳幕夜來時宛轉，何由得似漢王邊。",
+      "毳幕夜來時宛轉，何由得似漢王邊。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "明妃曲四首·其二",
+    "author": "儲光羲",
+    "paragraphs": [
       "胡王知妾不勝悲，樂府皆傳漢國辭。",
-      "朝來馬上箜篌引，稍似宮中閑夜時。",
+      "朝來馬上箜篌引，稍似宮中閑夜時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "明妃曲四首·其三",
+    "author": "儲光羲",
+    "paragraphs": [
       "日暮驚沙亂雪飛，傍人相勸易羅衣。",
-      "強來前殿看歌舞，共待單于夜獵歸。",
+      "強來前殿看歌舞，共待單于夜獵歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "明妃曲四首·其四",
+    "author": "儲光羲",
+    "paragraphs": [
       "彩騎雙雙引寶車，羌笛兩兩奏胡笳。",
       "若為別得橫橋路，莫隱宮中玉樹花。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

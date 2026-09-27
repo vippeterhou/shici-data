@@ -26,17 +26,28 @@
     }
   },
   {
-    "title": "嶽州眾湖阻風二首",
+    "title": "嶽州眾湖阻風二首·其一",
     "author": "王周",
     "paragraphs": [
       "眾湖湖口系蘭船，睡起中餐又卻眠。",
-      "風伯如何解回怒，數宵檣倚碧蘆煙。",
+      "風伯如何解回怒，數宵檣倚碧蘆煙。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "嶽州眾湖阻風二首·其二",
+    "author": "王周",
+    "paragraphs": [
       "偶系扁舟枕綠莎，旋移深處避驚波。",
       "曉來閑共漁人話，此去巴陵路幾多。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -67,17 +78,28 @@
     }
   },
   {
-    "title": "西塞山二首",
+    "title": "西塞山二首·其一",
     "author": "王周",
     "paragraphs": [
       "西塞名山立翠屏，濃嵐橫入半江青。",
-      "千尋鐵鎖無由問，石壁空存道者形。",
+      "千尋鐵鎖無由問，石壁空存道者形。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "西塞山二首·其二",
+    "author": "王周",
+    "paragraphs": [
       "匹婦頑然莫問因，匹夫何去望千春。",
       "翻思岵屺傳詩什，舉世曾無化石人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -119,15 +141,26 @@
     }
   },
   {
-    "title": "采桑女二首",
+    "title": "采桑女二首·其一",
     "author": "王周",
     "paragraphs": [
-      "渡水采桑歸，蠶老催上機。紮紮得盈尺，輕素何人衣。",
+      "渡水采桑歸，蠶老催上機。紮紮得盈尺，輕素何人衣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "采桑女二首·其二",
+    "author": "王周",
+    "paragraphs": [
       "采桑知蠶饑，投梭惜夜遲。誰誇羅綺叢，新畫學月眉。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -169,17 +202,28 @@
     }
   },
   {
-    "title": "再經秭歸二首",
+    "title": "再經秭歸二首·其一",
     "author": "王周",
     "paragraphs": [
       "總角曾隨上峽船，尋思如夢可淒然。",
-      "夜來孤館重來宿，枕底灘聲似舊年。",
+      "夜來孤館重來宿，枕底灘聲似舊年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "再經秭歸二首·其二",
+    "author": "王周",
+    "paragraphs": [
       "秭歸城邑昔曾過，舊識無人奈老何。",
       "獨有淒清難改處，月明聞唱竹枝歌。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -351,17 +395,28 @@
     }
   },
   {
-    "title": "無題二首",
+    "title": "無題二首·其一",
     "author": "王周",
     "paragraphs": [
       "冰雪肌膚力不勝，落花飛絮繞風亭。",
-      "不知何事秋千下，蹙破愁眉兩點青。",
+      "不知何事秋千下，蹙破愁眉兩點青。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "無題二首·其二",
+    "author": "王周",
+    "paragraphs": [
       "梨花如雪已相迷，更被驚烏半夜啼。",
       "簾卷玉樓人寂寂，一鉤新月未沈西。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -687,19 +742,41 @@
     }
   },
   {
-    "title": "和杜運使巴峽地暖節物與中土異黯然有感詩三首",
+    "title": "和杜運使巴峽地暖節物與中土異黯然有感詩三首·其一",
     "author": "王周",
     "paragraphs": [
       "隨柳參差破綠芽，此中依約欲飛花。",
-      "春光是處傷離思，何況歸期未有涯。",
+      "春光是處傷離思，何況歸期未有涯。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和杜運使巴峽地暖節物與中土異黯然有感詩三首·其二",
+    "author": "王周",
+    "paragraphs": [
       "始看菊蕊開籬下，又見梅花寄嶺頭。",
-      "攬轡巴西官局冷，幾憑春酒沃鄉愁。",
+      "攬轡巴西官局冷，幾憑春酒沃鄉愁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和杜運使巴峽地暖節物與中土異黯然有感詩三首·其三",
+    "author": "王周",
+    "paragraphs": [
       "花品姚黃冠洛陽，巴中春早羨孤芳。",
       "不知別有栽培力，流詠新詩與激昂。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

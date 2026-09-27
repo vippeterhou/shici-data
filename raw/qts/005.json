@@ -742,65 +742,351 @@
     }
   },
   {
-    "title": "駕幸新豐溫泉宮獻詩三首",
+    "title": "駕幸新豐溫泉宮獻詩三首·其一",
     "author": "上官昭容",
     "paragraphs": [
       "三冬季月景龍年，萬乘觀風出灞川。",
-      "遙看電躍龍為馬，回矚霜原玉作田。",
-      "鸞旗掣曳拂空回，羽騎驂驔躡景來。",
-      "隱隱驪山雲外聳，迢迢禦帳日邊開。",
-      "翠幕珠幃敞月營，金罍玉斝泛蘭英。",
-      "歲歲年年常扈蹕，長長久久樂升平。"
+      "遙看電躍龍為馬，回矚霜原玉作田。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "游長寧公主流杯池二十五首",
+    "title": "駕幸新豐溫泉宮獻詩三首·其二",
     "author": "上官昭容",
     "paragraphs": [
-      "逐仙賞，展幽情，逾昆閬，邁蓬瀛。",
-      "游魯館，陟秦台。汙山壁，愧瓊瑰。",
-      "檀欒竹影，飆f2松聲。不煩歌吹，自足娛情。",
-      "仰循茅宇，俯眄喬枝。煙霞問訊，風月相知。",
-      "枝條鬱鬱，文質彬彬。山林作伴，松桂為鄰。",
-      "清波洶湧，碧樹冥蒙。莫怪留步，因攀桂叢。",
-      "莫論圓嶠，休說方壺。何如魯館，即是仙都。",
+      "鸞旗掣曳拂空回，羽騎驂驔躡景來。",
+      "隱隱驪山雲外聳，迢迢禦帳日邊開。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "駕幸新豐溫泉宮獻詩三首·其三",
+    "author": "上官昭容",
+    "paragraphs": [
+      "翠幕珠幃敞月營，金罍玉斝泛蘭英。",
+      "歲歲年年常扈蹕，長長久久樂升平。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其一",
+    "author": "上官昭容",
+    "paragraphs": [
+      "逐仙賞，展幽情，逾昆閬，邁蓬瀛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [3, 3, 3, 3],
+      "uniform_sentence_length": 3
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其二",
+    "author": "上官昭容",
+    "paragraphs": [
+      "游魯館，陟秦台。汙山壁，愧瓊瑰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [3, 3, 3, 3],
+      "uniform_sentence_length": 3
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其三",
+    "author": "上官昭容",
+    "paragraphs": [
+      "檀欒竹影，飆f2松聲。不煩歌吹，自足娛情。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [4, 3, 4, 4],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其四",
+    "author": "上官昭容",
+    "paragraphs": [
+      "仰循茅宇，俯眄喬枝。煙霞問訊，風月相知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [4, 4, 4, 4],
+      "uniform_sentence_length": 4
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其五",
+    "author": "上官昭容",
+    "paragraphs": [
+      "枝條鬱鬱，文質彬彬。山林作伴，松桂為鄰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [4, 4, 4, 4],
+      "uniform_sentence_length": 4
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其六",
+    "author": "上官昭容",
+    "paragraphs": [
+      "清波洶湧，碧樹冥蒙。莫怪留步，因攀桂叢。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [4, 4, 4, 4],
+      "uniform_sentence_length": 4
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其七",
+    "author": "上官昭容",
+    "paragraphs": [
+      "莫論圓嶠，休說方壺。何如魯館，即是仙都。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [4, 4, 4, 4],
+      "uniform_sentence_length": 4
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其八",
+    "author": "上官昭容",
+    "paragraphs": [
       "玉環騰遠創，金埒荷殊榮。弗玩珠璣飾，仍留仁智情。",
-      "鑿山便作室，憑樹即為楹。公輸與班爾，從此遂韜聲。",
+      "鑿山便作室，憑樹即為楹。公輸與班爾，從此遂韜聲。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其九",
+    "author": "上官昭容",
+    "paragraphs": [
       "登山一長望，正遇九春初。結駟填街術，閭閻滿邑居。",
-      "鬥雪梅先吐，驚風柳未舒。直愁斜日落，不畏酒尊虛。",
+      "鬥雪梅先吐，驚風柳未舒。直愁斜日落，不畏酒尊虛。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其十",
+    "author": "上官昭容",
+    "paragraphs": [
       "霽曉氣清和，披襟賞薜蘿。玳瑁凝春色，琉璃漾水波。",
-      "跂石聊長嘯，攀松乍短歌。除非物外者，誰就此經過。",
+      "跂石聊長嘯，攀松乍短歌。除非物外者，誰就此經過。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其十一",
+    "author": "上官昭容",
+    "paragraphs": [
       "暫爾遊山第，淹留惜未歸。霞窗明月滿，澗戶白雲飛。",
-      "書引藤為架，人將薜作衣。此真攀玩所，臨睨賞光輝。",
+      "書引藤為架，人將薜作衣。此真攀玩所，臨睨賞光輝。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其十二",
+    "author": "上官昭容",
+    "paragraphs": [
       "放曠出煙雲，蕭條自不群。漱流清意府，隱幾避囂氛。",
-      "石畫妝苔色，風梭織水文。山室何為貴，唯餘蘭桂熏。",
+      "石畫妝苔色，風梭織水文。山室何為貴，唯餘蘭桂熏。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其十三",
+    "author": "上官昭容",
+    "paragraphs": [
       "策杖臨霞岫，危步下霜蹊。志逐深山靜，途隨曲澗迷。",
-      "漸覺心神逸，俄看雲霧低。莫怪人題樹，只為賞幽棲。",
-      "攀藤招逸客，偃桂協幽情。水中看樹影，風裏聽松聲。",
-      "攜琴侍叔夜，負局訪安期。不應題石壁，為記賞山時。",
-      "泉石多仙趣，岩壑寫奇形。欲知堪悅耳，唯聽水泠泠。",
-      "岩壑恣登臨，瑩目複怡心。風篁類長笛，流水當鳴琴。",
-      "懶步天臺路，惟登地肺山。幽岩仙桂滿，今日恣情攀。",
-      "暫游仁智所，蕭然松桂情。寄言棲遁客，勿複訪蓬瀛。",
-      "瀑溜晴疑雨，叢篁晝似昏。山中真可玩，暫請報王孫。",
-      "傍池聊試筆，倚石旋題詩。豫彈山水調，終擬從鐘期。",
-      "橫鋪豹皮褥，側帶鹿胎巾。借問何為者，山中有逸人。",
+      "漸覺心神逸，俄看雲霧低。莫怪人題樹，只為賞幽棲。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其十四",
+    "author": "上官昭容",
+    "paragraphs": [
+      "攀藤招逸客，偃桂協幽情。水中看樹影，風裏聽松聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其十五",
+    "author": "上官昭容",
+    "paragraphs": [
+      "攜琴侍叔夜，負局訪安期。不應題石壁，為記賞山時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其十六",
+    "author": "上官昭容",
+    "paragraphs": [
+      "泉石多仙趣，岩壑寫奇形。欲知堪悅耳，唯聽水泠泠。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其十七",
+    "author": "上官昭容",
+    "paragraphs": [
+      "岩壑恣登臨，瑩目複怡心。風篁類長笛，流水當鳴琴。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其十八",
+    "author": "上官昭容",
+    "paragraphs": [
+      "懶步天臺路，惟登地肺山。幽岩仙桂滿，今日恣情攀。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其十九",
+    "author": "上官昭容",
+    "paragraphs": [
+      "暫游仁智所，蕭然松桂情。寄言棲遁客，勿複訪蓬瀛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其二十",
+    "author": "上官昭容",
+    "paragraphs": [
+      "瀑溜晴疑雨，叢篁晝似昏。山中真可玩，暫請報王孫。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其二十一",
+    "author": "上官昭容",
+    "paragraphs": [
+      "傍池聊試筆，倚石旋題詩。豫彈山水調，終擬從鐘期。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其二十二",
+    "author": "上官昭容",
+    "paragraphs": [
+      "橫鋪豹皮褥，側帶鹿胎巾。借問何為者，山中有逸人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其二十三",
+    "author": "上官昭容",
+    "paragraphs": [
       "沁水田園先自多，齊城樓觀更無過。",
-      "倩語張騫莫辛苦，人今從此識天河。",
+      "倩語張騫莫辛苦，人今從此識天河。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其二十四",
+    "author": "上官昭容",
+    "paragraphs": [
       "參差碧岫聳蓮花，潺湲綠水瑩金沙。",
-      "何須遠訪三山路，人今已到九仙家。",
+      "何須遠訪三山路，人今已到九仙家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "游長寧公主流杯池二十五首·其二十五",
+    "author": "上官昭容",
+    "paragraphs": [
       "憑高瞰險足怡心，菌閣桃源不暇尋。",
       "餘雪依林成玉樹，殘霙點岫即瑤岑。"
     ],
     "format": {
-      "sentence_count": 124,
-      "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

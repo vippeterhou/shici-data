@@ -13,98 +13,197 @@
     }
   },
   {
-    "title": "魏宮詞二首",
+    "title": "魏宮詞二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "日晚長秋簾外報，望陵歌舞在明朝。",
-      "添爐欲爇熏衣麝，憶得分時不忍燒。",
+      "添爐欲爇熏衣麝，憶得分時不忍燒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "魏宮詞二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "日映西陵松柏枝，下臺相顧一相思。",
       "朝來樂府長歌曲，唱著君王自作詞。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "楊枝詞二首",
+    "title": "楊枝詞二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "迎得春光先到來，淺黃輕綠映樓臺。",
-      "只緣嫋娜多情思，更被春風長倩猜。",
+      "只緣嫋娜多情思，更被春風長倩猜。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊枝詞二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "巫峽巫山楊柳多，朝雲暮雨遠相和。",
       "因想陽臺無限事，來君回唱竹枝歌。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "竹枝詞二首",
+    "title": "竹枝詞二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "楊柳青青江水準，聞郎江上唱歌聲。",
-      "東邊日出西邊雨，道是無晴卻有晴。",
+      "東邊日出西邊雨，道是無晴卻有晴。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹枝詞二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "楚水巴山江雨多，巴人能唱本鄉歌。",
       "今朝北客思歸去，回入紇那披綠羅。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "堤上行三首",
+    "title": "堤上行三首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "酒旗相望大堤頭，堤下連檣堤上樓。",
-      "日暮行人爭渡急，槳聲幽軋滿中流。",
+      "日暮行人爭渡急，槳聲幽軋滿中流。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "堤上行三首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "江南江北望煙波，入夜行人相應歌。",
-      "桃葉傳情竹枝怨，水流無限月明多。",
+      "桃葉傳情竹枝怨，水流無限月明多。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "堤上行三首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "春堤繚繞水徘徊，酒舍旗亭次第開。",
       "日晚上樓招估客，軻峨大艑落帆來。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "《踏歌詞四首",
+    "title": "《踏歌詞四首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "春江月出大堤平，堤上女郎連袂行。",
-      "唱盡新詞歡不見，紅霞映樹鷓鴣鳴。",
+      "唱盡新詞歡不見，紅霞映樹鷓鴣鳴。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "《踏歌詞四首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "桃蹊柳陌好經過，燈下妝成月下歌。",
-      "為是襄王故宮地，至今猶自細腰多。",
+      "為是襄王故宮地，至今猶自細腰多。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "《踏歌詞四首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "新詞宛轉遞相傳，振袖傾鬟風露前。",
-      "月落烏啼雲雨散，游童陌上拾花鈿。",
+      "月落烏啼雲雨散，游童陌上拾花鈿。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "《踏歌詞四首·其四",
+    "author": "劉禹錫",
+    "paragraphs": [
       "日暮江頭聞竹枝，南人行樂北人悲。",
       "自從雪裏唱新曲，直到三春花盡時。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "步虛詞二首",
+    "title": "步虛詞二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "阿母種桃雲海際，花落子成三千歲。",
-      "海風吹折最繁枝，跪捧瓊盤獻天帝。",
+      "海風吹折最繁枝，跪捧瓊盤獻天帝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "步虛詞二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "華表千年一鶴歸，凝丹為頂雪為衣。",
       "星星仙語人聽盡，卻向五雲翻翅飛。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -122,17 +221,28 @@
     }
   },
   {
-    "title": "秋詞二首",
+    "title": "秋詞二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "自古逢秋悲寂寥，我言秋日勝春朝。",
-      "晴空一鶴排雲上，便引詩情到碧霄。",
+      "晴空一鶴排雲上，便引詩情到碧霄。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "秋詞二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "山明水淨夜來霜，數樹深紅出淺黃。",
       "試上高樓清入骨，豈如春色嗾人狂。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -150,125 +260,444 @@
     }
   },
   {
-    "title": "竹枝詞九首",
+    "title": "竹枝詞九首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "白帝城頭春草生，白鹽山下蜀江清。",
-      "南人上來歌一曲，北人莫上動鄉情。",
+      "南人上來歌一曲，北人莫上動鄉情。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹枝詞九首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "山桃紅花滿上頭，蜀江春水拍山流。",
-      "花紅易衰似郎意，水流無限似儂愁。",
+      "花紅易衰似郎意，水流無限似儂愁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹枝詞九首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "江上朱樓新雨晴，瀼西春水縠紋生。",
-      "橋東橋西好楊柳，人來人去唱歌行。",
+      "橋東橋西好楊柳，人來人去唱歌行。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹枝詞九首·其四",
+    "author": "劉禹錫",
+    "paragraphs": [
       "日出三竿春霧消，江頭蜀客駐蘭橈。",
-      "憑寄狂夫書一紙，家住成都萬里橋。",
+      "憑寄狂夫書一紙，家住成都萬里橋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹枝詞九首·其五",
+    "author": "劉禹錫",
+    "paragraphs": [
       "兩岸山花似雪開，家家春酒滿銀盃。",
-      "昭君坊中多女伴，永安宮外踏青來。",
+      "昭君坊中多女伴，永安宮外踏青來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹枝詞九首·其六",
+    "author": "劉禹錫",
+    "paragraphs": [
       "城西門前灩澦堆，年年波浪不能摧。",
-      "懊惱人心不如石，少時東去複西來。",
+      "懊惱人心不如石，少時東去複西來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹枝詞九首·其七",
+    "author": "劉禹錫",
+    "paragraphs": [
       "瞿塘嘈嘈十二灘，人言道路古來難。",
-      "長恨人心不如水，等閒平地起波瀾。",
+      "長恨人心不如水，等閒平地起波瀾。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹枝詞九首·其八",
+    "author": "劉禹錫",
+    "paragraphs": [
       "巫峽蒼蒼煙雨時，清猿啼在最高枝。",
-      "個裏愁人腸自斷，由來不是此聲悲。",
+      "個裏愁人腸自斷，由來不是此聲悲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹枝詞九首·其九",
+    "author": "劉禹錫",
+    "paragraphs": [
       "山上層層桃李花，雲間煙火是人家。",
       "銀釧金釵來負水，長刀短笠去燒畬。"
     ],
     "format": {
-      "sentence_count": 36,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "楊柳枝詞九首",
+    "title": "楊柳枝詞九首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "塞北梅花羌笛吹，淮南桂樹小山詞。",
-      "請君莫奏前朝曲，聽唱新翻楊柳枝。",
+      "請君莫奏前朝曲，聽唱新翻楊柳枝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞九首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "南陌東城春早時，相逢何處不依依。",
-      "桃紅李白皆誇好，須得垂楊相發揮。",
+      "桃紅李白皆誇好，須得垂楊相發揮。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞九首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "鳳闕輕遮翡翠幃，龍池遙望麹塵絲。",
-      "禦溝春水相輝映，狂殺長安年少兒。",
+      "禦溝春水相輝映，狂殺長安年少兒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞九首·其四",
+    "author": "劉禹錫",
+    "paragraphs": [
       "金穀園中鶯亂飛，銅駝陌上好風吹。",
-      "城中桃李須臾盡，爭似垂楊無限時。",
+      "城中桃李須臾盡，爭似垂楊無限時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞九首·其五",
+    "author": "劉禹錫",
+    "paragraphs": [
       "花萼樓前初種時，美人樓上鬥腰肢。",
-      "如今拋擲長街裏，露葉如啼欲向誰。",
+      "如今拋擲長街裏，露葉如啼欲向誰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞九首·其六",
+    "author": "劉禹錫",
+    "paragraphs": [
       "煬帝行宮汴水濱，數枝楊柳不勝春。",
-      "晚來風起花如雪，飛入宮牆不見人。",
+      "晚來風起花如雪，飛入宮牆不見人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞九首·其七",
+    "author": "劉禹錫",
+    "paragraphs": [
       "禦陌青門拂地垂，千條金縷萬條絲。",
-      "如今綰作同心結，將贈行人知不知。",
+      "如今綰作同心結，將贈行人知不知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞九首·其八",
+    "author": "劉禹錫",
+    "paragraphs": [
       "城外春風吹酒旗，行人揮袂日西時。",
-      "長安陌上無窮樹，唯有垂楊管別離。",
+      "長安陌上無窮樹，唯有垂楊管別離。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞九首·其九",
+    "author": "劉禹錫",
+    "paragraphs": [
       "輕盈嫋娜占年華，舞榭妝樓處處遮。",
       "春盡絮花留不得，隨風好去落誰家。"
     ],
     "format": {
-      "sentence_count": 36,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "浪淘沙九首",
+    "title": "浪淘沙九首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "九曲黃河萬里沙，浪淘風簸自天涯。",
-      "如今直上銀河去，同到牽牛織女家。",
+      "如今直上銀河去，同到牽牛織女家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "浪淘沙九首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "洛水橋邊春日斜，碧流清淺見瓊砂。",
-      "無端陌上狂風急，驚起鴛鴦出浪花。",
+      "無端陌上狂風急，驚起鴛鴦出浪花。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "浪淘沙九首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "汴水東流虎眼紋，清淮曉色鴨頭春。",
-      "君看渡口淘沙處，渡卻人間多少人。",
+      "君看渡口淘沙處，渡卻人間多少人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "浪淘沙九首·其四",
+    "author": "劉禹錫",
+    "paragraphs": [
       "鸚鵡洲頭浪颭沙，青樓春望日將斜。",
-      "銜泥燕子爭歸舍，獨自狂夫不憶家。",
+      "銜泥燕子爭歸舍，獨自狂夫不憶家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "浪淘沙九首·其五",
+    "author": "劉禹錫",
+    "paragraphs": [
       "濯錦江邊兩岸花，春風吹浪正淘沙。",
-      "女郎剪下鴛鴦錦，將向中流匹晚霞。",
+      "女郎剪下鴛鴦錦，將向中流匹晚霞。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "浪淘沙九首·其六",
+    "author": "劉禹錫",
+    "paragraphs": [
       "日照澄洲江霧開，淘金女伴滿江隈。",
-      "美人首飾侯王印，儘是沙中浪底來。",
+      "美人首飾侯王印，儘是沙中浪底來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "浪淘沙九首·其七",
+    "author": "劉禹錫",
+    "paragraphs": [
       "八月濤聲吼地來，頭高數丈觸山回。",
-      "須臾卻入海門去，卷起沙堆似雪堆。",
+      "須臾卻入海門去，卷起沙堆似雪堆。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "浪淘沙九首·其八",
+    "author": "劉禹錫",
+    "paragraphs": [
       "莫道讒言如浪深，莫言遷客似沙沉。",
-      "千淘萬漉雖辛苦，吹盡狂沙始到金。",
+      "千淘萬漉雖辛苦，吹盡狂沙始到金。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "浪淘沙九首·其九",
+    "author": "劉禹錫",
+    "paragraphs": [
       "流水淘沙不暫停，前波未滅後波生。",
       "令人忽憶瀟湘渚，回唱迎神三兩聲。"
     ],
     "format": {
-      "sentence_count": 36,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "洛中送韓七中丞之吳興口號五首",
+    "title": "洛中送韓七中丞之吳興口號五首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "昔年意氣結群英，幾度朝回一字行。",
-      "海北江南零落盡，兩人相見洛陽城。",
+      "海北江南零落盡，兩人相見洛陽城。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "洛中送韓七中丞之吳興口號五首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "自從雲散各東西，每日歡娛卻慘淒。",
-      "離別苦多相見少，一生心事在書題。",
+      "離別苦多相見少，一生心事在書題。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "洛中送韓七中丞之吳興口號五首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "今朝無意訴離杯，何況清弦急管催。",
-      "本欲醉中輕遠別，不知翻引酒悲來。",
+      "本欲醉中輕遠別，不知翻引酒悲來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "洛中送韓七中丞之吳興口號五首·其四",
+    "author": "劉禹錫",
+    "paragraphs": [
       "駱駝橋上蘋風急，鸚鵡杯中箬下春。",
-      "水碧山青知好處，開顏一笑向何人。",
+      "水碧山青知好處，開顏一笑向何人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "洛中送韓七中丞之吳興口號五首·其五",
+    "author": "劉禹錫",
+    "paragraphs": [
       "溪中士女出笆籬，溪上鴛鴦避畫旗。",
       "何處人間似仙境，春山攜妓採茶時。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "送廖參謀東游二首",
+    "title": "送廖參謀東游二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "九陌逢君又別離，行雲別鶴本無期。",
-      "望嵩樓上忽相見，看過花開花落時。",
+      "望嵩樓上忽相見，看過花開花落時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送廖參謀東游二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "繁花落盡君辭去，綠草垂楊引征路。",
       "東道諸侯皆故人，留連必是多情處。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -715,19 +1144,41 @@
     }
   },
   {
-    "title": "傷愚溪三首",
+    "title": "傷愚溪三首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "溪水悠悠春自來，草堂無主燕飛回。",
-      "隔簾惟見中庭草，一樹山榴依舊開。",
+      "隔簾惟見中庭草，一樹山榴依舊開。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "傷愚溪三首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "草聖數行留壞壁，木奴千樹屬鄰家。",
-      "唯見裏門通德榜，殘陽寂寞出樵車。",
+      "唯見裏門通德榜，殘陽寂寞出樵車。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "傷愚溪三首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "柳門竹巷依依在，野草青苔日日多。",
       "縱有鄰人解吹笛，山陽舊侶更誰過。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -745,17 +1196,28 @@
     }
   },
   {
-    "title": "代靖安佳人怨二首",
+    "title": "代靖安佳人怨二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "寶馬鳴珂踏曉塵，魚文匕首犯車茵。",
-      "適來行哭裏門外，昨夜華堂歌舞人。",
+      "適來行哭裏門外，昨夜華堂歌舞人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "代靖安佳人怨二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "秉燭朝天遂不回，路人彈指望高臺。",
       "牆東便是傷心地，夜夜流螢飛去來。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -851,17 +1313,28 @@
     }
   },
   {
-    "title": "有所嗟二首",
+    "title": "有所嗟二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "庾令樓中初見時，武昌春柳似腰肢。",
-      "相逢相笑盡如夢，為雨為雲今不知。",
+      "相逢相笑盡如夢，為雨為雲今不知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "有所嗟二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "鄂渚濛濛煙雨微，女郎魂逐暮雲歸。",
       "只應長在漢陽渡，化作鴛鴦一隻飛。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1206,17 +1679,28 @@
     }
   },
   {
-    "title": "重寄表臣二首",
+    "title": "重寄表臣二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "對酒臨流奈別何，君今已醉我蹉跎。",
-      "分明記取星星鬢，他日相逢應更多。",
+      "分明記取星星鬢，他日相逢應更多。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "重寄表臣二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "世間人事有何窮，過後思量儘是空。",
       "早晚同歸洛陽陌，卜鄰須近祝雞翁。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1415,19 +1899,41 @@
     }
   },
   {
-    "title": "寄毗陵楊給事三首",
+    "title": "寄毗陵楊給事三首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "揮毫起制來東省，躡足修名謁外台。",
-      "好著櫜鞬莫惆悵，出文入武是全才。",
+      "好著櫜鞬莫惆悵，出文入武是全才。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄毗陵楊給事三首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "曾主魚書輕刺史，今朝自請左魚來。",
-      "青雲直上無多地，卻要斜飛取勢回。",
+      "青雲直上無多地，卻要斜飛取勢回。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄毗陵楊給事三首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "東城南陌昔同遊，坐上無人第二流。",
       "屈指如今已零落，且須歡喜作鄰州。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

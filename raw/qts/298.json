@@ -899,17 +899,28 @@
     }
   },
   {
-    "title": "秋夜曲二首",
+    "title": "秋夜曲二首·其一",
     "author": "王建",
     "paragraphs": [
       "天清漏長霜泊泊，蘭綠收榮桂膏涸。高樓雲鬟弄嬋娟，",
-      "香囊火死香氣少，向帷合眼何時曉。城烏作營啼野月，",
+      "香囊火死香氣少，向帷合眼何時曉。城烏作營啼野月，"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "秋夜曲二首·其二",
+    "author": "王建",
+    "paragraphs": [
       "秋燈向壁掩洞房，良人此夜直明光。",
       "天河悠悠漏水長，南樓北斗兩相當。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

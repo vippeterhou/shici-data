@@ -138,15 +138,26 @@
     }
   },
   {
-    "title": "蒲中道中二首",
+    "title": "蒲中道中二首·其一",
     "author": "暢當",
     "paragraphs": [
-      "蒼蒼中條山，厥形極奇磈。我欲涉其崖，濯足黃河水。",
+      "蒼蒼中條山，厥形極奇磈。我欲涉其崖，濯足黃河水。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "蒲中道中二首·其二",
+    "author": "暢當",
+    "paragraphs": [
       "古刹棲柿林，綠陰覆蒼瓦。歲晏來品題，拾葉總堪寫。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -163,15 +174,26 @@
     }
   },
   {
-    "title": "宿潭上二首",
+    "title": "宿潭上二首·其一",
     "author": "暢當",
     "paragraphs": [
-      "夜潭有仙舸，與月當水中。嘉賓愛明月，遊子驚秋風。",
+      "夜潭有仙舸，與月當水中。嘉賓愛明月，遊子驚秋風。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宿潭上二首·其二",
+    "author": "暢當",
+    "paragraphs": [
       "青蒲野陂水，白露明月天。中夜秋風起，心事坐潸然。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

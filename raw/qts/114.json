@@ -233,18 +233,62 @@
     }
   },
   {
-    "title": "江南曲五首",
+    "title": "江南曲五首·其一",
     "author": "丁仙芝",
     "paragraphs": [
-      "長幹斜路北，近浦是兒家。有意來相訪，明朝出浣紗。",
-      "發向橫塘口，船開值急流。知郎舊時意，且請攏船頭。",
-      "昨暝逗南陵，風聲波浪阻。入浦不逢人，歸家誰信汝。",
-      "未曉已成妝，乘潮去茫茫。因從京口渡，使報邵陵王。",
+      "長幹斜路北，近浦是兒家。有意來相訪，明朝出浣紗。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江南曲五首·其二",
+    "author": "丁仙芝",
+    "paragraphs": [
+      "發向橫塘口，船開值急流。知郎舊時意，且請攏船頭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江南曲五首·其三",
+    "author": "丁仙芝",
+    "paragraphs": [
+      "昨暝逗南陵，風聲波浪阻。入浦不逢人，歸家誰信汝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江南曲五首·其四",
+    "author": "丁仙芝",
+    "paragraphs": [
+      "未曉已成妝，乘潮去茫茫。因從京口渡，使報邵陵王。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江南曲五首·其五",
+    "author": "丁仙芝",
+    "paragraphs": [
       "始下芙蓉樓，言發琅琊岸。急為打船開，惡許傍人見。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -624,15 +668,26 @@
     }
   },
   {
-    "title": "閨怨二首",
+    "title": "閨怨二首·其一",
     "author": "沈如筠",
     "paragraphs": [
-      "雁盡書難寄，愁多夢不成。願隨孤月影，流照伏波營。",
+      "雁盡書難寄，愁多夢不成。願隨孤月影，流照伏波營。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閨怨二首·其二",
+    "author": "沈如筠",
+    "paragraphs": [
       "隴底嗟長別，流襟一動君。何言幽咽所，更作死生分。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

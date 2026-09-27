@@ -17,17 +17,28 @@
     }
   },
   {
-    "title": "春二首",
+    "title": "春二首·其一",
     "author": "無名氏",
     "paragraphs": [
       "褭褭東風吹水國，金鴉影暖南山北。蒲抽小劍割湘波，",
-      "綠桑枝下見桃葉，回看青雲空斷腸。",
+      "綠桑枝下見桃葉，回看青雲空斷腸。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "春二首·其二",
+    "author": "無名氏",
+    "paragraphs": [
       "烏足遲遲日宮裏，天門擊鼓龍蛇起。風師剪翠換枯條，",
       "繡衣白馬不歸來，雙成倚檻春心醉。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

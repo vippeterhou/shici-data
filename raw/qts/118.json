@@ -450,17 +450,28 @@
     }
   },
   {
-    "title": "淮陰夜宿二首",
+    "title": "淮陰夜宿二首·其一",
     "author": "孫逖",
     "paragraphs": [
       "水國南無畔，扁舟北未期。鄉情淮上失，歸夢郢中疑。",
-      "木落知寒近，山長見日遲。客行心緒亂，不及洛陽時。",
+      "木落知寒近，山長見日遲。客行心緒亂，不及洛陽時。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "淮陰夜宿二首·其二",
+    "author": "孫逖",
+    "paragraphs": [
       "永夕臥煙塘，蕭條天一方。秋風淮水落，寒夜楚歌長。",
       "宿莽非中土，鱸魚豈我鄉。孤舟行已倦，南越尚茫茫。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -504,47 +515,80 @@
     }
   },
   {
-    "title": "和常州崔使君詠後庭梅二首",
+    "title": "和常州崔使君詠後庭梅二首·其一",
     "author": "孫逖",
     "paragraphs": [
       "聞唱梅花落，江南春意深。更傳千裏外，來入越人吟。",
-      "弱幹紅妝倚，繁香翠羽尋。庭中自公日，歌舞向芳陰。",
+      "弱幹紅妝倚，繁香翠羽尋。庭中自公日，歌舞向芳陰。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和常州崔使君詠後庭梅二首·其二",
+    "author": "孫逖",
+    "paragraphs": [
       "梅院重門掩，遙遙歌吹邊。庭深人不見，春至曲能傳。",
       "花落彈棋處，香來薦枕前。使君停五馬，行樂此中偏。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "同和詠樓前海石榴二首",
+    "title": "同和詠樓前海石榴二首·其一",
     "author": "孫逖",
     "paragraphs": [
       "客自新亭郡，朝來數物華。傳君妓樓好，初落海榴花。",
-      "露色珠簾映，香風粉壁遮。更宜林下雨，日晚逐行車。",
+      "露色珠簾映，香風粉壁遮。更宜林下雨，日晚逐行車。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同和詠樓前海石榴二首·其二",
+    "author": "孫逖",
+    "paragraphs": [
       "海上移珍木，樓前詠所思。遙聞下車日，正在落花時。",
       "舊綠香行蓋，新紅灑步綦。從來寒不易，終見久逾滋。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "故右丞相贈太師燕文貞公挽詞二首",
+    "title": "故右丞相贈太師燕文貞公挽詞二首·其一",
     "author": "孫逖",
     "paragraphs": [
       "海內文章伯，朝端禮樂英。一言興寶運，三入濟群生。",
-      "命與才相偶，年將位不並。台星忽已坼，流慟軫皇情。",
+      "命與才相偶，年將位不並。台星忽已坼，流慟軫皇情。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故右丞相贈太師燕文貞公挽詞二首·其二",
+    "author": "孫逖",
+    "paragraphs": [
       "甲第三重戟，高門四列侯。已成冠蓋裏，更有鳳凰樓。",
       "人世方為樂，生涯遽若休。空餘掌綸地，傳慶百千秋。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

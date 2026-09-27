@@ -1002,17 +1002,28 @@
     }
   },
   {
-    "title": "雪二首",
+    "title": "雪二首·其一",
     "author": "司空曙",
     "paragraphs": [
       "樂游春苑望鵝毛，宮殿如星樹似毫。",
-      "漫漫一川橫渭水，太陽初出五陵高。",
+      "漫漫一川橫渭水，太陽初出五陵高。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "雪二首·其二",
+    "author": "司空曙",
+    "paragraphs": [
       "王屋南崖見洛城，石龕松寺上方平。",
       "半山槲葉當窗下，一夜曾聞雪打聲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

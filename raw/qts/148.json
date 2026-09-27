@@ -1237,25 +1237,80 @@
     }
   },
   {
-    "title": "從軍六首",
+    "title": "從軍六首·其一",
     "author": "劉長卿",
     "paragraphs": [
       "回看虜騎合，城下漢兵稀。白刃兩相向，黃雲愁不飛。",
-      "手中無尺鐵，徒欲突重圍。",
+      "手中無尺鐵，徒欲突重圍。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍六首·其二",
+    "author": "劉長卿",
+    "paragraphs": [
       "目極雁門道，青青邊草春。一身事征戰，匹馬同苦辛。",
-      "末路成白首，功歸天下人。",
+      "末路成白首，功歸天下人。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍六首·其三",
+    "author": "劉長卿",
+    "paragraphs": [
       "倚劍白日暮，望鄉登戍樓。北風吹羌笛，此夜關山愁。",
-      "回首不無意，滹河空自流。",
+      "回首不無意，滹河空自流。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍六首·其四",
+    "author": "劉長卿",
+    "paragraphs": [
       "黃沙一萬里，白首無人憐。報國劍已折，歸鄉身幸全。",
-      "單于古台下，邊色寒蒼然。",
+      "單于古台下，邊色寒蒼然。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍六首·其五",
+    "author": "劉長卿",
+    "paragraphs": [
       "落日更蕭條，北風動枯草。將軍追虜騎，夜失陰山道。",
-      "戰敗仍樹勳，韓彭但空老。",
+      "戰敗仍樹勳，韓彭但空老。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍六首·其六",
+    "author": "劉長卿",
+    "paragraphs": [
       "草枯秋塞上，望見漁陽郭。胡馬嘶一聲，漢兵淚雙落。",
       "誰為吮瘡者，此事今人薄。"
     ],
     "format": {
-      "sentence_count": 36,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1404,16 +1459,38 @@
     }
   },
   {
-    "title": "平蕃曲三首",
+    "title": "平蕃曲三首·其一",
     "author": "劉長卿",
     "paragraphs": [
-      "吹角報蕃營，回軍欲洗兵。已教青海外，自築漢家城。",
-      "渺渺戍煙孤，茫茫塞草枯。隴頭那用閉，萬里不防胡。",
+      "吹角報蕃營，回軍欲洗兵。已教青海外，自築漢家城。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "平蕃曲三首·其二",
+    "author": "劉長卿",
+    "paragraphs": [
+      "渺渺戍煙孤，茫茫塞草枯。隴頭那用閉，萬里不防胡。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "平蕃曲三首·其三",
+    "author": "劉長卿",
+    "paragraphs": [
       "絕漠大軍還，平沙獨戍閑。空留一片石，萬古在燕山。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

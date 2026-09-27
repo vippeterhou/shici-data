@@ -117,17 +117,28 @@
     }
   },
   {
-    "title": "酬唐起居前後見寄二首",
+    "title": "酬唐起居前後見寄二首·其一",
     "author": "顧況",
     "paragraphs": [
       "愁人空望國，驚鳥不歸林。莫話彈冠事，誰知結襪心。",
-      "霜凋樹吹斷，土蝕劍痕深。欲作懷沙賦，明時恥自沉。",
+      "霜凋樹吹斷，土蝕劍痕深。欲作懷沙賦，明時恥自沉。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "酬唐起居前後見寄二首·其二",
+    "author": "顧況",
+    "paragraphs": [
       "何處吊靈均，江邊一老人。漢儀君已接，楚奏我空頻。",
       "直道其如命，平生不負神。自傷庚子日，鵩鳥上承塵。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -301,17 +312,28 @@
     }
   },
   {
-    "title": "相國晉公挽歌二首",
+    "title": "相國晉公挽歌二首·其一",
     "author": "顧況",
     "paragraphs": [
       "玉節朝天罷，洪爐造化新。中和方作聖，太素忽收神。",
-      "盛德橫千古，高標出四鄰。欲知言不盡，處處有遺塵。",
+      "盛德橫千古，高標出四鄰。欲知言不盡，處處有遺塵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相國晉公挽歌二首·其二",
+    "author": "顧況",
+    "paragraphs": [
       "凝笳催曉奠，丹旐向青山。夕照新塋近，秋風故吏還。",
       "本朝光漢代，從此掃胡關。今日天難問，浮雲滿世間。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

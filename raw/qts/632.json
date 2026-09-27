@@ -105,17 +105,28 @@
     }
   },
   {
-    "title": "效陳拾遺子昂感遇二首",
+    "title": "效陳拾遺子昂感遇二首·其一",
     "author": "司空圖",
     "paragraphs": [
       "高燕飛何捷，啄害恣群雛。人豈玩其暴，華軒容爾居。",
-      "強欺自天稟，剛吐信吾徒。乃知不平者，矯世道終孤。",
+      "強欺自天稟，剛吐信吾徒。乃知不平者，矯世道終孤。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效陳拾遺子昂感遇二首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "陽和含煦潤，卉木競紛華。當為眾所悅，私已汝何誇。",
       "北裏秘穠豔，東園鎖名花。豪奪乃常理，笑君徒咄嗟。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -172,17 +183,28 @@
     }
   },
   {
-    "title": "上陌梯寺懷舊僧二首",
+    "title": "上陌梯寺懷舊僧二首·其一",
     "author": "司空圖",
     "paragraphs": [
       "雲根禪客居，皆說舊無廬。松日明金像，山風向木魚。",
-      "依棲應不阻，名利本來疏。縱有人相問，林間懶拆書。",
+      "依棲應不阻，名利本來疏。縱有人相問，林間懶拆書。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "上陌梯寺懷舊僧二首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "高鴉隔谷見，路轉寺西門。塔影蔭泉脈，山苗侵燒痕。",
       "鐘疏含杳靄，合迥亙黃昏。更待他僧到，長如前信存。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -239,17 +261,28 @@
     }
   },
   {
-    "title": "江行二首",
+    "title": "江行二首·其一",
     "author": "司空圖",
     "paragraphs": [
       "地闊分吳塞，楓高映楚天。曲塘春盡雨，方響夜深船。",
-      "行紀添新夢，羈愁甚往年。何時京洛路，馬上見人煙。",
+      "行紀添新夢，羈愁甚往年。何時京洛路，馬上見人煙。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江行二首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "初程風信好，回望失津樓。日帶潮聲晚，煙含楚色秋。",
       "戍旗當遠客，島樹轉驚鷗。此去非名利，孤帆任白頭。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -625,29 +658,62 @@
     }
   },
   {
-    "title": "漫題三首",
+    "title": "漫題三首·其一",
     "author": "司空圖",
     "paragraphs": [
-      "亂後他鄉節，燒殘故國春。自憐垂白首，猶伴踏青人。",
-      "齒落傷情久，心驚健忘頻。蝸廬經歲客，蠶市異鄉人。",
-      "率怕人言謹，閑宜酒韻高。山林若無慮，名利不難逃。"
+      "亂後他鄉節，燒殘故國春。自憐垂白首，猶伴踏青人。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "河上二首",
+    "title": "漫題三首·其二",
     "author": "司空圖",
     "paragraphs": [
-      "慘慘日將暮，驅羸獨到莊。沙痕傍墟落，風色入牛羊。",
+      "齒落傷情久，心驚健忘頻。蝸廬經歲客，蠶市異鄉人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "漫題三首·其三",
+    "author": "司空圖",
+    "paragraphs": [
+      "率怕人言謹，閑宜酒韻高。山林若無慮，名利不難逃。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "河上二首·其一",
+    "author": "司空圖",
+    "paragraphs": [
+      "慘慘日將暮，驅羸獨到莊。沙痕傍墟落，風色入牛羊。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "河上二首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "新霽田園處，夕陽禾黍明。沙村平見水，深巷有鷗聲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -664,15 +730,26 @@
     }
   },
   {
-    "title": "即事二首",
+    "title": "即事二首·其一",
     "author": "司空圖",
     "paragraphs": [
-      "茶爽添詩句，天清瑩道心。只留鶴一隻，此外是空林。",
+      "茶爽添詩句，天清瑩道心。只留鶴一隻，此外是空林。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "即事二首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "禦禮征奇策，人心注盛時。從來留振滯，只待濟臨危。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -713,53 +790,218 @@
     }
   },
   {
-    "title": "退居漫題七首",
+    "title": "退居漫題七首·其一",
     "author": "司空圖",
     "paragraphs": [
-      "花缺傷難綴，鶯喧奈細聽。惜春春已晚，珍重草青青。",
-      "堤柳自綿綿，幽人無恨牽。只憂詩病發，莫寄校書箋。",
-      "燕語曾來客，花催欲別人。莫愁春又過，看著又新春。",
-      "身外都無事，山中久避喧。破巢看乳燕，留果待啼猿。",
-      "詩家通籍美，工部與司勳。高賈雖難敵，微官偶勝君。",
-      "努力省前非，人生上壽稀。青雲無直道，暗室有危機。",
+      "花缺傷難綴，鶯喧奈細聽。惜春春已晚，珍重草青青。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "退居漫題七首·其二",
+    "author": "司空圖",
+    "paragraphs": [
+      "堤柳自綿綿，幽人無恨牽。只憂詩病發，莫寄校書箋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "退居漫題七首·其三",
+    "author": "司空圖",
+    "paragraphs": [
+      "燕語曾來客，花催欲別人。莫愁春又過，看著又新春。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "退居漫題七首·其四",
+    "author": "司空圖",
+    "paragraphs": [
+      "身外都無事，山中久避喧。破巢看乳燕，留果待啼猿。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "退居漫題七首·其五",
+    "author": "司空圖",
+    "paragraphs": [
+      "詩家通籍美，工部與司勳。高賈雖難敵，微官偶勝君。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "退居漫題七首·其六",
+    "author": "司空圖",
+    "paragraphs": [
+      "努力省前非，人生上壽稀。青雲無直道，暗室有危機。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "退居漫題七首·其七",
+    "author": "司空圖",
+    "paragraphs": [
       "燕拙營巢苦，魚貪觸網驚。豈緣身外事，亦似我勞形。"
     ],
     "format": {
-      "sentence_count": 28,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "即事九首",
+    "title": "即事九首·其一",
     "author": "司空圖",
     "paragraphs": [
-      "宿雨川原霽，憑高景物新。陂痕侵牧馬，雲影帶耕人。",
-      "十年深隱地，一雨太平心。匣澀休看劍，窗明複上琴。",
-      "明時那棄置，多病自遲留。疏磬和吟斷，殘燈照臥幽。",
-      "衰鬢閑生少，丹梯望覺危。松須依石長，鶴不傍人卑。",
-      "落葉頻驚鹿，連峰欲映雕。此生詩病苦，此病更蕭條。",
-      "旅思又驚夏，庭前長小松。遠峰生貴氣，殘月斂衰容。",
-      "林鳥頻窺靜，家人亦笑慵。舊居留穩枕，歸臥聽秋鐘。",
-      "華宇知難保，燒來又卻修。只應巢燕惜，未必主人留。",
+      "宿雨川原霽，憑高景物新。陂痕侵牧馬，雲影帶耕人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "即事九首·其二",
+    "author": "司空圖",
+    "paragraphs": [
+      "十年深隱地，一雨太平心。匣澀休看劍，窗明複上琴。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "即事九首·其三",
+    "author": "司空圖",
+    "paragraphs": [
+      "明時那棄置，多病自遲留。疏磬和吟斷，殘燈照臥幽。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "即事九首·其四",
+    "author": "司空圖",
+    "paragraphs": [
+      "衰鬢閑生少，丹梯望覺危。松須依石長，鶴不傍人卑。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "即事九首·其五",
+    "author": "司空圖",
+    "paragraphs": [
+      "落葉頻驚鹿，連峰欲映雕。此生詩病苦，此病更蕭條。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "即事九首·其六",
+    "author": "司空圖",
+    "paragraphs": [
+      "旅思又驚夏，庭前長小松。遠峰生貴氣，殘月斂衰容。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "即事九首·其七",
+    "author": "司空圖",
+    "paragraphs": [
+      "林鳥頻窺靜，家人亦笑慵。舊居留穩枕，歸臥聽秋鐘。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "即事九首·其八",
+    "author": "司空圖",
+    "paragraphs": [
+      "華宇知難保，燒來又卻修。只應巢燕惜，未必主人留。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "即事九首·其九",
+    "author": "司空圖",
+    "paragraphs": [
       "幽鳥穿籬去，鄰翁采藥回。雲從潭底出，花向佛前開。"
     ],
     "format": {
-      "sentence_count": 36,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "松滋渡二首",
+    "title": "松滋渡二首·其一",
     "author": "司空圖",
     "paragraphs": [
-      "步上短亭久，看回官渡船。江鄉宜晚霽，楚老語豐年。",
+      "步上短亭久，看回官渡船。江鄉宜晚霽，楚老語豐年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "松滋渡二首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "楚岫接鄉思，茫茫歸路迷。更堪斑竹驛，初聽鷓鴣啼。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -800,16 +1042,38 @@
     }
   },
   {
-    "title": "亂後三首",
+    "title": "亂後三首·其一",
     "author": "司空圖",
     "paragraphs": [
-      "喪亂家難保，艱虞病懶醫。空將憂國淚，猶擬灑丹墀。",
-      "流芳能幾日，惆悵又聞蟬。行在多新貴，幽棲獨長年。",
+      "喪亂家難保，艱虞病懶醫。空將憂國淚，猶擬灑丹墀。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "亂後三首·其二",
+    "author": "司空圖",
+    "paragraphs": [
+      "流芳能幾日，惆悵又聞蟬。行在多新貴，幽棲獨長年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "亂後三首·其三",
+    "author": "司空圖",
+    "paragraphs": [
       "世事嘗艱險，僧居慣寂寥。美香聞夜合，清景見寅朝。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -850,15 +1114,26 @@
     }
   },
   {
-    "title": "村西杏花二首",
+    "title": "村西杏花二首·其一",
     "author": "司空圖",
     "paragraphs": [
-      "薄膩力偏羸，看看愴別時。東風狂不惜，西子病難醫。",
+      "薄膩力偏羸，看看愴別時。東風狂不惜，西子病難醫。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "村西杏花二首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "肌細分紅脈，香濃破紫苞。無因留得玩，爭忍折來拋。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -899,39 +1174,171 @@
     }
   },
   {
-    "title": "偶書五首",
+    "title": "偶書五首·其一",
     "author": "司空圖",
     "paragraphs": [
-      "衰謝當何懺，惟應悔壯圖。磬聲花外遠，人影塔前孤。",
-      "色變鶯雛長，竿齊筍籜垂。白頭身偶在，清夏景還移。",
-      "蜀妓輕成妙，吳娃狎共纖。晚妝留拜月，卷上水精簾。",
-      "獨步荒郊暮，沉思遠墅幽。平生多少事，彈指一時休。",
-      "掩謗知迎吠，欺心見強顏。有名人易困，無契債難還。"
+      "衰謝當何懺，惟應悔壯圖。磬聲花外遠，人影塔前孤。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "雜題九首",
+    "title": "偶書五首·其二",
     "author": "司空圖",
     "paragraphs": [
-      "病來勝未病，名縛便忘名。今日甘為客，當時注湣征。",
-      "暑濕深山雨，荒居破屋燈。此生無懺處，此去作高僧。",
-      "不須頻悵望，且喜脫喧囂。亦有終焉意，陂南看稻苗。",
-      "樓帶猿吟迥，庭容鶴舞寬。z4書因閱畫，封藥偶和丹。",
-      "宴罷論詩久，亭高拜表頻。岸香蕃舶月，洲色海煙春。",
-      "驛步堤縈閣，軍城鼓振橋。鷗和湖雁下，雪隔嶺梅飄。",
-      "帶雪南山道，和鐘北闕明。太平當共賀，開化喝來聲。",
-      "舴艋猿偷上，蜻蜓燕競飛。樵香燒桂子，苔濕掛莎衣。",
+      "色變鶯雛長，竿齊筍籜垂。白頭身偶在，清夏景還移。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "偶書五首·其三",
+    "author": "司空圖",
+    "paragraphs": [
+      "蜀妓輕成妙，吳娃狎共纖。晚妝留拜月，卷上水精簾。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "偶書五首·其四",
+    "author": "司空圖",
+    "paragraphs": [
+      "獨步荒郊暮，沉思遠墅幽。平生多少事，彈指一時休。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "偶書五首·其五",
+    "author": "司空圖",
+    "paragraphs": [
+      "掩謗知迎吠，欺心見強顏。有名人易困，無契債難還。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜題九首·其一",
+    "author": "司空圖",
+    "paragraphs": [
+      "病來勝未病，名縛便忘名。今日甘為客，當時注湣征。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜題九首·其二",
+    "author": "司空圖",
+    "paragraphs": [
+      "暑濕深山雨，荒居破屋燈。此生無懺處，此去作高僧。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜題九首·其三",
+    "author": "司空圖",
+    "paragraphs": [
+      "不須頻悵望，且喜脫喧囂。亦有終焉意，陂南看稻苗。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜題九首·其四",
+    "author": "司空圖",
+    "paragraphs": [
+      "樓帶猿吟迥，庭容鶴舞寬。z4書因閱畫，封藥偶和丹。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 4, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "雜題九首·其五",
+    "author": "司空圖",
+    "paragraphs": [
+      "宴罷論詩久，亭高拜表頻。岸香蕃舶月，洲色海煙春。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜題九首·其六",
+    "author": "司空圖",
+    "paragraphs": [
+      "驛步堤縈閣，軍城鼓振橋。鷗和湖雁下，雪隔嶺梅飄。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜題九首·其七",
+    "author": "司空圖",
+    "paragraphs": [
+      "帶雪南山道，和鐘北闕明。太平當共賀，開化喝來聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜題九首·其八",
+    "author": "司空圖",
+    "paragraphs": [
+      "舴艋猿偷上，蜻蜓燕競飛。樵香燒桂子，苔濕掛莎衣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜題九首·其九",
+    "author": "司空圖",
+    "paragraphs": [
       "溪漲漁家近，煙收鳥道高。松花飄可惜，睡裏灑離騷。"
     ],
     "format": {
-      "sentence_count": 36,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -971,28 +1378,50 @@
     }
   },
   {
-    "title": "漫書二首",
+    "title": "漫書二首·其一",
     "author": "司空圖",
     "paragraphs": [
-      "剩欲逢花折，判須冒雨頻。晴明開漸少，莫怕濕新巾。",
-      "小蝶爾何競，追飛不憚勞。遠教群雀見，寧悟禍梯高。"
+      "剩欲逢花折，判須冒雨頻。晴明開漸少，莫怕濕新巾。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "歲盡二首",
+    "title": "漫書二首·其二",
     "author": "司空圖",
     "paragraphs": [
-      "明日添一歲，端憂奈爾何。沖寒出洞口，猶校夕陽多。",
+      "小蝶爾何競，追飛不憚勞。遠教群雀見，寧悟禍梯高。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "歲盡二首·其一",
+    "author": "司空圖",
+    "paragraphs": [
+      "明日添一歲，端憂奈爾何。沖寒出洞口，猶校夕陽多。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "歲盡二首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "莫話傷心事，投春滿鬢霜。殷勤共尊酒，今歲只殘陽。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

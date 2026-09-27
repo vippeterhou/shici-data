@@ -237,17 +237,28 @@
     }
   },
   {
-    "title": "參同契明鏡圖訣詩二首",
+    "title": "參同契明鏡圖訣詩二首·其一",
     "author": "彭曉",
     "paragraphs": [
       "造化潛施跡莫窮，簇成真訣指蒙童。三篇秘列八環內，",
-      "同人好道宜精究，究得長生路便通。",
+      "同人好道宜精究，究得長生路便通。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "參同契明鏡圖訣詩二首·其二",
+    "author": "彭曉",
+    "paragraphs": [
       "至道希夷妙且深，燒丹先認大還心。日爻陰耦生真汞，",
       "兩端指的鉛金祖，莫向諸般取次尋。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

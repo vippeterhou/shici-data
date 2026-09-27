@@ -370,44 +370,154 @@
     }
   },
   {
-    "title": "寄遠十一首",
+    "title": "寄遠十一首·其一",
     "author": "李白",
     "paragraphs": [
       "三鳥別王母，銜書來見過。腸斷若剪弦，其如愁思何。",
       "遙知玉窗裏，纖手弄雲和。奏曲有深意，青松交女蘿。",
-      "寫水山井中，同泉豈殊波。秦心與楚恨，皎皎為誰多。",
+      "寫水山井中，同泉豈殊波。秦心與楚恨，皎皎為誰多。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄遠十一首·其二",
+    "author": "李白",
+    "paragraphs": [
       "青樓何所在，乃在碧雲中。寶鏡掛秋水，羅衣輕春風。",
-      "新妝坐落日，悵望金屏空。念此送短書，願因雙飛鴻。",
+      "新妝坐落日，悵望金屏空。念此送短書，願因雙飛鴻。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄遠十一首·其三",
+    "author": "李白",
+    "paragraphs": [
       "本作一行書，殷勤道相憶。一行複一行，滿紙情何極。",
       "瑤台有黃鶴，為報青樓人。朱顏凋落盡，白髮一何新。",
       "自知未應還，離居經三春。桃李今若為，當窗發光彩。",
-      "莫使香風飄，留與紅芳待。",
+      "莫使香風飄，留與紅芳待。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄遠十一首·其四",
+    "author": "李白",
+    "paragraphs": [
       "玉箸落春鏡，坐愁湖陽水。聞與陰麗華，風煙接鄰里。",
       "青春已複過，白日忽相催。但恐荷花晚，令人意已摧。",
-      "相思不惜夢，日夜向陽臺。",
+      "相思不惜夢，日夜向陽臺。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄遠十一首·其五",
+    "author": "李白",
+    "paragraphs": [
       "遠憶巫山陽，花明綠江暖。躊躇未得往，淚向南雲滿。",
-      "春風複無情，吹我夢魂斷。不見眼中人，天長音信短。",
+      "春風複無情，吹我夢魂斷。不見眼中人，天長音信短。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄遠十一首·其六",
+    "author": "李白",
+    "paragraphs": [
       "陽臺隔楚水，春草生黃河。相思無日夜，浩蕩若流波。",
-      "流波向海去，欲見終無因。遙將一點淚，遠寄如花人。",
+      "流波向海去，欲見終無因。遙將一點淚，遠寄如花人。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄遠十一首·其七",
+    "author": "李白",
+    "paragraphs": [
       "妾在舂陵東，君居漢江島。一日望花光，往來成白道。",
       "一為雲雨別，此地生秋草。秋草秋蛾飛，相思愁落暉。",
-      "何由一相見，滅燭解羅衣。",
+      "何由一相見，滅燭解羅衣。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄遠十一首·其八",
+    "author": "李白",
+    "paragraphs": [
       "憶昨東園桃李紅碧枝，與君此時初別離。金瓶落井無消息，",
       "碧窗紛紛下落花，青樓寂寂空明月。兩不見，但相思。",
-      "空留錦字表心素，至今緘愁不忍窺。",
+      "空留錦字表心素，至今緘愁不忍窺。"
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [9, 7, 7, 7, 7, 3, 3, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "寄遠十一首·其九",
+    "author": "李白",
+    "paragraphs": [
       "長短春草綠，緣階如有情。卷施心獨苦，抽卻死還生。",
-      "睹物知妾意，希君種後庭。閒時當采掇，念此莫相輕。",
+      "睹物知妾意，希君種後庭。閒時當采掇，念此莫相輕。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄遠十一首·其十",
+    "author": "李白",
+    "paragraphs": [
       "魯縞如玉霜，筆題月氏書。寄書白鸚鵡，西海慰離居。",
       "行數雖不多，字字有委曲。天末如見之，開緘淚相續。",
-      "淚盡恨轉深，千里同此心。相思千萬里，一書值千金。",
+      "淚盡恨轉深，千里同此心。相思千萬里，一書值千金。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄遠十一首·其十一",
+    "author": "李白",
+    "paragraphs": [
       "愛君芙蓉嬋娟之豔色，色可餐兮難再得。",
       "憐君冰玉清迥之明心，情不極兮意已深。",
       "朝共琅玕之綺食，夜同鴛鴦之錦衾。恩情婉孌忽為別，",
       "美人美人兮歸去來，莫作朝雲暮雨兮飛陽臺。"
     ],
     "format": {
-      "sentence_count": 108,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 9, 7, 7, 7, 7, 3, 3, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 9, 7, 9, 7, 7, 7, 7, 8, 10],
+      "sentence_count": 9,
+      "sentence_lengths": [9, 7, 9, 7, 7, 7, 7, 8, 10],
       "uniform_sentence_length": null
     }
   },
@@ -425,17 +535,28 @@
     }
   },
   {
-    "title": "長門怨二首",
+    "title": "長門怨二首·其一",
     "author": "李白",
     "paragraphs": [
       "天回北斗掛西樓，金屋無人螢火流。",
-      "月光欲到長門殿，別作深宮一段愁。",
+      "月光欲到長門殿，別作深宮一段愁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "長門怨二首·其二",
+    "author": "李白",
+    "paragraphs": [
       "桂殿長愁不記春，黃金四屋起秋塵。",
       "夜懸明鏡青天上，獨照長門宮裏人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -633,17 +754,28 @@
     }
   },
   {
-    "title": "代美人愁鏡二首",
+    "title": "代美人愁鏡二首·其一",
     "author": "李白",
     "paragraphs": [
       "明明金鵲鏡，了了玉台前。拂拭交冰月，光輝何清圓。",
-      "紅顏老昨日，白髮多去年。鉛粉坐相誤，照來空淒然。",
+      "紅顏老昨日，白髮多去年。鉛粉坐相誤，照來空淒然。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "代美人愁鏡二首·其二",
+    "author": "李白",
+    "paragraphs": [
       "美人贈此盤龍之寶鏡，燭我金縷之羅衣。時將紅袖拂明月，",
       "稿砧一別若箭弦，去有日，來無年。狂風吹卻妾心斷，"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 9, 7, 7, 7, 3, 3, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [9, 7, 7, 7, 3, 3, 7],
       "uniform_sentence_length": null
     }
   },
@@ -661,19 +793,41 @@
     }
   },
   {
-    "title": "別內赴征三首",
+    "title": "別內赴征三首·其一",
     "author": "李白",
     "paragraphs": [
       "王命三征去未還，明朝離別出吳關。",
-      "白玉高樓看不見，相思須上望夫山。",
+      "白玉高樓看不見，相思須上望夫山。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "別內赴征三首·其二",
+    "author": "李白",
+    "paragraphs": [
       "出門妻子強牽衣，問我西行幾日歸。",
-      "歸時倘佩黃金印，莫學蘇秦不下機。",
+      "歸時倘佩黃金印，莫學蘇秦不下機。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "別內赴征三首·其三",
+    "author": "李白",
+    "paragraphs": [
       "翡翠為樓金作梯，誰人獨宿倚門啼。",
       "夜坐寒燈連曉月，行行淚盡楚關西。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -727,17 +881,28 @@
     }
   },
   {
-    "title": "送內尋廬山女道士李騰空二首",
+    "title": "送內尋廬山女道士李騰空二首·其一",
     "author": "李白",
     "paragraphs": [
       "君尋騰空子，應到碧山家。水舂雲母碓，風掃石楠花。",
-      "若愛幽居好，相邀弄紫霞。",
+      "若愛幽居好，相邀弄紫霞。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送內尋廬山女道士李騰空二首·其二",
+    "author": "李白",
+    "paragraphs": [
       "多君相門女，學道愛神仙。素手掬青靄，羅衣曳紫煙。",
       "一往屏風疊，乘鸞著玉鞭。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -781,18 +946,62 @@
     }
   },
   {
-    "title": "越女詞五首",
+    "title": "越女詞五首·其一",
     "author": "李白",
     "paragraphs": [
-      "長幹吳兒女，眉目豔新月。屐上足如霜，不著鴉頭襪。",
-      "吳兒多白皙，好為蕩舟劇。賣眼擲春心，折花調行客。",
-      "耶溪採蓮女，見客棹歌回。笑入荷花去，佯羞不出來。",
-      "東陽素足女，會稽素舸郎。相看月未墮，白地斷肝腸。",
+      "長幹吳兒女，眉目豔新月。屐上足如霜，不著鴉頭襪。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "越女詞五首·其二",
+    "author": "李白",
+    "paragraphs": [
+      "吳兒多白皙，好為蕩舟劇。賣眼擲春心，折花調行客。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "越女詞五首·其三",
+    "author": "李白",
+    "paragraphs": [
+      "耶溪採蓮女，見客棹歌回。笑入荷花去，佯羞不出來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "越女詞五首·其四",
+    "author": "李白",
+    "paragraphs": [
+      "東陽素足女，會稽素舸郎。相看月未墮，白地斷肝腸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "越女詞五首·其五",
+    "author": "李白",
+    "paragraphs": [
       "鏡湖水如月，耶溪女似雪。新妝蕩新波，光景兩奇絕。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -864,23 +1073,45 @@
     }
   },
   {
-    "title": "自溧水道哭王炎三首",
+    "title": "自溧水道哭王炎三首·其一",
     "author": "李白",
     "paragraphs": [
       "白楊雙行行，白馬悲路傍。晨興見曉月，更似發雲陽。",
       "溧水通吳關，逝川去未央。故人萬化盡，閉骨茅山岡。",
       "天上墜玉棺，泉中掩龍章。名飛日月上，義與風雲翔。",
       "逸氣竟莫展，英圖俄夭傷。楚國一老人，來嗟龔勝亡。",
-      "有言不可道，雪泣憶蘭芳。",
+      "有言不可道，雪泣憶蘭芳。"
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "自溧水道哭王炎三首·其二",
+    "author": "李白",
+    "paragraphs": [
       "王公希代寶，棄世一何早。吊死不及哀，殯宮已秋草。",
-      "悲來欲脫劍，掛向何枝好。哭向茅山雖未摧，",
+      "悲來欲脫劍，掛向何枝好。哭向茅山雖未摧，"
+    ],
+    "format": {
+      "sentence_count": 7,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "自溧水道哭王炎三首·其三",
+    "author": "李白",
+    "paragraphs": [
       "王家碧瑤樹，一樹忽先摧。海內故人泣，天涯吊鶴來。",
       "未成霖雨用，先失濟川材。一罷廣陵散，鳴琴更不開。"
     ],
     "format": {
-      "sentence_count": 33,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

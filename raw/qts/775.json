@@ -194,15 +194,26 @@
     }
   },
   {
-    "title": "失題二首",
+    "title": "失題二首·其一",
     "author": "唐備",
     "paragraphs": [
-      "天若無雪霜，青松不如草。地若無山川，何人重平道。",
+      "天若無雪霜，青松不如草。地若無山川，何人重平道。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "失題二首·其二",
+    "author": "唐備",
+    "paragraphs": [
       "一日天無風，四溟波盡息。人心風不吹，波浪高百尺。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -269,17 +280,28 @@
     }
   },
   {
-    "title": "失題二首",
+    "title": "失題二首·其一",
     "author": "楊行敏",
     "paragraphs": [
       "駑駘嘶叫知無定，騏驥低垂自有心。",
-      "山上高松溪畔竹，清風才動是知音。",
+      "山上高松溪畔竹，清風才動是知音。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "失題二首·其二",
+    "author": "楊行敏",
+    "paragraphs": [
       "杜鵑花裏杜鵑啼，淺紫深紅更傍溪。",
       "遲日霽光搜客思，曉來山路恨如迷。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

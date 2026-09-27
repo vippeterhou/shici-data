@@ -265,17 +265,28 @@
     }
   },
   {
-    "title": "閑吟二首",
+    "title": "閑吟二首·其一",
     "author": "白居易",
     "paragraphs": [
       "留司老賓客，春盡興如何。官寺行香少，僧房寄宿多。",
-      "閑傾一醆酒，醉聽兩聲歌。憶得陶潛語，羲皇無以過。",
+      "閑傾一醆酒，醉聽兩聲歌。憶得陶潛語，羲皇無以過。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閑吟二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "閒遊來早晚，已得一周年。嵩洛供雲水，朝廷乞俸錢。",
       "長歌時獨酌，飽食後安眠。聞道山榴發，明朝向玉泉。主"
     ],
     "format": {
-      "sentence_count": 17,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 1],
+      "sentence_count": 9,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 1],
       "uniform_sentence_length": null
     }
   },
@@ -528,17 +539,28 @@
     }
   },
   {
-    "title": "新雪二首",
+    "title": "新雪二首·其一",
     "author": "白居易",
     "paragraphs": [
       "不思北省煙霄地，不憶南宮風月天。",
-      "唯憶靜恭楊閣老，小園新雪暖爐前。",
+      "唯憶靜恭楊閣老，小園新雪暖爐前。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "新雪二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "不思朱雀街東鼓，不憶青龍寺後鐘。",
       "唯憶夜深新雪後，新昌臺上七株松。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -661,17 +683,28 @@
     }
   },
   {
-    "title": "疑夢二首",
+    "title": "疑夢二首·其一",
     "author": "白居易",
     "paragraphs": [
       "莫驚寵辱虛憂喜，莫計恩讎浪苦辛。",
-      "黃帝孔丘無處問，安知不是夢中身。",
+      "黃帝孔丘無處問，安知不是夢中身。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "疑夢二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "鹿疑鄭相終難辨，蝶化莊生詎可知。",
       "假使如今不是夢，能長於夢幾多時。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1153,19 +1186,41 @@
     }
   },
   {
-    "title": "履道居三首",
+    "title": "履道居三首·其一",
     "author": "白居易",
     "paragraphs": [
       "莫嫌地窄林亭小，莫厭貧家活計微。",
-      "大有高門鎖寬宅，主人到老不曾歸。",
+      "大有高門鎖寬宅，主人到老不曾歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "履道居三首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "東裏素帷猶未徹，南鄰丹旐又新懸。",
-      "衡門蝸舍自慚愧，收得身來已五年。",
+      "衡門蝸舍自慚愧，收得身來已五年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "履道居三首·其三",
+    "author": "白居易",
+    "paragraphs": [
       "世事平分眾所知，何嘗苦樂不相隨。",
       "唯餘耽酒狂歌客，只有樂時無苦時。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

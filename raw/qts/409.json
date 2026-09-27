@@ -1,14 +1,25 @@
 [
   {
-    "title": "牡丹二首",
+    "title": "牡丹二首·其一",
     "author": "元稹",
     "paragraphs": [
-      "簇蕊風頻壞，裁紅雨更新。眼看吹落地，便別一年春。",
+      "簇蕊風頻壞，裁紅雨更新。眼看吹落地，便別一年春。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "牡丹二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "繁綠陰全合，衰紅展漸難。風光一抬舉，猶得暫時看。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -306,17 +317,28 @@
     }
   },
   {
-    "title": "閑二首",
+    "title": "閑二首·其一",
     "author": "元稹",
     "paragraphs": [
       "晻澹洲煙白，籬篩日腳紅。江喧過雲雨，船泊打頭風。",
-      "艇子收魚市，鴉兒噪荻叢。不堪堤上立，滿眼是蚊蟲。",
+      "艇子收魚市，鴉兒噪荻叢。不堪堤上立，滿眼是蚊蟲。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閑二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "青衫經夏黕，白髮望鄉稠。雨冷新秋簟，星稀欲曙樓。",
       "連鴻盡南去，雙鯉本東流。北信無人寄，蟬聲滿樹頭。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -413,19 +435,41 @@
     }
   },
   {
-    "title": "遣春三首",
+    "title": "遣春三首·其一",
     "author": "元稹",
     "paragraphs": [
       "楊公三不惑，我惑兩般全。逢酒判身病，拈花盡意憐。",
-      "水生低岸沒，梅蹙小珠連。千萬紅顏輩，須驚又一年。",
+      "水生低岸沒，梅蹙小珠連。千萬紅顏輩，須驚又一年。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣春三首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "柳眼開渾盡，梅心動已闌。風光好時少，杯酒病中難。",
-      "學問慵都廢，聲名老更判。唯餘看花伴，未免憶長安。",
+      "學問慵都廢，聲名老更判。唯餘看花伴，未免憶長安。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遣春三首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "失卻遊花伴，因風浪引將。柳堤遙認馬，梅徑誤尋香。",
       "晚景行看謝，春心漸欲狂。園林都不到，何處枉風光。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

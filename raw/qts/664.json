@@ -169,17 +169,28 @@
     }
   },
   {
-    "title": "旅舍書懷寄所知二首",
+    "title": "旅舍書懷寄所知二首·其一",
     "author": "羅隱",
     "paragraphs": [
       "思量前事不堪尋，牢落餘情滿素琴。四海豈無騰躍路，",
-      "寂寞誰應吊空館，異鄉時節獨沾襟。",
+      "寂寞誰應吊空館，異鄉時節獨沾襟。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "旅舍書懷寄所知二首·其二",
+    "author": "羅隱",
+    "paragraphs": [
       "簟卷兩床琴瑟秋，暫憑前計奈相尤。塵飄馬尾甘蓬轉，",
       "可憐別恨無人見，獨背殘陽下寺樓。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

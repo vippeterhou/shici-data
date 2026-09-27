@@ -715,66 +715,132 @@
     }
   },
   {
-    "title": "梁宣王挽詞三首",
+    "title": "梁宣王挽詞三首·其一",
     "author": "宋之問",
     "paragraphs": [
       "貴藩堯母族，外戚漢家親。業重興王際，功高復辟辰。",
-      "愛賢唯報國，樂善不防身。今日衣冠送，空傷置醴人。",
+      "愛賢唯報國，樂善不防身。今日衣冠送，空傷置醴人。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "梁宣王挽詞三首·其二",
+    "author": "宋之問",
+    "paragraphs": [
       "金精何日閉，玉匣此時開。東望連吾子，南瞻近帝台。",
-      "地形龜食報，墳土燕銜來。可歎虞歌夕，紛紛騎吹回。",
+      "地形龜食報，墳土燕銜來。可歎虞歌夕，紛紛騎吹回。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "梁宣王挽詞三首·其三",
+    "author": "宋之問",
+    "paragraphs": [
       "像設千年在，平生萬事違。彩旌翻葆吹，圭翣奠靈衣。",
       "壟日寒無影，郊雲凍不飛。君王留此地，駟馬欲何歸。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "魯忠王挽詞三首",
+    "title": "魯忠王挽詞三首·其一",
     "author": "宋之問",
     "paragraphs": [
       "同盟會五月，歸葬出三條。日慘咸陽樹，天寒渭水橋。",
-      "稍看朱鷺轉，尚識紫騮驕。寂寂泉台恨，從茲罷玉簫。",
+      "稍看朱鷺轉，尚識紫騮驕。寂寂泉台恨，從茲罷玉簫。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "魯忠王挽詞三首·其二",
+    "author": "宋之問",
+    "paragraphs": [
       "邦家錫寵光，存沒貴忠良。遂裂山河地，追尊父子王。",
-      "人悲槐裏月，馬踏槿原霜。別向天京北，悠悠此路長。",
+      "人悲槐裏月，馬踏槿原霜。別向天京北，悠悠此路長。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "魯忠王挽詞三首·其三",
+    "author": "宋之問",
+    "paragraphs": [
       "樹羽迎朝日，撞鐘望早霞。故人悲宿草，中使慘晨笳。",
       "氣有沖天劍，星無犯鬥槎。唯餘孔公宅，長接魯王家。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "范陽王挽詞二首",
+    "title": "范陽王挽詞二首·其一",
     "author": "宋之問",
     "paragraphs": [
       "賢相稱邦傑，清流舉代推。公才掩諸夏，文體變當時。",
-      "賓吊翻成鶴，人亡惜喻龜。洛陽今紙貴，猶寫太沖詞。",
+      "賓吊翻成鶴，人亡惜喻龜。洛陽今紙貴，猶寫太沖詞。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "范陽王挽詞二首·其二",
+    "author": "宋之問",
+    "paragraphs": [
       "贈秩徽章洽，求書秘草成。客隨朝露盡，人逐夜舟驚。",
       "蒿裏衣冠送，松門印綬迎。誰知楊伯起，今日重哀榮。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "故趙王屬贈黃門侍郎上官公挽詞二首",
+    "title": "故趙王屬贈黃門侍郎上官公挽詞二首·其一",
     "author": "宋之問",
     "paragraphs": [
       "韋門旌舊德，班氏業前書。謫去因丞相，歸來為婕妤。",
-      "周原烏相塚，越嶺雁隨車。冥漠辭昭代，空憐賦子虛。",
+      "周原烏相塚，越嶺雁隨車。冥漠辭昭代，空憐賦子虛。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故趙王屬贈黃門侍郎上官公挽詞二首·其二",
+    "author": "宋之問",
+    "paragraphs": [
       "綠車隨帝子，青瑣翊宸機。昔枉朝歌騎，今虛夕拜闈。",
       "柳河淒挽曲，薤露濕靈衣。一厝窮泉閉，雙鸞遂不飛。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

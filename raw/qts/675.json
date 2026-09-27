@@ -458,17 +458,28 @@
     }
   },
   {
-    "title": "下第退居二首",
+    "title": "下第退居二首·其一",
     "author": "鄭穀",
     "paragraphs": [
       "年來還未上丹梯，且著漁蓑謝故溪。",
-      "落盡梨花春又了，破籬殘雨晚鶯啼。",
+      "落盡梨花春又了，破籬殘雨晚鶯啼。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "下第退居二首·其二",
+    "author": "鄭穀",
+    "paragraphs": [
       "未嘗青杏出長安，豪士應疑怕牡丹。",
       "只有退耕耕不得，茫然村落水吹殘。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -564,17 +575,28 @@
     }
   },
   {
-    "title": "忍公小軒二首",
+    "title": "忍公小軒二首·其一",
     "author": "鄭谷",
     "paragraphs": [
       "松溪水色綠於松，每到松溪到暮鐘。",
-      "閑得心源只如此，問禪何必向雙峰。",
+      "閑得心源只如此，問禪何必向雙峰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "忍公小軒二首·其二",
+    "author": "鄭谷",
+    "paragraphs": [
       "舊遊前事半埃塵，多向林中結淨因。",
       "一念一爐香火裏，後身唯願似師身。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -839,17 +861,28 @@
     }
   },
   {
-    "title": "早入諫院二首",
+    "title": "早入諫院二首·其一",
     "author": "鄭穀",
     "paragraphs": [
       "玉階春冷未催班，暫拂塵衣就笏眠。",
-      "孤立小心還自笑，夢魂潛繞禦爐煙。",
+      "孤立小心還自笑，夢魂潛繞禦爐煙。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "早入諫院二首·其二",
+    "author": "鄭穀",
+    "paragraphs": [
       "紫雲重疊抱春城，廊下人稀唱漏聲。",
       "偷得微吟斜倚柱，滿衣花露聽宮鶯。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -984,34 +1017,67 @@
     }
   },
   {
-    "title": "卷末偶題三首",
+    "title": "卷末偶題三首·其一",
     "author": "鄭穀",
     "paragraphs": [
       "一卷疏蕪一百篇，名成未敢暫忘筌。",
-      "何如海日生殘夜，一句能令萬古傳。",
-      "七歲侍行湖外去，岳陽樓上敢題詩。",
-      "如今寒晚無功業，何以勝任國士知。",
-      "一第由來是出身，垂名俱為國風陳。",
-      "此生若不知騷雅，孤宦如何作近臣。"
+      "何如海日生殘夜，一句能令萬古傳。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "讀前集二首",
+    "title": "卷末偶題三首·其二",
+    "author": "鄭穀",
+    "paragraphs": [
+      "七歲侍行湖外去，岳陽樓上敢題詩。",
+      "如今寒晚無功業，何以勝任國士知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "卷末偶題三首·其三",
+    "author": "鄭穀",
+    "paragraphs": [
+      "一第由來是出身，垂名俱為國風陳。",
+      "此生若不知騷雅，孤宦如何作近臣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "讀前集二首·其一",
     "author": "鄭谷",
     "paragraphs": [
       "殷璠裁鑒英靈集，頗覺同才得旨深。",
-      "何事後來高仲武，品題間氣未公心。",
+      "何事後來高仲武，品題間氣未公心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "讀前集二首·其二",
+    "author": "鄭谷",
+    "paragraphs": [
       "風騷如線不勝悲，國步多艱即此時。",
       "愛日滿階看古集，只應陶集是吾師。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1133,17 +1199,28 @@
     }
   },
   {
-    "title": "錦二首",
+    "title": "錦二首·其一",
     "author": "鄭穀",
     "paragraphs": [
       "布素豪家定不看，若無文彩入時難。紅迷天子帆邊日，",
-      "舞衣轉轉求新樣，不問流離桑柘殘。",
+      "舞衣轉轉求新樣，不問流離桑柘殘。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "錦二首·其二",
+    "author": "鄭穀",
+    "paragraphs": [
       "文君手裏曙霞生，美號仍聞借蜀城。奪得始知袍更貴，",
       "禮部郎官人所重，省中別占好窠名。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

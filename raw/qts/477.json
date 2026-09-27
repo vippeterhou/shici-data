@@ -58,17 +58,28 @@
     }
   },
   {
-    "title": "鷓鴣詞二首",
+    "title": "鷓鴣詞二首·其一",
     "author": "李涉",
     "paragraphs": [
       "湘江煙水深，沙岸隔楓林。何處鷓鴣飛，日斜斑竹陰。",
-      "二女空垂淚，三閭枉自沉。惟有鷓鴣啼，獨傷行客心。",
+      "二女空垂淚，三閭枉自沉。惟有鷓鴣啼，獨傷行客心。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "鷓鴣詞二首·其二",
+    "author": "李涉",
+    "paragraphs": [
       "越岡連越井，越鳥更南飛。何處鷓鴣啼，夕煙東嶺歸。",
       "嶺外行人少，天涯北客稀。鷓鴣啼別處，相對淚沾衣。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -602,17 +613,28 @@
     }
   },
   {
-    "title": "送魏簡能東遊二首",
+    "title": "送魏簡能東遊二首·其一",
     "author": "李涉",
     "paragraphs": [
       "獻賦論兵命未通，卻乘羸馬出關東。",
-      "灞陵原上重回首，十載長安似夢中。",
+      "灞陵原上重回首，十載長安似夢中。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送魏簡能東遊二首·其二",
+    "author": "李涉",
+    "paragraphs": [
       "燕市悲歌又送君，目隨征雁過寒雲。",
       "孤亭宿處時看劍，莫使塵埃蔽鬥文。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -695,32 +717,54 @@
     }
   },
   {
-    "title": "遇湖州妓宋態宜二首",
+    "title": "遇湖州妓宋態宜二首·其一",
     "author": "李涉",
     "paragraphs": [
       "曾識雲仙至小時，芙蓉頭上綰青絲。",
-      "當時驚覺高唐夢，唯有如今宋玉知。",
-      "陵陽夜會使君筵，解語花枝出眼前。",
-      "一從明月西沉海，不見嫦娥二十年。"
+      "當時驚覺高唐夢，唯有如今宋玉知。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "逢舊二首",
+    "title": "遇湖州妓宋態宜二首·其二",
+    "author": "李涉",
+    "paragraphs": [
+      "陵陽夜會使君筵，解語花枝出眼前。",
+      "一從明月西沉海，不見嫦娥二十年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "逢舊二首·其一",
     "author": "李涉",
     "paragraphs": [
       "碧落高高雲萬重，當時孤鶴去無蹤。",
-      "不期陵穀遷朝市，今日遼東特地逢。",
+      "不期陵穀遷朝市，今日遼東特地逢。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "逢舊二首·其二",
+    "author": "李涉",
+    "paragraphs": [
       "將作乘槎去不還，便尋雲海住三山。",
       "不知留得支機石，卻逐黃河到世間。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -816,17 +860,28 @@
     }
   },
   {
-    "title": "送王六覲巢縣叔父二首",
+    "title": "送王六覲巢縣叔父二首·其一",
     "author": "李涉",
     "paragraphs": [
       "巢岸南分戰鳥山，水雲程盡到東關。",
-      "弦歌自是君家事，莫怪今來一邑閑。",
+      "弦歌自是君家事，莫怪今來一邑閑。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送王六覲巢縣叔父二首·其二",
+    "author": "李涉",
+    "paragraphs": [
       "長憶山陰舊會時，王家兄弟盡相隨。",
       "老來放逐瀟湘路，淚滴秋風引獻之。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1039,17 +1094,28 @@
     }
   },
   {
-    "title": "別南溪二首",
+    "title": "別南溪二首·其一",
     "author": "李涉",
     "paragraphs": [
       "如雲不厭蒼梧遠，似雁逢春又北飛。",
-      "唯有隱山溪上月，年年相望兩依依。",
+      "唯有隱山溪上月，年年相望兩依依。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "別南溪二首·其二",
+    "author": "李涉",
+    "paragraphs": [
       "常歎春泉去不回，我今此去更難來。",
       "欲知別後留情處，手種岩花次第開。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1197,19 +1263,41 @@
     }
   },
   {
-    "title": "邠州詞獻高尚書三首",
+    "title": "邠州詞獻高尚書三首·其一",
     "author": "李涉",
     "paragraphs": [
       "單于都護再分疆，西引雙旌出帝鄉。",
-      "朝日詔書添戰馬，即聞千騎取河湟。",
+      "朝日詔書添戰馬，即聞千騎取河湟。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "邠州詞獻高尚書三首·其二",
+    "author": "李涉",
+    "paragraphs": [
       "將家難立是威聲，不見多傳衛霍名。",
-      "一自元和平蜀後，馬頭行處即長城。",
+      "一自元和平蜀後，馬頭行處即長城。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "邠州詞獻高尚書三首·其三",
+    "author": "李涉",
+    "paragraphs": [
       "朔方忠義舊來聞，儘是邠城父子軍。",
       "今日兵符歸上將，旄頭不用更妖氛。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

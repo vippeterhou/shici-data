@@ -1,16 +1,27 @@
 [
   {
-    "title": "夜寒寄盧給事二首",
+    "title": "夜寒寄盧給事二首·其一",
     "author": "貫休",
     "paragraphs": [
       "刻羽流商否，霜風動地吹。邇來唯自惜，知合是誰知。",
-      "塹雪消難盡，鄰僧睡太奇。知音不可得，始為一吟之。",
+      "塹雪消難盡，鄰僧睡太奇。知音不可得，始為一吟之。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "夜寒寄盧給事二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "心苦味不苦，世衰吾道微。清如吞雪雹，誰把比珠璣。",
       "作者相收拾，常人任是非。舊居滄海上，歸去即應歸。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -28,19 +39,41 @@
     }
   },
   {
-    "title": "聞王慥常侍卒三首",
+    "title": "聞王慥常侍卒三首·其一",
     "author": "貫休",
     "paragraphs": [
       "世亂君巡狩，清賢又告亡。星辰皆有角，日月略無光。",
-      "金柱連天折，瑤階被賊荒。令人轉惆悵，無路問蒼蒼。",
+      "金柱連天折，瑤階被賊荒。令人轉惆悵，無路問蒼蒼。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "聞王慥常侍卒三首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "宗社運微衰，山摧甘井枯。不知千載後，更有此人無。",
-      "政入龔黃甲，詩輕沈宋徒。受恩酬未得，不覺只長籲。",
+      "政入龔黃甲，詩輕沈宋徒。受恩酬未得，不覺只長籲。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "聞王慥常侍卒三首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "儻在扶天步，重興古國風。還如齊晏子，再見狄梁公。",
       "棠樹梅溪北，佳城舜廟東。誰修循吏傳，對此莫匆匆。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -58,19 +91,41 @@
     }
   },
   {
-    "title": "聞大願和尚順世三首",
+    "title": "聞大願和尚順世三首·其一",
     "author": "貫休",
     "paragraphs": [
       "王室今如毀，仍聞喪我師。古容圖得否，內院去無疑。",
-      "嶽鬼月中哭，松龕雪次隳。直須文五色，始可立高碑。",
+      "嶽鬼月中哭，松龕雪次隳。直須文五色，始可立高碑。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "聞大願和尚順世三首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "鄴衛松杉外，芝蘭季孟間。盡希重詔出，只待六龍還。",
-      "不疾成千古，令焚動四山。感恩終有淚，遙寄水潺潺。",
+      "不疾成千古，令焚動四山。感恩終有淚，遙寄水潺潺。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "聞大願和尚順世三首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "師稟盡名卿，孤峰老稱情。若遊三點外，爭把七賢平。",
       "苦霧埋空室，啼猿有咽聲。今朝益惆悵，曾沐下床迎。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -388,60 +443,159 @@
     }
   },
   {
-    "title": "懷匡山山長二首",
+    "title": "懷匡山山長二首·其一",
     "author": "貫休",
     "paragraphs": [
       "白石峰之半，先生好在麼。捲簾當大瀑，常恨不如他。",
-      "杉罅龍涎溢，潭坳石發多。吾皇搜草澤，爭奈謝安何。",
+      "杉罅龍涎溢，潭坳石發多。吾皇搜草澤，爭奈謝安何。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "懷匡山山長二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "見說面前峰，尋常醉亦登。雨餘多菌出，燒甚古崖崩。",
       "覓句曾沖虎，耕田半為僧。聞名多歲也，常恨不飛騰。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "懷高真動二首",
+    "title": "懷高真動二首·其一",
     "author": "貫休",
     "paragraphs": [
       "知爾今何處，孤高獨不群。論詩唯許我，窮易到無文。",
-      "貰酒兒穿雪，尋僧月照雲。何時再相見，兵寇尚紛紛。",
+      "貰酒兒穿雪，尋僧月照雲。何時再相見，兵寇尚紛紛。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "懷高真動二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "久別無消息，今秋忽得書。諸孤婚嫁苦，求己世情疏。",
       "亂甚無喬木，溪多不釣魚。只應金嶽色，如爾複如餘。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "秋末入匡山船行八首",
+    "title": "秋末入匡山船行八首·其一",
     "author": "貫休",
     "paragraphs": [
       "楚國茱萸月，吳吟梨栗船。遠遊無定所，高臥是何年。",
-      "浪卷紛紛葉，檣沖澹澹煙。去心還自喜，廬岳倚青天。",
+      "浪卷紛紛葉，檣沖澹澹煙。去心還自喜，廬岳倚青天。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋末入匡山船行八首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "蘆葦深花裏，漁歌一曲長。人心雖憶越，帆態似浮湘。",
-      "石獺銜魚白，汀茅浸浪黃。等閒千萬里，道在亦無妨。",
+      "石獺銜魚白，汀茅浸浪黃。等閒千萬里，道在亦無妨。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋末入匡山船行八首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "島上離家化，茅茨竹戶開。黃桑雙鵲喜，白日有誰來。",
-      "擔浪澆秋芋，緣灘取淨苔。回頭深自愧，舊業本蒿萊。",
+      "擔浪澆秋芋，緣灘取淨苔。回頭深自愧，舊業本蒿萊。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋末入匡山船行八首·其四",
+    "author": "貫休",
+    "paragraphs": [
       "匡阜層層翠，修江疊疊波。從來未曾到，此去複如何。",
-      "水廟寒鴉集，沙村夕照多。誰如垂釣者，孤坐鬢皤皤。",
+      "水廟寒鴉集，沙村夕照多。誰如垂釣者，孤坐鬢皤皤。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋末入匡山船行八首·其五",
+    "author": "貫休",
+    "paragraphs": [
       "晚泊蒼茫浦，風微浪亦粗。估喧如亥合，檣密似林枯。",
-      "地峻湖無□，潮寒蚌有珠。東西無定所，何用問前途。",
+      "地峻湖無□，潮寒蚌有珠。東西無定所，何用問前途。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 4, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "秋末入匡山船行八首·其六",
+    "author": "貫休",
+    "paragraphs": [
       "島香思賈島，江碧憶清江。囊橐誰相似，饞慵世少雙。",
-      "鼉驚入窟月，燒到系船樁。謾有歸鄉夢，前頭是楚邦。",
+      "鼉驚入窟月，燒到系船樁。謾有歸鄉夢，前頭是楚邦。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋末入匡山船行八首·其七",
+    "author": "貫休",
+    "paragraphs": [
       "南北雖無適，東西亦似萍。霞根生石片，象跡壞沙汀。",
-      "莽莽蒹葭赤，微微蜃蛤腥。因思範蠡輩，未免亦飄零。",
+      "莽莽蒹葭赤，微微蜃蛤腥。因思範蠡輩，未免亦飄零。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋末入匡山船行八首·其八",
+    "author": "貫休",
+    "paragraphs": [
       "曉色千檣去，長江八月時。雨淙山骨出，槔擉岸形卑。",
       "野水畬田黑，荒汀獨鳥癡。如今是清世，誰道出山遲。"
     ],
     "format": {
-      "sentence_count": 64,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -658,17 +812,28 @@
     }
   },
   {
-    "title": "寄懷楚和尚二首",
+    "title": "寄懷楚和尚二首·其一",
     "author": "貫休",
     "paragraphs": [
       "吾師師子兒，而複貌瑰奇。何得文明代，不為王者師。",
-      "鐵盂湯雪早，石炭煮茶遲。謾有參尋意，因循到亂時。",
+      "鐵盂湯雪早，石炭煮茶遲。謾有參尋意，因循到亂時。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄懷楚和尚二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "跳躑諸峰險，回翔萬里空。爭將金鎖鎖，那把玉籠籠。",
       "印缺香崩火，窗疏蠍吃風。永懷今已矣，吟坐雪濛濛。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

@@ -530,28 +530,50 @@
     }
   },
   {
-    "title": "漫歌八曲：將牛何處去二首",
+    "title": "漫歌八曲：將牛何處去二首·其一",
     "author": "元結",
     "paragraphs": [
-      "將牛何處去，耕彼故城東。相伴有田父，相歡惟牧童。",
-      "將牛何處去，耕彼西陽城。叔閑修農具，直者伴我耕。"
+      "將牛何處去，耕彼故城東。相伴有田父，相歡惟牧童。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "漫歌八曲：將船何處去二首",
+    "title": "漫歌八曲：將牛何處去二首·其二",
     "author": "元結",
     "paragraphs": [
-      "將船何處去，釣彼大回中。叔靜能鼓橈，正者隨弱翁。",
+      "將牛何處去，耕彼西陽城。叔閑修農具，直者伴我耕。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "漫歌八曲：將船何處去二首·其一",
+    "author": "元結",
+    "paragraphs": [
+      "將船何處去，釣彼大回中。叔靜能鼓橈，正者隨弱翁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "漫歌八曲：將船何處去二首·其二",
+    "author": "元結",
+    "paragraphs": [
       "將船何處去，送客小回南。有時逢惡客，還家亦少酣。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

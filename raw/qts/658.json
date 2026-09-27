@@ -494,17 +494,28 @@
     }
   },
   {
-    "title": "寄竇澤處士二首",
+    "title": "寄竇澤處士二首·其一",
     "author": "羅隱",
     "paragraphs": [
       "蘭亭醉客舊知聞，欲問平安隔海雲。",
-      "不是金陵錢太尉，世間誰肯更容身。",
+      "不是金陵錢太尉，世間誰肯更容身。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄竇澤處士二首·其二",
+    "author": "羅隱",
+    "paragraphs": [
       "鼇背樓臺拂白榆，此中槎客亦踟躊。",
       "牢山道士無仙骨，卻向人間作酒徒。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

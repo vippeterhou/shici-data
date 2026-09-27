@@ -104,19 +104,41 @@
     }
   },
   {
-    "title": "長安即事三首",
+    "title": "長安即事三首·其一",
     "author": "徐夤",
     "paragraphs": [
       "拋擲清溪舊釣鉤，長安寒暑再環周。便隨鶯羽三春化，",
-      "明時則待金門詔，肯羨班超萬戶侯。",
+      "明時則待金門詔，肯羨班超萬戶侯。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "長安即事三首·其二",
+    "author": "徐夤",
+    "paragraphs": [
       "無酒窮愁結自舒，飲河求滿不求餘。身登霄漢平時第，",
-      "明時用即匡君去，不用何妨卻釣魚。",
+      "明時用即匡君去，不用何妨卻釣魚。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "長安即事三首·其三",
+    "author": "徐夤",
+    "paragraphs": [
       "拖紫腰金不要論，便堪歸隱白雲村。更無名籍強金榜，",
       "高眠亦是前賢事，爭報春闈莫大恩。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -740,32 +762,54 @@
     }
   },
   {
-    "title": "病中春日即事寄主人尚書二首",
+    "title": "病中春日即事寄主人尚書二首·其一",
     "author": "徐夤",
     "paragraphs": [
       "身比秋荷覺漸枯，致君經國墮前圖。層冰照日猶能暖，",
-      "庾樓恩化通神聖，何計能教擲得盧。",
-      "風拍衰肌久未蠲，破窗頻見月團圓。更無舊日同人問，",
-      "玄穹若假年齡在，願捧銅盤為國賢。"
+      "庾樓恩化通神聖，何計能教擲得盧。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "寄華山司空侍郎二首",
+    "title": "病中春日即事寄主人尚書二首·其二",
+    "author": "徐夤",
+    "paragraphs": [
+      "風拍衰肌久未蠲，破窗頻見月團圓。更無舊日同人問，",
+      "玄穹若假年齡在，願捧銅盤為國賢。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄華山司空侍郎二首·其一",
     "author": "徐夤",
     "paragraphs": [
       "金闕爭權競獻功，獨逃征詔臥三峰。雞群未必容於鶴，",
-      "風霜落滿千林木，不近青青澗底松。",
+      "風霜落滿千林木，不近青青澗底松。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄華山司空侍郎二首·其二",
+    "author": "徐夤",
+    "paragraphs": [
       "非雲非鶴不從容，誰敢輕量傲世蹤。紫殿幾征王佐業，",
       "前古負材多為國，滿懷經濟欲何從。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

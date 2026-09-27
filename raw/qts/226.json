@@ -459,17 +459,28 @@
     }
   },
   {
-    "title": "散愁二首",
+    "title": "散愁二首·其一",
     "author": "杜甫",
     "paragraphs": [
       "久客宜旋旆，興王未息戈。蜀星陰見少，江雨夜聞多。",
-      "百萬傳深入，寰區望匪它。司徒下燕趙，收取舊山河。",
+      "百萬傳深入，寰區望匪它。司徒下燕趙，收取舊山河。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "散愁二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "聞道並州鎮，尚書訓士齊。幾時通薊北，當日報關西。",
       "戀闕丹心破，沾衣皓首啼。老魂招不得，歸路恐長迷。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -500,32 +511,54 @@
     }
   },
   {
-    "title": "遣意二首",
+    "title": "遣意二首·其一",
     "author": "杜甫",
     "paragraphs": [
       "囀枝黃鳥近，泛渚白鷗輕。一徑野花落，孤村春水生。",
-      "衰年催釀黍，細雨更移橙。漸喜交遊絕，幽居不用名。",
-      "簷影微微落，津流脈脈斜。野船明細火，宿雁聚圓沙。",
-      "雲掩初弦月，香傳小樹花。鄰人有美酒，稚子夜能賒。"
+      "衰年催釀黍，細雨更移橙。漸喜交遊絕，幽居不用名。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "漫成二首",
+    "title": "遣意二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
+      "簷影微微落，津流脈脈斜。野船明細火，宿雁聚圓沙。",
+      "雲掩初弦月，香傳小樹花。鄰人有美酒，稚子夜能賒。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "漫成二首·其一",
     "author": "杜甫",
     "paragraphs": [
       "野日荒荒白，春流泯泯清。渚蒲隨地有，村徑逐門成。",
-      "只作披衣慣，常從漉酒生。眼前無俗物，多病也身輕。",
+      "只作披衣慣，常從漉酒生。眼前無俗物，多病也身輕。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "漫成二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "江皋已仲春，花下複清晨。仰面貪看鳥，回頭錯應人。",
       "讀書難字過，對酒滿壺頻。近識峨眉老，知予懶是真。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1012,18 +1045,29 @@
     }
   },
   {
-    "title": "陪李七司馬皂江上觀造竹橋即日成往來之人免冬寒入水聊題短作簡李公二首",
+    "title": "陪李七司馬皂江上觀造竹橋即日成往來之人免冬寒入水聊題短作簡李公二首·其一",
     "author": "杜甫",
     "paragraphs": [
       "伐竹為橋結構同，褰裳不涉往來通。天寒白鶴歸華表，",
-      "合歡卻笑千年事，驅石何時到海東。",
+      "合歡卻笑千年事，驅石何時到海東。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "陪李七司馬皂江上觀造竹橋即日成往來之人免冬寒入水聊題短作簡李公二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "把燭成橋夜，回舟坐客時。天高雲去盡，江迥月來遲。",
       "衰謝多扶病，招邀屢有期。異方乘此興，樂罷不無悲。"
     ],
     "format": {
-      "sentence_count": 13,
-      "sentence_lengths": [7, 7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -1040,17 +1084,28 @@
     }
   },
   {
-    "title": "少年行二首",
+    "title": "少年行二首·其一",
     "author": "杜甫",
     "paragraphs": [
       "莫笑田家老瓦盆，自從盛酒長兒孫。",
-      "傾銀注瓦驚人眼，共醉終同臥竹根。",
+      "傾銀注瓦驚人眼，共醉終同臥竹根。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "少年行二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "巢燕養雛渾去盡，江花結子已無多。",
       "黃衫年少來宜數，不見堂前東逝波。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1106,19 +1161,41 @@
     }
   },
   {
-    "title": "觀李固請司馬弟山水圖三首",
+    "title": "觀李固請司馬弟山水圖三首·其一",
     "author": "杜甫",
     "paragraphs": [
       "簡易高人意，匡床竹火爐。寒天留遠客，碧海掛新圖。",
-      "雖對連山好，貪看絕島孤。群仙不愁思，冉冉下蓬壺。",
+      "雖對連山好，貪看絕島孤。群仙不愁思，冉冉下蓬壺。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "觀李固請司馬弟山水圖三首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "方丈渾連水，天臺總映雲。人間長見畫，老去恨空聞。",
-      "範蠡舟偏小，王喬鶴不群。此生隨萬物，何路出塵氛。",
+      "範蠡舟偏小，王喬鶴不群。此生隨萬物，何路出塵氛。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "觀李固請司馬弟山水圖三首·其三",
+    "author": "杜甫",
+    "paragraphs": [
       "高浪垂翻屋，崩崖欲壓床。野橋分子細，沙岸繞微茫。",
       "紅浸珊瑚短，青懸薜荔長。浮查並坐得，仙老暫相將。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

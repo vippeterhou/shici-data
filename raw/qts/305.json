@@ -473,15 +473,26 @@
     }
   },
   {
-    "title": "贈別二首",
+    "title": "贈別二首·其一",
     "author": "柳郴",
     "paragraphs": [
-      "江浦程千里，離尊淚數行。無論吳與楚，俱是客他鄉。",
+      "江浦程千里，離尊淚數行。無論吳與楚，俱是客他鄉。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "贈別二首·其二",
+    "author": "柳郴",
+    "paragraphs": [
       "何處最悲辛，長亭臨古津。往來舟楫路，前後別離人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

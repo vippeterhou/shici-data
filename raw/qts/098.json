@@ -72,17 +72,28 @@
     }
   },
   {
-    "title": "和尹懋秋夜遊灉湖二首",
+    "title": "和尹懋秋夜遊灉湖二首·其一",
     "author": "趙冬曦",
     "paragraphs": [
       "政理常多暇，方舟此溯洄。吹笙虛洞答，舉楫便風催。",
-      "山暗雲猶辨，潭幽月稍來。清溪無數曲，未盡莫先回。",
+      "山暗雲猶辨，潭幽月稍來。清溪無數曲，未盡莫先回。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和尹懋秋夜遊灉湖二首·其二",
+    "author": "趙冬曦",
+    "paragraphs": [
       "煙靄夕微蒙，幽灣賞未窮。艤舟待初月，褰幌招遠風。",
       "鶴聲聒前浦，漁火明暗叢。東山雲壑意，不謂爾來同。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -251,17 +262,28 @@
     }
   },
   {
-    "title": "秋夜陪張丞相趙侍禦遊灉湖二首",
+    "title": "秋夜陪張丞相趙侍禦遊灉湖二首·其一",
     "author": "尹懋",
     "paragraphs": [
       "熊軾巴陵地，鷁舟湘水潯。江山與勢遠，泉石自幽深。",
-      "杳靄入天壑，冥茫見道心。超然無俗事，清宴有空林。",
+      "杳靄入天壑，冥茫見道心。超然無俗事，清宴有空林。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋夜陪張丞相趙侍禦遊灉湖二首·其二",
+    "author": "尹懋",
+    "paragraphs": [
       "江上饒奇山，巑羅雲水間。風和樹色雜，苔古石文斑。",
       "巴俗將千溠，灉湖凡幾灣。嬉遊竟不盡，乘月泛舟還。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -350,17 +372,28 @@
     }
   },
   {
-    "title": "奉別張嶽州說二首",
+    "title": "奉別張嶽州說二首·其一",
     "author": "王熊",
     "paragraphs": [
       "長沙辭舊國，洞庭逢故人。熏蘭敦久要，披霧轉相親。",
-      "歲月空嗟老，江山不惜春。忽聞黃鶴曲，更作白頭新。",
+      "歲月空嗟老，江山不惜春。忽聞黃鶴曲，更作白頭新。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "奉別張嶽州說二首·其二",
+    "author": "王熊",
+    "paragraphs": [
       "平生共風月，倏忽間山川。不期交淡水，暫得款忘年。",
       "興逸方罷釣，帆開欲解船。離心若危旆，朝夕為君懸。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

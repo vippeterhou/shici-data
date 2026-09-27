@@ -793,17 +793,28 @@
     }
   },
   {
-    "title": "寄南徐劉員外二首",
+    "title": "寄南徐劉員外二首·其一",
     "author": "齊己",
     "paragraphs": [
       "竟陵兵革際，歸復舊園林。早歲為官苦，常聞說此心。",
-      "海邊山夜上，城外寺秋尋。應訝嵩峰約，蹉跎直到今。",
+      "海邊山夜上，城外寺秋尋。應訝嵩峰約，蹉跎直到今。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄南徐劉員外二首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "晝公評眾制，姚監選諸文。風雅誰收我，編聯獨有君。",
       "餘生終此道，萬事盡浮雲。爭得重攜手，探幽楚水濆。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -964,17 +975,28 @@
     }
   },
   {
-    "title": "寄答武陵幕中何支使二首",
+    "title": "寄答武陵幕中何支使二首·其一",
     "author": "齊己",
     "paragraphs": [
       "十萬雄軍幕，三千上客才。何當談笑外，遠慰寂寥來。",
-      "騷雅鏘金擲，風流醉玉頹。爭知江雪寺，老病向寒灰。",
+      "騷雅鏘金擲，風流醉玉頹。爭知江雪寺，老病向寒灰。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄答武陵幕中何支使二首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "南州無百戰，北地有長征。閑殺何從事，傷哉蘇子卿。",
       "江樓聯雪句，野寺看春耕。門外滄浪水，風波雜雨聲。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1005,17 +1027,28 @@
     }
   },
   {
-    "title": "寄謝高先輩見寄二首",
+    "title": "寄謝高先輩見寄二首·其一",
     "author": "齊己",
     "paragraphs": [
       "穿鑿堪傷骨，風騷久痛心。永言無絕唱，忽此惠希音。",
-      "楊柳江湖晚，芙蓉島嶼深。何因會仙手，臨水一披襟。",
+      "楊柳江湖晚，芙蓉島嶼深。何因會仙手，臨水一披襟。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄謝高先輩見寄二首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "詩在混茫前，難搜到極玄。有時還積思，度歲未終篇。",
       "片月雙松際，高樓闊水邊。前賢多此得，風味若為傳。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   }

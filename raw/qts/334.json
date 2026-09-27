@@ -282,74 +282,206 @@
     }
   },
   {
-    "title": "宮中樂五首",
+    "title": "宮中樂五首·其一",
     "author": "令狐楚",
     "paragraphs": [
-      "楚塞金陵靖，巴山玉壘空。萬方無一事，端拱大明宮。",
-      "雪霽長楊苑，冰開太液池。宮中行樂日，天下盛明時。",
-      "柳色煙相似，梨花雪不如。春風真有意，一一麗皇居。",
-      "月上宮花靜，煙含苑樹深。銀台門已閉，仙漏夜沉沉。",
+      "楚塞金陵靖，巴山玉壘空。萬方無一事，端拱大明宮。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宮中樂五首·其二",
+    "author": "令狐楚",
+    "paragraphs": [
+      "雪霽長楊苑，冰開太液池。宮中行樂日，天下盛明時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宮中樂五首·其三",
+    "author": "令狐楚",
+    "paragraphs": [
+      "柳色煙相似，梨花雪不如。春風真有意，一一麗皇居。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宮中樂五首·其四",
+    "author": "令狐楚",
+    "paragraphs": [
+      "月上宮花靜，煙含苑樹深。銀台門已閉，仙漏夜沉沉。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宮中樂五首·其五",
+    "author": "令狐楚",
+    "paragraphs": [
       "九重青瑣闥，百尺碧雲樓。明月秋風起，珠簾上玉鉤。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "春遊曲三首",
+    "title": "春遊曲三首·其一",
     "author": "令狐楚",
     "paragraphs": [
-      "曉遊臨碧殿，日上望春亭。芳樹羅仙仗，晴山展翠屏。",
-      "一夜好風吹，新花一萬枝。風前調玉管，花下簇金羈。",
+      "曉遊臨碧殿，日上望春亭。芳樹羅仙仗，晴山展翠屏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春遊曲三首·其二",
+    "author": "令狐楚",
+    "paragraphs": [
+      "一夜好風吹，新花一萬枝。風前調玉管，花下簇金羈。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春遊曲三首·其三",
+    "author": "令狐楚",
+    "paragraphs": [
       "閶闔春風起，蓬萊雪水消。相將折楊柳，爭取最長條。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "遠別離二首",
+    "title": "遠別離二首·其一",
     "author": "令狐楚",
     "paragraphs": [
-      "楊柳黃金穗，梧桐碧玉枝。春來消息斷，早晚是歸期。",
+      "楊柳黃金穗，梧桐碧玉枝。春來消息斷，早晚是歸期。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遠別離二首·其二",
+    "author": "令狐楚",
+    "paragraphs": [
       "玳織鴛鴦履，金裝翡翠篸。畏人相問著，不擬到城南。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "閨人贈遠二首",
+    "title": "閨人贈遠二首·其一",
     "author": "令狐楚",
     "paragraphs": [
-      "君行登隴上，妾夢在閨中。玉箸千行落，銀床一半空。",
+      "君行登隴上，妾夢在閨中。玉箸千行落，銀床一半空。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閨人贈遠二首·其二",
+    "author": "令狐楚",
+    "paragraphs": [
       "綺席春眠覺，紗窗曉望迷。朦朧殘夢裏，猶自在遼西。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "從軍詞五首",
+    "title": "從軍詞五首·其一",
     "author": "令狐楚",
     "paragraphs": [
-      "荒雞隔水啼，汗馬逐風嘶。終日隨征旆，何時罷鼓鼙。",
-      "孤心眠夜雪，滿眼是秋沙。萬里猶防塞，三年不見家。",
-      "卻望冰河闊，前登雪嶺高。征人幾多在，又擬戰臨洮。",
-      "胡風千里驚，漢月五更明。縱有還家夢，猶聞出塞聲。",
+      "荒雞隔水啼，汗馬逐風嘶。終日隨征旆，何時罷鼓鼙。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍詞五首·其二",
+    "author": "令狐楚",
+    "paragraphs": [
+      "孤心眠夜雪，滿眼是秋沙。萬里猶防塞，三年不見家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍詞五首·其三",
+    "author": "令狐楚",
+    "paragraphs": [
+      "卻望冰河闊，前登雪嶺高。征人幾多在，又擬戰臨洮。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍詞五首·其四",
+    "author": "令狐楚",
+    "paragraphs": [
+      "胡風千里驚，漢月五更明。縱有還家夢，猶聞出塞聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍詞五首·其五",
+    "author": "令狐楚",
+    "paragraphs": [
       "暮雪連青海，陰霞覆白山。可憐班定遠，生入玉門關。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -403,36 +535,80 @@
     }
   },
   {
-    "title": "年少行四首",
+    "title": "年少行四首·其一",
     "author": "令狐楚",
     "paragraphs": [
       "少小邊州慣放狂，驏騎蕃馬射黃羊。",
-      "如今年老無筋力，猶倚營門數雁行。",
-      "家本清河住五城，須憑弓箭得功名。",
-      "等閒飛鞚秋原上，獨向寒雲試射聲。",
-      "弓背霞明劍照霜，秋風走馬出咸陽。",
-      "未收天子河湟地，不擬回頭望故鄉。",
-      "霜滿中庭月滿樓，金樽玉柱對清秋。",
-      "當年稱意須行樂，不到天明不肯休。"
+      "如今年老無筋力，猶倚營門數雁行。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "塞下曲二首",
+    "title": "年少行四首·其二",
+    "author": "令狐楚",
+    "paragraphs": [
+      "家本清河住五城，須憑弓箭得功名。",
+      "等閒飛鞚秋原上，獨向寒雲試射聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "年少行四首·其三",
+    "author": "令狐楚",
+    "paragraphs": [
+      "弓背霞明劍照霜，秋風走馬出咸陽。",
+      "未收天子河湟地，不擬回頭望故鄉。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "年少行四首·其四",
+    "author": "令狐楚",
+    "paragraphs": [
+      "霜滿中庭月滿樓，金樽玉柱對清秋。",
+      "當年稱意須行樂，不到天明不肯休。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞下曲二首·其一",
     "author": "令狐楚",
     "paragraphs": [
       "雪滿衣裳冰滿須，曉隨飛將伐單于。",
-      "平生意氣今何在，把得家書淚似珠。",
+      "平生意氣今何在，把得家書淚似珠。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞下曲二首·其二",
+    "author": "令狐楚",
+    "paragraphs": [
       "邊草蕭條塞雁飛，征人南望淚沾衣。",
       "黃塵滿面長須戰，白髮生頭未得歸。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

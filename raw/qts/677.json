@@ -182,17 +182,28 @@
     }
   },
   {
-    "title": "長門怨二首",
+    "title": "長門怨二首·其一",
     "author": "鄭穀",
     "paragraphs": [
       "閑把羅衣泣鳳凰，先朝曾教舞霓裳。",
-      "春來卻羨庭花落，得逐晴風出禁牆。",
+      "春來卻羨庭花落，得逐晴風出禁牆。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "長門怨二首·其二",
+    "author": "鄭穀",
+    "paragraphs": [
       "流水君恩共不回，杏花爭忍掃成堆。",
       "殘春未必多煙雨，淚滴閑階長綠苔。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -301,17 +312,28 @@
     }
   },
   {
-    "title": "贈楊夔二首",
+    "title": "贈楊夔二首·其一",
     "author": "鄭穀",
     "paragraphs": [
       "散賦冗書高且奇，百篇仍有百篇詩。",
-      "江湖休灑春風淚，十軸香于一桂枝。",
+      "江湖休灑春風淚，十軸香于一桂枝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈楊夔二首·其二",
+    "author": "鄭穀",
+    "paragraphs": [
       "時無韓柳道難窮，也覺天公不至公。",
       "看取年年金榜上，幾人才氣似揚雄。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

@@ -1,16 +1,27 @@
 [
   {
-    "title": "相和歌辭：前苦寒行二首",
+    "title": "相和歌辭：前苦寒行二首·其一",
     "author": "杜甫",
     "paragraphs": [
       "漢時長安雪一丈，牛馬毛寒縮如蝟。楚江巫峽冰入懷，",
-      "玄冥祝融氣或交，手持白羽未敢釋。",
+      "玄冥祝融氣或交，手持白羽未敢釋。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "相和歌辭：前苦寒行二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "去年白帝雪在山，今年白帝雪在地。凍埋蛟龍南浦縮，",
       "三足之烏足恐斷，羲和送將安所歸。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -147,7 +158,7 @@
     }
   },
   {
-    "title": "相和歌辭：相逢行二首",
+    "title": "相和歌辭：相逢行二首·其一",
     "author": "李白",
     "paragraphs": [
       "朝騎五花馬，謁帝出銀台。秀色誰家子，雲車珠箔開。",
@@ -158,12 +169,23 @@
       "胡為守空閨，孤眠愁錦衾。錦衾與羅幃，纏綿會有時。",
       "春風正澹蕩，暮雨來何遲。願因三青鳥，更報長相思。",
       "光景不待人，須臾發成絲。當年失行樂，老去徒傷悲。",
-      "持此道密意，無令曠佳期。",
+      "持此道密意，無令曠佳期。"
+    ],
+    "format": {
+      "sentence_count": 34,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：相逢行二首·其二",
+    "author": "李白",
+    "paragraphs": [
       "相逢紅塵內，高揖黃金鞭。萬戶垂楊裏，君家阿那邊。"
     ],
     "format": {
-      "sentence_count": 38,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -921,17 +943,28 @@
     }
   },
   {
-    "title": "相和歌辭：怨詩二首",
+    "title": "相和歌辭：怨詩二首·其一",
     "author": "薛奇童",
     "paragraphs": [
       "日晚梧桐落，微寒入禁垣。月懸三雀觀，霜度萬秋門。",
-      "豔舞矜新寵，愁容泣舊恩。不堪深殿裏，簾外欲黃昏。",
+      "豔舞矜新寵，愁容泣舊恩。不堪深殿裏，簾外欲黃昏。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：怨詩二首·其二",
+    "author": "薛奇童",
+    "paragraphs": [
       "禁苑春風起，流鶯繞合歡。玉窗通日氣，珠箔卷輕寒。",
       "楊葉垂金砌，梨花入井闌。君王好長袖，新作舞衣寬。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -962,29 +995,62 @@
     }
   },
   {
-    "title": "相和歌辭：怨詩三首",
+    "title": "相和歌辭：怨詩三首·其一",
     "author": "李暇",
     "paragraphs": [
-      "羅敷初總髻，蕙芳正嬌小。月落始歸船，春眠恒著曉。",
-      "何處期郎游，小苑花台間。相憶不可見，且複乘月還。",
-      "別來花照路，別後露垂葉。歌舞須及時，如何坐悲妾。"
+      "羅敷初總髻，蕙芳正嬌小。月落始歸船，春眠恒著曉。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "相和歌辭：怨詩二首",
+    "title": "相和歌辭：怨詩三首·其二",
+    "author": "李暇",
+    "paragraphs": [
+      "何處期郎游，小苑花台間。相憶不可見，且複乘月還。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：怨詩三首·其三",
+    "author": "李暇",
+    "paragraphs": [
+      "別來花照路，別後露垂葉。歌舞須及時，如何坐悲妾。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：怨詩二首·其一",
     "author": "崔國輔",
     "paragraphs": [
-      "樓前桃李疏，池上芙蓉落。織錦猶未成，蟲聲入羅幕。",
+      "樓前桃李疏，池上芙蓉落。織錦猶未成，蟲聲入羅幕。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：怨詩二首·其二",
+    "author": "崔國輔",
+    "paragraphs": [
       "妾有羅衣裳，秦王在時作。為舞春風多，秋來不堪著。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1043,17 +1109,28 @@
     }
   },
   {
-    "title": "相和歌辭：怨詩二首",
+    "title": "相和歌辭：怨詩二首·其一",
     "author": "姚氏月華",
     "paragraphs": [
       "春水悠悠春草綠，對此思君淚相續。",
-      "羞將離恨向東風，理盡秦箏不成曲。",
+      "羞將離恨向東風，理盡秦箏不成曲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "相和歌辭：怨詩二首·其二",
+    "author": "姚氏月華",
+    "paragraphs": [
       "與君形影分胡越，玉枕終年對離別。",
       "登臺北望煙雨深，回身泣向寥天月。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1224,17 +1301,28 @@
     }
   },
   {
-    "title": "相和歌辭：長門怨二首",
+    "title": "相和歌辭：長門怨二首·其一",
     "author": "李白",
     "paragraphs": [
       "天回北斗掛西樓，金屋無人螢火流。",
-      "月光欲到長門殿，別作深宮一段愁。",
+      "月光欲到長門殿，別作深宮一段愁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "相和歌辭：長門怨二首·其二",
+    "author": "李白",
+    "paragraphs": [
       "桂殿長愁不記春，黃金四屋起秋塵。",
       "夜懸明鏡青天上，獨照長門宮裏人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1342,17 +1430,28 @@
     }
   },
   {
-    "title": "相和歌辭：長門怨二首",
+    "title": "相和歌辭：長門怨二首·其一",
     "author": "高蟾",
     "paragraphs": [
       "天上何勞萬古春，君前誰是百年人。魂銷尚愧金爐燼，",
-      "可憐明鏡來相向，何似恩光朝夕新。",
+      "可憐明鏡來相向，何似恩光朝夕新。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "相和歌辭：長門怨二首·其二",
+    "author": "高蟾",
+    "paragraphs": [
       "天上鳳凰休寄夢，人間鸚鵡舊堪悲。",
       "平生心緒無人識，一隻金梭萬丈絲。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1370,32 +1469,54 @@
     }
   },
   {
-    "title": "相和歌辭：長門怨二首",
+    "title": "相和歌辭：長門怨二首·其一",
     "author": "鄭穀",
     "paragraphs": [
       "閑把羅衣泣鳳凰，先朝曾教舞霓裳。",
-      "春來卻羨庭花落，得逐晴風出禁牆。",
-      "流水君恩共不回，杏花爭忍掃成堆。",
-      "殘春未必多煙雨，淚滴閑階長綠苔。"
+      "春來卻羨庭花落，得逐晴風出禁牆。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "相和歌辭：長門怨二首",
+    "title": "相和歌辭：長門怨二首·其二",
+    "author": "鄭穀",
+    "paragraphs": [
+      "流水君恩共不回，杏花爭忍掃成堆。",
+      "殘春未必多煙雨，淚滴閑階長綠苔。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "相和歌辭：長門怨二首·其一",
     "author": "劉氏媛",
     "paragraphs": [
       "雨滴梧桐秋夜長，愁心和雨到昭陽。",
-      "淚痕不學君恩斷，拭卻千行更萬行。",
+      "淚痕不學君恩斷，拭卻千行更萬行。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "相和歌辭：長門怨二首·其二",
+    "author": "劉氏媛",
+    "paragraphs": [
       "學畫蛾眉獨出群，當時人道便承恩。",
       "經年不見君王面，花落黃昏空掩門。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1439,16 +1560,38 @@
     }
   },
   {
-    "title": "相和歌辭：班婕妤三首",
+    "title": "相和歌辭：班婕妤三首·其一",
     "author": "王維",
     "paragraphs": [
-      "玉窗螢影度，金殿人聲絕。秋夜守羅幃，孤燈耿不滅。",
-      "宮殿生秋草，君王恩幸疏。那堪聞鳳吹，門外度金輿。",
+      "玉窗螢影度，金殿人聲絕。秋夜守羅幃，孤燈耿不滅。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：班婕妤三首·其二",
+    "author": "王維",
+    "paragraphs": [
+      "宮殿生秋草，君王恩幸疏。那堪聞鳳吹，門外度金輿。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：班婕妤三首·其三",
+    "author": "王維",
+    "paragraphs": [
       "怪來妝閣閉，朝下不相迎。總向春園裏，花間語笑聲。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1701,36 +1844,80 @@
     }
   },
   {
-    "title": "相和歌辭：雜怨三首",
+    "title": "相和歌辭：雜怨三首·其一",
     "author": "聶夷中",
     "paragraphs": [
       "生在綺羅下，豈識漁陽道。良人自戍來，夜夜夢中到。",
-      "漁陽萬里遠，近於中門限。中門逾有時，漁陽常在眼。",
-      "良人昨日去，明日又不還。別時各有淚，零落青樓前。",
-      "君淚濡羅巾，妾淚滴路塵。羅巾今在手，日得隨妾身。",
-      "路塵如因飛，得上君車輪。"
+      "漁陽萬里遠，近於中門限。中門逾有時，漁陽常在眼。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "相和歌辭：雜怨三首",
+    "title": "相和歌辭：雜怨三首·其二",
+    "author": "聶夷中",
+    "paragraphs": [
+      "良人昨日去，明日又不還。別時各有淚，零落青樓前。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：雜怨三首·其三",
+    "author": "聶夷中",
+    "paragraphs": [
+      "君淚濡羅巾，妾淚滴路塵。羅巾今在手，日得隨妾身。",
+      "路塵如因飛，得上君車輪。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：雜怨三首·其一",
     "author": "孟郊",
     "paragraphs": [
       "夭桃花清晨，遊女紅粉新。夭桃花薄暮，遊女紅粉故。",
-      "樹有百年花，人無一定顏。花送人老盡，人悲花自閑。",
+      "樹有百年花，人無一定顏。花送人老盡，人悲花自閑。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：雜怨三首·其二",
+    "author": "孟郊",
+    "paragraphs": [
       "貧女鏡不明，寒花日少容。暗蛩有虛織，短線無長縫。",
       "浪水不可照，狂夫不可從。浪水多散影，狂夫多異蹤。",
-      "持此一生薄，空成百恨濃。",
+      "持此一生薄，空成百恨濃。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：雜怨三首·其三",
+    "author": "孟郊",
+    "paragraphs": [
       "憶人莫至悲，至悲空自衰。寄人莫翦衣，翦衣未必歸。",
       "朝為雙蒂花，暮為四散飛。花落卻繞樹，遊子不顧期。"
     ],
     "format": {
-      "sentence_count": 26,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   }

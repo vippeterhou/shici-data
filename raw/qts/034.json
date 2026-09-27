@@ -98,16 +98,27 @@
     }
   },
   {
-    "title": "侍宴賦得起坐彈鳴琴二首",
+    "title": "侍宴賦得起坐彈鳴琴二首·其一",
     "author": "楊師道",
     "paragraphs": [
       "北林鵲夜飛，南軒月初進。調弦發清征，蕩心祛褊吝。",
-      "變作離鴻聲，還入思歸引。長歎未終極，秋風飄素鬢。",
+      "變作離鴻聲，還入思歸引。長歎未終極，秋風飄素鬢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "侍宴賦得起坐彈鳴琴二首·其二",
+    "author": "楊師道",
+    "paragraphs": [
       "絲傳園客意，曲奏楚妃情。罕有知音者，空勞流水聲。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

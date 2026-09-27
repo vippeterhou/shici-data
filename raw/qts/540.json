@@ -265,32 +265,54 @@
     }
   },
   {
-    "title": "楚宮二首",
+    "title": "楚宮二首·其一",
     "author": "李商隱",
     "paragraphs": [
       "十二峰前落照微，高唐宮暗坐迷歸。",
-      "朝雲暮雨長相接，猶自君王恨見稀。",
-      "月姊曾逢下彩蟾，傾城消息隔重簾。已聞佩響知腰細，",
-      "王昌且在牆東住，未必金堂得免嫌。"
+      "朝雲暮雨長相接，猶自君王恨見稀。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "和友人戲贈二首",
+    "title": "楚宮二首·其二",
+    "author": "李商隱",
+    "paragraphs": [
+      "月姊曾逢下彩蟾，傾城消息隔重簾。已聞佩響知腰細，",
+      "王昌且在牆東住，未必金堂得免嫌。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和友人戲贈二首·其一",
     "author": "李商隱",
     "paragraphs": [
       "東望花樓曾不同，西來雙燕信休通。仙人掌冷三霄露，",
-      "殷勤莫使清香透，牢合金魚鎖桂叢。",
+      "殷勤莫使清香透，牢合金魚鎖桂叢。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和友人戲贈二首·其二",
+    "author": "李商隱",
+    "paragraphs": [
       "迢遞青門有幾關，柳梢樓角見南山。明珠可貫須為佩，",
       "猿啼鶴怨終年事，未抵熏爐一夕間。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -308,21 +330,32 @@
     }
   },
   {
-    "title": "有感二首",
+    "title": "有感二首·其一",
     "author": "李商隱",
     "paragraphs": [
       "九服歸元化，三靈葉睿圖。如何本初輩，自取屈犛誅。",
       "有甚當車泣，因勞下殿趨。何成奏雲物，直是滅萑苻。",
       "證逮符書密，辭連性命俱。竟緣尊漢相，不早辨胡雛。",
-      "鬼籙分朝部，軍烽照上都。敢雲堪慟哭，未免怨洪爐。",
+      "鬼籙分朝部，軍烽照上都。敢雲堪慟哭，未免怨洪爐。"
+    ],
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "有感二首·其二",
+    "author": "李商隱",
+    "paragraphs": [
       "丹陛猶敷奏，彤庭欻戰爭。臨危對盧植，始悔用龐萌。",
       "禦仗收前殿，兵徒劇背城。蒼黃五色棒，掩遏一陽生。",
       "古有清君側，今非乏老成。素心雖未易，此舉太無名。",
       "誰瞑銜冤目，寧吞欲絕聲。近聞開壽宴，不廢用咸英。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1519,19 +1552,41 @@
     }
   },
   {
-    "title": "昭肅皇帝挽歌辭三首",
+    "title": "昭肅皇帝挽歌辭三首·其一",
     "author": "李商隱",
     "paragraphs": [
       "九縣懷雄武，三靈仰睿文。周王傳叔父，漢後重神君。",
-      "玉律朝驚露，金莖夜切雲。笳簫淒欲斷，無複詠橫汾。",
+      "玉律朝驚露，金莖夜切雲。笳簫淒欲斷，無複詠橫汾。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "昭肅皇帝挽歌辭三首·其二",
+    "author": "李商隱",
+    "paragraphs": [
       "玉塞驚宵柝，金橋罷舉烽。始巢阿閣鳳，旋駕鼎湖龍。",
-      "門咽通神鼓，樓凝警夜鐘。小臣觀吉從，猶誤欲東封。",
+      "門咽通神鼓，樓凝警夜鐘。小臣觀吉從，猶誤欲東封。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "昭肅皇帝挽歌辭三首·其三",
+    "author": "李商隱",
+    "paragraphs": [
       "莫驗昭華管，虛傳甲帳神。海迷求藥使，雪隔獻桃人。",
       "桂寢青雲斷，松扉白露新。萬方同象鳥，舉慟滿秋塵。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1983,17 +2038,28 @@
     }
   },
   {
-    "title": "寄惱韓同年二首",
+    "title": "寄惱韓同年二首·其一",
     "author": "李商隱",
     "paragraphs": [
       "簾外辛夷定已開，開時莫放豔陽回。",
-      "年華若到經風雨，便是胡僧話劫灰。",
+      "年華若到經風雨，便是胡僧話劫灰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄惱韓同年二首·其二",
+    "author": "李商隱",
+    "paragraphs": [
       "龍山晴雪鳳樓霞，洞裏迷人有幾家。",
       "我為傷春心自醉，不勞君勸石榴花。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -2655,17 +2721,39 @@
     }
   },
   {
-    "title": "李夫人三首",
+    "title": "李夫人三首·其一",
     "author": "李商隱",
     "paragraphs": [
-      "一帶不結心，兩股方安髻。慚愧白茅人，月沒教星替。",
-      "剩結茱萸枝，多擘秋蓮的。獨自有波光，彩囊盛不得。",
+      "一帶不結心，兩股方安髻。慚愧白茅人，月沒教星替。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "李夫人三首·其二",
+    "author": "李商隱",
+    "paragraphs": [
+      "剩結茱萸枝，多擘秋蓮的。獨自有波光，彩囊盛不得。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "李夫人三首·其三",
+    "author": "李商隱",
+    "paragraphs": [
       "蠻絲系條脫，妍眼和香屑。壽宮不惜鑄南人，",
       "不知瘦骨類冰井，更許夜簾通曉霜。土花漠漠雲茫茫，"
     ],
     "format": {
-      "sentence_count": 14,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

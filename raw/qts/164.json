@@ -116,26 +116,81 @@
     }
   },
   {
-    "title": "塞下曲六首",
+    "title": "塞下曲六首·其一",
     "author": "李白",
     "paragraphs": [
       "五月天山雪，無花只有寒。笛中聞折柳，春色未曾看。",
-      "曉戰隨金鼓，宵眠抱玉鞍。願將腰下劍，直為斬樓蘭。",
+      "曉戰隨金鼓，宵眠抱玉鞍。願將腰下劍，直為斬樓蘭。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "塞下曲六首·其二",
+    "author": "李白",
+    "paragraphs": [
       "天兵下北荒，胡馬欲南飲。橫戈從百戰，直為銜恩甚。",
-      "握雪海上餐，拂沙隴頭寢。何當破月氏，然後方高枕。",
+      "握雪海上餐，拂沙隴頭寢。何當破月氏，然後方高枕。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "塞下曲六首·其三",
+    "author": "李白",
+    "paragraphs": [
       "駿馬似風飆，鳴鞭出渭橋。彎弓辭漢月，插羽破天驕。",
-      "陣解星芒盡，營空海霧消。功成畫麟閣，獨有霍嫖姚。",
+      "陣解星芒盡，營空海霧消。功成畫麟閣，獨有霍嫖姚。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "塞下曲六首·其四",
+    "author": "李白",
+    "paragraphs": [
       "白馬黃金塞，雲砂繞夢思。那堪愁苦節，遠憶邊城兒。",
       "螢飛秋窗滿，月度霜閨遲。摧殘梧桐葉，蕭颯沙棠枝。",
-      "無時獨不見，流淚空自知。",
+      "無時獨不見，流淚空自知。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "塞下曲六首·其五",
+    "author": "李白",
+    "paragraphs": [
       "塞虜乘秋下，天兵出漢家。將軍分虎竹，戰士臥龍沙。",
-      "邊月隨弓影，胡霜拂劍花。玉關殊未入，少婦莫長嗟。",
+      "邊月隨弓影，胡霜拂劍花。玉關殊未入，少婦莫長嗟。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "塞下曲六首·其六",
+    "author": "李白",
+    "paragraphs": [
       "烽火動沙漠，連照甘泉雲。漢皇按劍起，還召李將軍。",
       "兵氣天上合，鼓聲隴底聞。橫行負勇氣，一戰淨妖氛。"
     ],
     "format": {
-      "sentence_count": 50,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -180,18 +235,51 @@
     }
   },
   {
-    "title": "襄陽曲四首",
+    "title": "襄陽曲四首·其一",
     "author": "李白",
     "paragraphs": [
-      "襄陽行樂處，歌舞白銅鞮。江城回淥水，花月使人迷。",
-      "山公醉酒時，酩酊高陽下。頭上白接z5，倒著還騎馬。",
-      "峴山臨漢江，水綠沙如雪。上有墮淚碑，青苔久磨滅。",
+      "襄陽行樂處，歌舞白銅鞮。江城回淥水，花月使人迷。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "襄陽曲四首·其二",
+    "author": "李白",
+    "paragraphs": [
+      "山公醉酒時，酩酊高陽下。頭上白接z5，倒著還騎馬。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 4, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "襄陽曲四首·其三",
+    "author": "李白",
+    "paragraphs": [
+      "峴山臨漢江，水綠沙如雪。上有墮淚碑，青苔久磨滅。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "襄陽曲四首·其四",
+    "author": "李白",
+    "paragraphs": [
       "且醉習家池，莫看墮淚碑。山公欲上馬，笑殺襄陽兒。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -208,46 +296,145 @@
     }
   },
   {
-    "title": "宮中行樂詞八首",
+    "title": "宮中行樂詞八首·其一",
     "author": "李白",
     "paragraphs": [
       "小小生金屋，盈盈在紫微。山花插寶髻，石竹繡羅衣。",
-      "每出深宮裏，常隨步輦歸。只愁歌舞散，化作彩雲飛。",
-      "柳色黃金嫩，梨花白雪香。玉樓巢翡翠，金殿鎖鴛鴦。",
-      "選妓隨雕輦，征歌出洞房。宮中誰第一，飛燕在昭陽。",
-      "盧橘為秦樹，蒲萄出漢宮。煙花宜落日，絲管醉春風。",
-      "笛奏龍吟水，簫鳴鳳下空。君王多樂事，還與萬方同。",
-      "玉樹春歸日，金宮樂事多。後庭朝未入，輕輦夜相過。",
-      "笑出花間語，嬌來竹下歌。莫教明月去，留著醉嫦娥。",
-      "繡戶香風暖，紗窗曙色新。宮花爭笑日，池草暗生春。",
-      "綠樹聞歌鳥，青樓見舞人。昭陽桃李月，羅綺自相親。",
-      "今日明光裏，還須結伴遊。春風開紫殿，天樂下朱樓。",
-      "豔舞全知巧，嬌歌半欲羞。更憐花月夜，宮女笑藏鉤。",
-      "寒雪梅中盡，春風柳上歸。宮鶯嬌欲醉，簷燕語還飛。",
-      "遲日明歌席，新花豔舞衣。晚來移彩仗，行樂泥光輝。",
-      "水綠南熏殿，花紅北闕樓。鶯歌聞太液，鳳吹繞瀛洲。",
-      "素女鳴珠佩，天人弄彩球。今朝風日好，宜入未央遊。"
+      "每出深宮裏，常隨步輦歸。只愁歌舞散，化作彩雲飛。"
     ],
     "format": {
-      "sentence_count": 64,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "清平調詞三首",
+    "title": "宮中行樂詞八首·其二",
+    "author": "李白",
+    "paragraphs": [
+      "柳色黃金嫩，梨花白雪香。玉樓巢翡翠，金殿鎖鴛鴦。",
+      "選妓隨雕輦，征歌出洞房。宮中誰第一，飛燕在昭陽。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宮中行樂詞八首·其三",
+    "author": "李白",
+    "paragraphs": [
+      "盧橘為秦樹，蒲萄出漢宮。煙花宜落日，絲管醉春風。",
+      "笛奏龍吟水，簫鳴鳳下空。君王多樂事，還與萬方同。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宮中行樂詞八首·其四",
+    "author": "李白",
+    "paragraphs": [
+      "玉樹春歸日，金宮樂事多。後庭朝未入，輕輦夜相過。",
+      "笑出花間語，嬌來竹下歌。莫教明月去，留著醉嫦娥。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宮中行樂詞八首·其五",
+    "author": "李白",
+    "paragraphs": [
+      "繡戶香風暖，紗窗曙色新。宮花爭笑日，池草暗生春。",
+      "綠樹聞歌鳥，青樓見舞人。昭陽桃李月，羅綺自相親。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宮中行樂詞八首·其六",
+    "author": "李白",
+    "paragraphs": [
+      "今日明光裏，還須結伴遊。春風開紫殿，天樂下朱樓。",
+      "豔舞全知巧，嬌歌半欲羞。更憐花月夜，宮女笑藏鉤。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宮中行樂詞八首·其七",
+    "author": "李白",
+    "paragraphs": [
+      "寒雪梅中盡，春風柳上歸。宮鶯嬌欲醉，簷燕語還飛。",
+      "遲日明歌席，新花豔舞衣。晚來移彩仗，行樂泥光輝。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宮中行樂詞八首·其八",
+    "author": "李白",
+    "paragraphs": [
+      "水綠南熏殿，花紅北闕樓。鶯歌聞太液，鳳吹繞瀛洲。",
+      "素女鳴珠佩，天人弄彩球。今朝風日好，宜入未央遊。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "清平調詞三首·其一",
     "author": "李白",
     "paragraphs": [
       "雲想衣裳花相容，春風拂檻露華濃。",
-      "若非群玉山頭見，會向瑤台月下逢。",
+      "若非群玉山頭見，會向瑤台月下逢。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "清平調詞三首·其二",
+    "author": "李白",
+    "paragraphs": [
       "一枝穠豔露凝香，雲雨巫山枉斷腸。",
-      "借問漢宮誰得似，可憐飛燕倚新妝。",
+      "借問漢宮誰得似，可憐飛燕倚新妝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "清平調詞三首·其三",
+    "author": "李白",
+    "paragraphs": [
       "名花傾國兩相歡，長得君王帶笑看。",
       "解釋春風無限恨，沉香亭北倚闌干。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

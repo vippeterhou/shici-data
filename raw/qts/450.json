@@ -1,18 +1,40 @@
 [
   {
-    "title": "戊申歲暮詠懷三首",
+    "title": "戊申歲暮詠懷三首·其一",
     "author": "白居易",
     "paragraphs": [
       "窮冬月末兩三日，半百年過六七時。龍尾趁朝無氣力，",
-      "猶被妻兒教漸退，莫求致仕且分司。",
+      "猶被妻兒教漸退，莫求致仕且分司。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "戊申歲暮詠懷三首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "唯生一女才十二，只欠三年未六旬。婚嫁累輕何怕老，",
-      "更擬踟躕覓何事，不歸嵩洛作閒人。",
+      "更擬踟躕覓何事，不歸嵩洛作閒人。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "戊申歲暮詠懷三首·其三",
+    "author": "白居易",
+    "paragraphs": [
       "七年囚閉作籠禽，但願開籠便入林。幸得展張今日翅，",
       "萬一差池似前事，又應追悔不抽簪。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -467,52 +489,184 @@
     }
   },
   {
-    "title": "勸酒十四首：何處難忘酒七首",
+    "title": "勸酒十四首：何處難忘酒七首·其一",
     "author": "白居易",
     "paragraphs": [
       "何處難忘酒，長安喜氣新。初登高第後，乍作好官人。",
-      "省壁明張榜，朝衣穩稱身。此時無一醆，爭奈帝城春。",
-      "何處難忘酒，天涯話舊情。青雲俱不達，白髮遞相驚。",
-      "二十年前別，三千里外行。此時無一醆，何以敘平生。",
-      "何處難忘酒，朱門羨少年。春分花發後，寒食月明前。",
-      "小院回羅綺，深房理管弦。此時無一醆，爭過豔陽天。",
-      "何處難忘酒，霜庭老病翁。暗聲啼蟋蟀，幹葉落梧桐。",
-      "鬢為愁先白，顏因醉暫紅。此時無一醆，何計奈秋風。",
-      "何處難忘酒，軍功第一高。還鄉隨露布，半路授旌旄。",
-      "玉柱剝蔥手，金章爛椹袍。此時無一醆，何以騁雄豪。",
-      "何處難忘酒，青門送別多。斂襟收涕淚，簇馬聽笙歌。",
-      "煙樹灞陵岸，風塵長樂坡。此時無一醆，爭奈去留何。",
-      "何處難忘酒，逐臣歸故園。赦書逢驛騎，賀客出都門。",
-      "半面瘴煙色，滿衫鄉淚痕。此時無一醆，何物可招魂。"
+      "省壁明張榜，朝衣穩稱身。此時無一醆，爭奈帝城春。"
     ],
     "format": {
-      "sentence_count": 56,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "勸酒十四首：不如來飲酒七首",
+    "title": "勸酒十四首：何處難忘酒七首·其二",
+    "author": "白居易",
+    "paragraphs": [
+      "何處難忘酒，天涯話舊情。青雲俱不達，白髮遞相驚。",
+      "二十年前別，三千里外行。此時無一醆，何以敘平生。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "勸酒十四首：何處難忘酒七首·其三",
+    "author": "白居易",
+    "paragraphs": [
+      "何處難忘酒，朱門羨少年。春分花發後，寒食月明前。",
+      "小院回羅綺，深房理管弦。此時無一醆，爭過豔陽天。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "勸酒十四首：何處難忘酒七首·其四",
+    "author": "白居易",
+    "paragraphs": [
+      "何處難忘酒，霜庭老病翁。暗聲啼蟋蟀，幹葉落梧桐。",
+      "鬢為愁先白，顏因醉暫紅。此時無一醆，何計奈秋風。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "勸酒十四首：何處難忘酒七首·其五",
+    "author": "白居易",
+    "paragraphs": [
+      "何處難忘酒，軍功第一高。還鄉隨露布，半路授旌旄。",
+      "玉柱剝蔥手，金章爛椹袍。此時無一醆，何以騁雄豪。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "勸酒十四首：何處難忘酒七首·其六",
+    "author": "白居易",
+    "paragraphs": [
+      "何處難忘酒，青門送別多。斂襟收涕淚，簇馬聽笙歌。",
+      "煙樹灞陵岸，風塵長樂坡。此時無一醆，爭奈去留何。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "勸酒十四首：何處難忘酒七首·其七",
+    "author": "白居易",
+    "paragraphs": [
+      "何處難忘酒，逐臣歸故園。赦書逢驛騎，賀客出都門。",
+      "半面瘴煙色，滿衫鄉淚痕。此時無一醆，何物可招魂。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "勸酒十四首：不如來飲酒七首·其一",
     "author": "白居易",
     "paragraphs": [
       "莫隱深山去，君應到自嫌。齒傷朝水冷，貌苦夜霜嚴。",
-      "漁去風生浦，樵歸雪滿岩。不如來飲酒，相對醉厭厭。",
+      "漁去風生浦，樵歸雪滿岩。不如來飲酒，相對醉厭厭。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "勸酒十四首：不如來飲酒七首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "莫作農夫去，君應見自愁。迎春犁瘦地，趁晚喂羸牛。",
-      "數被官加稅，稀逢歲有秋。不如來飲酒，酒伴醉悠悠。",
+      "數被官加稅，稀逢歲有秋。不如來飲酒，酒伴醉悠悠。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "勸酒十四首：不如來飲酒七首·其三",
+    "author": "白居易",
+    "paragraphs": [
       "莫作商人去，恓惶君未諳。雪霜行塞北，風水宿江南。",
-      "藏鏹百千萬，沉舟十二三。不如來飲酒，仰面醉酣酣。",
+      "藏鏹百千萬，沉舟十二三。不如來飲酒，仰面醉酣酣。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "勸酒十四首：不如來飲酒七首·其四",
+    "author": "白居易",
+    "paragraphs": [
       "莫事長征去，辛勤難具論。何曾畫麟閣，只是老轅門。",
-      "蟣虱衣中物，刀槍面上痕。不如來飲酒，合眼醉昏昏。",
+      "蟣虱衣中物，刀槍面上痕。不如來飲酒，合眼醉昏昏。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "勸酒十四首：不如來飲酒七首·其五",
+    "author": "白居易",
+    "paragraphs": [
       "莫學長生去，仙方誤殺君。那將薤上露，擬待鶴邊雲。",
-      "矻矻皆燒藥，累累盡作墳。不如來飲酒，閑坐醉醺醺。",
+      "矻矻皆燒藥，累累盡作墳。不如來飲酒，閑坐醉醺醺。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "勸酒十四首：不如來飲酒七首·其六",
+    "author": "白居易",
+    "paragraphs": [
       "莫上青雲去，青雲足愛憎。自賢誇智慧，相糾鬥功能。",
-      "魚爛緣吞餌，蛾焦為撲燈。不如來飲酒，任性醉騰騰。",
+      "魚爛緣吞餌，蛾焦為撲燈。不如來飲酒，任性醉騰騰。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "勸酒十四首：不如來飲酒七首·其七",
+    "author": "白居易",
+    "paragraphs": [
       "莫入紅塵去，令人心力勞。相爭兩蝸角，所得一牛毛。",
       "且滅嗔中火，休磨笑裏刀。不如來飲酒，穩臥醉陶陶。"
     ],
     "format": {
-      "sentence_count": 56,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -582,17 +736,28 @@
     }
   },
   {
-    "title": "偶吟二首",
+    "title": "偶吟二首·其一",
     "author": "白居易",
     "paragraphs": [
       "眼下有衣兼有食，心中無喜亦無憂。正如身後有何事，",
-      "猶殘少許雲泉興，一歲龍門數度遊。",
+      "猶殘少許雲泉興，一歲龍門數度遊。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "偶吟二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "晴教曬藥泥茶灶，閑看科松洗竹林。活計縱貧長淨潔，",
       "老去生涯只如此，更無餘事可勞心。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -651,17 +816,28 @@
     }
   },
   {
-    "title": "哭微之二首",
+    "title": "哭微之二首·其一",
     "author": "白居易",
     "paragraphs": [
       "八月涼風吹白幕，寢門廊下哭微之。",
-      "妻孥朋友來相吊，唯道皇天無所知。",
+      "妻孥朋友來相吊，唯道皇天無所知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "哭微之二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "文章卓犖生無敵，風骨英靈歿有神。",
       "哭送咸陽北原上，可能隨例作灰塵。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

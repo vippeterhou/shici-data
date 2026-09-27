@@ -400,17 +400,28 @@
     }
   },
   {
-    "title": "湖南觀察使故相國袁公挽歌二首",
+    "title": "湖南觀察使故相國袁公挽歌二首·其一",
     "author": "權德輿",
     "paragraphs": [
       "五驅龍虎節，一入鳳凰池。令尹自無喜，羊公人不疑。",
-      "天歸京兆日，葉下洞庭時。湘水秋風至，淒涼吹素旗。",
+      "天歸京兆日，葉下洞庭時。湘水秋風至，淒涼吹素旗。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "湖南觀察使故相國袁公挽歌二首·其二",
+    "author": "權德輿",
+    "paragraphs": [
       "丹旐發江皋，人悲雁亦號。湘南罷亥市，漢上改詞曹。",
       "表墓雙碑立，尊名一字褒。常聞平楚獄，為報裏門高。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

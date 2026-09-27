@@ -1,22 +1,66 @@
 [
   {
-    "title": "升平詞五首",
+    "title": "升平詞五首·其一",
     "author": "曹唐",
     "paragraphs": [
       "瑞氣繞宮樓，皇居上苑遊。遠岡連聖祚，平地載神州。",
-      "會合兼重譯，潺湲近八流。中興豈假問，據此自千秋。",
+      "會合兼重譯，潺湲近八流。中興豈假問，據此自千秋。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "升平詞五首·其二",
+    "author": "曹唐",
+    "paragraphs": [
       "寥泬敞延英，朝班立位橫。宣傳無草動，拜舞有衣聲。",
-      "鴛瓦霜消濕，蟲絲日照明。辛勤自不到，遙見似前程。",
+      "鴛瓦霜消濕，蟲絲日照明。辛勤自不到，遙見似前程。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "升平詞五首·其三",
+    "author": "曹唐",
+    "paragraphs": [
       "處處是歡心，時康歲已深。不同三尺劍，應似五弦琴。",
-      "壽笑山猶盡，明嫌日有陰。何當憐一物，亦遣斷愁吟。",
+      "壽笑山猶盡，明嫌日有陰。何當憐一物，亦遣斷愁吟。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "升平詞五首·其四",
+    "author": "曹唐",
+    "paragraphs": [
       "日日聽歌謠，區中盡祝堯。蟲蝗初不害，夷狄近全銷。",
-      "史筆唯書瑞，天臺絕見妖。因令匹夫志，轉欲事清朝。",
+      "史筆唯書瑞，天臺絕見妖。因令匹夫志，轉欲事清朝。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "升平詞五首·其五",
+    "author": "曹唐",
+    "paragraphs": [
       "五帝三皇主，蕭曹魏邴臣。文章唯返朴，戈甲盡生塵。",
       "諫紙應無用，朝綱自有倫。升平不可記，所見是閒人。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -281,19 +325,41 @@
     }
   },
   {
-    "title": "送劉尊師祗詔闕庭三首",
+    "title": "送劉尊師祗詔闕庭三首·其一",
     "author": "曹唐",
     "paragraphs": [
       "海風葉葉駕霓旌，天路悠悠接上清。錦誥淒涼遺去恨，",
-      "從此暫辭華表柱，便應千載是歸程。",
+      "從此暫辭華表柱，便應千載是歸程。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送劉尊師祗詔闕庭三首·其二",
+    "author": "曹唐",
+    "paragraphs": [
       "五峰已別隔人間，雙闕何年許再還。既掃山川收地脈，",
-      "從此枕中唯有夢，夢魂何處訪三山。",
+      "從此枕中唯有夢，夢魂何處訪三山。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送劉尊師祗詔闕庭三首·其三",
+    "author": "曹唐",
+    "paragraphs": [
       "仙老閑眠碧草堂，帝書征入白雲鄉。龜台欲署長生籍，",
       "五千言外無文字，更有何詞贈武皇。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -332,32 +398,54 @@
     }
   },
   {
-    "title": "奉送嚴大夫再領容府二首",
+    "title": "奉送嚴大夫再領容府二首·其一",
     "author": "曹唐",
     "paragraphs": [
       "海風卷樹凍嵐消，憂國寧辭嶺外遙。自顧勤勞甘百戰，",
-      "代北天南盡成事，肯將心許霍嫖姚。",
-      "日照雙旌射火山，笑迎賓從卻南還。風雲暗發談諧外，",
-      "無因得靸真珠履，親從新侯定八蠻。"
+      "代北天南盡成事，肯將心許霍嫖姚。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "贈南嶽馮處士二首",
+    "title": "奉送嚴大夫再領容府二首·其二",
+    "author": "曹唐",
+    "paragraphs": [
+      "日照雙旌射火山，笑迎賓從卻南還。風雲暗發談諧外，",
+      "無因得靸真珠履，親從新侯定八蠻。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈南嶽馮處士二首·其一",
     "author": "曹唐",
     "paragraphs": [
       "白石溪邊自結廬，風泉滿院稱幽居。鳥啼深樹劚靈藥，",
-      "支頤冷笑緣名出，終日王門強曳裾。",
+      "支頤冷笑緣名出，終日王門強曳裾。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈南嶽馮處士二首·其二",
+    "author": "曹唐",
+    "paragraphs": [
       "寂寥深木閉煙霞，洞裏相知有幾家。笑看潭魚吹水沫，",
       "夜靜著灰封釜灶，自添文武養丹砂。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

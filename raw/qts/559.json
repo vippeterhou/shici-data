@@ -13,17 +13,28 @@
     }
   },
   {
-    "title": "秋日將離滑台酬所知二首",
+    "title": "秋日將離滑台酬所知二首·其一",
     "author": "薛能",
     "paragraphs": [
       "身起中宵骨亦驚，一分年少已無成。松吹竹簟朝眠冷，",
-      "相知莫話詩心苦，未似前賢取得名。",
+      "相知莫話詩心苦，未似前賢取得名。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "秋日將離滑台酬所知二首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "燈澀秋光靜不眠，葉聲身影客窗前。閑園露濕鳴蛩夜，",
       "明朝欲別忘形處，愁把離杯聽管弦。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -132,17 +143,28 @@
     }
   },
   {
-    "title": "春日使府寓懷二首",
+    "title": "春日使府寓懷二首·其一",
     "author": "薛能",
     "paragraphs": [
       "一想流年百事驚，已拋漁父戴塵纓。青春背我堂堂去，",
-      "誰憐合負清朝力，獨把風騷破鄭聲。",
+      "誰憐合負清朝力，獨把風騷破鄭聲。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "春日使府寓懷二首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "平生無解亦無操，永日書生坐獨勞。唯覺宦情如水薄，",
       "何事故溪歸未得，幾拋清淺泛紅桃。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -316,17 +338,28 @@
     }
   },
   {
-    "title": "彭門解嘲二首",
+    "title": "彭門解嘲二首·其一",
     "author": "薛能",
     "paragraphs": [
       "嗚嗚吹角貳師營，落日身閑笑傲行。盡覺文章尊萬事，",
-      "頻上水樓誰會我，泗濱浮磬是同聲。",
+      "頻上水樓誰會我，泗濱浮磬是同聲。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "彭門解嘲二首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "傷禽棲後意猶驚，偶向黐竿脫此生。身外不思簪組事，",
       "秦客莫嘲瓜戍遠，水風瀟灑是彭城。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -622,17 +655,28 @@
     }
   },
   {
-    "title": "贈苗端公二首",
+    "title": "贈苗端公二首·其一",
     "author": "薛能",
     "paragraphs": [
       "繁總近何如，君才必有餘。身歡步兵酒，吏寫魯連書。",
-      "坐默聞鼙吹，庭班見雪初。沉碑若果去，一為訪鄰居。",
+      "坐默聞鼙吹，庭班見雪初。沉碑若果去，一為訪鄰居。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "贈苗端公二首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "至老不相疏，斯言不是虛。兩心宜一體，同舍又鄰居。",
       "曉角秋砧外，清雲白月初。從軍何有用，未造魯連書。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

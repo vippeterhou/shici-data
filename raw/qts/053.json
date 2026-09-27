@@ -544,15 +544,26 @@
     }
   },
   {
-    "title": "題鑒上人房二首",
+    "title": "題鑒上人房二首·其一",
     "author": "宋之問",
     "paragraphs": [
-      "落花雙樹積，芳草一庭春。玩之堪興異，何必見幽人。",
+      "落花雙樹積，芳草一庭春。玩之堪興異，何必見幽人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "題鑒上人房二首·其二",
+    "author": "宋之問",
+    "paragraphs": [
       "晚入應真理，經行尚未回。房中無俗物，林下有青苔。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -569,15 +580,26 @@
     }
   },
   {
-    "title": "傷曹娘二首",
+    "title": "傷曹娘二首·其一",
     "author": "宋之問",
     "paragraphs": [
-      "鳳飛樓伎絕，鸞死鏡臺空。獨憐脂粉氣，猶著舞衣中。",
+      "鳳飛樓伎絕，鸞死鏡臺空。獨憐脂粉氣，猶著舞衣中。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "傷曹娘二首·其二",
+    "author": "宋之問",
+    "paragraphs": [
       "河伯憐嬌態，馮夷要姝妓。寄言遊戲人，莫弄黃河水。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -658,17 +680,28 @@
     }
   },
   {
-    "title": "傷曹娘二首",
+    "title": "傷曹娘二首·其一",
     "author": "宋之問",
     "paragraphs": [
       "可憐冥漠去何之，獨立豐茸無見期。",
-      "君看水上芙蓉色，恰似生前歌舞時。",
+      "君看水上芙蓉色，恰似生前歌舞時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "傷曹娘二首·其二",
+    "author": "宋之問",
+    "paragraphs": [
       "前溪妙舞今應盡，子夜新歌遂不傳。",
       "無複綺羅嬌白日，直將珠玉閉黃泉。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

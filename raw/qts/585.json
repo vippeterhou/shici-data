@@ -842,17 +842,28 @@
     }
   },
   {
-    "title": "春夜二首",
+    "title": "春夜二首·其一",
     "author": "劉駕",
     "paragraphs": [
       "一別杜陵歸未期，只憑魂夢接親知。",
-      "近來欲睡兼難睡，夜夜夜深聞子規。",
+      "近來欲睡兼難睡，夜夜夜深聞子規。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "春夜二首·其二",
+    "author": "劉駕",
+    "paragraphs": [
       "幾歲干戈阻路岐，憶山心切與心違。",
       "時難何處披衷抱，日日日斜空醉歸。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -95,17 +95,28 @@
     }
   },
   {
-    "title": "燕台二首",
+    "title": "燕台二首·其一",
     "author": "聶夷中",
     "paragraphs": [
       "燕台累黃金，上欲招儒雅。貴得賢士來，更下於隗者。",
-      "自然樂毅徒，趨風走天下。何必馳鳳書，旁求向林野。",
+      "自然樂毅徒，趨風走天下。何必馳鳳書，旁求向林野。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "燕台二首·其二",
+    "author": "聶夷中",
+    "paragraphs": [
       "燕台高百尺，燕滅台亦平。一種是亡國，猶得禮賢名。",
       "何似章華畔，空餘禾黍生。"
     ],
     "format": {
-      "sentence_count": 14,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -123,19 +134,30 @@
     }
   },
   {
-    "title": "勸酒二首",
+    "title": "勸酒二首·其一",
     "author": "聶夷中",
     "paragraphs": [
       "白日無定影，清江無定波。人無百年壽，百年複如何。",
       "堂上陳美酒，堂下列笙歌。與君入醉鄉，醉鄉樂天和。",
-      "歲歲松柏茂，日日丘陵多。君看終南山，萬古青峨峨。",
+      "歲歲松柏茂，日日丘陵多。君看終南山，萬古青峨峨。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "勸酒二首·其二",
+    "author": "聶夷中",
+    "paragraphs": [
       "灞上送行客，聽唱行客歌。適來橋下水，已作渭川波。",
       "人間榮樂少，四海別離多。但恐別離淚，自成苦水河。",
       "勸爾一杯酒，所贈無餘多。"
     ],
     "format": {
-      "sentence_count": 22,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -154,19 +176,30 @@
     }
   },
   {
-    "title": "公子行二首",
+    "title": "公子行二首·其一",
     "author": "聶夷中",
     "paragraphs": [
       "漢代多豪族，恩深益驕逸。走馬踏殺人，街吏不敢詰。",
       "紅樓宴青春，數裏望雲蔚。金缸焰勝晝，不畏落暉疾。",
       "美人盡如月，南威莫能匹。芙蓉自天來，不向水中出。",
-      "飛瓊奏雲和，碧簫吹鳳質。唯恨魯陽死，無人駐白日。",
+      "飛瓊奏雲和，碧簫吹鳳質。唯恨魯陽死，無人駐白日。"
+    ],
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "公子行二首·其二",
+    "author": "聶夷中",
+    "paragraphs": [
       "花樹出牆頭，花裏誰家樓。一行書不讀，身封萬戶侯。",
       "美人樓上歌，不是古涼州。"
     ],
     "format": {
-      "sentence_count": 22,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -343,15 +376,26 @@
     }
   },
   {
-    "title": "田家二首",
+    "title": "田家二首·其一",
     "author": "聶夷中",
     "paragraphs": [
-      "父耕原上田，子劚山下荒。六月禾未秀，官家已修倉。",
+      "父耕原上田，子劚山下荒。六月禾未秀，官家已修倉。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "田家二首·其二",
+    "author": "聶夷中",
+    "paragraphs": [
       "鋤田當日午，汗滴禾下土。誰念盤中餐，粒粒皆辛苦。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

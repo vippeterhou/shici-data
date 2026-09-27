@@ -102,15 +102,26 @@
     }
   },
   {
-    "title": "蘭二首",
+    "title": "蘭二首·其一",
     "author": "唐彥謙",
     "paragraphs": [
-      "清風搖翠環，涼露滴蒼玉。美人胡不紉，幽香藹空穀。",
+      "清風搖翠環，涼露滴蒼玉。美人胡不紉，幽香藹空穀。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "蘭二首·其二",
+    "author": "唐彥謙",
+    "paragraphs": [
       "謝庭漫芳草，楚畹多綠莎。于焉忽相見，歲晏將如何。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -151,17 +162,50 @@
     }
   },
   {
-    "title": "留別四首",
+    "title": "留別四首·其一",
     "author": "唐彥謙",
     "paragraphs": [
-      "鵬程三萬里，別酒一千鐘。好景當三月，春光上國濃。",
-      "野花紅滴滴，江燕語喃喃。鼓吹翻新調，都亭酒正酣。",
-      "登庸趨俊乂，廁用野無遺。起喜賡歌日，明良際會時。",
+      "鵬程三萬里，別酒一千鐘。好景當三月，春光上國濃。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "留別四首·其二",
+    "author": "唐彥謙",
+    "paragraphs": [
+      "野花紅滴滴，江燕語喃喃。鼓吹翻新調，都亭酒正酣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "留別四首·其三",
+    "author": "唐彥謙",
+    "paragraphs": [
+      "登庸趨俊乂，廁用野無遺。起喜賡歌日，明良際會時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "留別四首·其四",
+    "author": "唐彥謙",
+    "paragraphs": [
       "鹽車淹素志，長阪入青雲。老驥春風裏，奔騰獨異群。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -257,17 +301,28 @@
     }
   },
   {
-    "title": "詠馬二首",
+    "title": "詠馬二首·其一",
     "author": "唐彥謙",
     "paragraphs": [
       "紫雲團影電飛瞳，駿骨龍媒自不同。",
-      "騎過玉樓金轡響，一聲嘶斷落花風。",
+      "騎過玉樓金轡響，一聲嘶斷落花風。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "詠馬二首·其二",
+    "author": "唐彥謙",
+    "paragraphs": [
       "崚嶒高聳骨如山，遠放春郊苜蓿間。",
       "百戰沙場汗流血，夢魂猶在玉門關。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -311,50 +366,171 @@
     }
   },
   {
-    "title": "寄友三首",
+    "title": "寄友三首·其一",
     "author": "唐彥謙",
     "paragraphs": [
       "新酒秦淮縮項鯿，淩霄花下共流連。",
-      "別來客邸空翹首，細雨春風憶往年。",
-      "寒燈孤對擁青氈，牢落何如似客邊。",
-      "卻憶花前酣後飲，醉呼明月上遙天。",
-      "客裏逢春一惘然，梅花落盡柳如煙。",
-      "無情最恨東來雁，底事音書不肯傳。"
+      "別來客邸空翹首，細雨春風憶往年。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "無題十首",
+    "title": "寄友三首·其二",
+    "author": "唐彥謙",
+    "paragraphs": [
+      "寒燈孤對擁青氈，牢落何如似客邊。",
+      "卻憶花前酣後飲，醉呼明月上遙天。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄友三首·其三",
+    "author": "唐彥謙",
+    "paragraphs": [
+      "客裏逢春一惘然，梅花落盡柳如煙。",
+      "無情最恨東來雁，底事音書不肯傳。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "無題十首·其一",
     "author": "唐彥謙",
     "paragraphs": [
       "細草鋪茵綠滿堤，燕飛晴日正遲遲。",
-      "尋芳陌上花如錦，折得東風第一枝。",
+      "尋芳陌上花如錦，折得東風第一枝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "無題十首·其二",
+    "author": "唐彥謙",
+    "paragraphs": [
       "錦箏銀甲響鶤弦，勾引春聲上綺筵。",
-      "醉倚闌幹花下月，犀梳斜嚲鬢雲邊。",
+      "醉倚闌幹花下月，犀梳斜嚲鬢雲邊。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "無題十首·其三",
+    "author": "唐彥謙",
+    "paragraphs": [
       "楚雲湘雨會陽臺，錦帳芙蓉向夜開。",
-      "吹罷玉簫春似海，一雙彩鳳忽飛來。",
+      "吹罷玉簫春似海，一雙彩鳳忽飛來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "無題十首·其四",
+    "author": "唐彥謙",
+    "paragraphs": [
       "春江新水促歸航，惜別花前酒漫觴。",
-      "倒盡銀瓶渾不醉，卻憐和淚入愁腸。",
+      "倒盡銀瓶渾不醉，卻憐和淚入愁腸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "無題十首·其五",
+    "author": "唐彥謙",
+    "paragraphs": [
       "誰知別易會應難，目斷青鸞信渺漫。",
-      "情似藍橋橋下水，年來流恨幾時幹。",
+      "情似藍橋橋下水，年來流恨幾時幹。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "無題十首·其六",
+    "author": "唐彥謙",
+    "paragraphs": [
       "漏滴銅龍夜已深，柳梢斜月弄疏陰。",
-      "滿園芳草年年恨，剔盡燈花夜夜心。",
+      "滿園芳草年年恨，剔盡燈花夜夜心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "無題十首·其七",
+    "author": "唐彥謙",
+    "paragraphs": [
       "夜合庭前花正開，輕羅小扇為誰裁。",
-      "多情驚起雙蝴蝶，飛入巫山夢裏來。",
+      "多情驚起雙蝴蝶，飛入巫山夢裏來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "無題十首·其八",
+    "author": "唐彥謙",
+    "paragraphs": [
       "憶別悠悠歲月長，酒兵無計敵愁腸。",
-      "柔絲漫折長亭柳，綰得同心欲寄將。",
+      "柔絲漫折長亭柳，綰得同心欲寄將。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "無題十首·其九",
+    "author": "唐彥謙",
+    "paragraphs": [
       "楊柳青青映畫樓，翠眉終日鎖離愁。",
-      "杜鵑啼落枝頭月，多為傷春恨不休。",
+      "杜鵑啼落枝頭月，多為傷春恨不休。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "無題十首·其十",
+    "author": "唐彥謙",
+    "paragraphs": [
       "雲色鮫綃拭淚顏，一簾春雨杏花寒。",
       "幾時重會鴛鴦侶，月下吹笙和彩鸞。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -385,17 +561,28 @@
     }
   },
   {
-    "title": "吊方幹處士二首",
+    "title": "吊方幹處士二首·其一",
     "author": "唐彥謙",
     "paragraphs": [
       "不謂高名下，終全玉雪身。交猶及前輩，語不似今人。",
-      "別號行鳴雁，遺編感獲麟。斂衣應自定，只著古衣巾。",
+      "別號行鳴雁，遺編感獲麟。斂衣應自定，只著古衣巾。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "吊方幹處士二首·其二",
+    "author": "唐彥謙",
+    "paragraphs": [
       "不比他人死，何詩可挽君。淵明元懶仕，東野別攻文。",
       "滄海諸公淚，青山處士墳。相看莫浪哭，私諡有前聞。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -843,85 +1030,228 @@
     }
   },
   {
-    "title": "樊登見寄四首",
+    "title": "樊登見寄四首·其一",
     "author": "唐彥謙",
     "paragraphs": [
       "新辭翦秋水，洗我胸中塵。無由愜良會，極目空懷人。",
-      "醉來拔劍歌，字字皆陽春。",
+      "醉來拔劍歌，字字皆陽春。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "樊登見寄四首·其二",
+    "author": "唐彥謙",
+    "paragraphs": [
       "輕黃著柳條，新春喜更始。感時重搔首，悵望不能已。",
-      "無由托深情，傾瀉芳尊裏。",
+      "無由托深情，傾瀉芳尊裏。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "樊登見寄四首·其三",
+    "author": "唐彥謙",
+    "paragraphs": [
       "明月入我室，天風吹我袍。良夜最岑寂，旅況何蕭條。",
-      "馳情望海波，一鶴鳴九皋。",
+      "馳情望海波，一鶴鳴九皋。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "樊登見寄四首·其四",
+    "author": "唐彥謙",
+    "paragraphs": [
       "悠悠括城北，眄眄岩泉西。宿草暝煙綠，苦竹含雲低。",
       "幽懷不可托，鷓鴣空自啼。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "春風四首",
+    "title": "春風四首·其一",
     "author": "唐彥謙",
     "paragraphs": [
-      "春風吹愁端，散漫不可收。不如古溪水，只望鄉江流。",
-      "新花紅爍爍，舊花滿山白。昔日金張門，狼藉餘廢宅。",
-      "回頭語春風，莫向新花叢。我見朱顏人，多金亦成翁。",
+      "春風吹愁端，散漫不可收。不如古溪水，只望鄉江流。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春風四首·其二",
+    "author": "唐彥謙",
+    "paragraphs": [
+      "新花紅爍爍，舊花滿山白。昔日金張門，狼藉餘廢宅。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春風四首·其三",
+    "author": "唐彥謙",
+    "paragraphs": [
+      "回頭語春風，莫向新花叢。我見朱顏人，多金亦成翁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春風四首·其四",
+    "author": "唐彥謙",
+    "paragraphs": [
       "多金不足惜，丹砂亦何益。更種明年花，春風自相識。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "感物二首",
+    "title": "感物二首·其一",
     "author": "唐彥謙",
     "paragraphs": [
       "騄驥初失群，亦自矜趫騰。俯仰歲時久，帖然困蚊蠅。",
       "豪鯨逸其穴，尺水成滄溟。豈無魚鱉交，望望為所憎。",
-      "物理有翕張，達人同廢興。幸無怵迫憂，聊複曲吾肱。",
+      "物理有翕張，達人同廢興。幸無怵迫憂，聊複曲吾肱。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "感物二首·其二",
+    "author": "唐彥謙",
+    "paragraphs": [
       "魚目出泥沙，空村百金珍。豫章值擁輳，細細供蒸薪。",
       "論材何必多，適用即能神。托交何必深，寡求永相親。",
       "鮑叔拙羈魯，張生窮厄陳。茫然扳援際，豈意出風塵。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "和陶淵明貧士詩七首",
+    "title": "和陶淵明貧士詩七首·其一",
     "author": "唐彥謙",
     "paragraphs": [
       "貧賤如故舊，少壯即相依。中心不敢厭，但覺少光輝。",
       "向來乘時士，亦有能奮飛。一朝權勢歇，欲退無所歸。",
-      "不如行其素，辛苦奈寒饑。人生系天運，何用發深悲。",
+      "不如行其素，辛苦奈寒饑。人生系天運，何用發深悲。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和陶淵明貧士詩七首·其二",
+    "author": "唐彥謙",
+    "paragraphs": [
       "我居在窮巷，來往無華軒。辛勤衣食物，出此二畝園。",
       "薤菘郁朝露，桑柘浮春煙。以茲亂心曲，智計無他奸。",
-      "擇勝不在奢，興至發清言。相逢樵牧徒，混混誰愚賢。",
+      "擇勝不在奢，興至發清言。相逢樵牧徒，混混誰愚賢。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和陶淵明貧士詩七首·其三",
+    "author": "唐彥謙",
+    "paragraphs": [
       "松風四山來，清宵響瑤琴。聽之不能寐，中有怨歎音。",
       "旦起繞其樹，磈砢不計尋。清陰可敷席，有酒誰與斟。",
-      "由來大度士，不受流俗侵。浩歌相倡答，慰此霜雪心。",
+      "由來大度士，不受流俗侵。浩歌相倡答，慰此霜雪心。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和陶淵明貧士詩七首·其四",
+    "author": "唐彥謙",
+    "paragraphs": [
       "中年涉事熟，欲學唾面婁。逡巡避少年，赴穢不敢酬。",
       "旁人籲已甚，自喜計慮周。微勞消厚疚，殘辱勝深憂。",
-      "從知為下安，處上反無儔。人生各有志，勇懦從所求。",
+      "從知為下安，處上反無儔。人生各有志，勇懦從所求。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和陶淵明貧士詩七首·其五",
+    "author": "唐彥謙",
+    "paragraphs": [
       "古人重畎畝，有祿不待幹。德成祿自至，釋耒列王官。",
       "不仕亦不貧，本自足饔餐。後世恥躬耕，號呼脫饑寒。",
-      "我生千祀後，念此愧在顏。為農倘可飽，何用出柴關。",
+      "我生千祀後，念此愧在顏。為農倘可飽，何用出柴關。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和陶淵明貧士詩七首·其六",
+    "author": "唐彥謙",
+    "paragraphs": [
       "村郊多父老，面垢頭如蓬。我嘗使之年，言語不待工。",
       "古來名節士，敢望彭城龔。有叟誚其後，更恨道不通。",
-      "鄙哉譊譊者，為隘不為通。低頭拜野老，負米吾願從。",
+      "鄙哉譊譊者，為隘不為通。低頭拜野老，負米吾願從。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和陶淵明貧士詩七首·其七",
+    "author": "唐彥謙",
+    "paragraphs": [
       "去年秋事荒，販糴仰鄰州。健者道路間，什百成朋儔。",
       "今年漸向熟，庶幾民不流。書生自無田，與眾同喜憂。",
       "作詩勞鄰曲，有倡誰與酬。亦無采詩者，此修何可修。"
     ],
     "format": {
-      "sentence_count": 84,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

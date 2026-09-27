@@ -339,17 +339,28 @@
     }
   },
   {
-    "title": "謫居悼往二首",
+    "title": "謫居悼往二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "邑邑何邑邑，長沙地卑濕。樓上見春多，花前恨風急。",
-      "猿愁腸斷叫，鶴病翹趾立。牛衣獨自眠，誰哀仲卿泣。",
+      "猿愁腸斷叫，鶴病翹趾立。牛衣獨自眠，誰哀仲卿泣。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "謫居悼往二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "鬱鬱何鬱鬱，長安遠如日。終日念鄉關，燕來鴻複還。",
       "潘嶽歲寒思，屈平憔悴顏。殷勤望歸路，無雨即登山。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -668,17 +679,28 @@
     }
   },
   {
-    "title": "春日寄楊八唐州二首",
+    "title": "春日寄楊八唐州二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "淮西春草長，淮水逶迤光。燕入新村落，人耕舊戰場。",
-      "可憐行春守，立馬看斜桑。",
+      "可憐行春守，立馬看斜桑。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日寄楊八唐州二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "漠漠淮上春，莠苗生故壘。梨花方城路，荻筍蕭陂水。",
       "高齋有謫仙，坐嘯清風起。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

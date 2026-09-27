@@ -1,120 +1,417 @@
 [
   {
-    "title": "狂題十八首",
+    "title": "狂題十八首·其一",
     "author": "司空圖",
     "paragraphs": [
       "莫恨艱危日日多，時情其奈幸門何。",
-      "貔貅睡穩蛟龍渴，猶把燒殘朽鐵磨。",
+      "貔貅睡穩蛟龍渴，猶把燒殘朽鐵磨。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "別鶴淒涼指法存，戴逵能恥近王門。",
-      "世間第一風流事，借得王公玉枕痕。",
+      "世間第一風流事，借得王公玉枕痕。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其三",
+    "author": "司空圖",
+    "paragraphs": [
       "交疏自古戒言深，肝膽徒傾致鑠金。",
-      "不是史遷書與說，誰知孤負李陵心。",
+      "不是史遷書與說，誰知孤負李陵心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其四",
+    "author": "司空圖",
+    "paragraphs": [
       "南華落筆似荒唐，若肯經綸亦不狂。",
-      "偶作客星侵帝座，卻應虛薄是嚴光。",
+      "偶作客星侵帝座，卻應虛薄是嚴光。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其五",
+    "author": "司空圖",
+    "paragraphs": [
       "不勞世路更相猜，忍到須休惜得材。",
-      "幾度懶乘風水便，拗船折舵恐難回。",
+      "幾度懶乘風水便，拗船折舵恐難回。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其六",
+    "author": "司空圖",
+    "paragraphs": [
       "由來相愛只詩僧，怪石長松自得朋。",
-      "卻怕他生還識字，依前日下作孤燈。",
+      "卻怕他生還識字，依前日下作孤燈。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其七",
+    "author": "司空圖",
+    "paragraphs": [
       "老禪乘仗莫過身，遠岫孤雲見亦頻。",
-      "應是佛邊猶怕鬧，信緣須作且閒人。",
+      "應是佛邊猶怕鬧，信緣須作且閒人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其八",
+    "author": "司空圖",
+    "paragraphs": [
       "止竟閒人不愛閑，只偷無事閉柴關。",
-      "轟霆攪破蛟龍窟，也被狂風卷出山。",
+      "轟霆攪破蛟龍窟，也被狂風卷出山。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其九",
+    "author": "司空圖",
+    "paragraphs": [
       "地下修文著作郎，生前饑處倒空牆。",
-      "何如神爽騎星去，猶自研幾助玉皇。",
+      "何如神爽騎星去，猶自研幾助玉皇。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其十",
+    "author": "司空圖",
+    "paragraphs": [
       "雨洗芭蕉葉上詩，獨來憑檻晚晴時。",
-      "故園雖恨風荷膩，新句閑題亦滿池。",
+      "故園雖恨風荷膩，新句閑題亦滿池。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其十一",
+    "author": "司空圖",
+    "paragraphs": [
       "初時拄杖向鄰村，漸到清明亦杜門。",
-      "三十年來辭病表，今朝臥病感皇恩。",
+      "三十年來辭病表，今朝臥病感皇恩。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其十二",
+    "author": "司空圖",
+    "paragraphs": [
       "來時雖恨失青氈，自見芭蕉幾十篇。",
-      "應是阿劉還宿債，剩拚才思折供錢。",
+      "應是阿劉還宿債，剩拚才思折供錢。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其十三",
+    "author": "司空圖",
+    "paragraphs": [
       "芭蕉叢畔碧嬋娟，免更悠悠擾蜀川。",
-      "應到去時題不盡，不勞分寄校書箋。",
+      "應到去時題不盡，不勞分寄校書箋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其十四",
+    "author": "司空圖",
+    "paragraphs": [
       "自傷衰病漸難平，永夜禪床雨滴聲。",
-      "聞道虎瘡仍帶鏃，吼來和痛亦橫行。",
+      "聞道虎瘡仍帶鏃，吼來和痛亦橫行。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其十五",
+    "author": "司空圖",
+    "paragraphs": [
       "昨日流鶯今日蟬，起來又是夕陽天。",
-      "六龍飛轡長相窘，更忍乘危自著鞭。",
+      "六龍飛轡長相窘，更忍乘危自著鞭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其十六",
+    "author": "司空圖",
+    "paragraphs": [
       "有是有非還有慮，無心無跡亦無猜。",
-      "不平便激風波險，莫向安時稔禍胎。",
+      "不平便激風波險，莫向安時稔禍胎。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其十七",
+    "author": "司空圖",
+    "paragraphs": [
       "十年三署讓官頻，認得無才又索身。",
-      "莫道太行同一路，大都安穩屬閒人。",
+      "莫道太行同一路，大都安穩屬閒人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "狂題十八首·其十八",
+    "author": "司空圖",
+    "paragraphs": [
       "曾聞劫火到蓬壺，縮盡鼇頭海亦枯。",
       "今日家山同此恨，人歸未得鶴歸無。"
     ],
     "format": {
-      "sentence_count": 72,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "遊仙二首",
+    "title": "遊仙二首·其一",
     "author": "司空圖",
     "paragraphs": [
       "蛾眉新畫覺嬋娟，鬥走將花阿母邊。",
-      "仙曲教成慵不理，玉階相簇打金錢。",
+      "仙曲教成慵不理，玉階相簇打金錢。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "遊仙二首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "劉郎相約事難諧，雨散雲飛自此乖。",
       "月姊殷勤留不住，碧空遺下水精釵。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "漫書五首",
+    "title": "漫書五首·其一",
     "author": "司空圖",
     "paragraphs": [
       "長擬求閑未得閒，又勞行役出秦關。",
-      "逢人漸覺鄉音異，卻恨鶯聲似故山。",
+      "逢人漸覺鄉音異，卻恨鶯聲似故山。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "漫書五首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "溪邊隨事有桑麻，盡日山程十數家。",
-      "莫怪行人頻悵望，杜鵑不是故鄉花。",
+      "莫怪行人頻悵望，杜鵑不是故鄉花。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "漫書五首·其三",
+    "author": "司空圖",
+    "paragraphs": [
       "海上昔聞麋愛鶴，山中今日鹿憎龜。",
-      "愛憎止竟須關分，莫把微才望所知。",
+      "愛憎止竟須關分，莫把微才望所知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "漫書五首·其四",
+    "author": "司空圖",
+    "paragraphs": [
       "世路快心無好事，恩門嘉話合書紳。",
-      "神藏鬼伏能千變，亦勝忘機避要津。",
+      "神藏鬼伏能千變，亦勝忘機避要津。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "漫書五首·其五",
+    "author": "司空圖",
+    "paragraphs": [
       "四翁識勢保安閒，須為生靈暫出山。",
       "一種老人能算度，磻溪心跡愧商顏。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "偶詩五首",
+    "title": "偶詩五首·其一",
     "author": "司空圖",
     "paragraphs": [
       "閑韻雖高不衒才，偶拋猿鳥乍歸來。",
-      "夕陽照個新紅葉，似要題詩落硯臺。",
+      "夕陽照個新紅葉，似要題詩落硯臺。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "偶詩五首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "芙蓉騷客空留怨，芍藥詩家只寄情。",
-      "誰似天才李山甫，牡丹屬思亦縱橫。",
+      "誰似天才李山甫，牡丹屬思亦縱橫。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "偶詩五首·其三",
+    "author": "司空圖",
+    "paragraphs": [
       "賢豪出處盡沉吟，白日高懸只照心。",
-      "一掬信陵墳上土，便如碣石累千金。",
+      "一掬信陵墳上土，便如碣石累千金。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "偶詩五首·其四",
+    "author": "司空圖",
+    "paragraphs": [
       "聲貌由來固絕倫，今朝共許占殘春。",
-      "當歌莫怪頻垂淚，得地翻慚早失身。",
+      "當歌莫怪頻垂淚，得地翻慚早失身。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "偶詩五首·其五",
+    "author": "司空圖",
+    "paragraphs": [
       "中宵茶鼎沸時驚，正是寒窗竹雪明。",
       "甘得寂寥能到老，一生心地亦應平。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "雜題二首",
+    "title": "雜題二首·其一",
     "author": "司空圖",
     "paragraphs": [
       "先知左袒始同行，須待龍樓羽翼成。",
-      "若使只憑三傑力，猶應漢鼎一毫輕。",
+      "若使只憑三傑力，猶應漢鼎一毫輕。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "雜題二首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "魚在枯池鳥在林，四時無奈雪霜侵。",
       "若教激勸由真宰，亦獎青松徑寸心。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -145,19 +442,41 @@
     }
   },
   {
-    "title": "白菊三首",
+    "title": "白菊三首·其一",
     "author": "司空圖",
     "paragraphs": [
       "人間萬恨已難平，栽得垂楊更系情。",
-      "猶喜閏前霜未下，菊邊依舊舞身輕。",
+      "猶喜閏前霜未下，菊邊依舊舞身輕。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "白菊三首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "莫惜西風又起來，猶能婀娜傍池台。",
-      "不辭暫被霜寒挫，舞袖招香即卻回。",
+      "不辭暫被霜寒挫，舞袖招香即卻回。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "白菊三首·其三",
+    "author": "司空圖",
+    "paragraphs": [
       "為報繁霜且莫催，窮秋須到自低垂。",
       "橫拖長袖招人別，只待春風卻舞來。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -175,68 +494,288 @@
     }
   },
   {
-    "title": "修史亭三首",
+    "title": "修史亭三首·其一",
     "author": "司空圖",
     "paragraphs": [
       "山前鄰叟去紛紛，獨強衰羸愛杜門。",
-      "漸覺一家看冷落，地爐生火自溫存。",
-      "甘心七十且酣歌，自算平生幸已多。",
-      "不似香山白居士，晚將心地著禪魔。",
-      "烏紗巾上是青天，檢束酬知四十年。",
-      "誰料平生臂鷹手，挑燈自送佛前錢。"
+      "漸覺一家看冷落，地爐生火自溫存。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "力疾山下吳村看杏花十九首",
+    "title": "修史亭三首·其二",
+    "author": "司空圖",
+    "paragraphs": [
+      "甘心七十且酣歌，自算平生幸已多。",
+      "不似香山白居士，晚將心地著禪魔。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "修史亭三首·其三",
+    "author": "司空圖",
+    "paragraphs": [
+      "烏紗巾上是青天，檢束酬知四十年。",
+      "誰料平生臂鷹手，挑燈自送佛前錢。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其一",
     "author": "司空圖",
     "paragraphs": [
       "春來漸覺一川明，馬上繁花作陣迎。",
-      "掉臂只將詩酒敵，不勞金鼓助橫行。",
+      "掉臂只將詩酒敵，不勞金鼓助橫行。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "閶闔曾排捧禦爐，猶看曉月認金鋪。",
-      "羸形不畫淩煙閣，只為微才激壯圖。",
+      "羸形不畫淩煙閣，只為微才激壯圖。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其三",
+    "author": "司空圖",
+    "paragraphs": [
       "鏡留雪鬢暖消無，春到梨花日又晡。",
-      "移取扶桑階下種，年年看長礙金烏。",
+      "移取扶桑階下種，年年看長礙金烏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其四",
+    "author": "司空圖",
+    "paragraphs": [
       "折來未盡不須休，年少爭來莫與留。",
-      "更願狂風知我意，一時吹向海西頭。",
+      "更願狂風知我意，一時吹向海西頭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其五",
+    "author": "司空圖",
+    "paragraphs": [
       "才情百巧鬥風光，卻笑雕花刻葉忙。",
-      "熨帖新巾來與裹，猶看騰踏少年場。",
+      "熨帖新巾來與裹，猶看騰踏少年場。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其六",
+    "author": "司空圖",
+    "paragraphs": [
       "浮世榮枯總不知，且憂花陣被風欺。",
-      "儂家自有麒麟閣，第一功名只賞詩。",
+      "儂家自有麒麟閣，第一功名只賞詩。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其七",
+    "author": "司空圖",
+    "paragraphs": [
       "白衫裁袖本教寬，朱紫由來亦一般。",
-      "王老小兒吹笛看，我儂試舞爾儂看。",
+      "王老小兒吹笛看，我儂試舞爾儂看。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其八",
+    "author": "司空圖",
+    "paragraphs": [
       "單床薄被又羈棲，待到花開亦甚迷。",
-      "若道折多還有罪，只應鶯囀是金雞。",
+      "若道折多還有罪，只應鶯囀是金雞。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其九",
+    "author": "司空圖",
+    "paragraphs": [
       "近來桃李半燒枯，歸臥鄉園只老夫。",
-      "莫算明年人在否，不知花得更開無。",
+      "莫算明年人在否，不知花得更開無。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其十",
+    "author": "司空圖",
+    "paragraphs": [
       "漢王何事損精神，花滿深宮不見春。",
-      "穠豔三千臨粉鏡，獨悲掩面李夫人。",
+      "穠豔三千臨粉鏡，獨悲掩面李夫人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其十一",
+    "author": "司空圖",
+    "paragraphs": [
       "能豔能芳自一家，勝鸞勝鳳勝煙霞。",
-      "客來須共醒醒看，碾盡明昌幾角茶。",
+      "客來須共醒醒看，碾盡明昌幾角茶。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其十二",
+    "author": "司空圖",
+    "paragraphs": [
       "造化無端欲自神，裁紅剪翠為新春。",
-      "不如分減閒心力，更助英豪濟活人。",
+      "不如分減閒心力，更助英豪濟活人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其十三",
+    "author": "司空圖",
+    "paragraphs": [
       "徘徊自勸莫沾纓，分付年年穀口鶯。",
-      "卻賴無情容易別，有情早個不勝情。",
+      "卻賴無情容易別，有情早個不勝情。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其十四",
+    "author": "司空圖",
+    "paragraphs": [
       "閒步偏宜舞袖迎，春光何事獨無情。",
-      "垂楊合是詩家物，只愛敷溪道北生。",
+      "垂楊合是詩家物，只愛敷溪道北生。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其十五",
+    "author": "司空圖",
+    "paragraphs": [
       "亦知王大是昌齡，杜二其如律韻清。",
-      "還有酸寒堪笑處，擬誇朱紱更崢嶸。",
+      "還有酸寒堪笑處，擬誇朱紱更崢嶸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其十六",
+    "author": "司空圖",
+    "paragraphs": [
       "潘郎愛說是詩家，枉占河陽一縣花。",
-      "千載幾人搜警句，補方金字愛晴霞。",
+      "千載幾人搜警句，補方金字愛晴霞。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其十七",
+    "author": "司空圖",
+    "paragraphs": [
       "行樂溪邊步轉遲，出山漸減探花期。",
-      "去年四度今三度，恐到憑人折去時。",
+      "去年四度今三度，恐到憑人折去時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其十八",
+    "author": "司空圖",
+    "paragraphs": [
       "此身衰病轉堪嗟，長忍春寒獨惜花。",
-      "更恨新詩無紙寫，蜀箋堆積是誰家。",
+      "更恨新詩無紙寫，蜀箋堆積是誰家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "力疾山下吳村看杏花十九首·其十九",
+    "author": "司空圖",
+    "paragraphs": [
       "昨日黃昏始看回，夢中相約又銜杯。",
       "起來聞道風飄卻，猶擬教人掃取來。"
     ],
     "format": {
-      "sentence_count": 76,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -254,21 +793,54 @@
     }
   },
   {
-    "title": "重陽四首",
+    "title": "重陽四首·其一",
     "author": "司空圖",
     "paragraphs": [
       "簷前減燕菊添芳，燕盡庭前菊又荒。",
-      "老大比他年少少，每逢佳節更悲涼。",
+      "老大比他年少少，每逢佳節更悲涼。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "重陽四首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "雨寒莫待菊花催，須怕晴空暖並開。",
-      "開卻一枝開卻盡，且隨幽蝶更徘徊。",
+      "開卻一枝開卻盡，且隨幽蝶更徘徊。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "重陽四首·其三",
+    "author": "司空圖",
+    "paragraphs": [
       "青娥懶唱無衣換，黃菊新開乞酒難。",
-      "長有長亭惆悵事，隔河更得對憑欄。",
+      "長有長亭惆悵事，隔河更得對憑欄。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "重陽四首·其四",
+    "author": "司空圖",
+    "paragraphs": [
       "白髮怕寒梳更懶，黃花晴日照初開。",
       "籬頭應是蝶相報，已被鄰家攜酒來。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -299,37 +871,158 @@
     }
   },
   {
-    "title": "歌者十二首",
+    "title": "歌者十二首·其一",
     "author": "司空圖",
     "paragraphs": [
       "追逐翻嫌傍管弦，金釵擊節自當筵。",
-      "風霜一夜燕鴻斷，唱作江南袚禊天。",
+      "風霜一夜燕鴻斷，唱作江南袚禊天。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歌者十二首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "玉樹花飄鳳失棲，一聲初壓管弦低。",
-      "清回煩暑成瀟灑，豔逐寒雲變慘淒。",
+      "清回煩暑成瀟灑，豔逐寒雲變慘淒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歌者十二首·其三",
+    "author": "司空圖",
+    "paragraphs": [
       "十斛明珠亦易拚，欲兼人藝古來難。",
-      "五雲合是新聲染，熔作瓊漿灑露盤。",
+      "五雲合是新聲染，熔作瓊漿灑露盤。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歌者十二首·其四",
+    "author": "司空圖",
+    "paragraphs": [
       "不似新聲唱亦新，旋調玉管旋生春。",
-      "愁腸隔斷珠簾外，只為今宵共聽人。",
+      "愁腸隔斷珠簾外，只為今宵共聽人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歌者十二首·其五",
+    "author": "司空圖",
+    "paragraphs": [
       "十年逃難別雲林，暫輟狂歌且聽琴。",
-      "轉覺淡交言有味，此聲知是古人心。",
+      "轉覺淡交言有味，此聲知是古人心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歌者十二首·其六",
+    "author": "司空圖",
+    "paragraphs": [
       "五柳先生自識微，無言共笑手空揮。",
-      "胸中免被風波撓，肯為螳螂動殺機。",
+      "胸中免被風波撓，肯為螳螂動殺機。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歌者十二首·其七",
+    "author": "司空圖",
+    "paragraphs": [
       "風霜寒水旅人心，幾處笙歌繡戶深。",
-      "分泊一場雲散後，未勝初夜便聽琴。",
+      "分泊一場雲散後，未勝初夜便聽琴。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歌者十二首·其八",
+    "author": "司空圖",
+    "paragraphs": [
       "自憐眼暗難求藥，莫恨花繁便有風。",
-      "桃李更開須強看，明年兼恐聽歌聾。",
+      "桃李更開須強看，明年兼恐聽歌聾。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歌者十二首·其九",
+    "author": "司空圖",
+    "paragraphs": [
       "白雲深處寄生涯，歲暮生情賴此花。",
-      "蜂蝶繞來忙繞袖，似知教折送鄰家。",
+      "蜂蝶繞來忙繞袖，似知教折送鄰家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歌者十二首·其十",
+    "author": "司空圖",
+    "paragraphs": [
       "重九仍重歲漸闌，強開病眼更登攀。",
-      "年年認得酣歌處，猶恐招魂葬故山。",
+      "年年認得酣歌處，猶恐招魂葬故山。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歌者十二首·其十一",
+    "author": "司空圖",
+    "paragraphs": [
       "繞壁依稀認寫真，更須粉繪飾羸身。",
-      "淒涼不道身無壽，九日還無舊會人。",
+      "淒涼不道身無壽，九日還無舊會人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歌者十二首·其十二",
+    "author": "司空圖",
+    "paragraphs": [
       "鶴氅花香搭槿籬，枕前蛩迸酒醒時。",
       "夕陽似照陶家菊，黃蝶無窮壓故枝。"
     ],
     "format": {
-      "sentence_count": 48,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -347,49 +1040,236 @@
     }
   },
   {
-    "title": "楊柳枝壽杯詞十八首",
+    "title": "楊柳枝壽杯詞十八首·其一",
     "author": "司空圖",
     "paragraphs": [
       "樂府翻來占太平，風光無處不含情。",
-      "千門萬戶喧歌吹，富貴人間只此聲。",
+      "千門萬戶喧歌吹，富貴人間只此聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "撼晚梳空不自持，與君同折上樓時。",
-      "春風還有常情處，系得人心免別離。",
+      "春風還有常情處，系得人心免別離。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其三",
+    "author": "司空圖",
+    "paragraphs": [
       "灞亭東去徹隋堤，贈別何須醉似泥。",
-      "萬里往來無一事，便帆輕拂亂鶯啼。",
+      "萬里往來無一事，便帆輕拂亂鶯啼。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其四",
+    "author": "司空圖",
+    "paragraphs": [
       "台城細仗曉初移，詔賜千官禊飲時。",
-      "綠帳遠籠清佩響，更曛晴日上龍旗。",
+      "綠帳遠籠清佩響，更曛晴日上龍旗。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其五",
+    "author": "司空圖",
+    "paragraphs": [
       "桃源仙子不須誇，聞道惟栽一片花。",
-      "何似浣紗溪畔住，綠陰相間兩三家。",
+      "何似浣紗溪畔住，綠陰相間兩三家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其六",
+    "author": "司空圖",
+    "paragraphs": [
       "偶然樓上卷珠簾，往往長條拂枕函。",
-      "恰值小娥初學舞，擬偷金縷押春衫。",
+      "恰值小娥初學舞，擬偷金縷押春衫。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其七",
+    "author": "司空圖",
+    "paragraphs": [
       "池邊影動散鴛鴦，更引微風亂繡床。",
-      "直待玉窗塵不起，始應金雁得成行。",
+      "直待玉窗塵不起，始應金雁得成行。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其八",
+    "author": "司空圖",
+    "paragraphs": [
       "稻畦分影向江村，憔悴經霜只半存。",
-      "昨日流鶯今不見，亂螢飛出照黃昏。",
+      "昨日流鶯今不見，亂螢飛出照黃昏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其九",
+    "author": "司空圖",
+    "paragraphs": [
       "客淚休沾漢水濱，舞腰羞殺漢宮人。",
-      "狂風更與回煙帚，掃盡繁花獨佔春。",
+      "狂風更與回煙帚，掃盡繁花獨佔春。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其十",
+    "author": "司空圖",
+    "paragraphs": [
       "遊人莫歎易凋衰，長樂榮枯自有期。",
-      "看取明年春意動，更于何處最先知。",
+      "看取明年春意動，更于何處最先知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其十一",
+    "author": "司空圖",
+    "paragraphs": [
       "昔年行樂及芳時，一上丹梯桂一枝。",
-      "笑問江頭醉公子，饒君滿把麹塵絲。",
+      "笑問江頭醉公子，饒君滿把麹塵絲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其十二",
+    "author": "司空圖",
+    "paragraphs": [
       "渡頭殘照一行新，獨自依依向北人。",
-      "莫恨鄉程千里遠，眼中從此故鄉春。",
+      "莫恨鄉程千里遠，眼中從此故鄉春。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其十三",
+    "author": "司空圖",
+    "paragraphs": [
       "絮惹輕枝雪未飄，小溪煙束帶危橋。",
-      "鄰家女伴頻攀折，不覺回身罥翠翹。",
+      "鄰家女伴頻攀折，不覺回身罥翠翹。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其十四",
+    "author": "司空圖",
+    "paragraphs": [
       "處處縈空百萬枝，一枝枝好更題詩。",
-      "隔城遠岫招行客，便與朱樓當酒旗。",
+      "隔城遠岫招行客，便與朱樓當酒旗。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其十五",
+    "author": "司空圖",
+    "paragraphs": [
       "錦城分得映金溝，兩岸年年引勝遊。",
-      "若似松篁須帶雪，人間何處認風流。",
+      "若似松篁須帶雪，人間何處認風流。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其十六",
+    "author": "司空圖",
+    "paragraphs": [
       "日暖津頭絮已飛，看看還是送君歸。",
-      "莫言萬緒牽愁思，緝取長繩系落暉。",
+      "莫言萬緒牽愁思，緝取長繩系落暉。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其十七",
+    "author": "司空圖",
+    "paragraphs": [
       "大堤時節近清明，霞襯煙籠繞郡城。",
-      "好是梨花相映處，更勝松雪日初晴。",
+      "好是梨花相映處，更勝松雪日初晴。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝壽杯詞十八首·其十八",
+    "author": "司空圖",
+    "paragraphs": [
       "聖主千年樂未央，禦溝金翠滿垂楊。",
       "年年織作升平字，高映南山獻壽觴。"
     ],
     "format": {
-      "sentence_count": 72,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -433,19 +1313,41 @@
     }
   },
   {
-    "title": "白菊三首",
+    "title": "白菊三首·其一",
     "author": "司空圖",
     "paragraphs": [
       "不疑陶令是狂生，作賦其如有定情。",
-      "猶勝江南隱居士，詩魔終嫋負孤名。",
+      "猶勝江南隱居士，詩魔終嫋負孤名。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "白菊三首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "自古詩人少顯榮，逃名何用更題名。",
-      "詩中有慮猶須戒，莫向詩中著不平。",
+      "詩中有慮猶須戒，莫向詩中著不平。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "白菊三首·其三",
+    "author": "司空圖",
+    "paragraphs": [
       "登高可羨少年場，白菊堆邊鬢似霜。",
       "益算更希沾上藥，今朝第七十重陽。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -463,32 +1365,54 @@
     }
   },
   {
-    "title": "楊柳枝二首",
+    "title": "楊柳枝二首·其一",
     "author": "司空圖",
     "paragraphs": [
       "陶家五柳簇衡門，還有高情愛此君。",
-      "何處更添詩境好，新蟬欹枕每先聞。",
-      "數枝珍重蘸滄浪，無限塵心暫免忙。",
-      "煩暑若和煙露裛，便同佛手灑清涼。"
+      "何處更添詩境好，新蟬欹枕每先聞。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "修史亭二首",
+    "title": "楊柳枝二首·其二",
+    "author": "司空圖",
+    "paragraphs": [
+      "數枝珍重蘸滄浪，無限塵心暫免忙。",
+      "煩暑若和煙露裛，便同佛手灑清涼。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "修史亭二首·其一",
     "author": "司空圖",
     "paragraphs": [
       "少年已慣擲年光，時節催驅獨不忙。",
-      "今日無疑亦無病，前程無事擾醫王。",
+      "今日無疑亦無病，前程無事擾醫王。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "修史亭二首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "籬落輕寒整頓新，雪晴步屣會諸鄰。",
       "自從南至歌風頂，始見人煙外有人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -506,17 +1430,28 @@
     }
   },
   {
-    "title": "雜題二首",
+    "title": "雜題二首·其一",
     "author": "司空圖",
     "paragraphs": [
       "棋局長攜上釣船，殺中棋殺勝絲牽。",
-      "洪爐任鑄千鈞鼎，只在磻溪一縷懸。",
+      "洪爐任鑄千鈞鼎，只在磻溪一縷懸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "雜題二首·其二",
+    "author": "司空圖",
+    "paragraphs": [
       "曉鏡高窗氣象深，自憐清格笑塵心。",
       "世間不為蛾眉誤，海上方應鶴背吟。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

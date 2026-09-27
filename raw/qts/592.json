@@ -267,16 +267,38 @@
     }
   },
   {
-    "title": "築城三首",
+    "title": "築城三首·其一",
     "author": "曹鄴",
     "paragraphs": [
-      "郎有蘼蕪心，妾有芙蓉質。不辭嫁與郎，築城無休日。",
-      "嗚嗚啄人鴉，軋軋上城車。力盡土不盡，得歸亦無家。",
+      "郎有蘼蕪心，妾有芙蓉質。不辭嫁與郎，築城無休日。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "築城三首·其二",
+    "author": "曹鄴",
+    "paragraphs": [
+      "嗚嗚啄人鴉，軋軋上城車。力盡土不盡，得歸亦無家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "築城三首·其三",
+    "author": "曹鄴",
+    "paragraphs": [
       "築人非築城，圍秦豈圍我。不知城上土，化作宮中火。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

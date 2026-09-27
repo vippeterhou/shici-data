@@ -36,15 +36,26 @@
     }
   },
   {
-    "title": "題灞池二首",
+    "title": "題灞池二首·其一",
     "author": "王昌齡",
     "paragraphs": [
-      "腰鐮欲何之，東園刈秋韭。世事不復論，悲歌和樵叟。",
+      "腰鐮欲何之，東園刈秋韭。世事不復論，悲歌和樵叟。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "題灞池二首·其二",
+    "author": "王昌齡",
+    "paragraphs": [
       "開門望長川，薄暮見漁者。借問白頭翁，垂綸幾年也。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -157,72 +168,171 @@
     }
   },
   {
-    "title": "從軍行七首",
+    "title": "從軍行七首·其一",
     "author": "王昌齡",
     "paragraphs": [
       "烽火城西百尺樓，黃昏獨上海風秋。",
-      "更吹羌笛關山月，無那金閨萬里愁。",
+      "更吹羌笛關山月，無那金閨萬里愁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "從軍行七首·其二",
+    "author": "王昌齡",
+    "paragraphs": [
       "琵琶起舞換新聲，總是關山舊別情。",
-      "撩亂邊愁聽不盡，高高秋月照長城。",
+      "撩亂邊愁聽不盡，高高秋月照長城。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "從軍行七首·其三",
+    "author": "王昌齡",
+    "paragraphs": [
       "關城榆葉早疏黃，日暮雲沙古戰場。",
-      "表請回軍掩塵骨，莫教兵士哭龍荒。",
+      "表請回軍掩塵骨，莫教兵士哭龍荒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "從軍行七首·其四",
+    "author": "王昌齡",
+    "paragraphs": [
       "青海長雲暗雪山，孤城遙望玉門關。",
-      "黃沙百戰穿金甲，不破樓蘭終不還。",
+      "黃沙百戰穿金甲，不破樓蘭終不還。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "從軍行七首·其五",
+    "author": "王昌齡",
+    "paragraphs": [
       "大漠風塵日色昏，紅旗半卷出轅門。",
-      "前軍夜戰洮河北，已報生擒吐谷渾。",
+      "前軍夜戰洮河北，已報生擒吐谷渾。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "從軍行七首·其六",
+    "author": "王昌齡",
+    "paragraphs": [
       "胡瓶落膊紫薄汗，碎葉城西秋月團。",
-      "明敕星馳封寶劍，辭君一夜取樓蘭。",
+      "明敕星馳封寶劍，辭君一夜取樓蘭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "從軍行七首·其七",
+    "author": "王昌齡",
+    "paragraphs": [
       "玉門山嶂幾千重，山北山南總是烽。",
       "人依遠戍須看火，馬踏深山不見蹤。"
     ],
     "format": {
-      "sentence_count": 28,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "出塞二首",
+    "title": "出塞二首·其一",
     "author": "王昌齡",
     "paragraphs": [
       "秦時明月漢時關，萬里長征人未還。",
-      "但使龍城飛將在，不教胡馬度陰山。",
+      "但使龍城飛將在，不教胡馬度陰山。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "出塞二首·其二",
+    "author": "王昌齡",
+    "paragraphs": [
       "騮馬新跨白玉鞍，戰罷沙場月色寒。",
       "城頭鐵鼓聲猶振，匣裏金刀血未幹。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "採蓮曲二首",
+    "title": "採蓮曲二首·其一",
     "author": "王昌齡",
     "paragraphs": [
       "吳姬越豔楚王妃，爭弄蓮舟水濕衣。",
-      "來時浦口花迎入，采罷江頭月送歸。",
+      "來時浦口花迎入，采罷江頭月送歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "採蓮曲二首·其二",
+    "author": "王昌齡",
+    "paragraphs": [
       "荷葉羅裙一色裁，芙蓉向臉兩邊開。",
       "亂入池中看不見，聞歌始覺有人來。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "殿前曲二首",
+    "title": "殿前曲二首·其一",
     "author": "王昌齡",
     "paragraphs": [
       "貴人妝梳殿前催，香風吹入殿后來。",
-      "仗引笙歌大宛馬，白蓮花發照池台。",
+      "仗引笙歌大宛馬，白蓮花發照池台。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "殿前曲二首·其二",
+    "author": "王昌齡",
+    "paragraphs": [
       "胡部笙歌西殿頭，梨園弟子和涼州。",
       "新聲一段高樓月，聖主千秋樂未休。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -266,38 +376,93 @@
     }
   },
   {
-    "title": "長信秋詞五首",
+    "title": "長信秋詞五首·其一",
     "author": "王昌齡",
     "paragraphs": [
       "金井梧桐秋葉黃，珠簾不卷夜來霜。",
-      "熏籠玉枕無顏色，臥聽南宮清漏長。",
-      "高殿秋砧響夜闌，霜深猶憶禦衣寒。",
-      "銀燈青瑣裁縫歇，還向金城明主看。",
-      "奉帚平明金殿開，且將團扇暫裴回。",
-      "玉顏不及寒鴉色，猶帶昭陽日影來。",
-      "真成薄命久尋思，夢見君王覺後疑。",
-      "火照西宮知夜飲，分明複道奉恩時。",
-      "長信宮中秋月明，昭陽殿下擣衣聲。",
-      "白露堂中細草跡，紅羅帳裏不勝情。"
+      "熏籠玉枕無顏色，臥聽南宮清漏長。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "青樓曲二首",
+    "title": "長信秋詞五首·其二",
+    "author": "王昌齡",
+    "paragraphs": [
+      "高殿秋砧響夜闌，霜深猶憶禦衣寒。",
+      "銀燈青瑣裁縫歇，還向金城明主看。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "長信秋詞五首·其三",
+    "author": "王昌齡",
+    "paragraphs": [
+      "奉帚平明金殿開，且將團扇暫裴回。",
+      "玉顏不及寒鴉色，猶帶昭陽日影來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "長信秋詞五首·其四",
+    "author": "王昌齡",
+    "paragraphs": [
+      "真成薄命久尋思，夢見君王覺後疑。",
+      "火照西宮知夜飲，分明複道奉恩時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "長信秋詞五首·其五",
+    "author": "王昌齡",
+    "paragraphs": [
+      "長信宮中秋月明，昭陽殿下擣衣聲。",
+      "白露堂中細草跡，紅羅帳裏不勝情。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "青樓曲二首·其一",
     "author": "王昌齡",
     "paragraphs": [
       "白馬金鞍從武皇，旌旗十萬宿長楊。",
-      "樓頭小婦鳴箏坐，遙見飛塵入建章。",
+      "樓頭小婦鳴箏坐，遙見飛塵入建章。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "青樓曲二首·其二",
+    "author": "王昌齡",
+    "paragraphs": [
       "馳道楊花滿禦溝，紅妝縵綰上青樓。",
       "金章紫綬千餘騎，夫婿朝回初拜侯。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -562,17 +727,28 @@
     }
   },
   {
-    "title": "芙蓉樓送辛漸二首",
+    "title": "芙蓉樓送辛漸二首·其一",
     "author": "王昌齡",
     "paragraphs": [
       "寒雨連天夜入湖，平明送客楚山孤。",
-      "洛陽親友如相問，一片冰心在玉壺。",
+      "洛陽親友如相問，一片冰心在玉壺。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "芙蓉樓送辛漸二首·其二",
+    "author": "王昌齡",
+    "paragraphs": [
       "丹陽城南秋海陰，丹陽城北楚雲深。",
       "高樓送客不能醉，寂寂寒江明月心。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -889,19 +1065,41 @@
     }
   },
   {
-    "title": "武陵開元觀黃煉師院三首",
+    "title": "武陵開元觀黃煉師院三首·其一",
     "author": "王昌齡",
     "paragraphs": [
       "松間白髮黃尊師，童子燒香禹步時。",
-      "欲訪桃源入溪路，忽聞雞犬使人疑。",
+      "欲訪桃源入溪路，忽聞雞犬使人疑。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "武陵開元觀黃煉師院三首·其二",
+    "author": "王昌齡",
+    "paragraphs": [
       "先賢盛說桃花源，塵忝何堪武陵郡。",
-      "聞道秦時避地人，至今不與人通問。",
+      "聞道秦時避地人，至今不與人通問。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "武陵開元觀黃煉師院三首·其三",
+    "author": "王昌齡",
+    "paragraphs": [
       "山觀空虛清靜門，從官役吏擾塵喧。",
       "暫因問俗到真境，便欲投誠依道源。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

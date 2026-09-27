@@ -300,19 +300,30 @@
     }
   },
   {
-    "title": "千秋節有感二首",
+    "title": "千秋節有感二首·其一",
     "author": "杜甫",
     "paragraphs": [
       "自罷千秋節，頻傷八月來。先朝常宴會，壯觀已塵埃。",
       "鳳紀編生日，龍池塹劫灰。湘川新涕淚，秦樹遠樓臺。",
-      "寶鏡群臣得，金吾萬國回。衢尊不重飲，白首獨餘哀。",
+      "寶鏡群臣得，金吾萬國回。衢尊不重飲，白首獨餘哀。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "千秋節有感二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "禦氣雲樓敞，含風彩仗高。仙人張內樂，王母獻宮桃。",
       "羅襪紅蕖豔，金羈白雪毛。舞階銜壽酒，走索背秋毫。",
       "聖主他年貴，邊心此日勞。桂江流向北，滿眼送波濤。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -439,17 +450,28 @@
     }
   },
   {
-    "title": "哭李常侍嶧二首",
+    "title": "哭李常侍嶧二首·其一",
     "author": "杜甫",
     "paragraphs": [
       "一代風流盡，修文地下深。斯人不重見，將老失知音。",
-      "短日行梅嶺，寒山落桂林。長安若個畔，猶想映貂金。",
+      "短日行梅嶺，寒山落桂林。長安若個畔，猶想映貂金。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "哭李常侍嶧二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "青瑣陪雙入，銅梁阻一辭。風塵逢我地，江漢哭君時。",
       "次第尋書劄，呼兒檢贈詩。發揮王子表，不愧史臣詞。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -660,17 +682,28 @@
     }
   },
   {
-    "title": "歸雁二首",
+    "title": "歸雁二首·其一",
     "author": "杜甫",
     "paragraphs": [
       "萬里衡陽雁，今年又北歸。雙雙瞻客上，一一背人飛。",
-      "雲裏相呼疾，沙邊自宿稀。系書元浪語，愁寂故山薇。",
+      "雲裏相呼疾，沙邊自宿稀。系書元浪語，愁寂故山薇。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "歸雁二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "欲雪違胡地，先花別楚雲。卻過清渭影，高起洞庭群。",
       "塞北春陰暮，江南日色曛。傷弓流落羽，行斷不堪聞。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

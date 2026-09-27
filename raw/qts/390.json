@@ -146,17 +146,28 @@
     }
   },
   {
-    "title": "詠懷二首",
+    "title": "詠懷二首·其一",
     "author": "李賀",
     "paragraphs": [
       "長卿懷茂陵，綠草垂石井。彈琴看文君，春風吹鬢影。",
-      "梁王與武帝，棄之如斷梗。惟留一簡書，金泥泰山頂。",
+      "梁王與武帝，棄之如斷梗。惟留一簡書，金泥泰山頂。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "詠懷二首·其二",
+    "author": "李賀",
+    "paragraphs": [
       "日夕著書罷，驚霜落素絲。鏡中聊自笑，詎是南山期。",
       "頭上無幅巾，苦檗已染衣。不見清溪魚，飲水得自宜。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -574,40 +585,172 @@
     }
   },
   {
-    "title": "南園十三首",
+    "title": "南園十三首·其一",
     "author": "李賀",
     "paragraphs": [
       "花枝草蔓眼中開，小白長紅越女腮。",
-      "可憐日暮嫣香落，嫁與春風不用媒。",
+      "可憐日暮嫣香落，嫁與春風不用媒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "南園十三首·其二",
+    "author": "李賀",
+    "paragraphs": [
       "宮北田塍曉氣酣，黃桑飲露窣宮簾。",
-      "長腰健婦偷攀折，將喂吳王八繭蠶。",
+      "長腰健婦偷攀折，將喂吳王八繭蠶。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "南園十三首·其三",
+    "author": "李賀",
+    "paragraphs": [
       "竹裏繰絲挑網車，青蟬獨噪日光斜。",
-      "桃膠迎夏香琥珀，自課越傭能種瓜。",
+      "桃膠迎夏香琥珀，自課越傭能種瓜。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "南園十三首·其四",
+    "author": "李賀",
+    "paragraphs": [
       "三十未有二十餘，白日長饑小甲蔬。",
-      "橋頭長老相哀念，因遺戎韜一卷書。",
+      "橋頭長老相哀念，因遺戎韜一卷書。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "南園十三首·其五",
+    "author": "李賀",
+    "paragraphs": [
       "男兒何不帶吳鉤，收取關山五十州。",
-      "請君暫上淩煙閣，若個書生萬戶侯。",
+      "請君暫上淩煙閣，若個書生萬戶侯。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "南園十三首·其六",
+    "author": "李賀",
+    "paragraphs": [
       "尋章摘句老雕蟲，曉月當簾掛玉弓。",
-      "不見年年遼海上，文章何處哭秋風。",
+      "不見年年遼海上，文章何處哭秋風。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "南園十三首·其七",
+    "author": "李賀",
+    "paragraphs": [
       "長卿牢落悲空舍，曼倩詼諧取自容。",
-      "見買若耶溪水劍，明朝歸去事猿公。",
+      "見買若耶溪水劍，明朝歸去事猿公。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "南園十三首·其八",
+    "author": "李賀",
+    "paragraphs": [
       "春水初生乳燕飛，黃蜂小尾撲花歸。",
-      "窗含遠色通書幌，魚擁香鉤近石磯。",
+      "窗含遠色通書幌，魚擁香鉤近石磯。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "南園十三首·其九",
+    "author": "李賀",
+    "paragraphs": [
       "泉沙軟臥鴛鴦暖，曲岸回篙舴艋遲。",
-      "瀉酒木欄椒葉蓋，病容扶起種菱絲。",
+      "瀉酒木欄椒葉蓋，病容扶起種菱絲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "南園十三首·其十",
+    "author": "李賀",
+    "paragraphs": [
       "邊讓今朝憶蔡邕，無心裁曲臥春風。",
-      "舍南有竹堪書字，老去溪頭作釣翁。",
+      "舍南有竹堪書字，老去溪頭作釣翁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "南園十三首·其十一",
+    "author": "李賀",
+    "paragraphs": [
       "長巒穀口倚嵇家，白晝千峰老翠華。",
-      "自履藤鞋收石蜜，手牽苔絮長蓴花。",
+      "自履藤鞋收石蜜，手牽苔絮長蓴花。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "南園十三首·其十二",
+    "author": "李賀",
+    "paragraphs": [
       "松溪黑水新龍卵，桂洞生硝舊馬牙。",
-      "誰遣虞卿裁道帔，輕綃一匹染朝霞。",
+      "誰遣虞卿裁道帔，輕綃一匹染朝霞。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "南園十三首·其十三",
+    "author": "李賀",
+    "paragraphs": [
       "小樹開朝徑，長茸濕夜煙。柳花驚雪浦，麥雨漲溪田。",
       "古刹疏鐘度，遙嵐破月懸。沙頭敲石火，燒竹照漁船。"
     ],
     "format": {
-      "sentence_count": 56,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   }
 ]

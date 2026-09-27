@@ -161,15 +161,26 @@
     }
   },
   {
-    "title": "避暑二首",
+    "title": "避暑二首·其一",
     "author": "徐凝",
     "paragraphs": [
-      "一株金染密，數畝碧鮮疏。避暑臨溪坐，何妨直釣魚。",
+      "一株金染密，數畝碧鮮疏。避暑臨溪坐，何妨直釣魚。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "避暑二首·其二",
+    "author": "徐凝",
+    "paragraphs": [
       "斑多筒簟冷，發少角冠清。避暑長林下，寒蟬又有聲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -198,15 +209,26 @@
     }
   },
   {
-    "title": "杭州祝濤頭二首",
+    "title": "杭州祝濤頭二首·其一",
     "author": "徐凝",
     "paragraphs": [
-      "不道沙堤盡，猶欺石棧頑。寄言飛白雪，休去打青山。",
+      "不道沙堤盡，猶欺石棧頑。寄言飛白雪，休去打青山。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "杭州祝濤頭二首·其二",
+    "author": "徐凝",
+    "paragraphs": [
       "倒打錢塘郭，長驅白浪花。吞吳休得也，輸卻五千家。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -443,17 +465,28 @@
     }
   },
   {
-    "title": "宮中曲二首",
+    "title": "宮中曲二首·其一",
     "author": "徐凝",
     "paragraphs": [
       "披香侍宴插山花，厭著龍綃著越紗。",
-      "恃賴傾城人不及，檀妝唯約數條霞。",
+      "恃賴傾城人不及，檀妝唯約數條霞。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "宮中曲二首·其二",
+    "author": "徐凝",
+    "paragraphs": [
       "身輕入寵盡恩私，腰細偏能舞柘枝。",
       "一日新妝拋舊樣，六宮爭畫黑煙眉。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -653,23 +686,67 @@
     }
   },
   {
-    "title": "玩花五首",
+    "title": "玩花五首·其一",
     "author": "徐凝",
     "paragraphs": [
       "一樹梨花春向暮，雪枝殘處怨風來。",
-      "明朝漸校無多去，看到黃昏不欲回。",
+      "明朝漸校無多去，看到黃昏不欲回。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "玩花五首·其二",
+    "author": "徐凝",
+    "paragraphs": [
       "麹塵溪上素紅枝，影在溪流半落時。",
-      "時人自惜花腸斷，春風卻是等閒吹。",
+      "時人自惜花腸斷，春風卻是等閒吹。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "玩花五首·其三",
+    "author": "徐凝",
+    "paragraphs": [
       "朱霞焰焰山枝動，綠野聲聲杜宇來。",
-      "誰為蜀王身作鳥，自啼還自有花開。",
+      "誰為蜀王身作鳥，自啼還自有花開。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "玩花五首·其四",
+    "author": "徐凝",
+    "paragraphs": [
       "誰家躑躅青林裏，半見殷花焰焰枝。",
-      "憶得倡樓人送客，深紅衫子影門時。",
+      "憶得倡樓人送客，深紅衫子影門時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "玩花五首·其五",
+    "author": "徐凝",
+    "paragraphs": [
       "花到薔薇明豔絕，燕支顆破麥風秋。",
       "一番弄色一番退，小婦輕妝大婦愁。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -765,17 +842,28 @@
     }
   },
   {
-    "title": "春陪相公看花宴會二首",
+    "title": "春陪相公看花宴會二首·其一",
     "author": "徐凝",
     "paragraphs": [
       "丞相邀歡事事同，玉簫金管咽東風。",
-      "百分春酒莫辭醉，明日的無今日紅。",
+      "百分春酒莫辭醉，明日的無今日紅。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "春陪相公看花宴會二首·其二",
+    "author": "徐凝",
+    "paragraphs": [
       "木蘭花謝可憐條，遠道音書轉寂寥。",
       "春去一年春又盡，幾回空上望江橋。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -975,17 +1063,28 @@
     }
   },
   {
-    "title": "題縉雲山鼎池二首",
+    "title": "題縉雲山鼎池二首·其一",
     "author": "徐凝",
     "paragraphs": [
       "黃帝旌旗去不回，空餘片石碧崔嵬。",
-      "有時風卷鼎湖浪，散作晴天雨點來。",
+      "有時風卷鼎湖浪，散作晴天雨點來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題縉雲山鼎池二首·其二",
+    "author": "徐凝",
+    "paragraphs": [
       "天地茫茫成古今，仙都凡有幾人尋。",
       "到來唯見山高下，只是不知湖淺深。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1146,17 +1245,28 @@
     }
   },
   {
-    "title": "回施先輩見寄新詩二首",
+    "title": "回施先輩見寄新詩二首·其一",
     "author": "徐凝",
     "paragraphs": [
       "九幽仙子西山卷，讀了絛繩系又開。",
-      "此卷玉清宮裏少，曾尋真誥讀詩來。",
+      "此卷玉清宮裏少，曾尋真誥讀詩來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "回施先輩見寄新詩二首·其二",
+    "author": "徐凝",
+    "paragraphs": [
       "紫河車裏丹成也，皂莢枝頭早晚飛。",
       "料得仙宮列仙籍，如君進士出身稀。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -24,17 +24,28 @@
     }
   },
   {
-    "title": "涼州詞二首",
+    "title": "涼州詞二首·其一",
     "author": "王之渙",
     "paragraphs": [
       "黃河遠上白雲間，一片孤城萬仞山。",
-      "羌笛何須怨楊柳，春光不度玉門關。",
+      "羌笛何須怨楊柳，春光不度玉門關。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "涼州詞二首·其二",
+    "author": "王之渙",
+    "paragraphs": [
       "單于北望拂雲堆，殺馬登壇祭幾回。",
       "漢家天子今神武，不肯和親歸去來。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -130,17 +130,28 @@
     }
   },
   {
-    "title": "題福唐觀二首",
+    "title": "題福唐觀二首·其一",
     "author": "杜光庭",
     "paragraphs": [
       "盤空躡翠到山巔，竹殿雲樓勢逼天。古洞草深微有路，",
-      "自是人間輕舉地，何須蓬島訪真仙。",
+      "自是人間輕舉地，何須蓬島訪真仙。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題福唐觀二首·其二",
+    "author": "杜光庭",
+    "paragraphs": [
       "曾隨雲水此山遊，行盡層峰更上樓。九月登臨須有意，",
       "暫熟爐香不須去，佇陪天仗入神州。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -325,19 +336,41 @@
     }
   },
   {
-    "title": "山居三首",
+    "title": "山居三首·其一",
     "author": "杜光庭",
     "paragraphs": [
       "悶見有人尋，移庵更入深。落花流澗水，明月照松林。",
-      "醉勸頭陀酒，閑教孺子吟。身同雲外鶴，斷得世塵侵。",
+      "醉勸頭陀酒，閑教孺子吟。身同雲外鶴，斷得世塵侵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "山居三首·其二",
+    "author": "杜光庭",
+    "paragraphs": [
       "冥心棲太室，散發浸流泉。采柏時逢麝，看雲忽見仙。",
-      "夏狂沖雨戲，春醉戴花眠。絕頂登雲望，東都一點煙。",
+      "夏狂沖雨戲，春醉戴花眠。絕頂登雲望，東都一點煙。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "山居三首·其三",
+    "author": "杜光庭",
+    "paragraphs": [
       "不求朝野知，臥見歲華移。采藥歸侵夜，聽松飯過時。",
       "荷竿尋水釣，背局上岩棋。祭廟人來說，中原正亂離。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

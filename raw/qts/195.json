@@ -236,17 +236,28 @@
     }
   },
   {
-    "title": "三台二首",
+    "title": "三台二首·其一",
     "author": "韋應物",
     "paragraphs": [
       "一年一年老去，明日後日花開。",
-      "未報長安平定，萬國豈得銜杯。",
+      "未報長安平定，萬國豈得銜杯。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "三台二首·其二",
+    "author": "韋應物",
+    "paragraphs": [
       "冰泮寒塘始綠，雨餘百草皆生。",
       "朝來門閣無事，晚下高齋有情。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6],
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },

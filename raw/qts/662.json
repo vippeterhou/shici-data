@@ -338,21 +338,54 @@
     }
   },
   {
-    "title": "中元甲子以辛醜駕幸蜀四首",
+    "title": "中元甲子以辛醜駕幸蜀四首·其一",
     "author": "羅隱",
     "paragraphs": [
       "子儀不起渾瑊亡，西幸誰人從武皇。四海為家雖未遠，",
-      "應感兩朝巡狩跡，綠槐端正驛荒涼。",
+      "應感兩朝巡狩跡，綠槐端正驛荒涼。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "中元甲子以辛醜駕幸蜀四首·其二",
+    "author": "羅隱",
+    "paragraphs": [
       "爪牙柱石兩俱銷，一點渝塵九土搖。敢恨甲兵為棄物，",
-      "跪望嵕山重啟告，可能餘烈不勝妖。",
+      "跪望嵕山重啟告，可能餘烈不勝妖。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "中元甲子以辛醜駕幸蜀四首·其三",
+    "author": "羅隱",
+    "paragraphs": [
       "邪氣奔屯瑞氣移，清平過盡到艱危。縱饒犬彘迷常理，",
-      "可憐一曲還京樂，重對紅蕉教蜀兒。",
+      "可憐一曲還京樂，重對紅蕉教蜀兒。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "中元甲子以辛醜駕幸蜀四首·其四",
+    "author": "羅隱",
+    "paragraphs": [
       "白丁攘臂犯長安，翠輦蒼黃路屈盤。丹鳳有情塵外遠，",
       "不將不侯何計是，釣魚船上淚闌幹。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -487,17 +520,28 @@
     }
   },
   {
-    "title": "簾二首",
+    "title": "簾二首·其一",
     "author": "羅隱",
     "paragraphs": [
       "疊影重紋映畫堂，玉鉤銀燭共熒煌。",
-      "會應得見神仙在，休下真珠十二行。",
+      "會應得見神仙在，休下真珠十二行。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "簾二首·其二",
+    "author": "羅隱",
+    "paragraphs": [
       "翡翠佳名世共稀，玉堂高下巧相宜。",
       "殷勤為囑纖纖手，卷上銀鉤莫放垂。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

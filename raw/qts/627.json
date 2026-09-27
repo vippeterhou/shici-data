@@ -12,15 +12,26 @@
     }
   },
   {
-    "title": "築城詞二首",
+    "title": "築城詞二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
-      "城上一培土，手中千萬杵。築城畏不堅，堅城在何處。",
+      "城上一培土，手中千萬杵。築城畏不堅，堅城在何處。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "築城詞二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "莫歎將軍逼，將軍要卻敵。城高功亦高，爾命何勞惜。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -157,15 +168,26 @@
     }
   },
   {
-    "title": "黃金二首",
+    "title": "黃金二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
-      "自古黃金貴，猶沽駿與才。近來簪珥重，無可上高臺。",
+      "自古黃金貴，猶沽駿與才。近來簪珥重，無可上高臺。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "黃金二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "平分從滿篋，醉擲任成堆。恰莫持千萬，明明買禍胎。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -302,16 +324,38 @@
     }
   },
   {
-    "title": "秋思三首",
+    "title": "秋思三首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
-      "桐露珪初落，蘭風佩欲衰。不知能賦客，何似枉刀兒。",
-      "誰在嫖姚幕，能教霹靂車。至今思禿尾，無以代寒菹。",
+      "桐露珪初落，蘭風佩欲衰。不知能賦客，何似枉刀兒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋思三首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
+      "誰在嫖姚幕，能教霹靂車。至今思禿尾，無以代寒菹。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋思三首·其三",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "未得同齏杵，何時減藥囊。莫言天帝醉，秦暴不靈長。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -328,16 +372,38 @@
     }
   },
   {
-    "title": "懷仙三首",
+    "title": "懷仙三首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
-      "聞道陽都女，連娟耳細長。自非黃犢客，不得到雲房。",
-      "但服鐶剛子，兼吟曲素詞。須知臣漢客，還見布龍兒。",
+      "聞道陽都女，連娟耳細長。自非黃犢客，不得到雲房。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "懷仙三首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
+      "但服鐶剛子，兼吟曲素詞。須知臣漢客，還見布龍兒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "懷仙三首·其三",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "神燭光華麗，靈祛羽翼生。已傳餐玉粒，猶自買雲英。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -366,17 +432,50 @@
     }
   },
   {
-    "title": "風人詩四首",
+    "title": "風人詩四首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
-      "十萬全師出，遙知正憶君。一心如瑞麥，長作兩岐分。",
-      "破檗供朝爨，須憐是苦辛。曉天窺落宿，誰識獨醒人。",
-      "旦日思雙屨，明時願早諧。丹青傳四瀆，難寫是秋懷。",
+      "十萬全師出，遙知正憶君。一心如瑞麥，長作兩岐分。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "風人詩四首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
+      "破檗供朝爨，須憐是苦辛。曉天窺落宿，誰識獨醒人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "風人詩四首·其三",
+    "author": "陸龜蒙",
+    "paragraphs": [
+      "旦日思雙屨，明時願早諧。丹青傳四瀆，難寫是秋懷。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "風人詩四首·其四",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "聞道更新幟，多應發舊旗。征衣無伴搗，獨處自然悲。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -501,58 +600,146 @@
     }
   },
   {
-    "title": "大子夜歌二首",
+    "title": "大子夜歌二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
-      "歌謠數百種，子夜最可憐。慷慨吐清音，明轉出天然。",
+      "歌謠數百種，子夜最可憐。慷慨吐清音，明轉出天然。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "大子夜歌二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "絲竹發歌響，假器揚清音。不知歌謠妙，聲勢出口心。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "子夜警歌二首",
+    "title": "子夜警歌二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
-      "鏤碗傳綠酒，雕爐熏紫煙。誰知苦寒調，共作白雪弦。",
+      "鏤碗傳綠酒，雕爐熏紫煙。誰知苦寒調，共作白雪弦。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "子夜警歌二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "恃愛如欲進，含羞出不前。朱口發豔歌，玉指弄嬌弦。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "子夜變歌三首",
+    "title": "子夜變歌三首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
-      "人傳歡負情，我自未嘗見。三更開門去，始知子夜變。",
-      "歲月如流邁，春盡秋已至。熒熒條上花，零落何乃駛。",
+      "人傳歡負情，我自未嘗見。三更開門去，始知子夜變。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "子夜變歌三首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
+      "歲月如流邁，春盡秋已至。熒熒條上花，零落何乃駛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "子夜變歌三首·其三",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "歲月如流邁，行已及素秋。蟋蟀吟堂前，惆悵使儂愁。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "江南曲五首",
+    "title": "江南曲五首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
-      "魚戲蓮葉間，參差隱葉扇。鵁鶄鸀鳿窺，瀲灩無因見。",
-      "魚戲蓮葉東，初霞射紅尾。旁臨謝山側，恰值清風起。",
-      "魚戲蓮葉西，盤盤舞波急。潛依曲岸涼，正直斜光入。",
-      "魚戲蓮葉南，欹危舞煙疊。光搖越鳥巢，影亂吳娃楫。",
+      "魚戲蓮葉間，參差隱葉扇。鵁鶄鸀鳿窺，瀲灩無因見。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江南曲五首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
+      "魚戲蓮葉東，初霞射紅尾。旁臨謝山側，恰值清風起。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江南曲五首·其三",
+    "author": "陸龜蒙",
+    "paragraphs": [
+      "魚戲蓮葉西，盤盤舞波急。潛依曲岸涼，正直斜光入。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江南曲五首·其四",
+    "author": "陸龜蒙",
+    "paragraphs": [
+      "魚戲蓮葉南，欹危舞煙疊。光搖越鳥巢，影亂吳娃楫。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江南曲五首·其五",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "魚戲蓮葉北，澄陽動微漣。回看帝子渚，稍背鄂君船。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   }

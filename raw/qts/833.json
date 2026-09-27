@@ -114,17 +114,28 @@
     }
   },
   {
-    "title": "寄四明閭丘道士二首",
+    "title": "寄四明閭丘道士二首·其一",
     "author": "貫休",
     "paragraphs": [
       "淮海兵荒日，分飛直至今。知擔諸子出，卻入四明深。",
-      "衣必編仙草，僧應共栗林。秋風溪上路，應得一相尋。",
+      "衣必編仙草，僧應共栗林。秋風溪上路，應得一相尋。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄四明閭丘道士二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "三千功未了，大道本無程。好共禪師好，常將藥犬行。",
       "石門紅蘚剝，柘塢白雲生。莫認無名是，無名已是名。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -428,17 +439,28 @@
     }
   },
   {
-    "title": "懷南嶽隱士二首",
+    "title": "懷南嶽隱士二首·其一",
     "author": "貫休",
     "paragraphs": [
       "千峰映碧湘，真隱此中藏。餅不煮石吃，眉應似發長。",
-      "風榸支酒甕，鶴虱落琴床。雖斅忘機者，斯人尚未忘。",
+      "風榸支酒甕，鶴虱落琴床。雖斅忘機者，斯人尚未忘。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "懷南嶽隱士二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "見說祝融峰，擎天勢似騰。藏千尋瀑布，出十八高僧。",
       "古路無人跡，新霞出石棱。終期將爾叟，一一月中登。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -521,17 +543,28 @@
     }
   },
   {
-    "title": "寄棲白大師二首",
+    "title": "寄棲白大師二首·其一",
     "author": "貫休",
     "paragraphs": [
       "流浪江湖久，攀緣歲月闌。高名當世重，好句逼人寒。",
-      "月苦蟬聲嗄，鐘清柿葉幹。龍鍾千萬里，擬欲訪師難。",
+      "月苦蟬聲嗄，鐘清柿葉幹。龍鍾千萬里，擬欲訪師難。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄棲白大師二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "蒼蒼龍闕晚，九陌雜香塵。方外無他事，僧中有近臣。",
       "青門玉露滴，紫閣錦霞新。莫話三峰去，澆風正蕩淳。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

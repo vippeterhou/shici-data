@@ -65,17 +65,28 @@
     }
   },
   {
-    "title": "江南二首",
+    "title": "江南二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "便風船尾香粳熟，細雨層頭赤鯉跳。",
-      "待得江餐閑望足，日斜方動木蘭橈。",
+      "待得江餐閑望足，日斜方動木蘭橈。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "江南二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "村邊紫豆花垂次，岸上紅梨葉戰初。",
       "莫怪煙中重回首，酒家青紵一行書。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -171,18 +182,29 @@
     }
   },
   {
-    "title": "有別二首",
+    "title": "有別二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "且將絲wf系蘭舟，醉下煙汀減去愁。",
-      "江上有樓君莫上，落花隨浪正東流。",
+      "江上有樓君莫上，落花隨浪正東流。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [6, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "有別二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "池上已看鶯舌默，雲間應即雁翰開。",
       "唯愁別後當風立，萬樹將秋入恨來。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [6, 7, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -290,17 +312,28 @@
     }
   },
   {
-    "title": "贈老僧二首",
+    "title": "贈老僧二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "枯貌自同霜裏木，餘生唯指佛前燈。",
-      "少時寫得坐禪影，今見問人何處僧。",
+      "少時寫得坐禪影，今見問人何處僧。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈老僧二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "自有家山供衲線，不離溪曲取庵茅。",
       "舊曾聞說林中鳥，定後長來頂上巢。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -435,17 +468,28 @@
     }
   },
   {
-    "title": "山僧二首",
+    "title": "山僧二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "山蘚幾重生草履，澗泉長自滿銅瓶。",
-      "時將如意敲眠虎，遣向林間坐聽經。",
+      "時將如意敲眠虎，遣向林間坐聽經。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "山僧二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "一夏不離蒼島上，秋來頻話石城南。",
       "思歸瀑布聲前坐，卻把松枝拂舊庵。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -554,17 +598,28 @@
     }
   },
   {
-    "title": "鄴宮詞二首",
+    "title": "鄴宮詞二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "魏武平生不好香，楓膠蕙炷潔宮房。",
-      "可知遺令非前事，卻有餘熏在繡囊。",
+      "可知遺令非前事，卻有餘熏在繡囊。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "鄴宮詞二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "花飛蝶駭不愁人，水殿雲廊別置春。",
       "曉日靚妝千騎女，白櫻桃下紫綸巾。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -816,17 +871,28 @@
     }
   },
   {
-    "title": "春思二首",
+    "title": "春思二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "竹外麥煙愁漠漠，短翅啼禽飛魄魄。",
-      "此時憶著千里人，獨坐支頤看花落。",
+      "此時憶著千里人，獨坐支頤看花落。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "春思二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "江南酒熟清明天，高高綠旆當風懸。",
       "誰家無事少年子，滿面落花猶醉眠。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

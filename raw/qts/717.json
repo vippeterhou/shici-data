@@ -182,17 +182,28 @@
     }
   },
   {
-    "title": "己亥歲二首",
+    "title": "己亥歲二首·其一",
     "author": "曹松",
     "paragraphs": [
       "澤國江山入戰圖，生民何計樂樵蘇。",
-      "憑君莫話封侯事，一將功成萬骨枯。",
+      "憑君莫話封侯事，一將功成萬骨枯。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "己亥歲二首·其二",
+    "author": "曹松",
+    "paragraphs": [
       "傳聞一戰百神愁，兩岸強兵過未休。",
       "誰道滄江總無事，近來長共血爭流。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -558,17 +569,28 @@
     }
   },
   {
-    "title": "贈鏡湖處士方幹二首",
+    "title": "贈鏡湖處士方幹二首·其一",
     "author": "曹松",
     "paragraphs": [
       "包含教化剩搜羅，句出東甌奈峭何。世路不妨平處少，",
-      "後輩難為措機杼，先生織字得龍梭。",
+      "後輩難為措機杼，先生織字得龍梭。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈鏡湖處士方幹二首·其二",
+    "author": "曹松",
+    "paragraphs": [
       "只擬應星眠越絕，唯將麗什當高勳。磨礱清濁人難會，",
       "他時莫為三征起，門外沙鷗解笑君。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

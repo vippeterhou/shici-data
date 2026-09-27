@@ -416,32 +416,54 @@
     }
   },
   {
-    "title": "之任建安淥溪亭偶作二首",
+    "title": "之任建安淥溪亭偶作二首·其一",
     "author": "李頻",
     "paragraphs": [
       "入境當春務，農蠶事正殷。逢溪難飲馬，度嶺更勞人。",
-      "想取烝黎泰，無過賦斂均。不知成政後，誰是得為鄰。",
-      "維舟綠溪岸，繞郡白雲峰。將幕連山起，人家向水重。",
-      "短才無獨見，長策未相逢。所幸分堯理，烝民悉可封。"
+      "想取烝黎泰，無過賦斂均。不知成政後，誰是得為鄰。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "送侯郎中任新定二首",
+    "title": "之任建安淥溪亭偶作二首·其二",
+    "author": "李頻",
+    "paragraphs": [
+      "維舟綠溪岸，繞郡白雲峰。將幕連山起，人家向水重。",
+      "短才無獨見，長策未相逢。所幸分堯理，烝民悉可封。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送侯郎中任新定二首·其一",
     "author": "李頻",
     "paragraphs": [
       "為郎非白頭，作牧授滄洲。江界乘潮入，山川值勝遊。",
-      "暑氣隨轉扇，涼月傍開樓。便欲歸田裏，拋官逐隱侯。",
+      "暑氣隨轉扇，涼月傍開樓。便欲歸田裏，拋官逐隱侯。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送侯郎中任新定二首·其二",
+    "author": "李頻",
+    "paragraphs": [
       "罷郎東出守，半路得浮舟。大旆行當夏，桐江到未秋。",
       "雲閑分島寺，濤靜見沙鷗。誰伴臨清景，吟詩上郡樓。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -670,15 +692,26 @@
     }
   },
   {
-    "title": "聞北虜入靈州二首",
+    "title": "聞北虜入靈州二首·其一",
     "author": "李頻",
     "paragraphs": [
-      "河冰一夜合，虜騎入靈州。歲歲徵兵去，難防塞草秋。",
+      "河冰一夜合，虜騎入靈州。歲歲徵兵去，難防塞草秋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "聞北虜入靈州二首·其二",
+    "author": "李頻",
+    "paragraphs": [
       "見說靈州戰，沙中血未幹。將軍日告急，走馬向長安。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

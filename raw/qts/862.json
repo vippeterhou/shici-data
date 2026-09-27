@@ -107,18 +107,29 @@
     }
   },
   {
-    "title": "授炙轂子歌二首",
+    "title": "授炙轂子歌二首·其一",
     "author": "希道",
     "paragraphs": [
       "木津天魂，金液地魄。坎離運行寬無成，金木有數秦晉合。",
-      "近效宜六旬，遠期三載闊。",
+      "近效宜六旬，遠期三載闊。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [4, 4, 7, 7, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "授炙轂子歌二首·其二",
+    "author": "希道",
+    "paragraphs": [
       "魄微入魂牝牡結，陽呴陰滋神鬼滅。",
       "千歌萬贊皆未決，古往今來拋日月。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [4, 4, 7, 7, 5, 5, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

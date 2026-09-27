@@ -404,32 +404,54 @@
     }
   },
   {
-    "title": "北齊二首",
+    "title": "北齊二首·其一",
     "author": "韓偓",
     "paragraphs": [
       "任道驕奢必敗亡，且將繁盛悅嬪嬙。幾千奩鏡成樓柱，",
-      "綺羅堆裏春風畔，年少多情一帝王。",
-      "神器傳時異至公，敗亡安可怨匆匆。犯寒獵士朝頻戮，",
-      "周朝將相還無體，甯死何須入鐵籠。"
+      "綺羅堆裏春風畔，年少多情一帝王。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "寄京城親友二首",
+    "title": "北齊二首·其二",
+    "author": "韓偓",
+    "paragraphs": [
+      "神器傳時異至公，敗亡安可怨匆匆。犯寒獵士朝頻戮，",
+      "周朝將相還無體，甯死何須入鐵籠。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄京城親友二首·其一",
     "author": "韓偓",
     "paragraphs": [
       "苦吟看墜葉，寥落共天涯。壯歲空為客，初寒更憶家。",
-      "雨牆經月蘚，山菊向陽花。因味碧雲句，傷哉後會賒。",
+      "雨牆經月蘚，山菊向陽花。因味碧雲句，傷哉後會賒。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄京城親友二首·其二",
+    "author": "韓偓",
+    "paragraphs": [
       "相思凡幾日，日欲詠離衿。直得吟成病，終難狀此心。",
       "解衣悲緩帶，搔首悶遺簪。西嶺斜陽外，潛疑是故林。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

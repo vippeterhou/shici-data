@@ -53,17 +53,28 @@
     }
   },
   {
-    "title": "偶題二首",
+    "title": "偶題二首·其一",
     "author": "李商隱",
     "paragraphs": [
       "小亭閑眠微醉消，山榴海柏枝相交。",
-      "水文簟上琥珀枕，傍有墮釵雙翠翹。",
+      "水文簟上琥珀枕，傍有墮釵雙翠翹。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "偶題二首·其二",
+    "author": "李商隱",
+    "paragraphs": [
       "清月依微香露輕，曲房小院多逢迎。",
       "春叢定見饒棲鳥，飲罷莫持紅燭行。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -798,18 +809,62 @@
     }
   },
   {
-    "title": "柳枝五首",
+    "title": "柳枝五首·其一",
     "author": "李商隱",
     "paragraphs": [
-      "花房與蜜脾，蜂雄蛺蝶雌。同時不同類，那複更相思。",
-      "本是丁香樹，春條結始生。玉作彈棋局，中心亦不平。",
-      "嘉瓜引蔓長，碧玉冰寒漿。東陵雖五色，不忍值牙香。",
-      "柳枝井上蟠，蓮葉浦中幹。錦鱗與繡羽，水陸有傷殘。",
+      "花房與蜜脾，蜂雄蛺蝶雌。同時不同類，那複更相思。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "柳枝五首·其二",
+    "author": "李商隱",
+    "paragraphs": [
+      "本是丁香樹，春條結始生。玉作彈棋局，中心亦不平。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "柳枝五首·其三",
+    "author": "李商隱",
+    "paragraphs": [
+      "嘉瓜引蔓長，碧玉冰寒漿。東陵雖五色，不忍值牙香。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "柳枝五首·其四",
+    "author": "李商隱",
+    "paragraphs": [
+      "柳枝井上蟠，蓮葉浦中幹。錦鱗與繡羽，水陸有傷殘。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "柳枝五首·其五",
+    "author": "李商隱",
+    "paragraphs": [
       "畫屏繡步障，物物自成雙。如何湖上望，只是見鴛鴦。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -872,18 +927,29 @@
     }
   },
   {
-    "title": "河內詩二首",
+    "title": "河內詩二首·其一",
     "author": "李商隱",
     "paragraphs": [
       "鼉鼓沉沉虯水咽，秦絲不上蠻弦絕。常娥衣薄不禁寒，",
       "靈香不下兩皇子，孤星直上相風竿。八桂林邊九芝草，",
-      "梔子交加香蓼繁，停辛佇苦留待君。",
+      "梔子交加香蓼繁，停辛佇苦留待君。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "河內詩二首·其二",
+    "author": "李商隱",
+    "paragraphs": [
       "閶門日下吳歌遠，陂路綠菱香滿滿。後溪暗起鯉魚風，",
       "莫因風雨罷團扇，此曲斷腸惟北聲。低樓小徑城南道，"
     ],
     "format": {
-      "sentence_count": 14,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1542,17 +1608,28 @@
     }
   },
   {
-    "title": "朱槿花二首",
+    "title": "朱槿花二首·其一",
     "author": "李商隱",
     "paragraphs": [
       "蓮後紅何患，梅先白莫誇。才飛建章火，又落赤城霞。",
-      "不卷錦步障，未登油壁車。日西相對罷，休浣向天涯。",
+      "不卷錦步障，未登油壁車。日西相對罷，休浣向天涯。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "朱槿花二首·其二",
+    "author": "李商隱",
+    "paragraphs": [
       "勇多侵路去，恨有礙燈還。嗅自微微白，看成遝遝殷。",
       "坐疑忘物外，歸去有簾間。君問傷春句，千辭不可刪。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1621,17 +1698,28 @@
     }
   },
   {
-    "title": "回中牡丹為雨所敗二首",
+    "title": "回中牡丹為雨所敗二首·其一",
     "author": "李商隱",
     "paragraphs": [
       "下苑他年未可追，西州今日忽相期。水亭暮雨寒猶在，",
-      "章台街裏芳菲伴，且問宮腰損幾枝。",
+      "章台街裏芳菲伴，且問宮腰損幾枝。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "回中牡丹為雨所敗二首·其二",
+    "author": "李商隱",
+    "paragraphs": [
       "浪笑榴花不及春，先期零落更愁人。玉盤迸淚傷心數，",
       "前溪舞罷君回顧，並覺今朝粉態新。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

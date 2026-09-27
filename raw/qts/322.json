@@ -159,19 +159,41 @@
     }
   },
   {
-    "title": "同陸太祝鴻漸崔法曹載華見蕭侍御留後說得衛撫州報推事使張侍御卻迴前刺史戴員外無事喜而有作三首",
+    "title": "同陸太祝鴻漸崔法曹載華見蕭侍御留後說得衛撫州報推事使張侍御卻迴前刺史戴員外無事喜而有作三首·其一",
     "author": "權德輿",
     "paragraphs": [
       "專城書素至留台，忽報張綱攬轡回。",
-      "共看昨日蠅飛處，並是今朝鵲喜來。",
+      "共看昨日蠅飛處，並是今朝鵲喜來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "同陸太祝鴻漸崔法曹載華見蕭侍御留後說得衛撫州報推事使張侍御卻迴前刺史戴員外無事喜而有作三首·其二",
+    "author": "權德輿",
+    "paragraphs": [
       "鶴發州民擁使車，人人自說受恩初。",
-      "如今天下無冤氣，乞為邦君雪謗書。",
+      "如今天下無冤氣，乞為邦君雪謗書。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "同陸太祝鴻漸崔法曹載華見蕭侍御留後說得衛撫州報推事使張侍御卻迴前刺史戴員外無事喜而有作三首·其三",
+    "author": "權德輿",
+    "paragraphs": [
       "眾人哺啜喜君醒，渭水由來不雜涇。",
       "遮莫雪霜撩亂下，松枝竹葉自青青。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

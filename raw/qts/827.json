@@ -81,17 +81,28 @@
     }
   },
   {
-    "title": "上裴大夫二首",
+    "title": "上裴大夫二首·其一",
     "author": "貫休",
     "paragraphs": [
-      "我有一端綺，花彩鸞鳳群。佳人金錯刀，何以裁此文。",
+      "我有一端綺，花彩鸞鳳群。佳人金錯刀，何以裁此文。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "上裴大夫二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "我有白雲琴，樸斫天地精。俚耳不使聞，慮同眾樂聽。",
       "指指法仙法，聲聲聖人聲。一彈四時和，再彈中古清。",
       "庭前梧桐枝，颯颯南風生。還希師曠懷，見我心不輕。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -110,22 +121,55 @@
     }
   },
   {
-    "title": "閒居擬齊梁四首",
+    "title": "閒居擬齊梁四首·其一",
     "author": "貫休",
     "paragraphs": [
       "夜雨山草滋，爽籟生古木。閑吟竹仙偈，清于嚼金玉。",
-      "蟋蟀啼壞牆，苟免悲局促。道人優曇花，迢迢遠山綠。",
+      "蟋蟀啼壞牆，苟免悲局促。道人優曇花，迢迢遠山綠。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閒居擬齊梁四首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "果熟無低枝，芳香入屏帷。故人久不來，萱草何離離。",
-      "苦吟齋貌減，更被杉風吹。獨賴湖上翁，時為烹露葵。",
+      "苦吟齋貌減，更被杉風吹。獨賴湖上翁，時為烹露葵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閒居擬齊梁四首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "紅藕映嘉魴，澄池照孤坐。池痕放文彩，雨氣增慵墮。",
-      "山翁寄術藥，幸得秋病可。終召十七人，雲中備香火。",
+      "山翁寄術藥，幸得秋病可。終召十七人，雲中備香火。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閒居擬齊梁四首·其四",
+    "author": "貫休",
+    "paragraphs": [
       "清氣生滄洲，殘雲落林藪。放鶴久不歸，不知更歸否。",
       "支策到江湄，江皋木葉飛。自憐為客遠，還如鵲繞枝。",
       "南枝複北枝，玉露沾毛衣。"
     ],
     "format": {
-      "sentence_count": 34,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -145,21 +189,43 @@
     }
   },
   {
-    "title": "擬齊梁體寄馮使君三首",
+    "title": "擬齊梁體寄馮使君三首·其一",
     "author": "貫休",
     "paragraphs": [
       "庭鳥多好音，相呼灌木中。竹房更何有，還如鳥巢空。",
       "賴逢富人侯，真東晉謝公。煌煌發令姿，珂佩鳴丁冬。",
-      "故山有深霞，未如旌旗紅。慚非衛霍松，何以當清風。",
+      "故山有深霞，未如旌旗紅。慚非衛霍松，何以當清風。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "擬齊梁體寄馮使君三首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "露益蟬聲長，蕙蘭垂紫帶。清吟待明月，孤雲忽為蓋。",
-      "伊余石林人，本是燒畬輩。頻接謝公棋，輸多未曾賽。",
+      "伊余石林人，本是燒畬輩。頻接謝公棋，輸多未曾賽。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "擬齊梁體寄馮使君三首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "大道貴無心，聖賢為始慕。秋空共澄潔，美玉同貞素。",
       "偉哉桐江守，雌黃出金口。為文能廢興，談道弭空有。",
       "雪林槁枯者，坐石聽亦久。還疑紫磨身，成居靈運後。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -190,12 +256,23 @@
     }
   },
   {
-    "title": "冬末病中作二首",
+    "title": "冬末病中作二首·其一",
     "author": "貫休",
     "paragraphs": [
       "冬風吹草木，亦吹我病根。故人久不來，冷落如丘園。",
       "聃龍與摩詰，籲歎非不聞。顧惟年少時，未合多憂勤。",
-      "風鐘遠孤枕，雪水流凍痕。空餘微妙心，期空靜者論。",
+      "風鐘遠孤枕，雪水流凍痕。空餘微妙心，期空靜者論。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "冬末病中作二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "胸中有一物，旅拒複攻擊。向下還上來，唯疑是肺石。",
       "山童頑且小，用之複何益。教洗煮茶鐺，雪團打鄰壁。",
       "宛轉無好姿，裴回更何適。庭前早梅樹，坐見花盡碧。",
@@ -203,8 +280,8 @@
       "微吟複微吟，依稀似莊舄。"
     ],
     "format": {
-      "sentence_count": 30,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 18,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -252,18 +329,29 @@
     }
   },
   {
-    "title": "書陳處士屋壁二首",
+    "title": "書陳處士屋壁二首·其一",
     "author": "貫休",
     "paragraphs": [
       "有叟傲堯日，發白肌膚紅。妻子亦讀書，種蘭清溪東。",
-      "白雲有奇色，紫桂含天風。即應迎鶴書，肯羨于洞洪。",
+      "白雲有奇色，紫桂含天風。即應迎鶴書，肯羨于洞洪。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "書陳處士屋壁二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "高步前山前，高歌北山北。數載賣甘橙，山貲近雲足。",
       "新詩不將出，往往僧乞得。唯雲李太白，亦是偷桃賊。",
       "吟狂鬼神走，酒釅天地黑。青芻生階除，擷之束成束。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -399,19 +487,63 @@
     }
   },
   {
-    "title": "上馮使君五首",
+    "title": "上馮使君五首·其一",
     "author": "貫休",
     "paragraphs": [
-      "撐船碧江上，春日何遲遲。汀花最深處，拾得鴛鴦兒。",
-      "漁父無憂苦，水仙亦何別。眠在綠葦邊，不知釣筒發。",
-      "樵叟無憂苦，地仙亦何別。茆屋岸花中，弄孫頭似雪。",
-      "扣舷得新詩，茶煮桃花水。n5々數片帆，去去殊未已。",
+      "撐船碧江上，春日何遲遲。汀花最深處，拾得鴛鴦兒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "上馮使君五首·其二",
+    "author": "貫休",
+    "paragraphs": [
+      "漁父無憂苦，水仙亦何別。眠在綠葦邊，不知釣筒發。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "上馮使君五首·其三",
+    "author": "貫休",
+    "paragraphs": [
+      "樵叟無憂苦，地仙亦何別。茆屋岸花中，弄孫頭似雪。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "上馮使君五首·其四",
+    "author": "貫休",
+    "paragraphs": [
+      "扣舷得新詩，茶煮桃花水。n5々數片帆，去去殊未已。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 3, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "上馮使君五首·其五",
+    "author": "貫休",
+    "paragraphs": [
       "仁政無不及，乳獺將子行。誰家苦竹林，中有讀書聲。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -431,22 +563,55 @@
     }
   },
   {
-    "title": "古塞下曲四首",
+    "title": "古塞下曲四首·其一",
     "author": "貫休",
     "paragraphs": [
       "古塞腥膻地，胡兵聚如蠅。寒雕中髇石，落在黃河冰。",
-      "蒼茫邏逤城，枿枿賊氣興。鑄金禱秋穹，還擬相憑陵。",
+      "蒼茫邏逤城，枿枿賊氣興。鑄金禱秋穹，還擬相憑陵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古塞下曲四首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "戰骨踐成塵，飛入征人目。黃雲忽變黑，戰鬼作陣哭。",
-      "陰風吼大漠，火號出不得。誰為天子前，唱此邊城曲。",
+      "陰風吼大漠，火號出不得。誰為天子前，唱此邊城曲。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古塞下曲四首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "日向平沙出，還向平沙沒。飛蓬落軍營，驚雕去天末。",
-      "帝鄉青樓倚霄漢，歌吹掀天對花月。豈知塞上望鄉人，",
+      "帝鄉青樓倚霄漢，歌吹掀天對花月。豈知塞上望鄉人，"
+    ],
+    "format": {
+      "sentence_count": 7,
+      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "古塞下曲四首·其四",
+    "author": "貫休",
+    "paragraphs": [
       "狼煙在陣雲，匈奴愛輕敵。領兵不知數，牛羊複吞磧。",
       "嚴冬大河枯，嫖姚去深擊。戰血染黃沙，風吹映天赤。"
     ],
     "format": {
-      "sentence_count": 31,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -481,20 +646,42 @@
     }
   },
   {
-    "title": "邊上作三首",
+    "title": "邊上作三首·其一",
     "author": "貫休",
     "paragraphs": [
       "山無綠兮水無清，風既毒兮沙亦腥。",
-      "胡兒走馬疾飛鳥，聯翩射落雲中聲。",
+      "胡兒走馬疾飛鳥，聯翩射落雲中聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "邊上作三首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "陣雲忽向沙中起，探得胡兵過遼水。",
-      "堪嗟護塞征戍兒，未戰已疑身是鬼。",
+      "堪嗟護塞征戍兒，未戰已疑身是鬼。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "邊上作三首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "見說青塚穴，中有白野狐。時時出沙磧，向東而號呼。",
       "號呼複號呼，畫師圖得無。"
     ],
     "format": {
-      "sentence_count": 14,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -515,19 +702,41 @@
     }
   },
   {
-    "title": "書倪氏屋壁三首",
+    "title": "書倪氏屋壁三首·其一",
     "author": "貫休",
     "paragraphs": [
       "茶烹綠乳花映簾，撐沙苦筍銀纖纖。",
-      "窗中山色青翠粘，主人于我情無厭。",
+      "窗中山色青翠粘，主人于我情無厭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "書倪氏屋壁三首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "白桑紅椹鶯咽咽，面揉玉塵餅挑雪。",
-      "將為數日已一月，主人于我特地切。",
+      "將為數日已一月，主人于我特地切。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "書倪氏屋壁三首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "水嬌草媚掩山路，睡槎鴛鴦如畫作。",
       "春光靄靄忽已暮，主人剛地不放去。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

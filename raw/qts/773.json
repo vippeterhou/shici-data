@@ -266,16 +266,38 @@
     }
   },
   {
-    "title": "怨詩三首",
+    "title": "怨詩三首·其一",
     "author": "李暇",
     "paragraphs": [
-      "羅敷初總髻，蕙芳正嬌小。月落始歸船，春眠恒著曉。",
-      "何處期郎游，小苑花台間。相憶不可見，且複乘月還。",
+      "羅敷初總髻，蕙芳正嬌小。月落始歸船，春眠恒著曉。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "怨詩三首·其二",
+    "author": "李暇",
+    "paragraphs": [
+      "何處期郎游，小苑花台間。相憶不可見，且複乘月還。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "怨詩三首·其三",
+    "author": "李暇",
+    "paragraphs": [
       "別前花照路，別後露垂葉。歌舞須及時，如何坐悲妾。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

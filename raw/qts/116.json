@@ -1,16 +1,27 @@
 [
   {
-    "title": "春江花月夜二首",
+    "title": "春江花月夜二首·其一",
     "author": "張子容",
     "paragraphs": [
       "林花發岸口，氣色動江新。此夜江中月，流光花上春。",
-      "分明石潭裏，宜照浣紗人。",
+      "分明石潭裏，宜照浣紗人。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春江花月夜二首·其二",
+    "author": "張子容",
+    "paragraphs": [
       "交甫憐瑤佩，仙妃難重期。沉沉綠江晚，惆悵碧雲姿。",
       "初逢花上月，言是弄珠時。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -106,17 +117,28 @@
     }
   },
   {
-    "title": "送孟八浩然歸襄陽二首",
+    "title": "送孟八浩然歸襄陽二首·其一",
     "author": "張子容",
     "paragraphs": [
       "東越相逢地，西亭送別津。風潮看解纜，雲海去愁人。",
-      "鄉在桃林岸，山連楓樹春。因懷故園意，歸與孟家鄰。",
+      "鄉在桃林岸，山連楓樹春。因懷故園意，歸與孟家鄰。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送孟八浩然歸襄陽二首·其二",
+    "author": "張子容",
+    "paragraphs": [
       "杜門不欲出，久與世情疏。以此為長策，勸君歸舊廬。",
       "醉歌田舍酒，笑讀古人書。好是一生事，無勞獻子虛。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

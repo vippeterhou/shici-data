@@ -1,16 +1,27 @@
 [
   {
-    "title": "山居即事二首",
+    "title": "山居即事二首·其一",
     "author": "陸希聲",
     "paragraphs": [
       "君山蒼翠接青冥，東走洮湖上洞庭。茅屋向陽梳白髮，",
-      "為問前時金馬客，此焉還作少微星。",
+      "為問前時金馬客，此焉還作少微星。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "山居即事二首·其二",
+    "author": "陸希聲",
+    "paragraphs": [
       "不是幽棲矯性靈，從來無意在膻腥。滿川風物供高枕，",
       "君陽遁叟何為樂，一炷清香兩卷經。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

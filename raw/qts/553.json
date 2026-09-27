@@ -182,17 +182,28 @@
     }
   },
   {
-    "title": "野寺寓居即事二首",
+    "title": "野寺寓居即事二首·其一",
     "author": "姚鵠",
     "paragraphs": [
       "南山色當戶，初日半簷時。鶴去臥看遠，僧來嫌起遲。",
-      "窗明雲影斷，庭曉樹陰移。何處題新句，連溪密葉垂。",
+      "窗明雲影斷，庭曉樹陰移。何處題新句，連溪密葉垂。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "野寺寓居即事二首·其二",
+    "author": "姚鵠",
+    "paragraphs": [
       "古寺更何有，當庭唯折幢。伴僧青蘚榻，對雨白雲窗。",
       "暝色生前嶺，離魂隔遠江。沙洲半藜草，飛鷺白雙雙。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -210,32 +221,54 @@
     }
   },
   {
-    "title": "將歸蜀留獻恩地僕射二首",
+    "title": "將歸蜀留獻恩地僕射二首·其一",
     "author": "姚鵠",
     "paragraphs": [
       "自持衡鏡采幽沈，此事常聞曠古今。危葉只將終委地，",
-      "明日還家盈眼血，定應回首即沾襟。",
-      "江上長思狎釣翁，此心難與昨心同。自承丘壑新恩重，",
-      "應憐死節無門效，永歎潛懷似轉蓬。"
+      "明日還家盈眼血，定應回首即沾襟。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "隨州獻李侍禦二首",
+    "title": "將歸蜀留獻恩地僕射二首·其二",
+    "author": "姚鵠",
+    "paragraphs": [
+      "江上長思狎釣翁，此心難與昨心同。自承丘壑新恩重，",
+      "應憐死節無門效，永歎潛懷似轉蓬。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "隨州獻李侍禦二首·其一",
     "author": "姚鵠",
     "paragraphs": [
       "彩筆曾專造化權，道尊翻向宦途閑。端居有地唯栽藥，",
-      "眾知聖主搜賢相，朝夕欲征黃霸還。",
+      "眾知聖主搜賢相，朝夕欲征黃霸還。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "隨州獻李侍禦二首·其二",
+    "author": "姚鵠",
+    "paragraphs": [
       "再刖未甘何處說，但垂雙淚出咸秦。風塵匹馬來千里，",
       "今朝儻降非常顧，倒屐甯惟有古人。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

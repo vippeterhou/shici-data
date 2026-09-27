@@ -168,23 +168,67 @@
     }
   },
   {
-    "title": "楊柳枝五首",
+    "title": "楊柳枝五首·其一",
     "author": "牛嶠",
     "paragraphs": [
       "解凍風來末上青，解垂羅袖拜卿卿。",
-      "無端嫋娜臨官路，舞送行人過一生。",
+      "無端嫋娜臨官路，舞送行人過一生。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝五首·其二",
+    "author": "牛嶠",
+    "paragraphs": [
       "吳王宮裏色偏深，一簇纖條萬縷金。",
-      "不憤錢塘蘇小小，引郎松下結同心。",
+      "不憤錢塘蘇小小，引郎松下結同心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝五首·其三",
+    "author": "牛嶠",
+    "paragraphs": [
       "橋北橋南千萬條，恨伊張緒不相饒。",
-      "金羈白馬臨風望，認得羊家靜婉腰。",
+      "金羈白馬臨風望，認得羊家靜婉腰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝五首·其四",
+    "author": "牛嶠",
+    "paragraphs": [
       "狂雪隨風撲馬飛，惹煙無力被春欺。",
-      "莫交移入靈和殿，宮女三千又妒伊。",
+      "莫交移入靈和殿，宮女三千又妒伊。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝五首·其五",
+    "author": "牛嶠",
+    "paragraphs": [
       "嫋翠籠煙拂暖波，舞裙新染曲塵羅。",
       "章華台畔隋堤上，傍得春風爾許多。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

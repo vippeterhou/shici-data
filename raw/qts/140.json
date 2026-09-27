@@ -13,21 +13,54 @@
     }
   },
   {
-    "title": "塞下曲四首",
+    "title": "塞下曲四首·其一",
     "author": "王昌齡",
     "paragraphs": [
       "蟬鳴空桑林，八月蕭關道。出塞入塞寒，處處黃蘆草。",
-      "從來幽並客，皆共塵沙老。莫學遊俠兒，矜誇紫騮好。",
+      "從來幽並客，皆共塵沙老。莫學遊俠兒，矜誇紫騮好。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "塞下曲四首·其二",
+    "author": "王昌齡",
+    "paragraphs": [
       "飲馬渡秋水，水寒風似刀。平沙日未沒，黯黯見臨洮。",
-      "昔日長城戰，咸言意氣高。黃塵足今古，白骨亂蓬蒿。",
+      "昔日長城戰，咸言意氣高。黃塵足今古，白骨亂蓬蒿。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "塞下曲四首·其三",
+    "author": "王昌齡",
+    "paragraphs": [
       "奉詔甘泉宮，總征天下兵。朝廷備禮出，郡國豫郊迎。",
-      "紛紛幾萬人，去者無全生。臣願節宮廄，分以賜邊城。",
+      "紛紛幾萬人，去者無全生。臣願節宮廄，分以賜邊城。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "塞下曲四首·其四",
+    "author": "王昌齡",
+    "paragraphs": [
       "邊頭何慘慘，已葬霍將軍。部曲皆相吊，燕南代北聞。",
       "功勳多被黜，兵馬亦尋分。更遣黃龍戍，唯當哭塞雲。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -45,36 +78,58 @@
     }
   },
   {
-    "title": "從軍行二首",
+    "title": "從軍行二首·其一",
     "author": "王昌齡",
     "paragraphs": [
       "向夕臨大荒，朔風軫歸慮。平沙萬里餘，飛鳥宿何處。",
       "虜騎獵長原，翩翩傍河去。邊聲搖白草，海氣生黃霧。",
       "百戰苦風塵，十年履霜露。雖投定遠筆，未坐將軍樹。",
-      "早知行路難，悔不理章句。",
+      "早知行路難，悔不理章句。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍行二首·其二",
+    "author": "王昌齡",
+    "paragraphs": [
       "秋草馬蹄輕，角弓持弦急。去為龍城戰，正值胡兵襲。",
       "軍氣橫大荒，戰酣日將入。長風金鼓動，白露鐵衣濕。",
       "四起愁邊聲，南庭時佇立。斷蓬孤自轉，寒雁飛相及。",
       "萬里雲沙漲，平原冰霰澀。惟聞漢使還，獨向刀環泣。"
     ],
     "format": {
-      "sentence_count": 30,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "少年行二首",
+    "title": "少年行二首·其一",
     "author": "王昌齡",
     "paragraphs": [
       "西陵俠少年，送客短長亭。青槐夾兩道，白馬如流星。",
-      "聞道羽書急，單于寇井陘。氣高輕赴難，誰顧燕山銘。",
+      "聞道羽書急，單于寇井陘。氣高輕赴難，誰顧燕山銘。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "少年行二首·其二",
+    "author": "王昌齡",
+    "paragraphs": [
       "走馬遠相尋，西樓下夕陰。結交期一劍，留意贈千金。",
       "高閣歌聲遠，重門柳色深。夜闌須盡飲，莫負百年心。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

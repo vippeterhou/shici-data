@@ -40,36 +40,278 @@
     }
   },
   {
-    "title": "馬詩二十三首",
+    "title": "馬詩二十三首·其一",
     "author": "李賀",
     "paragraphs": [
-      "龍脊貼連錢，銀蹄白踏煙。無人織錦韂，誰為鑄金鞭。",
-      "臘月草根甜，天街雪似鹽。未知口硬軟，先擬蒺藜銜。",
-      "忽憶周天子，驅車上玉山。鳴騶辭鳳苑，赤驥最承恩。",
-      "此馬非凡馬，房星本是星。向前敲瘦骨，猶自帶銅聲。",
-      "大漠山如雪，燕山月似鉤。何當金絡腦，快走踏清秋。",
-      "饑臥骨查牙，粗毛刺破花。鬣焦朱色落，發斷鋸長麻。",
-      "西母酒將闌，東王飯已幹。君王若燕去，誰為拽車轅。",
-      "赤兔無人用，當須呂布騎。吾聞果下馬，羈策任蠻兒。",
-      "飂叔去匆匆，如今不豢龍。夜來霜壓棧，駿骨折西風。",
-      "催榜渡烏江，神騅泣向風。君王今解劍，何處逐英雄。",
-      "內馬賜宮人，銀韉刺騏驎。午時鹽阪上，蹭蹬溘風塵。",
-      "批竹初攢耳，桃花未上身。他時須攪陣，牽去借將軍。",
-      "寶玦誰家子，長聞俠骨香。堆金買駿骨，將送楚襄王。",
-      "香襆赭羅新，盤龍蹙鐙鱗。回看南陌上，誰道不逢春。",
-      "不從桓公獵，何能伏虎威。一朝溝隴出，看取拂雲飛。",
-      "唐劍斬隋公，拳毛屬太宗。莫嫌金甲重，且去捉旋風。",
-      "白鐵剉青禾，砧間落細莎。世人憐小頸，金埒畏長牙。",
-      "伯樂向前看，旋毛在腹間。只今掊白草，何日驀青山。",
-      "蕭寺馱經馬，元從竺國來。空知有善相，不解走章台。",
-      "重圍如燕尾，寶劍似魚腸。欲求千里腳，先采眼中光。",
-      "暫系騰黃馬，仙人上彩樓。須鞭玉勒吏，何事謫高州。",
-      "汗血到王家，隨鸞撼玉珂。少君騎海上，人見是青騾。",
+      "龍脊貼連錢，銀蹄白踏煙。無人織錦韂，誰為鑄金鞭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其二",
+    "author": "李賀",
+    "paragraphs": [
+      "臘月草根甜，天街雪似鹽。未知口硬軟，先擬蒺藜銜。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其三",
+    "author": "李賀",
+    "paragraphs": [
+      "忽憶周天子，驅車上玉山。鳴騶辭鳳苑，赤驥最承恩。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其四",
+    "author": "李賀",
+    "paragraphs": [
+      "此馬非凡馬，房星本是星。向前敲瘦骨，猶自帶銅聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其五",
+    "author": "李賀",
+    "paragraphs": [
+      "大漠山如雪，燕山月似鉤。何當金絡腦，快走踏清秋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其六",
+    "author": "李賀",
+    "paragraphs": [
+      "饑臥骨查牙，粗毛刺破花。鬣焦朱色落，發斷鋸長麻。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其七",
+    "author": "李賀",
+    "paragraphs": [
+      "西母酒將闌，東王飯已幹。君王若燕去，誰為拽車轅。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其八",
+    "author": "李賀",
+    "paragraphs": [
+      "赤兔無人用，當須呂布騎。吾聞果下馬，羈策任蠻兒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其九",
+    "author": "李賀",
+    "paragraphs": [
+      "飂叔去匆匆，如今不豢龍。夜來霜壓棧，駿骨折西風。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其十",
+    "author": "李賀",
+    "paragraphs": [
+      "催榜渡烏江，神騅泣向風。君王今解劍，何處逐英雄。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其十一",
+    "author": "李賀",
+    "paragraphs": [
+      "內馬賜宮人，銀韉刺騏驎。午時鹽阪上，蹭蹬溘風塵。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其十二",
+    "author": "李賀",
+    "paragraphs": [
+      "批竹初攢耳，桃花未上身。他時須攪陣，牽去借將軍。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其十三",
+    "author": "李賀",
+    "paragraphs": [
+      "寶玦誰家子，長聞俠骨香。堆金買駿骨，將送楚襄王。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其十四",
+    "author": "李賀",
+    "paragraphs": [
+      "香襆赭羅新，盤龍蹙鐙鱗。回看南陌上，誰道不逢春。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其十五",
+    "author": "李賀",
+    "paragraphs": [
+      "不從桓公獵，何能伏虎威。一朝溝隴出，看取拂雲飛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其十六",
+    "author": "李賀",
+    "paragraphs": [
+      "唐劍斬隋公，拳毛屬太宗。莫嫌金甲重，且去捉旋風。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其十七",
+    "author": "李賀",
+    "paragraphs": [
+      "白鐵剉青禾，砧間落細莎。世人憐小頸，金埒畏長牙。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其十八",
+    "author": "李賀",
+    "paragraphs": [
+      "伯樂向前看，旋毛在腹間。只今掊白草，何日驀青山。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其十九",
+    "author": "李賀",
+    "paragraphs": [
+      "蕭寺馱經馬，元從竺國來。空知有善相，不解走章台。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其二十",
+    "author": "李賀",
+    "paragraphs": [
+      "重圍如燕尾，寶劍似魚腸。欲求千里腳，先采眼中光。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其二十一",
+    "author": "李賀",
+    "paragraphs": [
+      "暫系騰黃馬，仙人上彩樓。須鞭玉勒吏，何事謫高州。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其二十二",
+    "author": "李賀",
+    "paragraphs": [
+      "汗血到王家，隨鸞撼玉珂。少君騎海上，人見是青騾。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馬詩二十三首·其二十三",
+    "author": "李賀",
+    "paragraphs": [
       "武帝愛神仙，燒金得紫煙。廄中皆肉馬，不解上青天。"
     ],
     "format": {
-      "sentence_count": 92,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -305,21 +547,54 @@
     }
   },
   {
-    "title": "昌穀北園新筍四首",
+    "title": "昌穀北園新筍四首·其一",
     "author": "李賀",
     "paragraphs": [
       "籜落長竿削玉開，君看母筍是龍材。",
-      "更容一夜抽千尺，別卻池園數寸泥。",
+      "更容一夜抽千尺，別卻池園數寸泥。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "昌穀北園新筍四首·其二",
+    "author": "李賀",
+    "paragraphs": [
       "斫取青光寫楚辭，膩香春粉黑離離。",
-      "無情有恨何人見，露壓煙啼千萬枝。",
+      "無情有恨何人見，露壓煙啼千萬枝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "昌穀北園新筍四首·其三",
+    "author": "李賀",
+    "paragraphs": [
       "家泉石眼兩三莖，曉看陰根紫脈生。",
-      "今年水曲春沙上，笛管新篁拔玉青。",
+      "今年水曲春沙上，笛管新篁拔玉青。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "昌穀北園新筍四首·其四",
+    "author": "李賀",
+    "paragraphs": [
       "古竹老梢惹碧雲，茂陵歸臥歎清貧。",
       "風吹千畝迎雨嘯，鳥重一枝入酒尊。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -360,29 +635,73 @@
     }
   },
   {
-    "title": "感諷五首",
+    "title": "感諷五首·其一",
     "author": "李賀",
     "paragraphs": [
       "合浦無明珠，龍洲無木奴。足知造化力，不給使君須。",
       "越婦未織作，吳蠶始蠕蠕。縣官騎馬來，獰色虯紫須。",
       "懷中一方板，板上數行書。不因使君怒，焉得詣爾廬。",
       "越婦拜縣官，桑牙今尚小。會待春日晏，絲車方擲掉。",
-      "越婦通言語，小姑具黃粱。縣官踏餐去，簿吏複登堂。",
+      "越婦通言語，小姑具黃粱。縣官踏餐去，簿吏複登堂。"
+    ],
+    "format": {
+      "sentence_count": 20,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "感諷五首·其二",
+    "author": "李賀",
+    "paragraphs": [
       "奇俊無少年，日車何躃躃。我待紆雙綬，遺我星星發。",
       "都門賈生墓，青蠅久斷絕。寒食搖揚天，憤景長肅殺。",
-      "皇漢十二帝，唯帝稱睿哲。一夕信豎兒，文明永淪歇。",
+      "皇漢十二帝，唯帝稱睿哲。一夕信豎兒，文明永淪歇。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "感諷五首·其三",
+    "author": "李賀",
+    "paragraphs": [
       "南山何其悲，鬼雨灑空草。長安夜半秋，風前幾人老。",
       "低迷黃昏徑，嫋嫋青櫟道。月午樹無影，一山唯白曉。",
-      "漆炬迎新人，幽壙螢擾擾。",
+      "漆炬迎新人，幽壙螢擾擾。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "感諷五首·其四",
+    "author": "李賀",
+    "paragraphs": [
       "星盡四方高，萬物知天曙。己生須己養，荷擔出門去。",
-      "君平久不反，康伯循國路。曉思何譊譊，闤闠千人語。",
+      "君平久不反，康伯循國路。曉思何譊譊，闤闠千人語。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "感諷五首·其五",
+    "author": "李賀",
+    "paragraphs": [
       "石根秋水明，石畔秋草瘦。侵衣野竹香，蟄蟄垂葉厚。",
       "岑中月歸來，蟾光掛空秀。桂露對仙娥，星星下雲逗。",
       "淒涼梔子落，山璺泣清漏。下有張仲蔚，披書案將朽。"
     ],
     "format": {
-      "sentence_count": 62,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

@@ -67,17 +67,28 @@
     }
   },
   {
-    "title": "將之瀘郡旅次遂州遇裴晤員外謫居於此話舊淒涼因寄二首",
+    "title": "將之瀘郡旅次遂州遇裴晤員外謫居於此話舊淒涼因寄二首·其一",
     "author": "鄭谷",
     "paragraphs": [
       "誰解登高問上玄，謫仙何事謫詩仙，雲遮列宿離華省，",
-      "不知幾首南行曲，留與巴兒萬古傳。",
+      "不知幾首南行曲，留與巴兒萬古傳。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "將之瀘郡旅次遂州遇裴晤員外謫居於此話舊淒涼因寄二首·其二",
+    "author": "鄭谷",
+    "paragraphs": [
       "昔年共照松溪影，松折溪荒僧已無。今日重思錦城事，",
       "我拜師門更南去，荔枝春熟向渝瀘。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -160,19 +171,41 @@
     }
   },
   {
-    "title": "蜀中三首",
+    "title": "蜀中三首·其一",
     "author": "鄭穀",
     "paragraphs": [
       "馬頭春向鹿頭關，遠樹平蕪一望閑。雪下文君沾酒市，",
-      "堤月橋燈好時景，漢庭無事不征蠻。",
+      "堤月橋燈好時景，漢庭無事不征蠻。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "蜀中三首·其二",
+    "author": "鄭穀",
+    "paragraphs": [
       "夜無多雨曉生塵，草色嵐光日日新。蒙頂茶畦千點露，",
-      "卻共海棠花有約，數年留滯不歸人。",
+      "卻共海棠花有約，數年留滯不歸人。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "蜀中三首·其三",
+    "author": "鄭穀",
+    "paragraphs": [
       "渚遠江清碧簟紋，小桃花繞薛濤墳。朱橋直指金門路，",
       "子規夜夜啼巴樹，不並吳鄉楚國聞。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

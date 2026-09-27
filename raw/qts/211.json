@@ -44,23 +44,67 @@
     }
   },
   {
-    "title": "薊門行五首",
+    "title": "薊門行五首·其一",
     "author": "高適",
     "paragraphs": [
       "薊門逢古老，獨立思氛氳。一身既零丁，頭鬢白紛紛。",
-      "勳庸今已矣，不識霍將軍。",
+      "勳庸今已矣，不識霍將軍。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "薊門行五首·其二",
+    "author": "高適",
+    "paragraphs": [
       "漢家能用武，開拓窮異域。戍卒厭糠核，降胡飽衣食。",
-      "關亭試一望，吾欲淚沾臆。",
+      "關亭試一望，吾欲淚沾臆。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "薊門行五首·其三",
+    "author": "高適",
+    "paragraphs": [
       "邊城十一月，雨雪亂霏霏。元戎號令嚴，人馬亦輕肥。",
-      "羌胡無盡日，征戰幾時歸。",
+      "羌胡無盡日，征戰幾時歸。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "薊門行五首·其四",
+    "author": "高適",
+    "paragraphs": [
       "幽州多騎射，結髮重橫行。一朝事將軍，出入有聲名。",
-      "紛紛獵秋草，相向角弓鳴。",
+      "紛紛獵秋草，相向角弓鳴。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "薊門行五首·其五",
+    "author": "高適",
+    "paragraphs": [
       "黯黯長城外，日沒更煙塵。胡騎雖憑陵，漢兵不顧身。",
       "古樹滿空塞，黃雲愁殺人。"
     ],
     "format": {
-      "sentence_count": 30,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

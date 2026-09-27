@@ -381,16 +381,38 @@
     }
   },
   {
-    "title": "南歌子詞三首",
+    "title": "南歌子詞三首·其一",
     "author": "裴諴",
     "paragraphs": [
-      "不是廚中丳，爭知炙裏心。井邊銀釧落，輾轉恨還深。",
-      "不信長相憶，抬頭問取天。風吹荷葉動，無夜不搖蓮。",
+      "不是廚中丳，爭知炙裏心。井邊銀釧落，輾轉恨還深。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "南歌子詞三首·其二",
+    "author": "裴諴",
+    "paragraphs": [
+      "不信長相憶，抬頭問取天。風吹荷葉動，無夜不搖蓮。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "南歌子詞三首·其三",
+    "author": "裴諴",
+    "paragraphs": [
       "簳蠟為紅燭，情知不自由。細絲斜結網，爭奈眼相鉤。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

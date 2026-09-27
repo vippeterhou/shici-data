@@ -379,19 +379,6 @@
     }
   },
   {
-    "title": "春宮怨",
-    "author": "杜荀鶴",
-    "paragraphs": [
-      "早被嬋娟誤，欲妝臨鏡慵。承恩不在貌，教妾若為容。",
-      "風暖鳥聲碎，日高花影重。年年越溪女，相憶采芙蓉。"
-    ],
-    "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": 5
-    }
-  },
-  {
     "title": "晨興",
     "author": "翁承贊",
     "paragraphs": [
@@ -457,17 +444,28 @@
     }
   },
   {
-    "title": "依韻和幹公題庭中太湖石二首",
+    "title": "依韻和幹公題庭中太湖石二首·其一",
     "author": "王貞白",
     "paragraphs": [
       "山立只盈尋，高奇藥圃陰。風濤打欲碎，岩穴蟄方深。",
-      "蘚點晴偏綠，蛩藏曉競吟。歲寒終不變，堪比古人心。",
+      "蘚點晴偏綠，蛩藏曉競吟。歲寒終不變，堪比古人心。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "依韻和幹公題庭中太湖石二首·其二",
+    "author": "王貞白",
+    "paragraphs": [
       "徒勞水府尋，宛在玉堂陰。蘭圃安雖窄，盆池映轉深。",
       "山僧來盡愛，詩客見先吟。若是買花者，年年不計心。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -524,17 +522,28 @@
     }
   },
   {
-    "title": "馮氏書齋小松二首",
+    "title": "馮氏書齋小松二首·其一",
     "author": "王貞白",
     "paragraphs": [
       "孤根生遠嶽，移植翠枝添。自秉雪霜操，任他蜂蝶嫌。",
-      "微陰連迥竹，清韻入疏簾。聳勢即空碧，時人看莫厭。",
+      "微陰連迥竹，清韻入疏簾。聳勢即空碧，時人看莫厭。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "馮氏書齋小松二首·其二",
+    "author": "王貞白",
+    "paragraphs": [
       "得地已經歲，清音晝夜聞。根涵舊山土，葉間近溪雲。",
       "野鶴望長遠，庭花笑不群。須知搖落後，眾木始能分。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

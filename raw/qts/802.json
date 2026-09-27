@@ -1,18 +1,40 @@
 [
   {
-    "title": "燕子樓三首",
+    "title": "燕子樓三首·其一",
     "author": "關盼盼",
     "paragraphs": [
       "樓上殘燈伴曉霜，獨眠人起合歡床。",
-      "相思一夜情多少，地角天涯不是長。",
+      "相思一夜情多少，地角天涯不是長。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "燕子樓三首·其二",
+    "author": "關盼盼",
+    "paragraphs": [
       "北邙松柏鎖愁煙，燕子樓中思悄然。",
-      "自埋劍履歌塵散，紅袖香銷一十年。",
+      "自埋劍履歌塵散，紅袖香銷一十年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "燕子樓三首·其三",
+    "author": "關盼盼",
+    "paragraphs": [
       "適看鴻雁岳陽回，又睹玄禽逼社來。",
       "瑤瑟玉簫無意緒，任從蛛網任從灰。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -42,19 +64,74 @@
     }
   },
   {
-    "title": "囉嗊曲六首",
+    "title": "囉嗊曲六首·其一",
     "author": "劉采春",
     "paragraphs": [
-      "不喜秦淮水，生憎江上船。載兒夫婿去，經歲又經年。",
-      "借問東園柳，枯來得幾年。自無枝葉分，莫恐太陽偏。",
-      "莫作商人婦，金釵當卜錢。朝朝江口望，錯認幾人船。",
-      "那年離別日，只道住桐廬。桐廬人不見，今得廣州書。",
-      "昨日勝今日，今年老去年。黃河清有日，白發黑無緣。",
+      "不喜秦淮水，生憎江上船。載兒夫婿去，經歲又經年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "囉嗊曲六首·其二",
+    "author": "劉采春",
+    "paragraphs": [
+      "借問東園柳，枯來得幾年。自無枝葉分，莫恐太陽偏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "囉嗊曲六首·其三",
+    "author": "劉采春",
+    "paragraphs": [
+      "莫作商人婦，金釵當卜錢。朝朝江口望，錯認幾人船。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "囉嗊曲六首·其四",
+    "author": "劉采春",
+    "paragraphs": [
+      "那年離別日，只道住桐廬。桐廬人不見，今得廣州書。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "囉嗊曲六首·其五",
+    "author": "劉采春",
+    "paragraphs": [
+      "昨日勝今日，今年老去年。黃河清有日，白發黑無緣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "囉嗊曲六首·其六",
+    "author": "劉采春",
+    "paragraphs": [
       "昨日北風寒，牽船浦里安。潮來打纜斷，搖櫓始知難。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -267,17 +344,28 @@
     }
   },
   {
-    "title": "春思二首",
+    "title": "春思二首·其一",
     "author": "張窈窕",
     "paragraphs": [
       "門前梅柳爛春輝，閉妾深閨繡舞衣。",
-      "雙燕不知腸欲斷，銜泥故故傍人飛。",
+      "雙燕不知腸欲斷，銜泥故故傍人飛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "春思二首·其二",
+    "author": "張窈窕",
+    "paragraphs": [
       "井上梧桐是妾移，夜來花發最高枝。",
       "若教不向深閨種，春過門前爭得知。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

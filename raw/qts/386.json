@@ -915,17 +915,28 @@
     }
   },
   {
-    "title": "同嚴給事聞唐昌觀玉蕊近有仙過，因成絕句二首",
+    "title": "同嚴給事聞唐昌觀玉蕊近有仙過，因成絕句二首·其一",
     "author": "張籍",
     "paragraphs": [
       "千枝花裏玉塵飛，阿母宮中見亦稀。",
-      "應共諸仙鬥百草，獨來偷得一枝歸。",
+      "應共諸仙鬥百草，獨來偷得一枝歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "同嚴給事聞唐昌觀玉蕊近有仙過，因成絕句二首·其二",
+    "author": "張籍",
+    "paragraphs": [
       "九色雲中紫鳳車，尋仙來到洞仙家。",
       "飛輪回處無蹤跡，唯有斑斑滿地花。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -995,19 +1006,41 @@
     }
   },
   {
-    "title": "涼州詞三首",
+    "title": "涼州詞三首·其一",
     "author": "張籍",
     "paragraphs": [
       "邊城暮雨雁飛低，蘆筍初生漸欲齊。",
-      "無數鈴聲遙過磧，應馱白練到安西。",
+      "無數鈴聲遙過磧，應馱白練到安西。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "涼州詞三首·其二",
+    "author": "張籍",
+    "paragraphs": [
       "古鎮城門白磧開，胡兵往往傍沙堆。",
-      "巡邊使客行應早，欲問平安無使來。",
+      "巡邊使客行應早，欲問平安無使來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "涼州詞三首·其三",
+    "author": "張籍",
+    "paragraphs": [
       "鳳林關裏水東流，白草黃榆六十秋。",
       "邊將皆承主恩澤，無人解道取涼州。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

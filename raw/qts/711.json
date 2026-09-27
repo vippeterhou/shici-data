@@ -243,17 +243,28 @@
     }
   },
   {
-    "title": "李夫人二首",
+    "title": "李夫人二首·其一",
     "author": "徐夤",
     "paragraphs": [
       "不望金輿到錦帷，人間樂極即須悲。",
-      "若言要識愁中貌，也似君恩日日衰。",
+      "若言要識愁中貌，也似君恩日日衰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "李夫人二首·其二",
+    "author": "徐夤",
+    "paragraphs": [
       "招得香魂爵少翁，九華燈燭曉還空。",
       "漢王不及吳王樂，且與西施死處同。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -284,23 +295,67 @@
     }
   },
   {
-    "title": "依韻贈南安方處士五首",
+    "title": "依韻贈南安方處士五首·其一",
     "author": "徐夤",
     "paragraphs": [
       "七貴五侯生肯退，利塵名網死當拋。",
-      "黔婁寂寞嚴陵臥，借問何人與結交。",
+      "黔婁寂寞嚴陵臥，借問何人與結交。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "依韻贈南安方處士五首·其二",
+    "author": "徐夤",
+    "paragraphs": [
       "休把羸蹄蹋霜雪，書成何處獻君王。",
-      "嵩山好與浮丘約，三十六峰雲外鄉。",
+      "嵩山好與浮丘約，三十六峰雲外鄉。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "依韻贈南安方處士五首·其三",
+    "author": "徐夤",
+    "paragraphs": [
       "百萬僧中不為僧，比君知道僅誰能。",
-      "無家寄泊南安縣，六月門前也似冰。",
+      "無家寄泊南安縣，六月門前也似冰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "依韻贈南安方處士五首·其四",
+    "author": "徐夤",
+    "paragraphs": [
       "兩鬢當春卻似秋，僻居誇近野僧樓。",
-      "落花明月皆臨水，明月不流花自流。",
+      "落花明月皆臨水，明月不流花自流。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "依韻贈南安方處士五首·其五",
+    "author": "徐夤",
+    "paragraphs": [
       "晉楚忙忙起戰塵，龔黃門外有高人。",
       "一畦雲薤三株竹，席上先生未是貧。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -344,17 +399,28 @@
     }
   },
   {
-    "title": "偶題二首",
+    "title": "偶題二首·其一",
     "author": "徐夤",
     "paragraphs": [
       "買骨須求騏驥骨，愛毛宜采鳳凰毛。",
-      "駑駘燕雀堪何用，仍向人前價例高。",
+      "駑駘燕雀堪何用，仍向人前價例高。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "偶題二首·其二",
+    "author": "徐夤",
+    "paragraphs": [
       "賦就長安振大名，斬蛇功與樂天爭。",
       "歸來延壽溪頭坐，終日無人問一聲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -385,19 +451,41 @@
     }
   },
   {
-    "title": "蝴蝶三首",
+    "title": "蝴蝶三首·其一",
     "author": "徐夤",
     "paragraphs": [
       "不並難飛繭裏蛾，有花芳處定經過。",
-      "天風相送輕飄去，卻笑蜘蛛謾織羅。",
+      "天風相送輕飄去，卻笑蜘蛛謾織羅。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "蝴蝶三首·其二",
+    "author": "徐夤",
+    "paragraphs": [
       "苒苒雙雙拂畫欄，佳人偷眼再三看。",
-      "莫欺翼短飛長近，試就花間撲已難。",
+      "莫欺翼短飛長近，試就花間撲已難。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "蝴蝶三首·其三",
+    "author": "徐夤",
+    "paragraphs": [
       "栩栩無因系得他，野園荒徑一何多。",
       "不聞絲竹誰教舞，應仗流鶯為唱歌。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

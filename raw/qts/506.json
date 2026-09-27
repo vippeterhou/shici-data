@@ -26,17 +26,28 @@
     }
   },
   {
-    "title": "次韻和光祿錢卿二首",
+    "title": "次韻和光祿錢卿二首·其一",
     "author": "章孝標",
     "paragraphs": [
       "大隱嚴城內，閑門向水開。扇風知暑退，樹影覺秋來。",
-      "望遠雲生海，行稀砌長苔。廢興今古事，何必歎池灰。",
+      "望遠雲生海，行稀砌長苔。廢興今古事，何必歎池灰。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "次韻和光祿錢卿二首·其二",
+    "author": "章孝標",
+    "paragraphs": [
       "閑論憂王室，愁眉仗酒開。方嗟三覆役，又喜四愁來。",
       "晨起螢穿竹，晡餐鳥下苔。同期陽月至，靈室祝葭灰。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

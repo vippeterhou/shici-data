@@ -13,17 +13,28 @@
     }
   },
   {
-    "title": "江樓二首",
+    "title": "江樓二首·其一",
     "author": "韓偓",
     "paragraphs": [
       "夢啼嗚咽覺無語，杳杳微微望煙浦。",
-      "樓空客散燕交飛，江靜帆飛日亭午。",
+      "樓空客散燕交飛，江靜帆飛日亭午。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "江樓二首·其二",
+    "author": "韓偓",
+    "paragraphs": [
       "ok魚苦筍香味新，楊柳酒旗三月春。",
       "風光百計牽人老，爭奈多情是病身。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 6, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [6, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -680,17 +691,50 @@
     }
   },
   {
-    "title": "效崔國輔體四首",
+    "title": "效崔國輔體四首·其一",
     "author": "韓偓",
     "paragraphs": [
-      "澹月照中庭，海棠花自落。獨立俯閑階，風動秋千索。",
-      "雨後碧苔院，霜來紅葉樓。閑階上斜日，鸚鵡伴人愁。",
-      "酒力滋睡眸，鹵莽聞街鼓。欲明天更寒，東風打窗雨。",
+      "澹月照中庭，海棠花自落。獨立俯閑階，風動秋千索。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效崔國輔體四首·其二",
+    "author": "韓偓",
+    "paragraphs": [
+      "雨後碧苔院，霜來紅葉樓。閑階上斜日，鸚鵡伴人愁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效崔國輔體四首·其三",
+    "author": "韓偓",
+    "paragraphs": [
+      "酒力滋睡眸，鹵莽聞街鼓。欲明天更寒，東風打窗雨。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "效崔國輔體四首·其四",
+    "author": "韓偓",
+    "paragraphs": [
       "羅幕生春寒，繡窗愁未眠。南湖一夜雨，應濕採蓮船。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -737,19 +781,41 @@
     }
   },
   {
-    "title": "六言三首",
+    "title": "六言三首·其一",
     "author": "韓偓",
     "paragraphs": [
       "春樓處子傾城，金陵狎客多情。朝雲暮雨會合，",
-      "幽歡不盡告別，秋河悵望平明。",
+      "幽歡不盡告別，秋河悵望平明。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [6, 6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "六言三首·其二",
+    "author": "韓偓",
+    "paragraphs": [
       "一燈前雨落夜，三月盡草青時。半寒半暖正好，",
-      "紅袖不幹誰會，揉損聯娟澹眉。",
+      "紅袖不幹誰會，揉損聯娟澹眉。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [6, 6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "六言三首·其三",
+    "author": "韓偓",
+    "paragraphs": [
       "此間青草更遠，不唯空繞汀洲。那裏朝日才出，",
       "桃源洞口來否，絳節霓旌久留。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
+      "sentence_count": 5,
+      "sentence_lengths": [6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },
@@ -780,15 +846,26 @@
     }
   },
   {
-    "title": "春閨二首",
+    "title": "春閨二首·其一",
     "author": "韓偓",
     "paragraphs": [
-      "願結交加夢，因傾瀲灩尊。醒來情緒惡，簾外正黃昏。",
+      "願結交加夢，因傾瀲灩尊。醒來情緒惡，簾外正黃昏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春閨二首·其二",
+    "author": "韓偓",
+    "paragraphs": [
       "氤氳帳裏香，薄薄睡時妝。長籲解羅帶，怯見上空床。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1211,17 +1288,28 @@
     }
   },
   {
-    "title": "長信宮二首",
+    "title": "長信宮二首·其一",
     "author": "韓偓",
     "paragraphs": [
       "天上夢魂何杳杳，宮中消息太沉沉。",
-      "君恩不似黃金井，一處團圓萬丈深。",
+      "君恩不似黃金井，一處團圓萬丈深。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "長信宮二首·其二",
+    "author": "韓偓",
+    "paragraphs": [
       "天上鳳凰休寄夢，人間鸚鵡舊堪悲。",
       "平生心緒無人識，一隻金梭萬丈絲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

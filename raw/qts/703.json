@@ -272,34 +272,67 @@
     }
   },
   {
-    "title": "擢探花使三首",
+    "title": "擢探花使三首·其一",
     "author": "翁承贊",
     "paragraphs": [
       "洪崖差遣探花來，檢點芳叢飲數杯。",
-      "深紫濃香三百朵，明朝為我一時開。",
-      "九重煙暖折槐芽，自是升平好物華。",
-      "今日始知春氣味，長安虛過四年花。",
-      "探花時節日偏長，恬淡春風稱意忙。",
-      "每到黃昏醉歸去，紵衣惹得牡丹香。"
+      "深紫濃香三百朵，明朝為我一時開。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "書齋謾興二首",
+    "title": "擢探花使三首·其二",
+    "author": "翁承贊",
+    "paragraphs": [
+      "九重煙暖折槐芽，自是升平好物華。",
+      "今日始知春氣味，長安虛過四年花。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "擢探花使三首·其三",
+    "author": "翁承贊",
+    "paragraphs": [
+      "探花時節日偏長，恬淡春風稱意忙。",
+      "每到黃昏醉歸去，紵衣惹得牡丹香。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "書齋謾興二首·其一",
     "author": "翁承贊",
     "paragraphs": [
       "池塘四五尺深水，籬落兩三般樣花。",
-      "過客不須頻問姓，讀書聲裏是吾家。",
+      "過客不須頻問姓，讀書聲裏是吾家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "書齋謾興二首·其二",
+    "author": "翁承贊",
+    "paragraphs": [
       "官事歸來衣雪埋，兒童燈火小茅齋。",
       "人家不必論貧富，惟有讀書聲最佳。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

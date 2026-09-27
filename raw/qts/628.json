@@ -13,72 +13,391 @@
     }
   },
   {
-    "title": "自遣詩三十首",
+    "title": "自遣詩三十首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "五年重別舊山村，樹有交柯犢有孫。",
-      "更感卞峰顏色好，曉雲才散便當門。",
+      "更感卞峰顏色好，曉雲才散便當門。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "雪下孤村淅淅鳴，病魂無睡灑來清。",
-      "心搖只待東窗曉，長愧寒雞第一聲。",
+      "心搖只待東窗曉，長愧寒雞第一聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其三",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "多情多感自難忘，只有風流共古長。",
-      "座上不遺金帶枕，陳王詞賦為誰傷。",
+      "座上不遺金帶枕，陳王詞賦為誰傷。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其四",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "甫裏先生未白頭，酒旗猶可戰高樓。",
-      "長鯨好鱠無因得，乞取艅艎作釣舟。",
+      "長鯨好鱠無因得，乞取艅艎作釣舟。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其五",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "花瀨濛濛紫氣昏，水邊山曲更深村。",
-      "終須揀取幽棲處，老檜成雙便作門。",
+      "終須揀取幽棲處，老檜成雙便作門。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其六",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "陰洞曾為采藥行，冷雲凝絕燭微明。",
-      "玉芝敲折琤然墮，合有真人上姓名。",
+      "玉芝敲折琤然墮，合有真人上姓名。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其七",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "長歎人間發易華，暗將心事許煙霞。",
-      "病來前約分明在，藥鼎書囊便是家。",
+      "病來前約分明在，藥鼎書囊便是家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其八",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "醞得秋泉似玉容，比於雲液更應濃。",
-      "思量北海徐劉輩，枉向人間號酒龍。",
+      "思量北海徐劉輩，枉向人間號酒龍。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其九",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "羊侃多應自古豪，解盤金槊置纖腰。",
-      "縱然此事教雙得，不博溪田二頃苗。",
+      "縱然此事教雙得，不博溪田二頃苗。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其十",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "偶然攜稚看微波，臨水春寒一倍多。",
-      "便使筆精如逸少，懶能書字換群鵝。",
+      "便使筆精如逸少，懶能書字換群鵝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其十一",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "昔聞莊叟迢迢夢，又道韓生苒苒飛。",
-      "知有姓名聊寄問，更無言語抱斜暉。",
+      "知有姓名聊寄問，更無言語抱斜暉。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其十二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "雪侵春事太無端，舞急微還近臘寒。",
-      "應是也疑真宰怪，休時猶未遍林巒。",
+      "應是也疑真宰怪，休時猶未遍林巒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其十三",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "數尺遊絲墮碧空，年年長是惹東風。",
-      "爭知天上無人住，亦有春愁鶴發翁。",
-      "誰使寒鴉意緒嬌，雲情山晚動情憀。亂和殘照紛紛舞，應索陽烏次第饒。",
+      "爭知天上無人住，亦有春愁鶴發翁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其十四",
+    "author": "陸龜蒙",
+    "paragraphs": [
+      "誰使寒鴉意緒嬌，雲情山晚動情憀。亂和殘照紛紛舞，應索陽烏次第饒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其十五",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "古往天高事渺茫，爭知靈媛不淒涼。",
-      "月娥如有相思淚，只待方諸寄兩行。",
+      "月娥如有相思淚，只待方諸寄兩行。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其十六",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "本來雲外寄閑身，遂與溪雲作主人。",
-      "一夜逆風愁四散，曉來零落傍衣巾。",
+      "一夜逆風愁四散，曉來零落傍衣巾。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其十七",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "淵明不待公田熟，乘興先秋解印歸。",
-      "我為餘糧春未去，到頭誰是複誰非。",
+      "我為餘糧春未去，到頭誰是複誰非。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其十八",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "雲擁根株抱石危，斫來文似瘦蛟螭。",
-      "幽人帶病慵朝起，只向春山盡日欹。",
+      "幽人帶病慵朝起，只向春山盡日欹。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其十九",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "月淡花閑夜已深，宋家微詠若遺音。",
-      "重思萬古無人賞，露濕清香獨滿襟。",
+      "重思萬古無人賞，露濕清香獨滿襟。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其二十",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "南岸春田手自農，往來橫截半江風。",
-      "有時不耐輕橈興，暫欲蓬山訪洛公。",
+      "有時不耐輕橈興，暫欲蓬山訪洛公。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其二十一",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "賢達垂竿小隱中，我來真作捕魚翁。",
-      "前溪一夜春流急，已學嚴灘下釣筒。",
+      "前溪一夜春流急，已學嚴灘下釣筒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其二十二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "水國君王又姓蕭，風情由是冠南朝。",
-      "靈和殿下巴江柳，十二旒前舞翠條。",
+      "靈和殿下巴江柳，十二旒前舞翠條。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其二十三",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "強梳蓬鬢整斜冠，片燭光微夜思闌。",
-      "天意最饒惆悵事，單棲分付與春寒。",
+      "天意最饒惆悵事，單棲分付與春寒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其二十四",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "無多藥圃近南榮，合有新苗次第生。",
-      "稚子不知名品上，恐隨春草鬥輸贏。",
+      "稚子不知名品上，恐隨春草鬥輸贏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其二十五",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "一派溪隨箬下流，春來無處不汀洲。",
-      "漪瀾未碧蒲猶短，不見鴛鴦正自由。",
+      "漪瀾未碧蒲猶短，不見鴛鴦正自由。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其二十六",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "山下花明水上曛，一橈青翰破霞文。",
-      "越人但愛風流客，繡被何須屬鄂君。",
+      "越人但愛風流客，繡被何須屬鄂君。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其二十七",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "妍華須是占時生，准擬差肩不近情。",
-      "佳麗幾時腰不細，荊王辛苦致宮名。",
+      "佳麗幾時腰不細，荊王辛苦致宮名。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其二十八",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "姹女精神似月孤，敢將容易入洪爐。",
-      "人間縱道鉛華少，蝶翅新篁未肯無。",
+      "人間縱道鉛華少，蝶翅新篁未肯無。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其二十九",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "貞白求丹變姓名，主恩潛助亦無成。",
-      "侯家竟換梁天子，王整徒勞作外兵。",
+      "侯家竟換梁天子，王整徒勞作外兵。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自遣詩三十首·其三十",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "春雨能膏草木肥，就中林野碧含滋。",
       "唯餘病客相逢背，一夜寒聲減四肢。"
     ],
     "format": {
-      "sentence_count": 120,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

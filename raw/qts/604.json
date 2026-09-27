@@ -419,17 +419,28 @@
     }
   },
   {
-    "title": "成紀書事二首",
+    "title": "成紀書事二首·其一",
     "author": "許棠",
     "paragraphs": [
       "東吳遠別客西秦，懷舊傷時暗灑巾。滿野多成無主塚，",
-      "閑與將軍議戎事，伊蘭猶未絕胡塵。",
+      "閑與將軍議戎事，伊蘭猶未絕胡塵。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "成紀書事二首·其二",
+    "author": "許棠",
+    "paragraphs": [
       "蹉跎遠入犬羊中，荏苒將成白首翁。三楚田園歸未得，",
       "難問開元向前事，依稀猶認隗囂宮。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

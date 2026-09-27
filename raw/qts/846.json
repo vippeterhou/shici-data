@@ -494,17 +494,28 @@
     }
   },
   {
-    "title": "寄匡阜諸公二首",
+    "title": "寄匡阜諸公二首·其一",
     "author": "齊己",
     "paragraphs": [
       "松頭柏頂碧森森，虛檻寒吹夏景深。靜社可追長往跡，",
-      "爭學忘言住幽勝，吾師遺集盡清吟。",
+      "爭學忘言住幽勝，吾師遺集盡清吟。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄匡阜諸公二首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "峰前林下東西寺，地角天涯來往僧。泉月淨流閑世界，",
       "曾寄鄰房掛瓶錫，雨聞岩溜解春冰。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -691,17 +702,28 @@
     }
   },
   {
-    "title": "寄武陵貫微上人二首",
+    "title": "寄武陵貫微上人二首·其一",
     "author": "齊己",
     "paragraphs": [
       "知泛滄浪棹未還，西峰房鎖夜潺潺。春陪相府遊仙洞，",
-      "莫忘一句曹溪妙，堪塞孫孫騁度關。",
+      "莫忘一句曹溪妙，堪塞孫孫騁度關。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄武陵貫微上人二首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "吳頭東面楚西邊，雲接蒼梧水浸天。兩地別離身已老，",
       "不是傲他名利世，吾師本在雪山巔。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -771,17 +793,28 @@
     }
   },
   {
-    "title": "移居西湖作二首",
+    "title": "移居西湖作二首·其一",
     "author": "齊己",
     "paragraphs": [
       "火雲陽焰欲燒空，小檻幽窗想舊峰。白汗此時流枕簟，",
-      "只待秋聲滌心地，衲衣新洗健形容。",
+      "只待秋聲滌心地，衲衣新洗健形容。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "移居西湖作二首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "官園樹影晝陰陰，咫尺清涼莫浣心。桃李別教人主掌，",
       "爭似出塵地行止，東林苔徑入西林。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

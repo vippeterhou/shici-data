@@ -59,34 +59,67 @@
     }
   },
   {
-    "title": "再逢虛中道士三首",
+    "title": "再逢虛中道士三首·其一",
     "author": "貫休",
     "paragraphs": [
       "天目西峰古壞壇，壇邊相別雪漫漫。",
-      "如今四十餘年也，還共當時恰一般。",
-      "囊裏靈龜小似錢，道伊年與我同年。",
-      "壺中長挈天相逐，何處升天更有天。",
-      "吾道將君道且殊，君須全似老君須。",
-      "尋常有語爭堪信，愛說蟠桃似甕粗。"
+      "如今四十餘年也，還共當時恰一般。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "上盧使君二首",
+    "title": "再逢虛中道士三首·其二",
+    "author": "貫休",
+    "paragraphs": [
+      "囊裏靈龜小似錢，道伊年與我同年。",
+      "壺中長挈天相逐，何處升天更有天。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "再逢虛中道士三首·其三",
+    "author": "貫休",
+    "paragraphs": [
+      "吾道將君道且殊，君須全似老君須。",
+      "尋常有語爭堪信，愛說蟠桃似甕粗。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "上盧使君二首·其一",
     "author": "貫休",
     "paragraphs": [
       "一領彤弓下赤墀，惟將清淨作藩籬。馬卿山嶽金相似，",
-      "鄱陽黎庶還堪羨，頭有重天足有犛。",
+      "鄱陽黎庶還堪羨，頭有重天足有犛。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "上盧使君二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "司馬遷文亞聖人，三頭九陌碾香塵。盡傳棣萼麟兼鳳，",
       "因知寰海升平去，又見高宗夢裏人。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -169,32 +202,54 @@
     }
   },
   {
-    "title": "賀雨上王使君二首",
+    "title": "賀雨上王使君二首·其一",
     "author": "貫休",
     "paragraphs": [
       "一片丹心合萬靈，應時甘雨帶龍腥。驅塵煞燒連窮□，",
-      "應須蚤勒南山石，黃霸清風滿內庭。",
-      "由來天贊德唯馨，朋禱心期事盡行。玄妙久聞談佛母，",
-      "他日為霖亦如此，諸生無不沐經營。"
+      "應須蚤勒南山石，黃霸清風滿內庭。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 6, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 6, 7, 7],
       "uniform_sentence_length": null
     }
   },
   {
-    "title": "感懷寄盧給事二首",
+    "title": "賀雨上王使君二首·其二",
+    "author": "貫休",
+    "paragraphs": [
+      "由來天贊德唯馨，朋禱心期事盡行。玄妙久聞談佛母，",
+      "他日為霖亦如此，諸生無不沐經營。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "感懷寄盧給事二首·其一",
     "author": "貫休",
     "paragraphs": [
       "綿綿遠念近來多，喜鵲隨函到綠蘿。雖匪二賢曾入洛，",
-      "好更因人寄消息，沃州歸去已蹉跎。",
+      "好更因人寄消息，沃州歸去已蹉跎。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "感懷寄盧給事二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "常憶團圓繡像前，東歸經亂獨生全。孤峰已住六七處，",
       "如今憔悴荊枝盡，一諷來書一愴然。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -261,32 +316,54 @@
     }
   },
   {
-    "title": "寄鄭道士二首",
+    "title": "寄鄭道士二首·其一",
     "author": "貫休",
     "paragraphs": [
       "常憶蘇耽好羽儀，信安山觀住多時。",
-      "不知玉質雙棲處，兩個仙人是阿誰。",
-      "誰帶金輪髻裏珠，何妨相逐去清都。",
-      "舊山大有閒田地，五色香茆有子無。"
+      "不知玉質雙棲處，兩個仙人是阿誰。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "送少年禪師二首",
+    "title": "寄鄭道士二首·其二",
+    "author": "貫休",
+    "paragraphs": [
+      "誰帶金輪髻裏珠，何妨相逐去清都。",
+      "舊山大有閒田地，五色香茆有子無。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送少年禪師二首·其一",
     "author": "貫休",
     "paragraphs": [
       "秀眉青目樹花衣，一缽隨緣智不知。",
-      "佛與輪王嫌不作，世間剛有個癡兒。",
+      "佛與輪王嫌不作，世間剛有個癡兒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送少年禪師二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "萬水千山一鶴飛，豈愁遊子暮何之。",
       "古今此著無人會，王積新輸更不疑。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -473,17 +550,28 @@
     }
   },
   {
-    "title": "別盧使君歸東陽二首",
+    "title": "別盧使君歸東陽二首·其一",
     "author": "貫休",
     "paragraphs": [
       "雨氣濛濛草滿庭，式微吟劇更誰聽。詩逢匠化唯貪住，",
-      "從茲還似歸回首，唯祝台星與福星。",
+      "從茲還似歸回首，唯祝台星與福星。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "別盧使君歸東陽二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "家在嚴陵釣渚旁，細漣嘉樹拂窗涼。難醫林藪煙霞癖，",
       "終期金鼎調羹日，再近尼丘日月光。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

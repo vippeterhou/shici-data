@@ -185,17 +185,28 @@
     }
   },
   {
-    "title": "秋日北固晚望二首",
+    "title": "秋日北固晚望二首·其一",
     "author": "高蟾",
     "paragraphs": [
       "風含遠思翛翛晚，日照高情的的秋。",
-      "何事滿江惆悵水，年年無語向東流。",
+      "何事滿江惆悵水，年年無語向東流。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "秋日北固晚望二首·其二",
+    "author": "高蟾",
+    "paragraphs": [
       "澤國路岐當面苦，江城砧杵入心寒。",
       "不知白髮誰醫得，為問無情歲月看。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -278,17 +289,28 @@
     }
   },
   {
-    "title": "長信宮二首",
+    "title": "長信宮二首·其一",
     "author": "高蟾",
     "paragraphs": [
       "天上夢魂何杳杳，日宮消息太沉沉。",
-      "君恩不似黃金井，一處團圓萬丈深。",
+      "君恩不似黃金井，一處團圓萬丈深。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "長信宮二首·其二",
+    "author": "高蟾",
+    "paragraphs": [
       "天上鳳凰休寄夢，人間鸚鵡舊堪悲。",
       "平生心緒無人識，一隻金梭萬丈絲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -347,17 +369,28 @@
     }
   },
   {
-    "title": "偶作二首",
+    "title": "偶作二首·其一",
     "author": "高蟾",
     "paragraphs": [
       "丁當玉佩三更雨，平帖金閨一覺雲。",
-      "明日薄情何處去，風流春水不知君。",
+      "明日薄情何處去，風流春水不知君。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "偶作二首·其二",
+    "author": "高蟾",
+    "paragraphs": [
       "霞衣重疊紅蟬暖，雲髻蔥籠紫鳳寒。",
       "天上少年分散後，一條煙水若為看。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -404,14 +437,12 @@
     "title": "句",
     "author": "高蟾",
     "paragraphs": [
-      "君恩秋後葉，日日向人疏。",
-      "知古齋主精校2000。01。22。",
-      "j"
+      "君恩秋後葉，日日向人疏。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 6],
-      "uniform_sentence_length": null
+      "sentence_count": 2,
+      "sentence_lengths": [5, 5],
+      "uniform_sentence_length": 5
     }
   }
 ]

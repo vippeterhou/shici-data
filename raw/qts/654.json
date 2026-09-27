@@ -983,32 +983,54 @@
     }
   },
   {
-    "title": "雁二首",
+    "title": "雁二首·其一",
     "author": "羅鄴",
     "paragraphs": [
       "暮天新雁起汀洲，紅蓼花開水國愁。",
-      "想得故園今夜月，幾人相憶在江樓。",
-      "早背胡霜過戍樓，又隨寒日下汀洲。",
-      "江南江北多離別，忍報年年兩地愁。"
+      "想得故園今夜月，幾人相憶在江樓。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "螢二首",
+    "title": "雁二首·其二",
+    "author": "羅鄴",
+    "paragraphs": [
+      "早背胡霜過戍樓，又隨寒日下汀洲。",
+      "江南江北多離別，忍報年年兩地愁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "螢二首·其一",
     "author": "羅鄴",
     "paragraphs": [
       "水殿清風玉戶開，飛光千點去還來。",
-      "無風無月長門夜，偏到階前點綠苔。",
+      "無風無月長門夜，偏到階前點綠苔。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "螢二首·其二",
+    "author": "羅鄴",
+    "paragraphs": [
       "裴回無燭冷無煙，秋徑莎庭入夜天。",
       "休向書窗來照字，近來紅蠟滿歌筵。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1078,17 +1100,28 @@
     }
   },
   {
-    "title": "宮中二首",
+    "title": "宮中二首·其一",
     "author": "羅鄴",
     "paragraphs": [
       "芳草長含玉輦塵，君王游幸此中頻。",
-      "今朝別有承恩處，鸚鵡飛來說似人。",
+      "今朝別有承恩處，鸚鵡飛來說似人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "宮中二首·其二",
+    "author": "羅鄴",
+    "paragraphs": [
       "雖然自小屬梨園，不識先皇玉殿門。",
       "還是當時歌舞曲，今來何處最承恩。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1418,17 +1451,28 @@
     }
   },
   {
-    "title": "吳王古宮井二首",
+    "title": "吳王古宮井二首·其一",
     "author": "羅鄴",
     "paragraphs": [
       "古宮荒井曾平後，見說耕人又鑿開。",
-      "拾得玉釵鐫敕字，當時恩澤賜誰來。",
+      "拾得玉釵鐫敕字，當時恩澤賜誰來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "吳王古宮井二首·其二",
+    "author": "羅鄴",
+    "paragraphs": [
       "含青薜荔隨金甃，碧砌磷磷生綠苔。",
       "莫言數尺無波水，曾與如花並照來。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1472,17 +1516,28 @@
     }
   },
   {
-    "title": "歎流水二首",
+    "title": "歎流水二首·其一",
     "author": "羅鄴",
     "paragraphs": [
       "人間莫謾惜花落，花落明年依舊開。",
-      "卻最堪悲是流水，便同人事去無回。",
+      "卻最堪悲是流水，便同人事去無回。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歎流水二首·其二",
+    "author": "羅鄴",
+    "paragraphs": [
       "龍躍虯蟠旋作潭，繞紅濺綠下東南。",
       "春風散入侯家去，漱齒花前酒半酣。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1800,15 +1855,26 @@
     }
   },
   {
-    "title": "秋蝶二首",
+    "title": "秋蝶二首·其一",
     "author": "羅鄴",
     "paragraphs": [
-      "秦樓花發時，秦女笑相隨。及到秋風日，飛來欲問誰。",
+      "秦樓花發時，秦女笑相隨。及到秋風日，飛來欲問誰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋蝶二首·其二",
+    "author": "羅鄴",
+    "paragraphs": [
       "似厭棲寒菊，翩翩占晚陽。愁人如見此，應下淚千行。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

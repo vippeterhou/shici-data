@@ -230,15 +230,26 @@
     }
   },
   {
-    "title": "江上愁思二首",
+    "title": "江上愁思二首·其一",
     "author": "陳羽",
     "paragraphs": [
-      "江上翁開門，開門向衰草。只知愁子孫，不覺生涯老。",
+      "江上翁開門，開門向衰草。只知愁子孫，不覺生涯老。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江上愁思二首·其二",
+    "author": "陳羽",
+    "paragraphs": [
       "江上草莖枯，莖枯葉複焦。那堪芳意盡，夜夜沒寒潮。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -436,17 +447,28 @@
     }
   },
   {
-    "title": "戲題山居二首",
+    "title": "戲題山居二首·其一",
     "author": "陳羽",
     "paragraphs": [
       "雲蓋秋松幽洞近，水穿危石亂山深。",
-      "門前自有千竿竹，免向人家看竹林。",
+      "門前自有千竿竹，免向人家看竹林。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "戲題山居二首·其二",
+    "author": "陳羽",
+    "paragraphs": [
       "雖有柴門長不關，片雲高木共身閑。",
       "猶嫌住久人知處，見欲移居更上山。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -711,17 +733,28 @@
     }
   },
   {
-    "title": "步虛詞二首",
+    "title": "步虛詞二首·其一",
     "author": "陳羽",
     "paragraphs": [
       "漢武清齋讀鼎書，太官扶上畫雲車。",
-      "壇上月明宮殿閉，仰看星斗禮空虛。",
+      "壇上月明宮殿閉，仰看星斗禮空虛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "步虛詞二首·其二",
+    "author": "陳羽",
+    "paragraphs": [
       "樓殿層層阿母家，昆侖山頂駐紅霞。",
       "笙歌出見穆天子，相引笑看琪樹花。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -897,36 +897,80 @@
     }
   },
   {
-    "title": "德宗皇帝挽歌詞三首",
+    "title": "德宗皇帝挽歌詞三首·其一",
     "author": "武元衡",
     "paragraphs": [
       "道啟軒皇聖，威揚夏禹功。謳歌亭育外，文武盛明中。",
-      "日月光連璧，煙塵屏大風。為人祈福處，台樹與天通。",
-      "聖曆□勤政，瑤圖慶運長。壽宮開此地，仙駕緲何鄉。",
-      "風斷清笳調，雲愁綠旆揚。上升知不恨，弘濟任城王。",
-      "嘗聞閶闔前，星拱北辰籙。今來大明祖，輦駕橋山曲。",
-      "松柏韻幽音，魚龍焰寒燭。歲歲秋風辭，兆人歌不足。"
+      "日月光連璧，煙塵屏大風。為人祈福處，台樹與天通。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "德宗皇帝挽歌詞三首·其二",
+    "author": "武元衡",
+    "paragraphs": [
+      "聖曆□勤政，瑤圖慶運長。壽宮開此地，仙駕緲何鄉。",
+      "風斷清笳調，雲愁綠旆揚。上升知不恨，弘濟任城王。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [4, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },
   {
-    "title": "順宗至德大聖皇帝挽歌詞三首",
+    "title": "德宗皇帝挽歌詞三首·其三",
+    "author": "武元衡",
+    "paragraphs": [
+      "嘗聞閶闔前，星拱北辰籙。今來大明祖，輦駕橋山曲。",
+      "松柏韻幽音，魚龍焰寒燭。歲歲秋風辭，兆人歌不足。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "順宗至德大聖皇帝挽歌詞三首·其一",
     "author": "武元衡",
     "paragraphs": [
       "橋山同軌會，軒後葬衣冠。東海風波變，西陵松柏攢。",
-      "鼎湖仙已去，金掌露寧幹。萬木泉扃月，空憐鳧雁寒。",
+      "鼎湖仙已去，金掌露寧幹。萬木泉扃月，空憐鳧雁寒。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "順宗至德大聖皇帝挽歌詞三首·其二",
+    "author": "武元衡",
+    "paragraphs": [
       "容衛曉徘徊，嚴城閶闔開。烏號龍馭遠，遏密鳳聲哀。",
-      "昆浪黃河注，崦嵫白日頹。恭聞天子孝，不忍望銅台。",
+      "昆浪黃河注，崦嵫白日頹。恭聞天子孝，不忍望銅台。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "順宗至德大聖皇帝挽歌詞三首·其三",
+    "author": "武元衡",
+    "paragraphs": [
       "哀挽渭川曲，空歌汾水陽。夜泉愁更咽，秋日慘無光。",
       "纘夏功傳啟，興周業繼昌。回瞻五陵上，煙雨為蒼蒼。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

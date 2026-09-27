@@ -389,19 +389,30 @@
     }
   },
   {
-    "title": "春末夏初閒遊江郭二首",
+    "title": "春末夏初閒遊江郭二首·其一",
     "author": "白居易",
     "paragraphs": [
       "閑出乘輕屐，徐行蹋軟沙。觀魚傍湓浦，看竹入楊家。",
       "林迸穿籬筍，藤飄落水花。雨埋釣舟小，風颺酒旗斜。",
-      "嫩剝青菱角，濃煎白茗芽。淹留不知夕，城樹欲棲鴉。",
+      "嫩剝青菱角，濃煎白茗芽。淹留不知夕，城樹欲棲鴉。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春末夏初閒遊江郭二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "柳影繁初合，鶯聲澀漸稀。早梅迎夏結，殘絮送春飛。",
       "西日韶光盡，南風暑氣微。展張新小簟，熨帖舊生衣。",
       "綠蟻杯香嫩，紅絲膾縷肥。故園無此味，何必苦思歸。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1090,17 +1101,28 @@
     }
   },
   {
-    "title": "偶然二首",
+    "title": "偶然二首·其一",
     "author": "白居易",
     "paragraphs": [
       "楚懷邪亂靈均直，放棄合宜何惻惻。漢文明聖賈生賢，",
-      "月離于畢合滂沱，有時不雨何能測。",
+      "月離于畢合滂沱，有時不雨何能測。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "偶然二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "火發城頭魚水裏，救火竭池魚失水。乖龍藏在牛領中，",
       "六十四卦七十鑽，畢竟不能知所以。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

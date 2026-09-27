@@ -443,17 +443,28 @@
     }
   },
   {
-    "title": "東歸道中二首",
+    "title": "東歸道中二首·其一",
     "author": "趙嘏",
     "paragraphs": [
       "平生事行役，今日始知非。歲月老將至，江湖春未歸。",
-      "傳家有天爵，主祭用儒衣。何必勞知己，無名亦息機。",
+      "傳家有天爵，主祭用儒衣。何必勞知己，無名亦息機。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "東歸道中二首·其二",
+    "author": "趙嘏",
+    "paragraphs": [
       "未明喚僮僕，江上憶殘春。風雨落花夜，山川驅馬人。",
       "星星一鏡發，草草百年身。此日念前事，滄洲情更親。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -809,17 +820,28 @@
     }
   },
   {
-    "title": "宛陵寓居上沈大夫二首",
+    "title": "宛陵寓居上沈大夫二首·其一",
     "author": "趙嘏",
     "paragraphs": [
       "滿耳歌謠滿眼山，宛陵城郭翠微間。人情已覺春長在，",
-      "幽雲高鳥俱無事，晚伴西風醉客還。",
+      "幽雲高鳥俱無事，晚伴西風醉客還。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "宛陵寓居上沈大夫二首·其二",
+    "author": "趙嘏",
+    "paragraphs": [
       "溪樹參差綠可攀，謝家雲水滿東山。能忘天上他年貴，",
       "觥籌不盡須歸去，路在春風縹緲間。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

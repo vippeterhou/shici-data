@@ -1,33 +1,209 @@
 [
   {
-    "title": "秋浦歌十七首",
+    "title": "秋浦歌十七首·其一",
     "author": "李白",
     "paragraphs": [
       "秋浦長似秋，蕭條使人愁。客愁不可度，行上東大樓。",
       "正西望長安，下見江水流。寄言向江水，汝意憶儂不。",
-      "遙傳一掬淚，為我達揚州。",
+      "遙傳一掬淚，為我達揚州。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其二",
+    "author": "李白",
+    "paragraphs": [
       "秋浦猿夜愁，黃山堪白頭。清溪非隴水，翻作斷腸流。",
-      "欲去不得去，薄游成久遊。何年是歸日，雨淚下孤舟。",
-      "秋浦錦駝鳥，人間天上稀。山雞羞淥水，不敢照毛衣。",
-      "兩鬢入秋浦，一朝颯已衰。猿聲催白髮，長短盡成絲。",
-      "秋浦多白猿，超騰若飛雪。牽引條上兒，飲弄水中月。",
-      "愁作秋浦客，強看秋浦花。山川如剡縣，風日似長沙。",
-      "醉上山公馬，寒歌甯戚牛。空吟白石爛，淚滿黑貂裘。",
-      "秋浦千重嶺，水車嶺最奇。天傾欲墮石，水拂寄生枝。",
-      "江祖一片石，青天掃畫屏。題詩留萬古，綠字錦苔生。",
+      "欲去不得去，薄游成久遊。何年是歸日，雨淚下孤舟。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其三",
+    "author": "李白",
+    "paragraphs": [
+      "秋浦錦駝鳥，人間天上稀。山雞羞淥水，不敢照毛衣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其四",
+    "author": "李白",
+    "paragraphs": [
+      "兩鬢入秋浦，一朝颯已衰。猿聲催白髮，長短盡成絲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其五",
+    "author": "李白",
+    "paragraphs": [
+      "秋浦多白猿，超騰若飛雪。牽引條上兒，飲弄水中月。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其六",
+    "author": "李白",
+    "paragraphs": [
+      "愁作秋浦客，強看秋浦花。山川如剡縣，風日似長沙。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其七",
+    "author": "李白",
+    "paragraphs": [
+      "醉上山公馬，寒歌甯戚牛。空吟白石爛，淚滿黑貂裘。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其八",
+    "author": "李白",
+    "paragraphs": [
+      "秋浦千重嶺，水車嶺最奇。天傾欲墮石，水拂寄生枝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其九",
+    "author": "李白",
+    "paragraphs": [
+      "江祖一片石，青天掃畫屏。題詩留萬古，綠字錦苔生。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其十",
+    "author": "李白",
+    "paragraphs": [
       "千千石楠樹，萬萬女貞林。山山白鷺滿，澗澗白猿吟。",
-      "君莫向秋浦，猿聲碎客心。",
-      "邏人橫鳥道，江祖出魚梁。水急客舟疾，山花拂面香。",
-      "水如一匹練，此地即平天。耐可乘明月，看花上酒船。",
-      "淥水淨素月，月明白鷺飛。郎聽采菱女，一道夜歌歸。",
-      "爐火照天地，紅星亂紫煙。赧郎明月夜，歌曲動寒川。",
-      "白髮三千丈，緣愁似個長。不知明鏡裏，何處得秋霜。",
-      "秋浦田舍翁，采魚水中宿。妻子張白鷳，結罝映深竹。",
+      "君莫向秋浦，猿聲碎客心。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其十一",
+    "author": "李白",
+    "paragraphs": [
+      "邏人橫鳥道，江祖出魚梁。水急客舟疾，山花拂面香。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其十二",
+    "author": "李白",
+    "paragraphs": [
+      "水如一匹練，此地即平天。耐可乘明月，看花上酒船。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其十三",
+    "author": "李白",
+    "paragraphs": [
+      "淥水淨素月，月明白鷺飛。郎聽采菱女，一道夜歌歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其十四",
+    "author": "李白",
+    "paragraphs": [
+      "爐火照天地，紅星亂紫煙。赧郎明月夜，歌曲動寒川。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其十五",
+    "author": "李白",
+    "paragraphs": [
+      "白髮三千丈，緣愁似個長。不知明鏡裏，何處得秋霜。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其十六",
+    "author": "李白",
+    "paragraphs": [
+      "秋浦田舍翁，采魚水中宿。妻子張白鷳，結罝映深竹。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋浦歌十七首·其十七",
+    "author": "李白",
+    "paragraphs": [
       "桃波一步地，了了語聲聞。暗與山僧別，低頭禮白雲。"
     ],
     "format": {
-      "sentence_count": 80,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -48,66 +224,275 @@
     }
   },
   {
-    "title": "永王東巡歌十一首",
+    "title": "永王東巡歌十一首·其一",
     "author": "李白",
     "paragraphs": [
       "永王正月東出師，天子遙分龍虎旗。",
-      "樓船一舉風波靜，江漢翻為雁鶩池。",
-      "三川北虜亂如麻，四海南奔似永嘉。",
-      "但用東山謝安石，為君談笑靜胡沙。",
-      "雷鼓嘈嘈喧武昌，雲旗獵獵過尋陽。",
-      "秋毫不犯三吳悅，春日遙看五色光。",
-      "龍蟠虎踞帝王州，帝子金陵訪古丘。",
-      "春風試暖昭陽殿，明月還過鳷鵲樓。",
-      "二帝巡遊俱未回，五陵松柏使人哀。",
-      "諸侯不救河南地，更喜賢王遠道來。",
-      "丹陽北固是吳關，畫出樓臺雲水間。",
-      "千岩烽火連滄海，兩岸旌旗繞碧山。",
-      "王出三山按五湖，樓船跨海次陪都。",
-      "戰艦森森羅虎士，征帆一一引龍駒。",
-      "長風掛席勢難回，海動山傾古月摧。",
-      "君看帝子浮江日，何似龍驤出峽來。",
-      "祖龍浮海不成橋，漢武尋陽空射蛟。",
-      "我王樓艦輕秦漢，卻似文皇欲渡遼。",
-      "帝寵賢王入楚關，掃清江漢始應還。",
-      "初從雲夢開朱邸，更取金陵作小山。",
-      "試借君王玉馬鞭，指揮戎虜坐瓊筵。",
-      "南風一掃胡塵靜，西入長安到日邊。"
+      "樓船一舉風波靜，江漢翻為雁鶩池。"
     ],
     "format": {
-      "sentence_count": 44,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "上皇西巡南京歌十首",
+    "title": "永王東巡歌十一首·其二",
+    "author": "李白",
+    "paragraphs": [
+      "三川北虜亂如麻，四海南奔似永嘉。",
+      "但用東山謝安石，為君談笑靜胡沙。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "永王東巡歌十一首·其三",
+    "author": "李白",
+    "paragraphs": [
+      "雷鼓嘈嘈喧武昌，雲旗獵獵過尋陽。",
+      "秋毫不犯三吳悅，春日遙看五色光。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "永王東巡歌十一首·其四",
+    "author": "李白",
+    "paragraphs": [
+      "龍蟠虎踞帝王州，帝子金陵訪古丘。",
+      "春風試暖昭陽殿，明月還過鳷鵲樓。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "永王東巡歌十一首·其五",
+    "author": "李白",
+    "paragraphs": [
+      "二帝巡遊俱未回，五陵松柏使人哀。",
+      "諸侯不救河南地，更喜賢王遠道來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "永王東巡歌十一首·其六",
+    "author": "李白",
+    "paragraphs": [
+      "丹陽北固是吳關，畫出樓臺雲水間。",
+      "千岩烽火連滄海，兩岸旌旗繞碧山。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "永王東巡歌十一首·其七",
+    "author": "李白",
+    "paragraphs": [
+      "王出三山按五湖，樓船跨海次陪都。",
+      "戰艦森森羅虎士，征帆一一引龍駒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "永王東巡歌十一首·其八",
+    "author": "李白",
+    "paragraphs": [
+      "長風掛席勢難回，海動山傾古月摧。",
+      "君看帝子浮江日，何似龍驤出峽來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "永王東巡歌十一首·其九",
+    "author": "李白",
+    "paragraphs": [
+      "祖龍浮海不成橋，漢武尋陽空射蛟。",
+      "我王樓艦輕秦漢，卻似文皇欲渡遼。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "永王東巡歌十一首·其十",
+    "author": "李白",
+    "paragraphs": [
+      "帝寵賢王入楚關，掃清江漢始應還。",
+      "初從雲夢開朱邸，更取金陵作小山。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "永王東巡歌十一首·其十一",
+    "author": "李白",
+    "paragraphs": [
+      "試借君王玉馬鞭，指揮戎虜坐瓊筵。",
+      "南風一掃胡塵靜，西入長安到日邊。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "上皇西巡南京歌十首·其一",
     "author": "李白",
     "paragraphs": [
       "胡塵輕拂建章台，聖主西巡蜀道來。",
-      "劍壁門高五千尺，石為樓閣九天開。",
+      "劍壁門高五千尺，石為樓閣九天開。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "上皇西巡南京歌十首·其二",
+    "author": "李白",
+    "paragraphs": [
       "九天開出一成都，萬戶千門入畫圖。",
-      "草樹雲山如錦繡，秦川得及此間無。",
+      "草樹雲山如錦繡，秦川得及此間無。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "上皇西巡南京歌十首·其三",
+    "author": "李白",
+    "paragraphs": [
       "華陽春樹號新豐，行入新都若舊宮。",
-      "柳色未饒秦地綠，花光不減上陽紅。",
+      "柳色未饒秦地綠，花光不減上陽紅。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "上皇西巡南京歌十首·其四",
+    "author": "李白",
+    "paragraphs": [
       "誰道君王行路難，六龍西幸萬人歡。",
-      "地轉錦江成渭水，天回玉壘作長安。",
+      "地轉錦江成渭水，天回玉壘作長安。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "上皇西巡南京歌十首·其五",
+    "author": "李白",
+    "paragraphs": [
       "萬國同風共一時，錦江何謝曲江池。",
-      "石鏡更明天上月，後宮親得照蛾眉。",
+      "石鏡更明天上月，後宮親得照蛾眉。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "上皇西巡南京歌十首·其六",
+    "author": "李白",
+    "paragraphs": [
       "濯錦清江萬里流，雲帆龍舸下揚州。",
-      "北地雖誇上林苑，南京還有散花樓。",
+      "北地雖誇上林苑，南京還有散花樓。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "上皇西巡南京歌十首·其七",
+    "author": "李白",
+    "paragraphs": [
       "錦水東流繞錦城，星橋北掛象天星。",
-      "四海此中朝聖主，峨眉山下列仙庭。",
+      "四海此中朝聖主，峨眉山下列仙庭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "上皇西巡南京歌十首·其八",
+    "author": "李白",
+    "paragraphs": [
       "秦開蜀道置金牛，漢水元通星漢流。",
-      "天子一行遺聖跡，錦城長作帝王州。",
+      "天子一行遺聖跡，錦城長作帝王州。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "上皇西巡南京歌十首·其九",
+    "author": "李白",
+    "paragraphs": [
       "水綠天青不起塵，風光和暖勝三秦。",
-      "萬國煙花隨玉輦，西來添作錦江春。",
+      "萬國煙花隨玉輦，西來添作錦江春。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "上皇西巡南京歌十首·其十",
+    "author": "李白",
+    "paragraphs": [
       "劍閣重關蜀北門，上皇歸馬若雲屯。",
       "少帝長安開紫極，雙懸日月照乾坤。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

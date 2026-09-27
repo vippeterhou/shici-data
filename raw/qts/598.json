@@ -255,17 +255,28 @@
     }
   },
   {
-    "title": "贈歌者二首",
+    "title": "贈歌者二首·其一",
     "author": "高駢",
     "paragraphs": [
       "酒滿金船花滿枝，佳人立唱慘愁眉。",
-      "一聲直入青雲去，多少悲歡起此時。",
+      "一聲直入青雲去，多少悲歡起此時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈歌者二首·其二",
+    "author": "高駢",
+    "paragraphs": [
       "公子邀歡月滿樓，雙成揭調唱伊州。",
       "便從席上風沙起，直到陽關水盡頭。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -400,17 +411,28 @@
     }
   },
   {
-    "title": "塞上曲二首",
+    "title": "塞上曲二首·其一",
     "author": "高駢",
     "paragraphs": [
       "二年邊戍絕煙塵，一曲河灣萬恨新。",
-      "從此鳳林關外事，不知誰是苦心人。",
+      "從此鳳林關外事，不知誰是苦心人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞上曲二首·其二",
+    "author": "高駢",
+    "paragraphs": [
       "隴上征夫隴下魂，死生同恨漢將軍。",
       "不知萬里沙場苦，空舉平安火入雲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -532,17 +554,28 @@
     }
   },
   {
-    "title": "寫懷二首",
+    "title": "寫懷二首·其一",
     "author": "高駢",
     "paragraphs": [
       "漁竿消日酒消愁，一醉忘情萬事休。",
-      "卻恨韓彭興漢室，功成不向五湖遊。",
+      "卻恨韓彭興漢室，功成不向五湖遊。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寫懷二首·其二",
+    "author": "高駢",
+    "paragraphs": [
       "花滿西園月滿池，笙歌搖曳畫船移。",
       "如今暗與心相約，不動征旗動酒旗。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

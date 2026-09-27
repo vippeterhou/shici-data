@@ -23,30 +23,74 @@
     }
   },
   {
-    "title": "苦哉行五首",
+    "title": "苦哉行五首·其一",
     "author": "戎昱",
     "paragraphs": [
       "彼鼠侵我廚，縱狸授粱肉。鼠雖為君卻，狸食自須足。",
       "冀雪大國恥，翻是大國辱。膻腥逼綺羅，磚瓦雜珠玉。",
-      "登樓非騁望，目笑是心哭。何意天樂中，至今奏胡曲。",
+      "登樓非騁望，目笑是心哭。何意天樂中，至今奏胡曲。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "苦哉行五首·其二",
+    "author": "戎昱",
+    "paragraphs": [
       "官軍收洛陽，家住洛陽裏。夫婿與兄弟，目前見傷死。",
       "吞聲不許哭，還遣衣羅綺。上馬隨匈奴，數秋黃塵裏。",
-      "生為名家女，死作塞垣鬼。鄉國無還期，天津哭流水。",
+      "生為名家女，死作塞垣鬼。鄉國無還期，天津哭流水。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "苦哉行五首·其三",
+    "author": "戎昱",
+    "paragraphs": [
       "登樓望天衢，目極淚盈睫。強笑無笑容，須妝舊花靨。",
       "昔年買奴僕，奴僕來碎葉。豈意未死間，自為匈奴妾。",
-      "一生忽至此，萬事痛苦業。得出塞垣飛，不如彼蜂蝶。",
+      "一生忽至此，萬事痛苦業。得出塞垣飛，不如彼蜂蝶。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "苦哉行五首·其四",
+    "author": "戎昱",
+    "paragraphs": [
       "妾家清河邊，七葉承貂蟬。身為最小女，偏得渾家憐。",
       "親戚不相識，幽閨十五年。有時最遠出，只到中門前。",
       "前年狂胡來，懼死翻生全。今秋官軍至，豈意遭戈鋋。",
       "匈奴為先鋒，長鼻黃發拳。彎弓獵生人，百步牛羊膻。",
-      "脫身落虎口，不及歸黃泉。苦哉難重陳，暗哭蒼蒼天。",
+      "脫身落虎口，不及歸黃泉。苦哉難重陳，暗哭蒼蒼天。"
+    ],
+    "format": {
+      "sentence_count": 20,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "苦哉行五首·其五",
+    "author": "戎昱",
+    "paragraphs": [
       "可汗奉親詔，今月歸燕山。忽如亂刀劍，攪妾心腸間。",
       "出戶望北荒，迢迢玉門關。生人為死別，有去無時還。",
       "漢月割妾心，胡風凋妾顏。去去斷絕魂，叫天天不聞。"
     ],
     "format": {
-      "sentence_count": 68,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -696,17 +740,28 @@
     }
   },
   {
-    "title": "湖南春日二首",
+    "title": "湖南春日二首·其一",
     "author": "戎昱",
     "paragraphs": [
       "自憐春日客長沙，江上無人轉憶家。",
-      "光景卻添鄉思苦，簷前數片落梅花。",
+      "光景卻添鄉思苦，簷前數片落梅花。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "湖南春日二首·其二",
+    "author": "戎昱",
+    "paragraphs": [
       "三湘漂寓若流萍，萬里湘鄉隔洞庭。",
       "羈客春來心欲碎，東風莫遣柳條青。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1103,17 +1158,28 @@
     }
   },
   {
-    "title": "收襄陽城二首",
+    "title": "收襄陽城二首·其一",
     "author": "戎昱",
     "paragraphs": [
       "悲風慘慘雨修修，峴北山低草木愁。",
-      "暗發前軍連夜戰，平明旌旆入襄州。",
+      "暗發前軍連夜戰，平明旌旆入襄州。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "收襄陽城二首·其二",
+    "author": "戎昱",
+    "paragraphs": [
       "五營飛將擁霜戈，百里僵屍滿濜河。",
       "日暮歸來看劍血，將軍卻恨殺人多。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1157,18 +1223,29 @@
     }
   },
   {
-    "title": "採蓮曲二首",
+    "title": "採蓮曲二首·其一",
     "author": "戎昱",
     "paragraphs": [
       "雖聽採蓮曲，詎識採蓮心。漾楫愛花遠，回船愁浪深。",
-      "煙生極浦色，日落半江陰。同侶憐波靜，看妝墮玉簪。",
+      "煙生極浦色，日落半江陰。同侶憐波靜，看妝墮玉簪。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "採蓮曲二首·其二",
+    "author": "戎昱",
+    "paragraphs": [
       "涔陽女兒花滿頭，毿毿同泛木蘭舟。",
       "秋風日暮南湖裏，爭唱菱歌不肯休。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

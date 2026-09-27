@@ -29,17 +29,28 @@
     }
   },
   {
-    "title": "奉和張岳州王潭州別詩二首",
+    "title": "奉和張岳州王潭州別詩二首·其一",
     "author": "韋嗣立",
     "paragraphs": [
       "茂先王佐才，作牧楚江隈。登樓正欲賦，複遇仲宣來。",
-      "黃鵠飛將遠，雕龍文為開。寧知昔聯事，聽曲有餘哀。",
+      "黃鵠飛將遠，雕龍文為開。寧知昔聯事，聽曲有餘哀。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "奉和張岳州王潭州別詩二首·其二",
+    "author": "韋嗣立",
+    "paragraphs": [
       "昔時陪二賢，纓冕會神仙。一去馳江海，相逢共播遷。",
       "無因千里駕，忽睹四愁篇。覽諷歡何已，歡終徒愴然。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

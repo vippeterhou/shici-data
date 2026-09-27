@@ -28,19 +28,41 @@
     }
   },
   {
-    "title": "少年行三首",
+    "title": "少年行三首·其一",
     "author": "李嶷",
     "paragraphs": [
       "十八羽林郎，戎衣侍漢王。臂鷹金殿側，挾彈玉輿傍。",
-      "馳道春風起，陪游出建章。",
+      "馳道春風起，陪游出建章。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "少年行三首·其二",
+    "author": "李嶷",
+    "paragraphs": [
       "侍獵長楊下，承恩更射飛。塵生馬影滅，箭落雁行稀。",
-      "薄暮隨天仗，聯翩入瑣闈。",
+      "薄暮隨天仗，聯翩入瑣闈。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "少年行三首·其三",
+    "author": "李嶷",
+    "paragraphs": [
       "玉劍膝邊橫，金杯馬上傾。朝遊茂陵道，夜宿鳳凰城。",
       "豪吏多猜忌，無勞問姓名。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -97,15 +119,26 @@
     }
   },
   {
-    "title": "古歌二首",
+    "title": "古歌二首·其一",
     "author": "蔣維翰",
     "paragraphs": [
-      "美人怨何深，含情倚金閣。不嚬複不語，紅淚雙雙落。",
+      "美人怨何深，含情倚金閣。不嚬複不語，紅淚雙雙落。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古歌二首·其二",
+    "author": "蔣維翰",
+    "paragraphs": [
       "美人閉紅燭，獨坐裁新錦。頻放剪刀聲，夜寒知未寢。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

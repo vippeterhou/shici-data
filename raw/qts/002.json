@@ -17,17 +17,28 @@
     }
   },
   {
-    "title": "七夕宴懸圃二首",
+    "title": "七夕宴懸圃二首·其一",
     "author": "李治",
     "paragraphs": [
       "羽蓋飛天漢，鳳駕越層巒。俱歎三秋阻，共敘一宵歡。",
-      "璜虧夜月落，靨碎曉星殘。誰能重操杼，纖手濯清瀾。",
+      "璜虧夜月落，靨碎曉星殘。誰能重操杼，纖手濯清瀾。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "七夕宴懸圃二首·其二",
+    "author": "李治",
+    "paragraphs": [
       "霓裳轉雲路，鳳駕儼天潢。虧星凋夜靨，殘月落朝璜。",
       "促歡今夕促，長離別後長。輕梭聊駐織，掩淚獨悲傷。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

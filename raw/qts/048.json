@@ -951,53 +951,119 @@
     }
   },
   {
-    "title": "故刑部李尚書挽詞三首",
+    "title": "故刑部李尚書挽詞三首·其一",
     "author": "張九齡",
     "paragraphs": [
       "仙宗出趙北，相業起山東。明德嘗為禮，嘉謀屢作忠。",
-      "論經白虎殿，獻賦甘泉宮。與善今何在，蒼生望已空。",
+      "論經白虎殿，獻賦甘泉宮。與善今何在，蒼生望已空。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故刑部李尚書挽詞三首·其二",
+    "author": "張九齡",
+    "paragraphs": [
       "宿昔三台踐，榮華駟馬歸。印從青瑣拜，翰入紫宸揮。",
-      "題劍恩方重，藏舟事已非。龍門不可望，感激涕沾衣。",
+      "題劍恩方重，藏舟事已非。龍門不可望，感激涕沾衣。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故刑部李尚書挽詞三首·其三",
+    "author": "張九齡",
+    "paragraphs": [
       "永歎常山寶，沉埋京兆阡。同盟會五月，華表記千年。",
       "渺漫野中草，微茫空裏煙。共悲人事絕，唯對杜陵田。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "故徐州刺史贈吏部侍郎蘇公挽歌詞三首",
+    "title": "故徐州刺史贈吏部侍郎蘇公挽歌詞三首·其一",
     "author": "張九齡",
     "paragraphs": [
       "韋玄方繼相，荀爽複齊名。在貴兼天爵，能賢出世卿。",
-      "學聞金馬詔，神見玉人清。藏壑今如此，為山遂不成。",
+      "學聞金馬詔，神見玉人清。藏壑今如此，為山遂不成。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故徐州刺史贈吏部侍郎蘇公挽歌詞三首·其二",
+    "author": "張九齡",
+    "paragraphs": [
       "相如只謝病，子敬忽雲亡。豈悟瑤台雪，分雕玉樹行。",
-      "清規留草議，故事在封章。本謂山公啟，而今歿始揚。",
+      "清規留草議，故事在封章。本謂山公啟，而今歿始揚。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故徐州刺史贈吏部侍郎蘇公挽歌詞三首·其三",
+    "author": "張九齡",
+    "paragraphs": [
       "返葬長安陌，秋風簫鼓悲。奈何相送者，不是平生時。",
       "寒影催年急，哀歌助晚遲。寧知建旟罷，丹旐向京師。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "故滎陽君蘇氏挽歌詞三首",
+    "title": "故滎陽君蘇氏挽歌詞三首·其一",
     "author": "張九齡",
     "paragraphs": [
       "門緒公侯列，嬪風詩禮行。松蘿方有寄，桃李忽無成。",
-      "劍去雙龍別，雛哀九鳳鳴。何言嶧山樹，還似半心生。",
+      "劍去雙龍別，雛哀九鳳鳴。何言嶧山樹，還似半心生。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故滎陽君蘇氏挽歌詞三首·其二",
+    "author": "張九齡",
+    "paragraphs": [
       "永歎芳魂斷，行看草露滋。二宗榮盛日，千古別離時。",
-      "竟罷生芻贈，空留畫扇悲。容車候曉發，何歲是歸期。",
+      "竟罷生芻贈，空留畫扇悲。容車候曉發，何歲是歸期。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故滎陽君蘇氏挽歌詞三首·其三",
+    "author": "張九齡",
+    "paragraphs": [
       "縞服紛相送，玄扃翳不開。更悲泉火滅，徒見柳車回。",
       "舊室容衣奠，新塋拱樹栽。唯應月照簟，潘嶽此時哀。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

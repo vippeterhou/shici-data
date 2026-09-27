@@ -39,17 +39,28 @@
     }
   },
   {
-    "title": "奉和同皇太子過慈恩寺應制二首",
+    "title": "奉和同皇太子過慈恩寺應制二首·其一",
     "author": "張說",
     "paragraphs": [
       "翼翼宸恩永，煌煌福地開。離光升寶殿，震氣繞香台。",
-      "上界幡花合，中天伎樂來。願君無量壽，仙樂屢徘徊。",
+      "上界幡花合，中天伎樂來。願君無量壽，仙樂屢徘徊。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "奉和同皇太子過慈恩寺應制二首·其二",
+    "author": "張說",
+    "paragraphs": [
       "朗朗神居峻，軒軒瑞象威。聖君成願果，太子拂天衣。",
       "至樂三靈會，深仁四皓歸。還聞渦水曲，更繞白雲飛。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -262,21 +273,54 @@
     }
   },
   {
-    "title": "東都酺宴四首",
+    "title": "東都酺宴四首·其一",
     "author": "張說",
     "paragraphs": [
       "重華升寶曆，軒帝眇閒居。政成天子孝，俗返上皇初。",
-      "忘味因觀樂，歡心寄合酺。自憐疲馬意，戀戀主恩餘。",
+      "忘味因觀樂，歡心寄合酺。自憐疲馬意，戀戀主恩餘。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "東都酺宴四首·其二",
+    "author": "張說",
+    "paragraphs": [
       "朱城塵曀滅，翠幕景情開。震震靈鼉起，翔翔舞鳳來。",
-      "雕盤裝草樹，綺乘結樓臺。共喜光華日，酣歌捧玉杯。",
+      "雕盤裝草樹，綺乘結樓臺。共喜光華日，酣歌捧玉杯。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "東都酺宴四首·其三",
+    "author": "張說",
+    "paragraphs": [
       "曉月調金闕，朝暾對玉盤。爭馳群鳥散，鬥伎百花團。",
-      "遇聖人知幸，承恩物自歡。洛橋將舉燭，醉舞拂歸鞍。",
+      "遇聖人知幸，承恩物自歡。洛橋將舉燭，醉舞拂歸鞍。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "東都酺宴四首·其四",
+    "author": "張說",
+    "paragraphs": [
       "愷宴惟今席，餘歡殊未窮。入雲歌嫋嫋，向日伎叢叢。",
       "駛管催酣興，留關待曲終。長安若為樂，應與萬方同。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -482,17 +526,28 @@
     }
   },
   {
-    "title": "嶽州宴別潭州王熊二首",
+    "title": "嶽州宴別潭州王熊二首·其一",
     "author": "張說",
     "paragraphs": [
       "絲管清且哀，一曲傾一杯。氣將然諾重，心向友朋開。",
-      "古木無生意，寒雲若死灰。贈君芳杜草，為植建章台。",
+      "古木無生意，寒雲若死灰。贈君芳杜草，為植建章台。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "嶽州宴別潭州王熊二首·其二",
+    "author": "張說",
+    "paragraphs": [
       "縉雲連省閣，溝水遽西東。然諾心猶在，榮華歲不同。",
       "孤城臨楚塞，遠樹入秦宮。誰念三千里，江潭一老翁。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -653,17 +708,28 @@
     }
   },
   {
-    "title": "和朱使欣二首",
+    "title": "和朱使欣二首·其一",
     "author": "張說",
     "paragraphs": [
       "南土多為寇，西江盡畏途。山行阻篁竹，水宿礙萑蒲。",
-      "使越才應有，征蠻力豈無。空傳人贈劍，不見虎銜珠。",
+      "使越才應有，征蠻力豈無。空傳人贈劍，不見虎銜珠。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和朱使欣二首·其二",
+    "author": "張說",
+    "paragraphs": [
       "江勢連山遠，天涯此夜愁。霜空極天靜，寒月帶江流。",
       "思起南征棹，文高北望樓。自憐如墜葉，泛泛侶仙舟。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -980,62 +1046,106 @@
     }
   },
   {
-    "title": "惠文太子挽歌二首",
+    "title": "惠文太子挽歌二首·其一",
     "author": "張說",
     "paragraphs": [
       "碣館英靈在，瑤山美諡尊。剪桐悲曩戲，攻玉愴新恩。",
-      "宮仗傳馳道，朝衣送國門。千秋谷門外，明月照西園。",
+      "宮仗傳馳道，朝衣送國門。千秋谷門外，明月照西園。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "惠文太子挽歌二首·其二",
+    "author": "張說",
+    "paragraphs": [
       "梁國深文雅，淮王愛道仙。帝歡同宴日，神奪上賓年。",
       "旒旐飛行樹，帷宮宿野煙。指言君愛弟，揮淚滿山川。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "節義太子楊妃挽歌二首",
+    "title": "節義太子楊妃挽歌二首·其一",
     "author": "張說",
     "paragraphs": [
       "西華三公族，東闈五可才。玉環初受慶，金玦反逢災。",
-      "桂殿花空落，桐園月自開。朝雲將暮雨，長繞望思台。",
+      "桂殿花空落，桐園月自開。朝雲將暮雨，長繞望思台。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "節義太子楊妃挽歌二首·其二",
+    "author": "張說",
+    "paragraphs": [
       "昔日三朝路，逶迤四望車。繡腰長命綺，隱髻連枝花。",
       "今春戾園樹，索然無歲華。共傷千載後，惟號一王家。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "韋譙公挽歌二首",
+    "title": "韋譙公挽歌二首·其一",
     "author": "張說",
     "paragraphs": [
       "五瑞分王國，雙珠映後家。文飛書上鳳，武結笥中蛇。",
-      "出豫榮前馬，回鸞喪後車。袞衣將錫命，泉路有光華。",
+      "出豫榮前馬，回鸞喪後車。袞衣將錫命，泉路有光華。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "韋譙公挽歌二首·其二",
+    "author": "張說",
+    "paragraphs": [
       "國騁雙騏驥，庭儀兩鳳凰。將星連相位，玉樹伴金鄉。",
       "歌舞侯家豔，軒裘戚裏光。安知杜陵下，碑版已相望。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "右丞相蘇公挽歌二首",
+    "title": "右丞相蘇公挽歌二首·其一",
     "author": "張說",
     "paragraphs": [
       "王宰丹青化，春卿禮樂才。緇衣傳舊職，華袞贈新哀。",
-      "路泣群官送，山嘶駟馬回。佳辰無白日，賓閣有青苔。",
+      "路泣群官送，山嘶駟馬回。佳辰無白日，賓閣有青苔。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "右丞相蘇公挽歌二首·其二",
+    "author": "張說",
+    "paragraphs": [
       "門歌出野田，冠帶寢窮泉。萬事皆身外，平生尚目前。",
       "西垣紫泥綍，東嶽白雲篇。自惜同聲處，從今遂絕弦。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1053,66 +1163,132 @@
     }
   },
   {
-    "title": "右侍郎集賢院學士徐公挽詞二首",
+    "title": "右侍郎集賢院學士徐公挽詞二首·其一",
     "author": "張說",
     "paragraphs": [
       "才美臨淄北，名高淮海東。羽儀三省遍，漁獵五車通。",
-      "玉殿孤新榜，珠英落舊叢。徒懸一寶劍，何處訪徐公。",
+      "玉殿孤新榜，珠英落舊叢。徒懸一寶劍，何處訪徐公。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "右侍郎集賢院學士徐公挽詞二首·其二",
+    "author": "張說",
+    "paragraphs": [
       "歎息書林友，才華天下選。並賦三陽宮，集詩集賢殿。",
       "具物衣如在，咄嗟長不見。既哀薤露詞，豈忘平生眷。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "崔司業挽歌二首",
+    "title": "崔司業挽歌二首·其一",
     "author": "張說",
     "paragraphs": [
       "海岱英靈氣，膠庠禮樂資。風流滿天下，人物擅京師。",
-      "疾起揚雄賦，魂遊謝客詩。從今好文主，遺恨不同時。",
+      "疾起揚雄賦，魂遊謝客詩。從今好文主，遺恨不同時。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "崔司業挽歌二首·其二",
+    "author": "張說",
+    "paragraphs": [
       "象設存華館，威儀下墓田。鳳池傷舊草，麟史泣遺編。",
       "帷蓋墟煙沒，幹旌隴日懸。古來埋玉樹，流恨滿山川。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "李工部挽歌三首",
+    "title": "李工部挽歌三首·其一",
     "author": "張說",
     "paragraphs": [
       "錦帳為郎日，金門待詔時。楊宮先上賦，柏殿幾連詩。",
-      "瞬息琴歌斷，淒涼簫挽悲。那堪霸陵岸，回首望京師。",
+      "瞬息琴歌斷，淒涼簫挽悲。那堪霸陵岸，回首望京師。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "李工部挽歌三首·其二",
+    "author": "張說",
+    "paragraphs": [
       "宅兆西陵上，平生雅志從。城臨丹闕近，山望白雲重。",
-      "會葬知元伯，看碑識蔡邕。無由接神理，揮涕向青松。",
+      "會葬知元伯，看碑識蔡邕。無由接神理，揮涕向青松。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "李工部挽歌三首·其三",
+    "author": "張說",
+    "paragraphs": [
       "常時好賓客，永日對弦歌。是日歸泉下，傷心無奈何。",
       "墓庭人已散，祭處鳥來過。碑石生苔蘚，榮名豈複多。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "贈工部尚書馮公挽歌三首",
+    "title": "贈工部尚書馮公挽歌三首·其一",
     "author": "張說",
     "paragraphs": [
       "忠鯁難為事，平生盡畏途。如弦心自直，秀木勢恒孤。",
-      "詔葬南陵道，神遊北斗樞。貴門傳萬石，餘慶在雙珠。",
+      "詔葬南陵道，神遊北斗樞。貴門傳萬石，餘慶在雙珠。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "贈工部尚書馮公挽歌三首·其二",
+    "author": "張說",
+    "paragraphs": [
       "爵位題龍旐，威儀出鳳城。路傍人泣送，門外馬嘶迎。",
-      "萬事非吾有，千悲是世情。昔焉稱夏日，今也諡冬卿。",
+      "萬事非吾有，千悲是世情。昔焉稱夏日，今也諡冬卿。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "贈工部尚書馮公挽歌三首·其三",
+    "author": "張說",
+    "paragraphs": [
       "窅然長夜台，舉世可哀哉。泉戶一朝閉，松風四面來。",
       "石碑填駁蘚，珠服聚塵埃。誰言遼東鶴，千年往復回。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1208,19 +1384,41 @@
     }
   },
   {
-    "title": "舞馬千秋萬歲樂府詞三首",
+    "title": "舞馬千秋萬歲樂府詞三首·其一",
     "author": "張說",
     "paragraphs": [
       "金天誕聖千秋節，玉醴還分萬壽觴。試聽紫騮歌樂府，",
-      "歲歲相傳指樹日，翩翩來伴慶雲翔。",
+      "歲歲相傳指樹日，翩翩來伴慶雲翔。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "舞馬千秋萬歲樂府詞三首·其二",
+    "author": "張說",
+    "paragraphs": [
       "聖皇至德與天齊，天馬來儀自海西。腕足徐行拜兩膝，",
-      "更有銜杯終宴曲，垂頭掉尾醉如泥。",
+      "更有銜杯終宴曲，垂頭掉尾醉如泥。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "舞馬千秋萬歲樂府詞三首·其三",
+    "author": "張說",
+    "paragraphs": [
       "遠聽明君愛逸才，玉鞭金翅引龍媒。不因茲白人間有，",
       "莫言闕下桃花舞，別有河中蘭葉開。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

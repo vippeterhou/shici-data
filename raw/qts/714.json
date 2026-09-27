@@ -13,28 +13,50 @@
     }
   },
   {
-    "title": "銅雀妓二首",
+    "title": "銅雀妓二首·其一",
     "author": "崔道融",
     "paragraphs": [
-      "嚴妝垂玉箸，妙舞對清風。無複君王顧，春來起漸慵。",
-      "歌咽新翻曲，香銷舊賜衣。陵園春雨暗，不見六龍歸。"
+      "嚴妝垂玉箸，妙舞對清風。無複君王顧，春來起漸慵。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "春閨二首",
+    "title": "銅雀妓二首·其二",
     "author": "崔道融",
     "paragraphs": [
-      "寒食月明雨，落花香滿泥。佳人持錦字，無雁寄遼西。",
+      "歌咽新翻曲，香銷舊賜衣。陵園春雨暗，不見六龍歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春閨二首·其一",
+    "author": "崔道融",
+    "paragraphs": [
+      "寒食月明雨，落花香滿泥。佳人持錦字，無雁寄遼西。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春閨二首·其二",
+    "author": "崔道融",
+    "paragraphs": [
       "欲剪宜春字，春寒入剪刀。遼陽在何處，莫望寄征袍。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -171,30 +193,74 @@
     }
   },
   {
-    "title": "擬樂府子夜四時歌四首",
+    "title": "擬樂府子夜四時歌四首·其一",
     "author": "崔道融",
     "paragraphs": [
-      "吳子愛桃李，月色不到地。明朝欲看花，六宮人不睡。",
-      "涼軒待月生，暗裏螢飛出。低回不稱意，蛙鳴亂清瑟。",
-      "月色明如晝，蟲聲入戶多。狂夫自不歸，滿地無天河。",
-      "銀缸照殘夢，零淚沾粉臆。洞房猶自寒，何況關山北。"
+      "吳子愛桃李，月色不到地。明朝欲看花，六宮人不睡。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "寄人二首",
+    "title": "擬樂府子夜四時歌四首·其二",
     "author": "崔道融",
     "paragraphs": [
-      "花上斷續雨，江頭來去風。相思春欲盡，未遣酒尊空。",
+      "涼軒待月生，暗裏螢飛出。低回不稱意，蛙鳴亂清瑟。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "擬樂府子夜四時歌四首·其三",
+    "author": "崔道融",
+    "paragraphs": [
+      "月色明如晝，蟲聲入戶多。狂夫自不歸，滿地無天河。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "擬樂府子夜四時歌四首·其四",
+    "author": "崔道融",
+    "paragraphs": [
+      "銀缸照殘夢，零淚沾粉臆。洞房猶自寒，何況關山北。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄人二首·其一",
+    "author": "崔道融",
+    "paragraphs": [
+      "花上斷續雨，江頭來去風。相思春欲盡，未遣酒尊空。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄人二首·其二",
+    "author": "崔道融",
+    "paragraphs": [
       "澹澹長江水，悠悠遠客情。落花相與恨，到地一無聲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -283,15 +349,26 @@
     }
   },
   {
-    "title": "春題二首",
+    "title": "春題二首·其一",
     "author": "崔道融",
     "paragraphs": [
-      "青春未得意，見花卻如讎。路逢白麵郎，醉插花滿頭。",
+      "青春未得意，見花卻如讎。路逢白麵郎，醉插花滿頭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春題二首·其二",
+    "author": "崔道融",
+    "paragraphs": [
       "滿眼桃李花，愁人如不見。別有惜花人，東風莫吹散。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -308,15 +385,26 @@
     }
   },
   {
-    "title": "病起二首",
+    "title": "病起二首·其一",
     "author": "崔道融",
     "paragraphs": [
-      "病起春已晚，曳筇傷綠苔。強攀庭樹枝，喚作花未開。",
+      "病起春已晚，曳筇傷綠苔。強攀庭樹枝，喚作花未開。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "病起二首·其二",
+    "author": "崔道融",
+    "paragraphs": [
       "病起繞庭除，春泥粘屐齒。如從萬里來，骨肉滿面喜。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -522,17 +610,28 @@
     }
   },
   {
-    "title": "溪上遇雨二首",
+    "title": "溪上遇雨二首·其一",
     "author": "崔道融",
     "paragraphs": [
       "回塘雨腳如繅絲，野禽不起沈魚飛。",
-      "耕蓑釣笠取未暇，秋田有望從淋漓。",
+      "耕蓑釣笠取未暇，秋田有望從淋漓。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "溪上遇雨二首·其二",
+    "author": "崔道融",
+    "paragraphs": [
       "坐看黑雲銜猛雨，噴灑前山此獨晴。",
       "忽驚雲雨在頭上，卻是山前晚照明。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -640,17 +739,28 @@
     }
   },
   {
-    "title": "悲李拾遺二首",
+    "title": "悲李拾遺二首·其一",
     "author": "崔道融",
     "paragraphs": [
       "故友從來匪石心，諫多難得主恩深。",
-      "行朝半夜煙塵起，曉殿籲嗟一鏡沈。",
+      "行朝半夜煙塵起，曉殿籲嗟一鏡沈。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "悲李拾遺二首·其二",
+    "author": "崔道融",
+    "paragraphs": [
       "天涯時有北來塵，因話它人及故人。",
       "也是先皇能罪己，殿前頻得觸龍鱗。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -720,17 +830,28 @@
     }
   },
   {
-    "title": "謝朱常侍寄貺蜀茶、剡紙二首",
+    "title": "謝朱常侍寄貺蜀茶、剡紙二首·其一",
     "author": "崔道融",
     "paragraphs": [
       "瑟瑟香塵瑟瑟泉，驚風驟雨起爐煙。",
-      "一甌解卻山中醉，便覺身輕欲上天。",
+      "一甌解卻山中醉，便覺身輕欲上天。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "謝朱常侍寄貺蜀茶、剡紙二首·其二",
+    "author": "崔道融",
+    "paragraphs": [
       "百幅輕明雪未融，薛家凡紙漫深紅。",
       "不應點染閑言語，留記將軍蓋世功。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -839,17 +960,28 @@
     }
   },
   {
-    "title": "對早梅寄友人二首",
+    "title": "對早梅寄友人二首·其一",
     "author": "崔道融",
     "paragraphs": [
       "憶得前年君寄詩，海邊三見早梅詞。",
-      "與君猶是海邊客，又見早梅花發時。",
+      "與君猶是海邊客，又見早梅花發時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "對早梅寄友人二首·其二",
+    "author": "崔道融",
+    "paragraphs": [
       "憶得去年有遺恨，花前未醉到無花。",
       "清芳一夜月通白，先脫寒衣送酒家。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

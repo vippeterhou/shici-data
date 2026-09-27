@@ -312,15 +312,26 @@
     }
   },
   {
-    "title": "洛陽陌二首",
+    "title": "洛陽陌二首·其一",
     "author": "顧況",
     "paragraphs": [
-      "鶯聲滿禦堤，堤柳拂絲齊。風送名花落，香紅襯馬蹄。",
+      "鶯聲滿禦堤，堤柳拂絲齊。風送名花落，香紅襯馬蹄。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "洛陽陌二首·其二",
+    "author": "顧況",
+    "paragraphs": [
       "珂佩逐鳴騶，王孫結伴游。金丸落飛鳥，乘興醉青樓。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -628,19 +639,41 @@
     }
   },
   {
-    "title": "臨海所居三首",
+    "title": "臨海所居三首·其一",
     "author": "顧況",
     "paragraphs": [
       "此是昔年征戰處，曾經永日絕人行。",
-      "千家寂寂對流水，唯有汀洲春草生。",
+      "千家寂寂對流水，唯有汀洲春草生。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "臨海所居三首·其二",
+    "author": "顧況",
+    "paragraphs": [
       "此去臨溪不是遙，樓中望見赤城標。",
-      "不知疊嶂重霞裏，更有何人度石橋。",
+      "不知疊嶂重霞裏，更有何人度石橋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "臨海所居三首·其三",
+    "author": "顧況",
+    "paragraphs": [
       "家在雙峰蘭若邊，一聲秋磬發孤煙。",
       "山連極浦鳥飛盡，月上青林人未眠。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -710,23 +743,67 @@
     }
   },
   {
-    "title": "宮詞五首",
+    "title": "宮詞五首·其一",
     "author": "顧況",
     "paragraphs": [
       "禁柳煙中聞曉烏，風吹玉漏盡銅壺。",
-      "內官先向蓬萊殿，金合開香瀉禦爐。",
+      "內官先向蓬萊殿，金合開香瀉禦爐。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "宮詞五首·其二",
+    "author": "顧況",
+    "paragraphs": [
       "玉樓天半起笙歌，風送宮嬪笑語和。",
-      "月殿影開聞夜漏，水精簾卷近銀河。",
+      "月殿影開聞夜漏，水精簾卷近銀河。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "宮詞五首·其三",
+    "author": "顧況",
+    "paragraphs": [
       "玉階容衛宿千官，風獵青旗曉仗寒。",
-      "侍女先來薦瓊蕊，露漿新下九霄盤。",
+      "侍女先來薦瓊蕊，露漿新下九霄盤。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "宮詞五首·其四",
+    "author": "顧況",
+    "paragraphs": [
       "九重天樂降神仙，步舞分行踏錦筵。",
-      "嘈囋一聲鐘鼓歇，萬人樓下拾金錢。",
+      "嘈囋一聲鐘鼓歇，萬人樓下拾金錢。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "宮詞五首·其五",
+    "author": "顧況",
+    "paragraphs": [
       "金吾持戟護新簷，天樂聲傳萬姓瞻。",
       "樓上美人相倚看，紅妝透出水精簾。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -822,17 +899,28 @@
     }
   },
   {
-    "title": "贈僧二首",
+    "title": "贈僧二首·其一",
     "author": "顧況",
     "paragraphs": [
       "家住義興東舍溪，溪邊莎草雨無泥。",
-      "上人一向心入定，春鳥年年空自啼。",
+      "上人一向心入定，春鳥年年空自啼。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈僧二首·其二",
+    "author": "顧況",
+    "paragraphs": [
       "出頭皆是新年少，何處能容老病翁。",
       "更把浮榮喻生滅，世間無事不虛空。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1123,17 +1211,28 @@
     }
   },
   {
-    "title": "尋僧二首",
+    "title": "尋僧二首·其一",
     "author": "顧況",
     "paragraphs": [
       "方丈玲瓏花竹閑，已將心印出人間。",
-      "家家門外長安道，何處相逢是寶山。",
+      "家家門外長安道，何處相逢是寶山。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "尋僧二首·其二",
+    "author": "顧況",
+    "paragraphs": [
       "彌天釋子本高情，往往山中獨自行。",
       "莫怪狂人游楚國，蓮花只在淤泥生。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

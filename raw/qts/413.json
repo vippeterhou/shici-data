@@ -13,17 +13,28 @@
     }
   },
   {
-    "title": "送友封二首",
+    "title": "送友封二首·其一",
     "author": "元稹",
     "paragraphs": [
       "桃葉成陰燕引雛，南風吹浪颭檣烏。瘴雲拂地黃梅雨，",
-      "知君兄弟憐詩句，遍為姑將惱大巫。",
+      "知君兄弟憐詩句，遍為姑將惱大巫。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送友封二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "惠和坊裏當時別，豈料江陵送上船。鵬翼張風期萬里，",
       "若見中丞忽相問，為言腰折氣沖天。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -141,33 +152,132 @@
     }
   },
   {
-    "title": "酬孝甫見贈十首",
+    "title": "酬孝甫見贈十首·其一",
     "author": "元稹",
     "paragraphs": [
       "宋玉秋來續楚詞，陰鏗官漫足閑詩。",
-      "親情書劄相安慰，多道蕭何作判司。",
+      "親情書劄相安慰，多道蕭何作判司。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "酬孝甫見贈十首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "杜甫天材頗絕倫，每尋詩卷似情親。",
-      "憐渠直道當時語，不著心源傍古人。",
+      "憐渠直道當時語，不著心源傍古人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "酬孝甫見贈十首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "十歲荒狂任博徒，挼莎五木擲梟盧。",
-      "野詩良輔偏憐假，長借金鞍迓酒胡。",
+      "野詩良輔偏憐假，長借金鞍迓酒胡。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "酬孝甫見贈十首·其四",
+    "author": "元稹",
+    "paragraphs": [
       "曾經綽立侍丹墀，綻蕊宮花拂面枝。",
-      "雉尾扇開朝日出，柘黃衫對碧霄垂。",
+      "雉尾扇開朝日出，柘黃衫對碧霄垂。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "酬孝甫見贈十首·其五",
+    "author": "元稹",
+    "paragraphs": [
       "一自低心翰墨場，箭靫拋盡負書囊。",
-      "近來兼愛休糧藥，柏葉紗羅雜豆黃。",
+      "近來兼愛休糧藥，柏葉紗羅雜豆黃。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "酬孝甫見贈十首·其六",
+    "author": "元稹",
+    "paragraphs": [
       "莫笑風塵滿病顏，此生元在有無間。",
-      "卷舒蓮葉終難濕，去住雲心一種閑。",
+      "卷舒蓮葉終難濕，去住雲心一種閑。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "酬孝甫見贈十首·其七",
+    "author": "元稹",
+    "paragraphs": [
       "無事拋棋侵虎口，幾時開眼複聯行。",
-      "終須殺盡緣邊敵，四面通同掩大荒。",
+      "終須殺盡緣邊敵，四面通同掩大荒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "酬孝甫見贈十首·其八",
+    "author": "元稹",
+    "paragraphs": [
       "原憲甘貧每自開，子春傷足少人哀。",
-      "巷南唯有陳居士，時學文殊一問來。",
+      "巷南唯有陳居士，時學文殊一問來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "酬孝甫見贈十首·其九",
+    "author": "元稹",
+    "paragraphs": [
       "每識閒人如未識，與君相識更相憐。",
-      "經旬不解來過宿，忍見空床夜夜眠。",
+      "經旬不解來過宿，忍見空床夜夜眠。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "酬孝甫見贈十首·其十",
+    "author": "元稹",
+    "paragraphs": [
       "開坼新詩展大璆，明珠炫轉玉音浮。",
       "酬君十首三更坐，減卻常時半夜愁。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -198,32 +308,54 @@
     }
   },
   {
-    "title": "寄劉頗二首",
+    "title": "寄劉頗二首·其一",
     "author": "元稹",
     "paragraphs": [
       "平生嗜酒顛狂甚，不許諸公占丈夫。",
-      "唯愛劉君一片膽，近來還敢似人無。",
-      "前年碣石煙塵起，共看官軍過洛城。",
-      "無限公卿因戰得，與君依舊綠衫行。"
+      "唯愛劉君一片膽，近來還敢似人無。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "晨起送使，病不行，因過王十一館居二首",
+    "title": "寄劉頗二首·其二",
+    "author": "元稹",
+    "paragraphs": [
+      "前年碣石煙塵起，共看官軍過洛城。",
+      "無限公卿因戰得，與君依舊綠衫行。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "晨起送使，病不行，因過王十一館居二首·其一",
     "author": "元稹",
     "paragraphs": [
       "自笑今朝誤夙興，逢他禦史瘧相仍。",
-      "過君未起房門掩，深映寒窗一盞燈。",
+      "過君未起房門掩，深映寒窗一盞燈。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "晨起送使，病不行，因過王十一館居二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "密宇深房小火爐，飯香魚熟近中廚。",
       "野人愛靜仍耽寢，自問黃昏肯去無。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

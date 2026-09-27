@@ -221,17 +221,28 @@
     }
   },
   {
-    "title": "火鳳詞二首",
+    "title": "火鳳詞二首·其一",
     "author": "李百藥",
     "paragraphs": [
       "歌聲扇後出，妝影鏡中輕。未能令掩笑，何處欲障聲。",
-      "知音自不惑，得念是分明。莫見雙嚬斂，疑人含笑情。",
+      "知音自不惑，得念是分明。莫見雙嚬斂，疑人含笑情。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "火鳳詞二首·其二",
+    "author": "李百藥",
+    "paragraphs": [
       "佳人靚晚妝，清唱動蘭房。影出含風扇，聲飛照日梁。",
       "嬌嚬眉際斂，逸韻口中香。自有橫陳會，應憐秋夜長。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

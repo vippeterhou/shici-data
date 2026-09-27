@@ -356,17 +356,28 @@
     }
   },
   {
-    "title": "相和歌辭：挽歌二首",
+    "title": "相和歌辭：挽歌二首·其一",
     "author": "於鵠",
     "paragraphs": [
-      "陰風吹黃蒿，挽歌渡秋水。車馬卻歸城，孤墳月明裏。",
+      "陰風吹黃蒿，挽歌渡秋水。車馬卻歸城，孤墳月明裏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：挽歌二首·其二",
+    "author": "於鵠",
+    "paragraphs": [
       "雙轍出郭門，綿綿東西道。送死多於生，幾人得終老。",
       "見人切肺肝，不如歸山好。不聞哀哭聲，默默安懷抱。",
       "時盡從物化，又免生憂擾。世間壽者稀，盡為悲傷惱。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -415,20 +426,31 @@
     }
   },
   {
-    "title": "相和歌辭：對酒二首",
+    "title": "相和歌辭：對酒二首·其一",
     "author": "李白",
     "paragraphs": [
       "松子棲金華，安期入蓬海。此人古之仙，羽化竟何在。",
       "浮生速流電，倏忽變光彩。天地無凋換，容顏有遷改。",
-      "對酒不肯飲，含情欲誰待。",
+      "對酒不肯飲，含情欲誰待。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：對酒二首·其二",
+    "author": "李白",
+    "paragraphs": [
       "勸君莫拒杯，春風笑人來。桃李如舊識，傾花向我開。",
       "流鶯啼碧樹，明月窺金罍。昨來朱顏子，今日白髮催。",
       "棘生石虎殿，鹿走姑蘇台。自古帝王宅，城闕閉黃埃。",
       "君若不飲酒，昔人安在哉。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -675,30 +697,74 @@
     }
   },
   {
-    "title": "相和歌辭：王昭君三首",
+    "title": "相和歌辭：王昭君三首·其一",
     "author": "東方虯",
     "paragraphs": [
-      "漢道初全盛，朝廷足武臣。何須薄命妾，辛苦遠和親。",
-      "掩涕辭丹鳳，銜悲向白龍。單于浪驚喜，無復舊時容。",
-      "胡地無花草，春來不似春。自然衣帶緩，非是為腰身。"
+      "漢道初全盛，朝廷足武臣。何須薄命妾，辛苦遠和親。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "相和歌辭：王昭君三首",
+    "title": "相和歌辭：王昭君三首·其二",
+    "author": "東方虯",
+    "paragraphs": [
+      "掩涕辭丹鳳，銜悲向白龍。單于浪驚喜，無復舊時容。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：王昭君三首·其三",
+    "author": "東方虯",
+    "paragraphs": [
+      "胡地無花草，春來不似春。自然衣帶緩，非是為腰身。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：王昭君三首·其一",
     "author": "郭元振",
     "paragraphs": [
-      "自嫁單于國，長銜漢掖悲。容顏日憔悴，有甚畫圖時。",
-      "厭踐冰霜域，嗟為邊塞人。思從漢南獵，一見漢家塵。",
+      "自嫁單于國，長銜漢掖悲。容顏日憔悴，有甚畫圖時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：王昭君三首·其二",
+    "author": "郭元振",
+    "paragraphs": [
+      "厭踐冰霜域，嗟為邊塞人。思從漢南獵，一見漢家塵。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：王昭君三首·其三",
+    "author": "郭元振",
+    "paragraphs": [
       "聞有南河信，傳聞殺畫師。始知君惠重，更遣畫蛾眉。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -717,17 +783,28 @@
     }
   },
   {
-    "title": "相和歌辭：王昭君二首",
+    "title": "相和歌辭：王昭君二首·其一",
     "author": "李白",
     "paragraphs": [
       "漢家秦地月，流影照明妃。一上玉關道，天涯去不歸。",
-      "漢月還從東海出，明妃西嫁無來日。燕支長寒雪作花，",
+      "漢月還從東海出，明妃西嫁無來日。燕支長寒雪作花，"
+    ],
+    "format": {
+      "sentence_count": 7,
+      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "相和歌辭：王昭君二首·其二",
+    "author": "李白",
+    "paragraphs": [
       "昭君拂玉鞍，上馬啼紅頰。今日漢宮人，明朝胡地妾。"
     ],
     "format": {
-      "sentence_count": 11,
-      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -757,17 +834,28 @@
     }
   },
   {
-    "title": "相和歌辭：王昭君二首",
+    "title": "相和歌辭：王昭君二首·其一",
     "author": "白居易",
     "paragraphs": [
       "滿面胡沙滿鬢風，眉銷殘黛臉銷紅。",
-      "愁苦辛勤憔悴盡，如今卻似畫圖中。",
+      "愁苦辛勤憔悴盡，如今卻似畫圖中。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "相和歌辭：王昭君二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "漢使卻回憑寄語，黃金何日贖蛾眉。",
       "君王若問妾顏色，莫道不如宮裏時。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1573,22 +1661,33 @@
     }
   },
   {
-    "title": "相和歌辭：從軍行二首",
+    "title": "相和歌辭：從軍行二首·其一",
     "author": "虞世南",
     "paragraphs": [
       "塗山烽候驚，弭節度龍城。冀馬樓蘭將，燕犀上穀兵。",
       "劍寒花不落，弓曉月逾明。凜凜嚴霜節，冰壯黃河絕。",
       "蔽日卷征蓬，浮天散飛雪。全兵值月滿，精騎乘膠折。",
       "結髮早驅馳，辛苦事旌麾。馬凍重關冷，輪摧九折危。",
-      "獨有西山將，年年屬數奇。",
+      "獨有西山將，年年屬數奇。"
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：從軍行二首·其二",
+    "author": "虞世南",
+    "paragraphs": [
       "爟火發金微，連營出武威。孤城寒雲起，絕陣虜塵飛。",
       "俠客吸龍劍，惡少縵胡衣。朝摩骨都壘，夜解穀蠡圍。",
       "蕭關遠無極，蒲海廣難依。沙磴離旌斷，晴川候馬歸。",
       "交河梁已畢，燕山旆欲飛。方知萬里相，侯服有光輝。"
     ],
     "format": {
-      "sentence_count": 34,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1652,19 +1751,41 @@
     }
   },
   {
-    "title": "相和歌辭：從軍行三首",
+    "title": "相和歌辭：從軍行三首·其一",
     "author": "李約",
     "paragraphs": [
       "看圖閑教陣，畫地靜論邊。烏壘天西戍，鷹姿塞上川。",
-      "路長須算日，書遠每題年。無複生還望，翻思未別前。",
+      "路長須算日，書遠每題年。無複生還望，翻思未別前。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：從軍行三首·其二",
+    "author": "李約",
+    "paragraphs": [
       "柵高三面鬥，箭盡舉烽頻。營柳和煙暮，關榆帶雪春。",
-      "邊城多老將，磧路少歸人。點盡三河卒，年年添塞塵。",
+      "邊城多老將，磧路少歸人。點盡三河卒，年年添塞塵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：從軍行三首·其三",
+    "author": "李約",
+    "paragraphs": [
       "候火起雕城，塵砂擁戰聲。游軍藏漢幟，降騎說蕃情。",
       "霜降滮池淺，秋深太白明。嫖姚方虎視，不覺請添兵。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1698,18 +1819,29 @@
     }
   },
   {
-    "title": "相和歌辭：從軍行二首",
+    "title": "相和歌辭：從軍行二首·其一",
     "author": "李白",
     "paragraphs": [
       "從軍玉門道，逐虜金微山。笛奏梅花曲，刀開明月環。",
-      "鼓聲鳴海上，兵氣擁雲間。願斬單于首，長驅靜鐵關。",
+      "鼓聲鳴海上，兵氣擁雲間。願斬單于首，長驅靜鐵關。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：從軍行二首·其二",
+    "author": "李白",
+    "paragraphs": [
       "百戰沙場碎鐵衣，城南已合數重圍。",
       "突營射殺呼延將，獨領殘兵千騎歸。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -1761,25 +1893,80 @@
     }
   },
   {
-    "title": "相和歌辭：從軍行六首",
+    "title": "相和歌辭：從軍行六首·其一",
     "author": "劉長卿",
     "paragraphs": [
       "回看虜騎合，城下漢兵稀。白刃兩相向，黃雲愁不飛。",
-      "手中無尺鐵，徒欲突重圍。",
+      "手中無尺鐵，徒欲突重圍。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：從軍行六首·其二",
+    "author": "劉長卿",
+    "paragraphs": [
       "落日更蕭條，北方動枯草。將軍追虜騎，夜失陰山道。",
-      "戰敗仍樹勳，韓彭但空老。",
+      "戰敗仍樹勳，韓彭但空老。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：從軍行六首·其三",
+    "author": "劉長卿",
+    "paragraphs": [
       "草枯秋塞上，望見漁陽郭。胡馬嘶一聲，漢兵淚雙落。",
-      "誰為吮癰者，此事令人薄。",
+      "誰為吮癰者，此事令人薄。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：從軍行六首·其四",
+    "author": "劉長卿",
+    "paragraphs": [
       "目極雁門道，青青邊草春。一身事征戰，匹馬同辛勤。",
-      "末路成白首，功歸天下人。",
+      "末路成白首，功歸天下人。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：從軍行六首·其五",
+    "author": "劉長卿",
+    "paragraphs": [
       "倚劍白日暮，望鄉登戍樓。北風吹羌笛，此夜關山愁。",
-      "回首不無意，滹河空自流。",
+      "回首不無意，滹河空自流。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：從軍行六首·其六",
+    "author": "劉長卿",
+    "paragraphs": [
       "黃沙一萬里，白首無人憐。報國劍已折，歸鄉身幸全。",
       "單于古台下，邊色寒蒼然。"
     ],
     "format": {
-      "sentence_count": 36,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1848,34 +2035,100 @@
     }
   },
   {
-    "title": "相和歌辭：從軍行五首",
+    "title": "相和歌辭：從軍行五首·其一",
     "author": "令狐楚",
     "paragraphs": [
-      "荒雞隔水啼，汗馬逐風嘶。終日隨旌旆，何時罷鼓鼙。",
-      "孤心眠夜雪，滿眼是秋沙。萬里猶防塞，三年不見家。",
-      "卻望冰河闊，前登雪嶺高。征人幾多在，又擬戰臨洮。",
-      "胡風千里驚，漢月五更明。縱有還家夢，猶聞出塞聲。",
-      "暮雪連青海，陰雲覆白山。可憐班定遠，出入玉門關。"
+      "荒雞隔水啼，汗馬逐風嘶。終日隨旌旆，何時罷鼓鼙。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "相和歌辭：從軍行三首",
+    "title": "相和歌辭：從軍行五首·其二",
+    "author": "令狐楚",
+    "paragraphs": [
+      "孤心眠夜雪，滿眼是秋沙。萬里猶防塞，三年不見家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：從軍行五首·其三",
+    "author": "令狐楚",
+    "paragraphs": [
+      "卻望冰河闊，前登雪嶺高。征人幾多在，又擬戰臨洮。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：從軍行五首·其四",
+    "author": "令狐楚",
+    "paragraphs": [
+      "胡風千里驚，漢月五更明。縱有還家夢，猶聞出塞聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：從軍行五首·其五",
+    "author": "令狐楚",
+    "paragraphs": [
+      "暮雪連青海，陰雲覆白山。可憐班定遠，出入玉門關。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：從軍行三首·其一",
     "author": "王涯",
     "paragraphs": [
-      "旌甲從軍久，風雲識陣難。今朝韓信計，日下斬成安。",
-      "燕頷多奇相，狼頭敢犯邊。寄言班定遠，正是立功年。",
+      "旌甲從軍久，風雲識陣難。今朝韓信計，日下斬成安。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：從軍行三首·其二",
+    "author": "王涯",
+    "paragraphs": [
+      "燕頷多奇相，狼頭敢犯邊。寄言班定遠，正是立功年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：從軍行三首·其三",
+    "author": "王涯",
+    "paragraphs": [
       "旄頭夜落捷書飛，來奏金門著賜衣。",
       "白馬將軍頻破敵，黃龍戍卒幾時歸。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -1916,30 +2169,74 @@
     }
   },
   {
-    "title": "相和歌辭：苦哉行五首",
+    "title": "相和歌辭：苦哉行五首·其一",
     "author": "戎昱",
     "paragraphs": [
       "彼鼠侵我廚，縱狸授粱肉。鼠雖為君卻，狸食自須足。",
       "冀雪大國恥，翻是大國辱。膻腥逼綺羅，磚瓦雜珠玉。",
-      "登樓非騁望，目笑是心哭。何意天樂中，至今奏胡曲。",
+      "登樓非騁望，目笑是心哭。何意天樂中，至今奏胡曲。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：苦哉行五首·其二",
+    "author": "戎昱",
+    "paragraphs": [
       "官軍收洛陽，家住洛陽裏。夫婿與兄弟，目前見傷死。",
       "吞聲不許哭，還遣衣羅綺。上馬隨匈奴，數秋黃塵裏。",
-      "生為名家女，死作塞垣鬼。鄉國無還期，天津哭流水。",
+      "生為名家女，死作塞垣鬼。鄉國無還期，天津哭流水。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：苦哉行五首·其三",
+    "author": "戎昱",
+    "paragraphs": [
       "登樓望天衢，目極淚盈睫。強笑無笑容，須妝舊花靨。",
       "昔年買奴僕，奴僕來碎葉。豈意未死間，自為匈奴妾。",
-      "一生忽至此，萬事痛苦業。得出塞垣飛，不如彼蜂蝶。",
+      "一生忽至此，萬事痛苦業。得出塞垣飛，不如彼蜂蝶。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：苦哉行五首·其四",
+    "author": "戎昱",
+    "paragraphs": [
       "妾家青河邊，七葉承貂蟬。身為最小女，偏得渾家憐。",
       "親戚不相識，幽閨十五年。有時最遠出，只到中門前。",
       "前年狂胡來，懼死翻生全。今秋官軍至，豈意遭戈鋋。",
       "匈奴為先鋒，長鼻黃發拳。彎弓獵生人，百步牛羊膻。",
-      "脫身落虎口，不及歸黃泉。苦哉難重陳，暗哭蒼蒼天。",
+      "脫身落虎口，不及歸黃泉。苦哉難重陳，暗哭蒼蒼天。"
+    ],
+    "format": {
+      "sentence_count": 20,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：苦哉行五首·其五",
+    "author": "戎昱",
+    "paragraphs": [
       "可汗奉親詔，今月歸燕山。忽如亂刀劍，攪妾心腸間。",
       "出戶望北荒，迢迢玉門關。生人為死別，有去無時還。",
       "漢月割妾心，胡風凋妾顏。去去斷絕魂，叫天天不聞。"
     ],
     "format": {
-      "sentence_count": 68,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

@@ -176,18 +176,29 @@
     }
   },
   {
-    "title": "送裴十八圖南歸嵩山二首",
+    "title": "送裴十八圖南歸嵩山二首·其一",
     "author": "李白",
     "paragraphs": [
       "何處可為別，長安青綺門。胡姬招素手，延客醉金樽。",
       "臨當上馬時，我獨與君言。風吹芳蘭折，日沒鳥雀喧。",
-      "舉手指飛鴻，此情難具論。同歸無早晚，潁水有清源。",
+      "舉手指飛鴻，此情難具論。同歸無早晚，潁水有清源。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送裴十八圖南歸嵩山二首·其二",
+    "author": "李白",
+    "paragraphs": [
       "君思潁水綠，忽複歸嵩岑。歸時莫洗耳，為我洗其心。",
       "洗心得真情，洗耳徒買名。謝公終一起，相與濟蒼生。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -208,19 +219,41 @@
     }
   },
   {
-    "title": "送外甥鄭灌從軍三首",
+    "title": "送外甥鄭灌從軍三首·其一",
     "author": "李白",
     "paragraphs": [
       "六博爭雄好彩來，金盤一擲萬人開。",
-      "丈夫賭命報天子，當斬胡頭衣錦回。",
+      "丈夫賭命報天子，當斬胡頭衣錦回。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送外甥鄭灌從軍三首·其二",
+    "author": "李白",
+    "paragraphs": [
       "丈八蛇予出隴西，彎弧拂箭白猿啼。",
-      "破胡必用龍韜策，積甲應將熊耳齊。",
+      "破胡必用龍韜策，積甲應將熊耳齊。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送外甥鄭灌從軍三首·其三",
+    "author": "李白",
+    "paragraphs": [
       "月蝕西方破敵時，及瓜歸日未應遲。",
       "斬胡血變黃河水，梟首當懸白鵲旗。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -405,17 +438,28 @@
     }
   },
   {
-    "title": "送長沙陳太守二首",
+    "title": "送長沙陳太守二首·其一",
     "author": "李白",
     "paragraphs": [
       "長沙陳太守，逸氣淩青松。英主賜五馬，本是天池龍。",
-      "湘水回九曲，衡山望五峰。榮君按節去，不及遠相從。",
+      "湘水回九曲，衡山望五峰。榮君按節去，不及遠相從。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送長沙陳太守二首·其二",
+    "author": "李白",
+    "paragraphs": [
       "七郡長沙國，南連湘水濱。定王垂舞袖，地窄不回身。",
       "莫小二千石，當安遠俗人。洞庭鄉路遠，遙羨錦衣春。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -476,18 +520,40 @@
     }
   },
   {
-    "title": "送殷淑三首",
+    "title": "送殷淑三首·其一",
     "author": "李白",
     "paragraphs": [
       "海水不可解，連江夜為潮。俄然浦嶼闊，岸去酒船遙。",
-      "惜別耐取醉，鳴榔且長謠。天明爾當去，應便有風飄。",
+      "惜別耐取醉，鳴榔且長謠。天明爾當去，應便有風飄。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送殷淑三首·其二",
+    "author": "李白",
+    "paragraphs": [
       "白鷺洲前月，天明送客回。青龍山后日，早出海雲來。",
-      "流水無情去，征帆逐吹開。相看不忍別，更進手中杯。",
+      "流水無情去，征帆逐吹開。相看不忍別，更進手中杯。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送殷淑三首·其三",
+    "author": "李白",
+    "paragraphs": [
       "痛飲龍筇下，燈青月複寒。醉歌驚白鷺，半夜起沙灘。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

@@ -195,17 +195,28 @@
     }
   },
   {
-    "title": "越中言事二首",
+    "title": "越中言事二首·其一",
     "author": "方幹",
     "paragraphs": [
       "異術閑和合聖明，湖光浩氣共澄清。郭中雲吐啼猿寺，",
-      "遊人今日又明日，不覺鏡中新發生。",
+      "遊人今日又明日，不覺鏡中新發生。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "越中言事二首·其二",
+    "author": "方幹",
+    "paragraphs": [
       "雲霞水木共蒼蒼，元化分功秀一方。百里湖波輕撼月，",
       "終歲逍遙仁術內，無名甘老買臣鄉。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -418,21 +429,54 @@
     }
   },
   {
-    "title": "贈美人四首",
+    "title": "贈美人四首·其一",
     "author": "方幹",
     "paragraphs": [
       "直緣多藝用心勞，心路玲瓏格調高。舞袖低徊真蛺蝶，",
-      "才會雨雲須別去，語慚不及琵琶槽。",
+      "才會雨雲須別去，語慚不及琵琶槽。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈美人四首·其二",
+    "author": "方幹",
+    "paragraphs": [
       "嚴冬忽作看花日，盛暑翻為見雪時。坐上弄嬌聲不轉，",
-      "年幾未多猶怯在，些些私語怕人疑。",
+      "年幾未多猶怯在，些些私語怕人疑。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈美人四首·其三",
+    "author": "方幹",
+    "paragraphs": [
       "酒蘊天然自性靈，人間有藝總關情。剝蔥十指轉籌疾，",
-      "若教梅尉無仙骨，爭得仙娥駐玉京。",
+      "若教梅尉無仙骨，爭得仙娥駐玉京。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈美人四首·其四",
+    "author": "方幹",
+    "paragraphs": [
       "昔日仙人今玉人，深冬相見亦如春。倍酬金價微含笑，",
       "百年別後知誰在，須遣丹青畫取真。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -554,17 +598,28 @@
     }
   },
   {
-    "title": "送永嘉王令之任二首",
+    "title": "送永嘉王令之任二首·其一",
     "author": "方幹",
     "paragraphs": [
       "定擬孜孜化海邊，須判素發侮流年。波濤不應雙溪水，",
-      "前賢未必全堪學，莫讀當時歸去篇。",
+      "前賢未必全堪學，莫讀當時歸去篇。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送永嘉王令之任二首·其二",
+    "author": "方幹",
+    "paragraphs": [
       "雖展縣圖如到縣，五程猶入縉雲東。山間閣道盤岩底，",
       "字人若用非常術，唯要旬時便立功。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -647,17 +702,28 @@
     }
   },
   {
-    "title": "題故人廢宅二首",
+    "title": "題故人廢宅二首·其一",
     "author": "方幹",
     "paragraphs": [
       "舉目淒涼入破門，鮫人一飯尚知恩。閑花舊識猶含笑，",
-      "壺觴笑詠隨風去，唯有聲聲蜀帝魂。",
+      "壺觴笑詠隨風去，唯有聲聲蜀帝魂。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題故人廢宅二首·其二",
+    "author": "方幹",
+    "paragraphs": [
       "寒莎野樹入荒庭，風雨蕭蕭不掩扃。舊徑已知無孟竹，",
       "薄暮停車更悽愴，山陽鄰笛若為聽。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

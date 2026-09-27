@@ -39,16 +39,27 @@
     }
   },
   {
-    "title": "古別離二首",
+    "title": "古別離二首·其一",
     "author": "施肩吾",
     "paragraphs": [
-      "古人謾歌西飛燕，十年不見狂夫面。三更風作切夢刀，",
+      "古人謾歌西飛燕，十年不見狂夫面。三更風作切夢刀，"
+    ],
+    "format": {
+      "sentence_count": 3,
+      "sentence_lengths": [7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "古別離二首·其二",
+    "author": "施肩吾",
+    "paragraphs": [
       "老母別愛子，少妻送征郎。血流既四面，乃一斷二腸。",
       "不愁寒無衣，不怕饑無糧。惟恐征戰不還鄉，"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 5, 5, 5, 5, 5, 5, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 7],
       "uniform_sentence_length": null
     }
   },
@@ -181,18 +192,62 @@
     }
   },
   {
-    "title": "雜古詞五首",
+    "title": "雜古詞五首·其一",
     "author": "施肩吾",
     "paragraphs": [
-      "可憐江北女，慣唱江南曲。搖盪木蘭舟，雙鳧不成浴。",
-      "郎為七上香，妾作籠下灰。歸時即暖熱，去罷生塵埃。",
-      "夜裁鴛鴦綺，朝織蒲桃綾。欲試一寸心，待縫三尺冰。",
-      "憐時魚得水，怨罷商與參。不如山梔子，卻能結同心。",
+      "可憐江北女，慣唱江南曲。搖盪木蘭舟，雙鳧不成浴。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜古詞五首·其二",
+    "author": "施肩吾",
+    "paragraphs": [
+      "郎為七上香，妾作籠下灰。歸時即暖熱，去罷生塵埃。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜古詞五首·其三",
+    "author": "施肩吾",
+    "paragraphs": [
+      "夜裁鴛鴦綺，朝織蒲桃綾。欲試一寸心，待縫三尺冰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜古詞五首·其四",
+    "author": "施肩吾",
+    "paragraphs": [
+      "憐時魚得水，怨罷商與參。不如山梔子，卻能結同心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜古詞五首·其五",
+    "author": "施肩吾",
+    "paragraphs": [
       "紅顏感暮花，白日同流水。思君若孤燈，一夜一心死。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -903,17 +958,28 @@
     }
   },
   {
-    "title": "秋夜山居二首",
+    "title": "秋夜山居二首·其一",
     "author": "施肩吾",
     "paragraphs": [
       "幽居正想餐霞客，夜久月寒珠露滴。",
-      "千年獨鶴兩三聲，飛下岩前一枝柏。",
+      "千年獨鶴兩三聲，飛下岩前一枝柏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "秋夜山居二首·其二",
+    "author": "施肩吾",
+    "paragraphs": [
       "去雁聲遙人語絕，誰家素機織新雪。",
       "秋山野客醉醒時，百尺老松銜半月。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1022,17 +1088,28 @@
     }
   },
   {
-    "title": "仙客歸鄉詞二首",
+    "title": "仙客歸鄉詞二首·其一",
     "author": "施肩吾",
     "paragraphs": [
       "六合八荒遊未半，子孫零落暫歸來。",
-      "井邊不認捎雲樹，多是門人在後栽。",
+      "井邊不認捎雲樹，多是門人在後栽。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "仙客歸鄉詞二首·其二",
+    "author": "施肩吾",
+    "paragraphs": [
       "洞中日月洞中仙，不算離家是幾年。",
       "出郭始知人代變，又須拋卻古時錢。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1245,17 +1322,28 @@
     }
   },
   {
-    "title": "送絕塵子歸舊隱二首",
+    "title": "送絕塵子歸舊隱二首·其一",
     "author": "施肩吾",
     "paragraphs": [
       "雲水千重繞洞門，獨歸何處是桃源。",
-      "仙方不用隨身去，留與人間老子孫。",
+      "仙方不用隨身去，留與人間老子孫。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送絕塵子歸舊隱二首·其二",
+    "author": "施肩吾",
+    "paragraphs": [
       "班藤為杖草為衣，萬壑千峰獨自歸。",
       "縱令相憶誰相報，桂樹岩邊人信稀。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1325,17 +1413,28 @@
     }
   },
   {
-    "title": "贈女道士鄭玉華二首",
+    "title": "贈女道士鄭玉華二首·其一",
     "author": "施肩吾",
     "paragraphs": [
       "玄發新簪碧藕花，欲添肌雪餌紅砂。",
-      "世間風景那堪戀，長笑劉郎漫憶家。",
+      "世間風景那堪戀，長笑劉郎漫憶家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈女道士鄭玉華二首·其二",
+    "author": "施肩吾",
+    "paragraphs": [
       "明鏡湖中休採蓮，卻師阿母學神仙。",
       "朱絲誤落青囊裏，猶是箜篌第幾弦。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1522,17 +1621,28 @@
     }
   },
   {
-    "title": "望夫詞二首",
+    "title": "望夫詞二首·其一",
     "author": "施肩吾",
     "paragraphs": [
       "看看北雁又南飛，薄幸征夫久不歸。",
-      "蟢子到頭無信處，凡經幾度上人衣。",
+      "蟢子到頭無信處，凡經幾度上人衣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "望夫詞二首·其二",
+    "author": "施肩吾",
+    "paragraphs": [
       "何事經年斷書信，愁聞遠客說風波。",
       "西家還有望夫伴，一種淚痕兒最多。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1615,17 +1725,28 @@
     }
   },
   {
-    "title": "春日錢塘雜興二首",
+    "title": "春日錢塘雜興二首·其一",
     "author": "施肩吾",
     "paragraphs": [
       "酒姥溪頭桑嫋嫋，錢塘郭外柳毿毿。",
-      "路逢鄰婦遙相問，小小如今學養蠶。",
+      "路逢鄰婦遙相問，小小如今學養蠶。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "春日錢塘雜興二首·其二",
+    "author": "施肩吾",
+    "paragraphs": [
       "西鄰年少問東鄰，柳岸花堤幾處新。",
       "昨夜雨多春水闊，隔江桃葉喚何人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1864,17 +1985,28 @@
     }
   },
   {
-    "title": "桃源詞二首",
+    "title": "桃源詞二首·其一",
     "author": "施肩吾",
     "paragraphs": [
       "夭夭花裏千家住，總為當時隱暴秦。",
-      "歸去不論無舊識，子孫今亦是他人。",
+      "歸去不論無舊識，子孫今亦是他人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "桃源詞二首·其二",
+    "author": "施肩吾",
+    "paragraphs": [
       "秦世老翁歸漢世，還同白鶴返遼城。",
       "縱令記得山川路，莫問當時州縣名。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -2243,17 +2375,28 @@
     }
   },
   {
-    "title": "少女詞二首",
+    "title": "少女詞二首·其一",
     "author": "施肩吾",
     "paragraphs": [
       "嬌羞不肯點新黃，踏過金鈿出繡床。",
-      "信物無端寄誰去，等閒裁破錦鴛鴦。",
+      "信物無端寄誰去，等閒裁破錦鴛鴦。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "少女詞二首·其二",
+    "author": "施肩吾",
+    "paragraphs": [
       "同心帶裏脫金錢，買取頭花翠羽連。",
       "手執木蘭猶未慣，今朝初上采菱船。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -535,17 +535,28 @@
     }
   },
   {
-    "title": "史將軍二首",
+    "title": "史將軍二首·其一",
     "author": "杜牧",
     "paragraphs": [
       "長鉟周都尉，閑如秋嶺雲。取蝥弧登壘，以駢鄰翼軍。",
-      "百戰百勝價，河南河北聞。今遇太平日，老去誰憐君。",
+      "百戰百勝價，河南河北聞。今遇太平日，老去誰憐君。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "史將軍二首·其二",
+    "author": "杜牧",
+    "paragraphs": [
       "壯氣蓋燕趙，耽耽魁傑人。彎弧五百步，長戟八十斤。",
       "河湟非內地，安史有遺塵。何日武台坐，兵符授虎臣。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   }

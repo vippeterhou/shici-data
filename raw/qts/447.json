@@ -287,19 +287,41 @@
     }
   },
   {
-    "title": "東城桂三首",
+    "title": "東城桂三首·其一",
     "author": "白居易",
     "paragraphs": [
       "子墮本從天竺寺，根盤今在闔閭城。",
-      "當時應逐南風落，落向人間取次生。",
+      "當時應逐南風落，落向人間取次生。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "東城桂三首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "霜雪壓多雖不死，荊榛長疾欲相埋。",
-      "長憂落在樵人手，賣作蘇州一束柴。",
+      "長憂落在樵人手，賣作蘇州一束柴。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "東城桂三首·其三",
+    "author": "白居易",
+    "paragraphs": [
       "遙知天上桂花孤，試問嫦娥更要無。",
       "月宮幸有閒田地，何不中央種兩株。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -492,19 +514,41 @@
     }
   },
   {
-    "title": "歲暮寄微之三首",
+    "title": "歲暮寄微之三首·其一",
     "author": "白居易",
     "paragraphs": [
       "微之別久能無歎，知退書稀豈免愁。甲子百年過半後，",
-      "自覺歡情隨日減，蘇州心不及杭州。",
+      "自覺歡情隨日減，蘇州心不及杭州。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歲暮寄微之三首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "榮進雖頻退亦頻，與君才命不調勻。若不九重中掌事，",
-      "唯欠結廬嵩洛下，一時歸去作閒人。",
+      "唯欠結廬嵩洛下，一時歸去作閒人。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "歲暮寄微之三首·其三",
+    "author": "白居易",
+    "paragraphs": [
       "白頭歲暮苦相思，除卻悲吟無可為。枕上從妨一夜睡，",
       "若並如今是全活，紆朱拖紫且開眉。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -827,17 +871,28 @@
     }
   },
   {
-    "title": "眼病二首",
+    "title": "眼病二首·其一",
     "author": "白居易",
     "paragraphs": [
       "散亂空中千片雪，蒙籠物上一重紗。縱逢晴景如看霧，",
-      "兩頭治療何曾瘥，藥力微茫佛力賒。",
+      "兩頭治療何曾瘥，藥力微茫佛力賒。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "眼病二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "眼藏損傷來已久，病根牢固去應難。醫師盡勸先停酒，",
       "人間方藥應無益，爭得金篦試刮看。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -988,17 +1043,28 @@
     }
   },
   {
-    "title": "酬別周從事二首",
+    "title": "酬別周從事二首·其一",
     "author": "白居易",
     "paragraphs": [
       "腰痛拜迎人客倦，眼昏勾押簿書難。",
-      "辭官歸去緣衰病，莫作陶潛範蠡看。",
+      "辭官歸去緣衰病，莫作陶潛範蠡看。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "酬別周從事二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "洛下田園久拋擲，吳中歌酒莫留連。",
       "嵩陽雲樹伊川月，已校歸遲四五年。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1084,17 +1150,28 @@
     }
   },
   {
-    "title": "江上對酒二首",
+    "title": "江上對酒二首·其一",
     "author": "白居易",
     "paragraphs": [
       "酒助疏頑性，琴資緩慢情。有慵將送老，無智可勞生。",
-      "忽忽忘機坐，倀倀任運行。家鄉安處是，那獨在神京。",
+      "忽忽忘機坐，倀倀任運行。家鄉安處是，那獨在神京。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江上對酒二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "久貯滄浪意，初辭桎梏身。昏昏常帶酒，默默不應人。",
       "坐穩便箕踞，眠多愛欠伸。客來存禮數，始著白綸巾。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

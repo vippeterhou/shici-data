@@ -180,17 +180,50 @@
     }
   },
   {
-    "title": "送子婿崔真甫、李穆往揚州四首",
+    "title": "送子婿崔真甫、李穆往揚州四首·其一",
     "author": "劉長卿",
     "paragraphs": [
-      "渡口發梅花，山中動泉脈。蕪城春草生，君作揚州客。",
-      "半邏鶯滿樹，新年人獨遠。落花逐流水，共到茱萸灣。",
-      "雁還空渚在，人去落潮翻。臨水獨揮手，殘陽歸掩門。",
+      "渡口發梅花，山中動泉脈。蕪城春草生，君作揚州客。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送子婿崔真甫、李穆往揚州四首·其二",
+    "author": "劉長卿",
+    "paragraphs": [
+      "半邏鶯滿樹，新年人獨遠。落花逐流水，共到茱萸灣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送子婿崔真甫、李穆往揚州四首·其三",
+    "author": "劉長卿",
+    "paragraphs": [
+      "雁還空渚在，人去落潮翻。臨水獨揮手，殘陽歸掩門。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送子婿崔真甫、李穆往揚州四首·其四",
+    "author": "劉長卿",
+    "paragraphs": [
       "狎鳥攜稚子，釣魚終老身。殷勤囑歸客，莫話桃源人。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

@@ -638,17 +638,28 @@
     }
   },
   {
-    "title": "春日即事二首",
+    "title": "春日即事二首·其一",
     "author": "耿湋",
     "paragraphs": [
       "詩書成志業，懶慢致蹉跎。聖代丹霄遠，明時白髮多。",
-      "淺謀堪自笑，窮巷憶誰過。寂寞前山暮，歸人樵采歌。",
+      "淺謀堪自笑，窮巷憶誰過。寂寞前山暮，歸人樵采歌。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日即事二首·其二",
+    "author": "耿湋",
+    "paragraphs": [
       "數畝東皋宅，青春獨屏居。家貧僮僕慢，官罷友朋疏。",
       "強飲沽來酒，羞看讀了書。閑花開滿地，惆悵複何如。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

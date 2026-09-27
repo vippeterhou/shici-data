@@ -14,15 +14,26 @@
     }
   },
   {
-    "title": "短歌二首",
+    "title": "短歌二首·其一",
     "author": "徐謙",
     "paragraphs": [
-      "窮通皆是運，榮辱豈關身。不願門前客，看時逢故人。",
+      "窮通皆是運，榮辱豈關身。不願門前客，看時逢故人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "短歌二首·其二",
+    "author": "徐謙",
+    "paragraphs": [
       "意氣青雲裏，爽朗煙霞外。不羨一囊錢，唯重心襟會。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

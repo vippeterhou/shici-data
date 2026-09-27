@@ -364,17 +364,28 @@
     }
   },
   {
-    "title": "和僕射牛相公寓言二首",
+    "title": "和僕射牛相公寓言二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
       "兩度竿頭立定誇，回眸舉袖拂青霞。盡拋今日貴人樣，",
-      "具瞻尊重誠無敵，猶憶洛陽千樹花。",
+      "具瞻尊重誠無敵，猶憶洛陽千樹花。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和僕射牛相公寓言二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "心如止水鑒常明，見盡人間萬物情。雕鶚騰空猶逞俊，",
       "只恐重重世緣在，事須三度副蒼生。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

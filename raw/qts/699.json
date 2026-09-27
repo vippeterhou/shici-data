@@ -26,38 +26,93 @@
     }
   },
   {
-    "title": "丙辰年鄜州遇寒食城外醉吟五首",
+    "title": "丙辰年鄜州遇寒食城外醉吟五首·其一",
     "author": "韋莊",
     "paragraphs": [
       "滿街楊柳綠絲煙，畫出清明二月天。",
-      "好是隔簾花樹動，女郎撩亂送秋千。",
-      "雕陰寒食足遊人，金鳳羅衣濕麝熏。",
-      "腸斷入城芳草路，淡紅香白一群群。",
-      "開元坡下日初斜，拜掃歸來走鈿車。",
-      "可惜數株紅豔好，不知今夜落誰家。",
-      "馬驕風疾玉鞭長，過去唯留一陣香。",
-      "閑客不須燒破眼，好花皆屬富家郎。",
-      "雨絲煙柳欲清明，金屋人閑暖鳳笙。",
-      "永日迢迢無一事，隔街聞築氣球聲。"
+      "好是隔簾花樹動，女郎撩亂送秋千。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "宜君縣比卜居不遂，留題王秀才別墅二首",
+    "title": "丙辰年鄜州遇寒食城外醉吟五首·其二",
+    "author": "韋莊",
+    "paragraphs": [
+      "雕陰寒食足遊人，金鳳羅衣濕麝熏。",
+      "腸斷入城芳草路，淡紅香白一群群。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "丙辰年鄜州遇寒食城外醉吟五首·其三",
+    "author": "韋莊",
+    "paragraphs": [
+      "開元坡下日初斜，拜掃歸來走鈿車。",
+      "可惜數株紅豔好，不知今夜落誰家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "丙辰年鄜州遇寒食城外醉吟五首·其四",
+    "author": "韋莊",
+    "paragraphs": [
+      "馬驕風疾玉鞭長，過去唯留一陣香。",
+      "閑客不須燒破眼，好花皆屬富家郎。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "丙辰年鄜州遇寒食城外醉吟五首·其五",
+    "author": "韋莊",
+    "paragraphs": [
+      "雨絲煙柳欲清明，金屋人閑暖鳳笙。",
+      "永日迢迢無一事，隔街聞築氣球聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "宜君縣比卜居不遂，留題王秀才別墅二首·其一",
     "author": "韋莊",
     "paragraphs": [
       "本期同此臥林丘，榾柮爐前擁布裘。",
-      "何事卻騎羸馬去，白雲紅樹不相留。",
+      "何事卻騎羸馬去，白雲紅樹不相留。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "宜君縣比卜居不遂，留題王秀才別墅二首·其二",
+    "author": "韋莊",
+    "paragraphs": [
       "明月嚴霜撲皂貂，羨君高臥正逍遙。",
       "門前積雪深三尺，火滿紅爐酒滿瓢。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

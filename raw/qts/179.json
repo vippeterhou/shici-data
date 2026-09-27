@@ -44,17 +44,28 @@
     }
   },
   {
-    "title": "東魯門泛舟二首",
+    "title": "東魯門泛舟二首·其一",
     "author": "李白",
     "paragraphs": [
       "日落沙明天倒開，波搖石動水縈回。",
-      "輕舟泛月尋溪轉，疑是山陰雪後來。",
+      "輕舟泛月尋溪轉，疑是山陰雪後來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "東魯門泛舟二首·其二",
+    "author": "李白",
+    "paragraphs": [
       "水作青龍磐石堤，桃花夾岸魯門西。",
       "若教月下乘舟去，何啻風流到剡溪。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -75,7 +86,7 @@
     }
   },
   {
-    "title": "游泰山六首",
+    "title": "游泰山六首·其一",
     "author": "李白",
     "paragraphs": [
       "四月上泰山，石屏禦道開。六龍過萬壑，澗穀隨縈回。",
@@ -83,22 +94,77 @@
       "北眺崿嶂奇，傾崖向東摧。洞門閉石扇，地底興雲雷。",
       "登高望蓬瀛，想像金銀台。天門一長嘯，萬里清風來。",
       "玉女四五人，飄颻下九垓。含笑引素手，遺我流霞杯。",
-      "稽首再拜之，自愧非仙才。曠然小宇宙，棄世何悠哉。",
+      "稽首再拜之，自愧非仙才。曠然小宇宙，棄世何悠哉。"
+    ],
+    "format": {
+      "sentence_count": 24,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游泰山六首·其二",
+    "author": "李白",
+    "paragraphs": [
       "清曉騎白鹿，直上天門山。山際逢羽人，方瞳好容顏。",
       "捫蘿欲就語，卻掩青雲關。遺我鳥跡書，飄然落岩間。",
-      "其字乃上古，讀之了不閑。感此三歎息，從師方未還。",
+      "其字乃上古，讀之了不閑。感此三歎息，從師方未還。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游泰山六首·其三",
+    "author": "李白",
+    "paragraphs": [
       "平明登日觀，舉手開雲關。精神四飛揚，如出天地間。",
       "黃河從西來，窈窕入遠山。憑崖攬八極，目盡長空閒。",
       "偶然值青童，綠發雙雲鬟。笑我晚學仙，蹉跎凋朱顏。",
-      "躊躇忽不見，浩蕩難追攀。",
+      "躊躇忽不見，浩蕩難追攀。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游泰山六首·其四",
+    "author": "李白",
+    "paragraphs": [
       "清齋三千日，裂素寫道經。吟誦有所得，眾神衛我形。",
       "雲行信長風，颯若羽翼生。攀崖上日觀，伏檻窺東暝。",
       "海色動遠山，天雞已先鳴。銀台出倒景，白浪翻長鯨。",
-      "安得不死藥，高飛向蓬瀛。",
+      "安得不死藥，高飛向蓬瀛。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游泰山六首·其五",
+    "author": "李白",
+    "paragraphs": [
       "日觀東北傾，兩崖夾雙石。海水落眼前，天光遙空碧。",
       "千峰爭攢聚，萬壑絕淩曆。緬彼鶴上仙，去無雲中跡。",
       "長松入雲漢，遠望不盈尺。山花異人間，五月雪中白。",
-      "終當遇安期，於此煉玉液。",
+      "終當遇安期，於此煉玉液。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游泰山六首·其六",
+    "author": "李白",
+    "paragraphs": [
       "朝飲王母池，暝投天門關。獨抱綠綺琴，夜行青山間。",
       "山明月露白，夜靜松風歇。仙人游碧峰，處處笙歌發。",
       "寂靜娛清暉，玉真連翠微。想像鸞鳳舞，飄颻龍虎衣。",
@@ -106,8 +172,8 @@
       "明晨坐相失，但見五雲飛。"
     ],
     "format": {
-      "sentence_count": 96,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 18,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -256,16 +322,38 @@
     }
   },
   {
-    "title": "陪從祖濟南太守泛鵲山湖三首",
+    "title": "陪從祖濟南太守泛鵲山湖三首·其一",
     "author": "李白",
     "paragraphs": [
-      "初謂鵲山近，寧知湖水遙。此行殊訪戴，自可緩歸橈。",
-      "湖闊數千里，湖光搖碧山。湖西正有月，獨送李膺還。",
+      "初謂鵲山近，寧知湖水遙。此行殊訪戴，自可緩歸橈。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "陪從祖濟南太守泛鵲山湖三首·其二",
+    "author": "李白",
+    "paragraphs": [
+      "湖闊數千里，湖光搖碧山。湖西正有月，獨送李膺還。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "陪從祖濟南太守泛鵲山湖三首·其三",
+    "author": "李白",
+    "paragraphs": [
       "水入北湖去，舟從南浦回。遙看鵲山轉，卻似送人來。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -330,17 +418,28 @@
     }
   },
   {
-    "title": "同族侄評事黯游昌禪師山池二首",
+    "title": "同族侄評事黯游昌禪師山池二首·其一",
     "author": "李白",
     "paragraphs": [
       "遠公愛康樂，為我開禪關。蕭然松石下，何異清涼山。",
-      "花將色不染，水與心俱閑。一坐度小劫，觀空天地間。",
+      "花將色不染，水與心俱閑。一坐度小劫，觀空天地間。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "同族侄評事黯游昌禪師山池二首·其二",
+    "author": "李白",
+    "paragraphs": [
       "客來花雨際，秋水落金池。片石寒青錦，疏楊掛綠絲。",
       "高僧拂玉柄，童子獻霜梨。惜去愛佳景，煙蘿欲暝時。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -392,17 +491,28 @@
     }
   },
   {
-    "title": "游秋浦白笴陂二首",
+    "title": "游秋浦白笴陂二首·其一",
     "author": "李白",
     "paragraphs": [
       "何處夜行好，月明白笴陂。山光搖積雪，猿影掛寒枝。",
-      "但恐佳景晚，小令歸棹移。人來有清興，及此有相思。",
+      "但恐佳景晚，小令歸棹移。人來有清興，及此有相思。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游秋浦白笴陂二首·其二",
+    "author": "李白",
+    "paragraphs": [
       "白笴夜長嘯，爽然溪穀寒。魚龍動陂水，處處生波瀾。",
       "天借一明月，飛來碧雲端。故鄉不可見，腸斷正西看。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -460,16 +570,38 @@
     }
   },
   {
-    "title": "陪侍郎叔游洞庭醉後三首",
+    "title": "陪侍郎叔游洞庭醉後三首·其一",
     "author": "李白",
     "paragraphs": [
-      "今日竹林宴，我家賢侍郎。三杯容小阮，醉後發清狂。",
-      "船上齊橈樂，湖心泛月歸。白鷗閑不去，爭拂酒筵飛。",
+      "今日竹林宴，我家賢侍郎。三杯容小阮，醉後發清狂。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "陪侍郎叔游洞庭醉後三首·其二",
+    "author": "李白",
+    "paragraphs": [
+      "船上齊橈樂，湖心泛月歸。白鷗閑不去，爭拂酒筵飛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "陪侍郎叔游洞庭醉後三首·其三",
+    "author": "李白",
+    "paragraphs": [
       "剗卻君山好，平鋪湘水流。巴陵無限酒，醉殺洞庭秋。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -488,23 +620,67 @@
     }
   },
   {
-    "title": "陪族叔刑部侍郎曄及中書賈舍人至遊洞庭五首",
+    "title": "陪族叔刑部侍郎曄及中書賈舍人至遊洞庭五首·其一",
     "author": "李白",
     "paragraphs": [
       "洞庭西望楚江分，水盡南天不見雲。",
-      "日落長沙秋色遠，不知何處吊湘君。",
+      "日落長沙秋色遠，不知何處吊湘君。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "陪族叔刑部侍郎曄及中書賈舍人至遊洞庭五首·其二",
+    "author": "李白",
+    "paragraphs": [
       "南湖秋水夜無煙，耐可乘流直上天。",
-      "且就洞庭賒月色，將船買酒白雲邊。",
+      "且就洞庭賒月色，將船買酒白雲邊。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "陪族叔刑部侍郎曄及中書賈舍人至遊洞庭五首·其三",
+    "author": "李白",
+    "paragraphs": [
       "洛陽才子謫湘川，元禮同舟月下仙。",
-      "記得長安還欲笑，不知何處是西天。",
+      "記得長安還欲笑，不知何處是西天。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "陪族叔刑部侍郎曄及中書賈舍人至遊洞庭五首·其四",
+    "author": "李白",
+    "paragraphs": [
       "洞庭湖西秋月輝，瀟湘江北早鴻飛。",
-      "醉客滿船歌白苧，不知霜露入秋衣。",
+      "醉客滿船歌白苧，不知霜露入秋衣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "陪族叔刑部侍郎曄及中書賈舍人至遊洞庭五首·其五",
+    "author": "李白",
+    "paragraphs": [
       "帝子瀟湘去不還，空餘秋草洞庭間。",
       "淡掃明湖開玉鏡，丹青畫出是君山。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

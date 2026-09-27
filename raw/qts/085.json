@@ -1,25 +1,80 @@
 [
   {
-    "title": "唐封泰山樂章：豫和六首",
+    "title": "唐封泰山樂章：豫和六首·其一",
     "author": "張說",
     "paragraphs": [
       "挹泰壇，紫泰清。受天命，報天成。",
-      "竦皇心，薦樂聲。志上達，歌下迎。",
+      "竦皇心，薦樂聲。志上達，歌下迎。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3],
+      "uniform_sentence_length": 3
+    }
+  },
+  {
+    "title": "唐封泰山樂章：豫和六首·其二",
+    "author": "張說",
+    "paragraphs": [
       "億上帝，臨下庭。騎日月，陪列星。",
-      "嘉視信，大糦馨。澹神心，醉皇靈。",
+      "嘉視信，大糦馨。澹神心，醉皇靈。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3],
+      "uniform_sentence_length": 3
+    }
+  },
+  {
+    "title": "唐封泰山樂章：豫和六首·其三",
+    "author": "張說",
+    "paragraphs": [
       "相百辟，貢八荒。九歌敘，萬舞翔。",
-      "肅振振，鏗皇皇。帝欣欣，福穰穰。",
+      "肅振振，鏗皇皇。帝欣欣，福穰穰。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3],
+      "uniform_sentence_length": 3
+    }
+  },
+  {
+    "title": "唐封泰山樂章：豫和六首·其四",
+    "author": "張說",
+    "paragraphs": [
       "高在上，道光明。物資始，德難名。",
-      "承眷命，牧蒼生。寰宇謐，泰階平。",
+      "承眷命，牧蒼生。寰宇謐，泰階平。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3],
+      "uniform_sentence_length": 3
+    }
+  },
+  {
+    "title": "唐封泰山樂章：豫和六首·其五",
+    "author": "張說",
+    "paragraphs": [
       "天道無親，至誠與鄰。山川遍禮，宮征惟新。",
-      "玉帛非盛，聰明會真。正斯一德，通乎百神。",
+      "玉帛非盛，聰明會真。正斯一德，通乎百神。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
+      "uniform_sentence_length": 4
+    }
+  },
+  {
+    "title": "唐封泰山樂章：豫和六首·其六",
+    "author": "張說",
+    "paragraphs": [
       "享帝享親，維孝維聖。緝熙懿德，敷揚成命。",
       "華夷志同，笙鏞禮盛。明靈降止，感此誠敬。"
     ],
     "format": {
-      "sentence_count": 48,
-      "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
+      "uniform_sentence_length": 4
     }
   },
   {
@@ -126,19 +181,41 @@
     }
   },
   {
-    "title": "唐享太廟樂章：永和三首",
+    "title": "唐享太廟樂章：永和三首·其一",
     "author": "張說",
     "paragraphs": [
       "肅九室，諧八音。歌皇慕，動神心。",
-      "禮宿設，樂妙尋。聲明備，祼奠臨。",
+      "禮宿設，樂妙尋。聲明備，祼奠臨。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3],
+      "uniform_sentence_length": 3
+    }
+  },
+  {
+    "title": "唐享太廟樂章：永和三首·其二",
+    "author": "張說",
+    "paragraphs": [
       "律迓氣，音入玄。依玉幾，禦黼筵。",
-      "聆愾息，僾周旋。九韶遍，百福傳。",
+      "聆愾息，僾周旋。九韶遍，百福傳。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3],
+      "uniform_sentence_length": 3
+    }
+  },
+  {
+    "title": "唐享太廟樂章：永和三首·其三",
+    "author": "張說",
+    "paragraphs": [
       "信工祝，永頌聲。來祖考，聽和平。",
       "相百辟，貢九瀛。神休委，帝孝成。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
+      "sentence_count": 8,
+      "sentence_lengths": [3, 3, 3, 3, 3, 3, 3, 3],
       "uniform_sentence_length": 3
     }
   },
@@ -169,17 +246,28 @@
     }
   },
   {
-    "title": "唐享太廟樂章：雍和二首",
+    "title": "唐享太廟樂章：雍和二首·其一",
     "author": "張說",
     "paragraphs": [
       "在滌嘉豢，麗碑敬牲。角握之牝，色純之騂。",
-      "火傳陽燧，水溉陰精。太公胖俎，傅說和羹。",
+      "火傳陽燧，水溉陰精。太公胖俎，傅說和羹。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
+      "uniform_sentence_length": 4
+    }
+  },
+  {
+    "title": "唐享太廟樂章：雍和二首·其二",
+    "author": "張說",
+    "paragraphs": [
       "俎豆有馥，齊盛潔豐。亦有和羹，既戒既平。",
       "鼓鐘管磬，肅唱和鳴。皇皇後祖，來我思成。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+      "sentence_count": 8,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     }
   },

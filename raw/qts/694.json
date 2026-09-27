@@ -184,19 +184,41 @@
     }
   },
   {
-    "title": "夢仙謠三首",
+    "title": "夢仙謠三首·其一",
     "author": "王轂",
     "paragraphs": [
       "前程漸覺風光好，琪花片片粘瑤草。",
-      "有人遺我五色丹，一粒吞之後天老。",
+      "有人遺我五色丹，一粒吞之後天老。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "夢仙謠三首·其二",
+    "author": "王轂",
+    "paragraphs": [
       "青童遞酒金觴疾，列坐紅霞神氣逸。",
-      "笑說留連數日間，已是人間一千日。",
+      "笑說留連數日間，已是人間一千日。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "夢仙謠三首·其三",
+    "author": "王轂",
+    "paragraphs": [
       "瑤台絳節遊皆遍，異果奇花香撲面。",
       "松窗夢覺卻神清，殘月林前三兩片。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -253,17 +275,28 @@
     }
   },
   {
-    "title": "古意二首",
+    "title": "古意二首·其一",
     "author": "孫合",
     "paragraphs": [
       "屈子生楚國，七雄知其材。介潔世不容，跡合藏蒿萊。",
-      "道廢固命也，瓢飲亦賢哉。何事葬江水，空使後人哀。",
+      "道廢固命也，瓢飲亦賢哉。何事葬江水，空使後人哀。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古意二首·其二",
+    "author": "孫合",
+    "paragraphs": [
       "魏禮段幹木，秦王乃止戈。小國有其人，大國奈之何。",
       "賢哲信為美，兵甲豈雲多。君子戰必勝，斯言聞孟軻。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

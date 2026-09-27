@@ -39,17 +39,28 @@
     }
   },
   {
-    "title": "感興二首",
+    "title": "感興二首·其一",
     "author": "白居易",
     "paragraphs": [
       "吉凶禍福有來由，但要深知不要憂。只見火光燒潤屋，",
-      "雖異匏瓜難不食，大都食足早宜休。",
+      "雖異匏瓜難不食，大都食足早宜休。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "感興二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "魚能深入寧憂釣，鳥解高飛豈觸羅。熱處先爭炙手去，",
       "我有一言君記取，世間自取苦人多。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -80,17 +91,28 @@
     }
   },
   {
-    "title": "閑臥有所思二首",
+    "title": "閑臥有所思二首·其一",
     "author": "白居易",
     "paragraphs": [
       "向夕搴簾臥枕琴，微涼入戶起開襟。偶因明月清風夜，",
-      "始知洛下分司坐，一日安閒直萬金。",
+      "始知洛下分司坐，一日安閒直萬金。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "閑臥有所思二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "權門要路是身災，散地閒居少禍胎。今日憐君嶺南去，",
       "大抵吉凶多自致，李斯一去二疏回。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -528,32 +550,54 @@
     }
   },
   {
-    "title": "冬初酒熟二首",
+    "title": "冬初酒熟二首·其一",
     "author": "白居易",
     "paragraphs": [
       "霜繁脆庭柳，風利剪池荷。月色曉彌苦，鳥聲寒更多。",
-      "秋懷久寥落，冬計又如何。一甕新醅酒，萍浮春水波。",
-      "酒熟無來客，因成獨酌謠。人間老黃綺，地上散松喬。",
-      "忽忽醒還醉，悠悠暮複朝。殘年多少在，盡付此中銷。"
+      "秋懷久寥落，冬計又如何。一甕新醅酒，萍浮春水波。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "送姚杭州赴任，因思舊遊二首",
+    "title": "冬初酒熟二首·其二",
+    "author": "白居易",
+    "paragraphs": [
+      "酒熟無來客，因成獨酌謠。人間老黃綺，地上散松喬。",
+      "忽忽醒還醉，悠悠暮複朝。殘年多少在，盡付此中銷。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送姚杭州赴任，因思舊遊二首·其一",
     "author": "白居易",
     "paragraphs": [
       "與君細話杭州事，為我留心莫等閒。閭裏固宜勤撫恤，",
-      "且喜詩人重管領，遙飛一醆賀江山。",
+      "且喜詩人重管領，遙飛一醆賀江山。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送姚杭州赴任，因思舊遊二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "渺渺錢唐路幾千，想君到後事依然。靜逢竺寺猿偷橘，",
       "舍人雖健無多興，老校當時八九年。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

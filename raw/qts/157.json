@@ -140,18 +140,29 @@
     }
   },
   {
-    "title": "傷時二首",
+    "title": "傷時二首·其一",
     "author": "孟雲卿",
     "paragraphs": [
       "徘回宋郊上，不睹平生親。獨立正傷心，悲風來孟津。",
       "大方載群物，先死有常倫。虎豹不相食，哀哉人食人。",
-      "豈伊逢世運，天道亮云云。",
+      "豈伊逢世運，天道亮云云。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "傷時二首·其二",
+    "author": "孟雲卿",
+    "paragraphs": [
       "太空流素月，三五何明明。光耀侵白日，賢愚迷至精。",
       "四時更變化，天道有虧盈。常恐今夜沒，須臾還複生。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

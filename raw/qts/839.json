@@ -563,17 +563,28 @@
     }
   },
   {
-    "title": "溪齋二首",
+    "title": "溪齋二首·其一",
     "author": "齊己",
     "paragraphs": [
       "豈敢言招隱，歸休喜自安。一溪雲臥穩，四海路行難。",
-      "瑞獸藏頭角，幽禽惜羽翰。子猷何處在，老盡碧琅玕。",
+      "瑞獸藏頭角，幽禽惜羽翰。子猷何處在，老盡碧琅玕。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "溪齋二首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "杉竹映溪關，修修共歲寒。幽人眠日晏，花雨落春殘。",
       "道妙言何強，詩玄論甚難。閒居有親賦，搔首憶潘安。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -814,17 +825,28 @@
     }
   },
   {
-    "title": "寄洛下王彝訓先輩二首",
+    "title": "寄洛下王彝訓先輩二首·其一",
     "author": "齊己",
     "paragraphs": [
       "賈島存正始，王維留格言。千篇千古在，一詠一驚魂。",
-      "離別無他寄，相思共此門。陽春堪永恨，郢路轉塵昏。",
+      "離別無他寄，相思共此門。陽春堪永恨，郢路轉塵昏。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄洛下王彝訓先輩二首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "北極新英主，高科舊少年。風流傳貴達，談笑取榮遷。",
       "洛水秋空底，嵩峰曉翠巔。尋常誰並馬，橋上戲成篇。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

@@ -351,17 +351,28 @@
     }
   },
   {
-    "title": "過馬嵬二首",
+    "title": "過馬嵬二首·其一",
     "author": "李益",
     "paragraphs": [
       "路至牆垣問樵者，顧予雲是太真宮。太真血染馬蹄盡，",
-      "世人莫重霓裳曲，曾致干戈是此中。",
+      "世人莫重霓裳曲，曾致干戈是此中。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "過馬嵬二首·其二",
+    "author": "李益",
+    "paragraphs": [
       "金甲銀旌盡已回，蒼茫羅袖隔風埃。濃香猶自隨鸞輅，",
       "唯留坡畔彎環月，時送殘輝入夜台。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -775,17 +786,28 @@
     }
   },
   {
-    "title": "度破訥沙二首",
+    "title": "度破訥沙二首·其一",
     "author": "李益",
     "paragraphs": [
       "眼見風來沙旋移，經年不省草生時。",
-      "莫言塞北無春到，總有春來何處知。",
+      "莫言塞北無春到，總有春來何處知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "度破訥沙二首·其二",
+    "author": "李益",
+    "paragraphs": [
       "破訥沙頭雁正飛，鸊鵜泉上戰初歸。",
       "平明日出東南地，滿磧寒光生鐵衣。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -861,17 +883,28 @@
     }
   },
   {
-    "title": "夜上西城聽梁州曲二首",
+    "title": "夜上西城聽梁州曲二首·其一",
     "author": "李益",
     "paragraphs": [
       "行人夜上西城宿，聽唱梁州雙管逐。",
-      "此時秋月滿關山，何處關山無此曲。",
+      "此時秋月滿關山，何處關山無此曲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "夜上西城聽梁州曲二首·其二",
+    "author": "李益",
+    "paragraphs": [
       "鴻雁新從北地來，聞聲一半卻飛回。",
       "金河戍客腸應斷，更在秋風百尺台。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

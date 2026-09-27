@@ -489,21 +489,54 @@
     }
   },
   {
-    "title": "竹枝詞四首",
+    "title": "竹枝詞四首·其一",
     "author": "白居易",
     "paragraphs": [
       "瞿唐峽口水煙低，白帝城頭月向西。",
-      "唱到竹枝聲咽處，寒猿暗鳥一時啼。",
+      "唱到竹枝聲咽處，寒猿暗鳥一時啼。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹枝詞四首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "竹枝苦怨怨何人，夜靜山空歇又聞。",
-      "蠻兒巴女齊聲唱，愁殺江樓病使君。",
+      "蠻兒巴女齊聲唱，愁殺江樓病使君。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹枝詞四首·其三",
+    "author": "白居易",
+    "paragraphs": [
       "巴東船舫上巴西，波面風生雨腳齊。",
-      "水蓼冷花紅簇簇，江蘺濕葉碧淒淒。",
+      "水蓼冷花紅簇簇，江蘺濕葉碧淒淒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "竹枝詞四首·其四",
+    "author": "白居易",
+    "paragraphs": [
       "江畔誰人唱竹枝，前聲斷咽後聲遲。",
       "怪來調苦緣詞苦，多是通州司馬詩。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -928,21 +961,54 @@
     }
   },
   {
-    "title": "德宗皇帝挽歌詞四首",
+    "title": "德宗皇帝挽歌詞四首·其一",
     "author": "白居易",
     "paragraphs": [
       "執象宗玄祖，貽謀啟孝孫。文高柏梁殿，禮薄霸陵原。",
-      "宮仗辭天闕，朝儀出國門。生成不可報，二十七年恩。",
+      "宮仗辭天闕，朝儀出國門。生成不可報，二十七年恩。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "德宗皇帝挽歌詞四首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "虞帝南巡後，殷宗諒暗中。初辭鑄鼎地，已閉望仙宮。",
-      "曉落當陵月，秋生滿旆風。前星承帝座，不使北辰空。",
+      "曉落當陵月，秋生滿旆風。前星承帝座，不使北辰空。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "德宗皇帝挽歌詞四首·其三",
+    "author": "白居易",
+    "paragraphs": [
       "業大承宗祖，功成付子孫。睿文詩播樂，遺訓史標言。",
-      "節表中和德，方垂廣利恩。懸知千載後，理代數貞元。",
+      "節表中和德，方垂廣利恩。懸知千載後，理代數貞元。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "德宗皇帝挽歌詞四首·其四",
+    "author": "白居易",
+    "paragraphs": [
       "夢減三齡壽，哀延七月期。寢園愁望遠，宮仗哭行遲。",
       "雲日添寒慘，笳簫向晚悲。因山有遺詔，如葬漢文時。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -960,42 +1026,86 @@
     }
   },
   {
-    "title": "太平樂詞二首",
+    "title": "太平樂詞二首·其一",
     "author": "白居易",
     "paragraphs": [
-      "歲豐仍節儉，時泰更銷兵。聖念長如此，何憂不太平。",
+      "歲豐仍節儉，時泰更銷兵。聖念長如此，何憂不太平。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "太平樂詞二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "湛露浮堯酒，熏風起舜歌。願同堯舜意，所樂在人和。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "小曲新詞二首",
+    "title": "小曲新詞二首·其一",
     "author": "白居易",
     "paragraphs": [
-      "霽色鮮宮殿，秋聲脆管弦。聖明千歲樂，歲歲似今年。",
+      "霽色鮮宮殿，秋聲脆管弦。聖明千歲樂，歲歲似今年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "小曲新詞二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "紅裾明月夜，碧簟早秋時。好向昭陽宿，天涼玉漏遲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "閨怨詞三首",
+    "title": "閨怨詞三首·其一",
     "author": "白居易",
     "paragraphs": [
-      "朝憎鶯百囀，夜妒燕雙棲。不慣經春別，誰知到曉啼。",
-      "珠箔籠寒月，紗窗背曉燈。夜來巾上淚，一半是春冰。",
+      "朝憎鶯百囀，夜妒燕雙棲。不慣經春別，誰知到曉啼。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閨怨詞三首·其二",
+    "author": "白居易",
+    "paragraphs": [
+      "珠箔籠寒月，紗窗背曉燈。夜來巾上淚，一半是春冰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閨怨詞三首·其三",
+    "author": "白居易",
+    "paragraphs": [
       "關山征戍遠，閨閣別離難。苦戰應憔悴，寒衣不要寬。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1039,16 +1149,27 @@
     }
   },
   {
-    "title": "獨眠吟二首",
+    "title": "獨眠吟二首·其一",
     "author": "白居易",
     "paragraphs": [
       "夜長無睡起階前，寥落星河欲曙天。",
-      "十五年來明月夜，何曾一夜不孤眠。",
+      "十五年來明月夜，何曾一夜不孤眠。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "獨眠吟二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "獨眠客，夜夜可憐長寂寂。就中今夜最愁人，"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [7, 7, 7, 7, 3, 7, 7],
+      "sentence_count": 3,
+      "sentence_lengths": [3, 7, 7],
       "uniform_sentence_length": null
     }
   },

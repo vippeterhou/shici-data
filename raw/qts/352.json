@@ -77,19 +77,30 @@
     }
   },
   {
-    "title": "酬賈鵬山人郡內新栽松寓興見贈二首",
+    "title": "酬賈鵬山人郡內新栽松寓興見贈二首·其一",
     "author": "柳宗元",
     "paragraphs": [
       "芳朽自為別，無心乃玄功。夭夭日放花，榮耀將安窮。",
       "青松遺澗底，擢蒔茲庭中。積雪表明秀，寒花助蔥蘢。",
-      "貞幽夙有慕，持以延清風。",
+      "貞幽夙有慕，持以延清風。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "酬賈鵬山人郡內新栽松寓興見贈二首·其二",
+    "author": "柳宗元",
+    "paragraphs": [
       "無能常閉閣，偶以靜見名。奇姿來遠山，忽似人家生。",
       "勁色不改舊，芳心與誰榮。喧卑豈所安，任物非我情。",
       "清韻動竽瑟，諧此風中聲。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -185,17 +196,28 @@
     }
   },
   {
-    "title": "重贈二首",
+    "title": "重贈二首·其一",
     "author": "柳宗元",
     "paragraphs": [
       "聞道將雛向墨池，劉家還有異同詞。",
-      "如今試遣隈牆問，已道世人那得知。",
+      "如今試遣隈牆問，已道世人那得知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "重贈二首·其二",
+    "author": "柳宗元",
+    "paragraphs": [
       "世上悠悠不識真，薑芽儘是捧心人。",
       "若道柳家無子弟，往年何事乞西賓。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

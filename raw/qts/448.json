@@ -14,17 +14,28 @@
     }
   },
   {
-    "title": "思子台有感二首",
+    "title": "思子台有感二首·其一",
     "author": "白居易",
     "paragraphs": [
       "曾家機上聞投杼，尹氏園中見掇蜂。",
-      "但以恩情生隙罅，何人不解作江充。",
+      "但以恩情生隙罅，何人不解作江充。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "思子台有感二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "闇生魑魅蠹生蟲，何異讒生疑阻中。",
       "但使武皇心似燭，江充不敢作江充。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -730,17 +741,28 @@
     }
   },
   {
-    "title": "臨都驛答夢得六言二首",
+    "title": "臨都驛答夢得六言二首·其一",
     "author": "白居易",
     "paragraphs": [
       "揚子津頭月下，臨都驛裏燈前。",
-      "昨日老於前日，去年春似今年。",
+      "昨日老於前日，去年春似今年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "臨都驛答夢得六言二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "謝守歸為秘監，馮公老作郎官。",
       "前事不須問著，新詩且更吟看。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6],
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },

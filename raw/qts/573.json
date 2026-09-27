@@ -886,17 +886,28 @@
     }
   },
   {
-    "title": "鄭尚書新開涪江二首",
+    "title": "鄭尚書新開涪江二首·其一",
     "author": "賈島",
     "paragraphs": [
       "岸鑿青山破，江開白浪寒。日沉源出海，春至草生灘。",
-      "梓匠防波溢，蓬仙畏水幹。從今疏決後，任雨滯峰巒。",
+      "梓匠防波溢，蓬仙畏水幹。從今疏決後，任雨滯峰巒。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "鄭尚書新開涪江二首·其二",
+    "author": "賈島",
+    "paragraphs": [
       "不侵南畝務，已拔北江流。涪水方移岸，潯陽有到舟。",
       "潭澄初搗藥，波動乍垂鉤。山可疏三裏，從知曆億秋。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

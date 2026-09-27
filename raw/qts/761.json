@@ -80,15 +80,26 @@
     }
   },
   {
-    "title": "漁父歌二首",
+    "title": "漁父歌二首·其一",
     "author": "歐陽炯",
     "paragraphs": [
-      "擺脫塵機上釣船，免教榮辱有流年。無系絆，沒愁煎，",
+      "擺脫塵機上釣船，免教榮辱有流年。無系絆，沒愁煎，"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 3, 3],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "漁父歌二首·其二",
+    "author": "歐陽炯",
+    "paragraphs": [
       "風浩寒溪照膽明，小君山上玉蟾生。荷露墜，翠煙輕，"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 3, 3, 7, 7, 3, 3],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 3, 3],
       "uniform_sentence_length": null
     }
   },

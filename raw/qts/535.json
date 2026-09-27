@@ -182,17 +182,28 @@
     }
   },
   {
-    "title": "送盧先輩自衡岳赴複州嘉禮二首",
+    "title": "送盧先輩自衡岳赴複州嘉禮二首·其一",
     "author": "許渾",
     "paragraphs": [
       "名振金閨步玉京，暫留滄海見高情。眾花盡處松千尺，",
-      "離心不異西江水，直送征帆萬里行。",
+      "離心不異西江水，直送征帆萬里行。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送盧先輩自衡岳赴複州嘉禮二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "湘南詩客海中行，鵬翅垂雲不自矜。秋水靜磨金鏡土，",
       "醉倚西樓人已遠，柳溪無浪月澄澄。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -470,17 +481,28 @@
     }
   },
   {
-    "title": "陪宣城大夫崔公泛後池兼北樓宴二首",
+    "title": "陪宣城大夫崔公泛後池兼北樓宴二首·其一",
     "author": "許渾",
     "paragraphs": [
       "陪泛芳池醉北樓，水花繁豔照膺舟。亭台陰合樹初晝，",
-      "昔時恩遇今能否，一尉滄洲已白頭。",
+      "昔時恩遇今能否，一尉滄洲已白頭。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "陪宣城大夫崔公泛後池兼北樓宴二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "江上西來共鳥飛，剪荷浮泛似輕肥。王珣作簿公曾喜，",
       "宛陵行樂金陵住，遙對家山未憶歸。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -550,17 +572,28 @@
     }
   },
   {
-    "title": "贈河東虞押衙二首",
+    "title": "贈河東虞押衙二首·其一",
     "author": "許渾",
     "paragraphs": [
       "長劍高歌換素衣，君恩未報不言歸。舊精鳥篆諳書體，",
-      "生平志氣何人見，空上西樓望落暉。",
+      "生平志氣何人見，空上西樓望落暉。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈河東虞押衙二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "吳門風水各萍流，月滿花開懶獨遊。萬里山川分曉夢，",
       "莫向尊前更惆悵，古來投筆盡封侯。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

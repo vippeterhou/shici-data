@@ -1,16 +1,27 @@
 [
   {
-    "title": "春閨辭二首",
+    "title": "春閨辭二首·其一",
     "author": "李中",
     "paragraphs": [
       "捲簾遲日暖，睡起思沉沉。遼海音塵遠，春風旅館深。",
-      "疏篁留鳥語，曲砌轉花陰。寄語長征客，流年不易禁。",
+      "疏篁留鳥語，曲砌轉花陰。寄語長征客，流年不易禁。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春閨辭二首·其二",
+    "author": "李中",
+    "paragraphs": [
       "不得遼陽信，春心何以安。鳥啼窗樹曉，夢斷碧煙殘。",
       "綠鑒開還懶，紅顏駐且難。相思誰可訴，時取舊書看。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -386,17 +397,28 @@
     }
   },
   {
-    "title": "秋雨二首",
+    "title": "秋雨二首·其一",
     "author": "李中",
     "paragraphs": [
       "飄灑當窮巷，苔深落葉鋪。送寒來客館，滴夢在庭梧。",
-      "逼砌蛩聲斷，侵窗竹影孤。遙思漁叟興，蓑笠在江湖。",
+      "逼砌蛩聲斷，侵窗竹影孤。遙思漁叟興，蓑笠在江湖。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋雨二首·其二",
+    "author": "李中",
+    "paragraphs": [
       "竟日聲蕭颯，兼風不暫闌。竹窗秋睡美，荻浦夜漁寒。",
       "地僻苔生易，林疏鳥宿難。誰知苦吟者，坐聽一燈殘。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -427,17 +449,28 @@
     }
   },
   {
-    "title": "烈祖孝高挽歌二首",
+    "title": "烈祖孝高挽歌二首·其一",
     "author": "李中",
     "paragraphs": [
       "誰解叩幹關，音容去不還。位方尊北極，壽忽殞南山。",
-      "鳳輦應難問，龍髯不可攀。千秋遺恨處，雲物鎖橋山。",
+      "鳳輦應難問，龍髯不可攀。千秋遺恨處，雲物鎖橋山。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "烈祖孝高挽歌二首·其二",
+    "author": "李中",
+    "paragraphs": [
       "仙馭歸何處，蒼蒼問且難。華夷喧道德，陵壟葬衣冠。",
       "禦水穿城咽，宮花泣露寒。九疑消息斷，空望白雲端。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -520,17 +553,28 @@
     }
   },
   {
-    "title": "春閨辭二首",
+    "title": "春閨辭二首·其一",
     "author": "李中",
     "paragraphs": [
       "塵昏菱鑒懶修容，雙臉桃花落盡紅。",
-      "玉塞夢歸殘燭在，曉鶯窗外囀梧桐。",
+      "玉塞夢歸殘燭在，曉鶯窗外囀梧桐。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "春閨辭二首·其二",
+    "author": "李中",
+    "paragraphs": [
       "邊無音信暗消魂，茜袖香裙積淚痕。",
       "海燕歸來門半掩，悠悠花落又黃昏。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -884,17 +928,28 @@
     }
   },
   {
-    "title": "江南重會友人感舊二首",
+    "title": "江南重會友人感舊二首·其一",
     "author": "李中",
     "paragraphs": [
       "江南重會面，聊話十年心。共立黃花畔，空驚素發侵。",
-      "斜陽浮遠水，歸鳥下疏林。牽動詩魔處，涼風村落砧。",
+      "斜陽浮遠水，歸鳥下疏林。牽動詩魔處，涼風村落砧。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江南重會友人感舊二首·其二",
+    "author": "李中",
+    "paragraphs": [
       "長江落照天，物景似當年。憶昔攜村酒，相將上釣船。",
       "狂歌紅蓼岸，驚起白鷗眠。今日趨名急，臨風一黯然。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -912,17 +967,28 @@
     }
   },
   {
-    "title": "哭舍弟二首",
+    "title": "哭舍弟二首·其一",
     "author": "李中",
     "paragraphs": [
       "鴻雁離群後，成行憶日存。誰知歸故里，只得奠吟魂。",
-      "蟲蠹書盈篋，人稀草擁門。從茲長慟後，獨自奉晨昏。",
+      "蟲蠹書盈篋，人稀草擁門。從茲長慟後，獨自奉晨昏。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "哭舍弟二首·其二",
+    "author": "李中",
+    "paragraphs": [
       "浮生多夭枉，惟爾最堪悲。同氣未歸日，慈親臨老時。",
       "舊詩傳海嶠，新塚枕江湄。遺稚嗚嗚處，黃昏繞繐帷。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -992,17 +1058,28 @@
     }
   },
   {
-    "title": "宮詞二首",
+    "title": "宮詞二首·其一",
     "author": "李中",
     "paragraphs": [
       "門鎖簾垂月影斜，翠華咫尺隔天涯。",
-      "香鋪羅幌不成夢，背壁銀缸落盡花。",
+      "香鋪羅幌不成夢，背壁銀缸落盡花。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "宮詞二首·其二",
+    "author": "李中",
+    "paragraphs": [
       "金波寒透水精簾，燒盡沈檀手自添。",
       "風遞笙歌門已掩，翠華何處夜厭厭。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -35,16 +35,27 @@
     }
   },
   {
-    "title": "酬答二首",
+    "title": "酬答二首·其一",
     "author": "李賀",
     "paragraphs": [
       "金魚公子夾衫長，密裝腰鞓割玉方。",
-      "行處春風隨馬尾，柳花偏打內家香。",
+      "行處春風隨馬尾，柳花偏打內家香。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "酬答二首·其二",
+    "author": "李賀",
+    "paragraphs": [
       "雍州二月梅池春，禦水鵁鶄暖白蘋。試問酒旗歌板地，今朝誰是拗花人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -144,21 +155,54 @@
     }
   },
   {
-    "title": "追賦畫江潭苑四首",
+    "title": "追賦畫江潭苑四首·其一",
     "author": "李賀",
     "paragraphs": [
       "吳苑曉蒼蒼，宮衣水濺黃。小鬟紅粉薄，騎馬佩珠長。",
-      "路指台城迥，羅熏袴褶香。行雲沾翠輦，今日似襄王。",
+      "路指台城迥，羅熏袴褶香。行雲沾翠輦，今日似襄王。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "追賦畫江潭苑四首·其二",
+    "author": "李賀",
+    "paragraphs": [
       "寶襪菊衣單，蕉花密露寒。水光蘭澤葉，帶重剪刀錢。",
-      "角暖盤弓易，靴長上馬難。淚痕沾寢帳，勻粉照金鞍。",
+      "角暖盤弓易，靴長上馬難。淚痕沾寢帳，勻粉照金鞍。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "追賦畫江潭苑四首·其三",
+    "author": "李賀",
+    "paragraphs": [
       "剪翅小鷹斜，絛根玉镟花。秋垂妝鈿粟，箭箙釘文牙。",
-      "狒狒啼深竹，鵁鶄老濕沙。宮官燒蠟火，飛燼汙鉛華。",
+      "狒狒啼深竹，鵁鶄老濕沙。宮官燒蠟火，飛燼汙鉛華。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "追賦畫江潭苑四首·其四",
+    "author": "李賀",
+    "paragraphs": [
       "十騎簇芙蓉，宮衣小隊紅。練香熏宋鵲，尋箭踏盧龍。",
       "旗濕金鈴重，霜幹玉鐙空。今朝畫眉早，不待景陽鐘。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

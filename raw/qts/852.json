@@ -13,16 +13,38 @@
     }
   },
   {
-    "title": "醉吟三首",
+    "title": "醉吟三首·其一",
     "author": "張氳",
     "paragraphs": [
-      "去歲無田種，今春乏酒材。從他花鳥笑，佯醉臥樓臺。",
-      "下調無人睬，高心又被瞋。不知時俗意，教我若為人。",
+      "去歲無田種，今春乏酒材。從他花鳥笑，佯醉臥樓臺。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "醉吟三首·其二",
+    "author": "張氳",
+    "paragraphs": [
+      "下調無人睬，高心又被瞋。不知時俗意，教我若為人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "醉吟三首·其三",
+    "author": "張氳",
+    "paragraphs": [
       "入市非求利，過朝不為名。有時隨俗物，相伴且營營。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -133,33 +155,55 @@
     }
   },
   {
-    "title": "自詠二首",
+    "title": "自詠二首·其一",
     "author": "徐靈府",
     "paragraphs": [
       "寂寂凝神太極初，無心應物等空虛。",
-      "性修自性非求得，欲識真人只是渠。",
-      "學道全真在此生，何須待死更求生。",
-      "今生不了無生理，縱複生知那處生。"
+      "性修自性非求得，欲識真人只是渠。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "留觀中詩二首",
+    "title": "自詠二首·其二",
+    "author": "徐靈府",
+    "paragraphs": [
+      "學道全真在此生，何須待死更求生。",
+      "今生不了無生理，縱複生知那處生。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "留觀中詩二首·其一",
     "author": "吳子來",
     "paragraphs": [
       "終日草堂間，清風常往還。耳無塵事擾，心有玩雲閑。",
-      "對酒惟思月，餐松不厭山。時時吟內景，自合駐童顏。",
+      "對酒惟思月，餐松不厭山。時時吟內景，自合駐童顏。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "留觀中詩二首·其二",
+    "author": "吳子來",
+    "paragraphs": [
       "此生此物當生涯，白石青松便是家。",
       "對月臥雲如野鹿，時時買酒醉煙霞。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   }
 ]

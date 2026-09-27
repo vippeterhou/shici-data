@@ -12,15 +12,26 @@
     }
   },
   {
-    "title": "敬報孫常州二首",
+    "title": "敬報孫常州二首·其一",
     "author": "戴叔倫",
     "paragraphs": [
-      "衰病苦奔走，未嘗追舊遊。何言問憔悴，此日駐方舟。",
+      "衰病苦奔走，未嘗追舊遊。何言問憔悴，此日駐方舟。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "敬報孫常州二首·其二",
+    "author": "戴叔倫",
+    "paragraphs": [
       "遠道曳故屐，餘春會高齋。因言別離久，得盡平生懷。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -73,34 +84,122 @@
     }
   },
   {
-    "title": "赴撫州對酬崔法曹夜雨滴空階五首",
+    "title": "赴撫州對酬崔法曹夜雨滴空階五首·其一",
     "author": "戴叔倫",
     "paragraphs": [
-      "雨落濕孤客，心驚比棲鳥。空階夜滴繁，相亂應到曉。",
-      "高會棗樹宅，清言蓮社僧。兩鄉同夜雨，旅館又無燈。",
-      "謗議不自辨，親朋那得知。雨中驅馬去，非是獨傷離。",
-      "離室雨初晦，客程雲陡暗。方為對吏人，敢望郵童探。",
-      "縱酒常擲盞，狂歌時入室。離群怨雨聲，幽抑方成疾。"
+      "雨落濕孤客，心驚比棲鳥。空階夜滴繁，相亂應到曉。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "又酬曉燈離暗室五首",
+    "title": "赴撫州對酬崔法曹夜雨滴空階五首·其二",
     "author": "戴叔倫",
     "paragraphs": [
-      "知疑奸叟謗，閑與情人話。猶是別時燈，不眠同此夜。",
-      "寒燈揚曉焰，重屋驚春雨。應想遠行人，路逢泥濘阻。",
-      "燈光照虛屋，雨影懸空壁。一向簷下聲，遠來愁處滴。",
-      "楚僧話寂滅，俗慮比虛空。賴有殘燈喻，相傳昏暗中。",
+      "高會棗樹宅，清言蓮社僧。兩鄉同夜雨，旅館又無燈。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "赴撫州對酬崔法曹夜雨滴空階五首·其三",
+    "author": "戴叔倫",
+    "paragraphs": [
+      "謗議不自辨，親朋那得知。雨中驅馬去，非是獨傷離。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "赴撫州對酬崔法曹夜雨滴空階五首·其四",
+    "author": "戴叔倫",
+    "paragraphs": [
+      "離室雨初晦，客程雲陡暗。方為對吏人，敢望郵童探。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "赴撫州對酬崔法曹夜雨滴空階五首·其五",
+    "author": "戴叔倫",
+    "paragraphs": [
+      "縱酒常擲盞，狂歌時入室。離群怨雨聲，幽抑方成疾。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "又酬曉燈離暗室五首·其一",
+    "author": "戴叔倫",
+    "paragraphs": [
+      "知疑奸叟謗，閑與情人話。猶是別時燈，不眠同此夜。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "又酬曉燈離暗室五首·其二",
+    "author": "戴叔倫",
+    "paragraphs": [
+      "寒燈揚曉焰，重屋驚春雨。應想遠行人，路逢泥濘阻。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "又酬曉燈離暗室五首·其三",
+    "author": "戴叔倫",
+    "paragraphs": [
+      "燈光照虛屋，雨影懸空壁。一向簷下聲，遠來愁處滴。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "又酬曉燈離暗室五首·其四",
+    "author": "戴叔倫",
+    "paragraphs": [
+      "楚僧話寂滅，俗慮比虛空。賴有殘燈喻，相傳昏暗中。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "又酬曉燈離暗室五首·其五",
+    "author": "戴叔倫",
+    "paragraphs": [
       "雨聲亂燈影，明滅在空階。並枉五言贈，知同萬里懷。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -141,15 +240,26 @@
     }
   },
   {
-    "title": "關山月二首",
+    "title": "關山月二首·其一",
     "author": "戴叔倫",
     "paragraphs": [
-      "月出照關山，秋風人未還。清光無遠近，鄉淚半書間。",
+      "月出照關山，秋風人未還。清光無遠近，鄉淚半書間。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "關山月二首·其二",
+    "author": "戴叔倫",
+    "paragraphs": [
       "一雁過連營，繁霜覆古城。胡笳在何處，半夜起邊聲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -602,17 +712,28 @@
     }
   },
   {
-    "title": "塞上曲二首",
+    "title": "塞上曲二首·其一",
     "author": "戴叔倫",
     "paragraphs": [
       "軍門頻納受降書，一劍橫行萬里餘。",
-      "漢祖謾誇婁敬策，卻將公主嫁單于。",
+      "漢祖謾誇婁敬策，卻將公主嫁單于。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞上曲二首·其二",
+    "author": "戴叔倫",
+    "paragraphs": [
       "漢家旌幟滿陰山，不遣胡兒匹馬還。",
       "願得此身長報國，何須生入玉門關。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -786,17 +907,28 @@
     }
   },
   {
-    "title": "敬酬陸山人二首",
+    "title": "敬酬陸山人二首·其一",
     "author": "戴叔倫",
     "paragraphs": [
       "党議連誅不可聞，直臣高士去紛紛。",
-      "當時漏奪無人問，出宰東陽笑殺君。",
+      "當時漏奪無人問，出宰東陽笑殺君。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "敬酬陸山人二首·其二",
+    "author": "戴叔倫",
+    "paragraphs": [
       "由來海畔逐樵漁，奉詔因乘使者車。",
       "卻掌山中子男印，自看猶是舊潛夫。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -814,19 +946,41 @@
     }
   },
   {
-    "title": "撫州被推昭雪答陸太祝三首",
+    "title": "撫州被推昭雪答陸太祝三首·其一",
     "author": "戴叔倫",
     "paragraphs": [
       "求理由來許便宜，漢朝龔遂不為疵。",
-      "如今謗起翻成累，唯有新人子細知。",
+      "如今謗起翻成累，唯有新人子細知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "撫州被推昭雪答陸太祝三首·其二",
+    "author": "戴叔倫",
+    "paragraphs": [
       "貧交相愛果無疑，共向人間聽直詞。",
-      "從古以來何限枉，慚知暗室不曾欺。",
+      "從古以來何限枉，慚知暗室不曾欺。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "撫州被推昭雪答陸太祝三首·其三",
+    "author": "戴叔倫",
+    "paragraphs": [
       "春風旅館長庭蕪，俯首低眉一老夫。",
       "已對鐵冠窮事本，不知廷尉念冤無。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1405,17 +1559,28 @@
     }
   },
   {
-    "title": "暮春游長沙東湖贈辛兗州巢父二首",
+    "title": "暮春游長沙東湖贈辛兗州巢父二首·其一",
     "author": "戴叔倫",
     "paragraphs": [
       "湘流分曲浦，繚繞古城東。岸轉千家合，林開一鏡空。",
-      "人生無事少，心賞幾回同。且複忘羈束，悠悠落照中。",
+      "人生無事少，心賞幾回同。且複忘羈束，悠悠落照中。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "暮春游長沙東湖贈辛兗州巢父二首·其二",
+    "author": "戴叔倫",
+    "paragraphs": [
       "回環路不盡，曆覽意彌新。古木佘田火，澄江蕩槳人。",
       "緩歌尋極浦，一醉送殘春。莫恨長沙遠，他年憶此辰。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

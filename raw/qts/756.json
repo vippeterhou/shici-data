@@ -106,33 +106,132 @@
     }
   },
   {
-    "title": "柳枝詞十首",
+    "title": "柳枝詞十首·其一",
     "author": "徐鉉",
     "paragraphs": [
       "金馬辭臣賦小詩，梨園弟子唱新詞。",
-      "君恩還似東風意，先入靈和蜀柳枝。",
+      "君恩還似東風意，先入靈和蜀柳枝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝詞十首·其二",
+    "author": "徐鉉",
+    "paragraphs": [
       "百草千花共待春，綠楊顏色最驚人。",
-      "天邊雨露年年在，上苑芳華歲歲新。",
+      "天邊雨露年年在，上苑芳華歲歲新。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝詞十首·其三",
+    "author": "徐鉉",
+    "paragraphs": [
       "長愛龍池二月時，毿毿金線弄春姿。",
-      "假饒葉落枝空後，更有梨園笛裏吹。",
+      "假饒葉落枝空後，更有梨園笛裏吹。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝詞十首·其四",
+    "author": "徐鉉",
+    "paragraphs": [
       "綠水成文柳帶搖，東風初到不鳴條。",
-      "龍舟欲過偏留戀，萬縷輕絲拂禦橋。",
+      "龍舟欲過偏留戀，萬縷輕絲拂禦橋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝詞十首·其五",
+    "author": "徐鉉",
+    "paragraphs": [
       "百尺長條婉曲塵，詩題不盡畫難真。",
-      "憑君折向人間種，還似君恩處處春。",
+      "憑君折向人間種，還似君恩處處春。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝詞十首·其六",
+    "author": "徐鉉",
+    "paragraphs": [
       "風暖雲開晚照明，翠條深映鳳凰城。",
-      "人間欲識靈和態，聽取新詞玉管聲。",
+      "人間欲識靈和態，聽取新詞玉管聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝詞十首·其七",
+    "author": "徐鉉",
+    "paragraphs": [
       "醉折垂楊唱柳枝，金城三月走金羈。",
-      "年年為愛新條好，不覺蒼華也似絲。",
+      "年年為愛新條好，不覺蒼華也似絲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝詞十首·其八",
+    "author": "徐鉉",
+    "paragraphs": [
       "新春花柳競芳姿，偏愛垂楊拂地枝。",
-      "天子遍教詞客賦，宮中要唱洞簫詞。",
+      "天子遍教詞客賦，宮中要唱洞簫詞。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝詞十首·其九",
+    "author": "徐鉉",
+    "paragraphs": [
       "凝碧池頭蘸翠漣，鳳凰樓畔簇晴煙。",
-      "新詞欲詠知難詠，說與雙成入管弦。",
+      "新詞欲詠知難詠，說與雙成入管弦。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝詞十首·其十",
+    "author": "徐鉉",
+    "paragraphs": [
       "侍從甘泉與未央，移舟偏要近垂楊。",
       "櫻桃未綻梅花老，折得柔條百尺長。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

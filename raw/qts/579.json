@@ -143,17 +143,28 @@
     }
   },
   {
-    "title": "長安春晚二首",
+    "title": "長安春晚二首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "曲江春半日遲遲，正是王孫悵望時。",
-      "杏花落盡不歸去，江上東風吹柳絲。",
+      "杏花落盡不歸去，江上東風吹柳絲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "長安春晚二首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
       "四方無事太平年，萬象鮮明禁火前。",
       "九重細雨惹春色，輕染龍池楊柳煙。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -223,19 +234,41 @@
     }
   },
   {
-    "title": "渭上題三首",
+    "title": "渭上題三首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "呂公榮達子陵歸，萬古煙波繞釣磯。",
-      "橋上一通名利跡，至今江鳥背人飛。",
+      "橋上一通名利跡，至今江鳥背人飛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "渭上題三首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
       "目極雲霄思浩然，風帆一片水連天。",
-      "輕橈便是東歸路，不肯忘機作釣船。",
+      "輕橈便是東歸路，不肯忘機作釣船。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "渭上題三首·其三",
+    "author": "溫庭筠",
+    "paragraphs": [
       "煙水何曾息世機，暫時相向亦依依。",
       "所嗟白首磻溪叟，一下漁舟更不歸。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

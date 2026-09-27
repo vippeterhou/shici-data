@@ -26,17 +26,28 @@
     }
   },
   {
-    "title": "送元晝上人歸蘇州兼寄張厚二首",
+    "title": "送元晝上人歸蘇州兼寄張厚二首·其一",
     "author": "許渾",
     "paragraphs": [
       "自卜閒居荊水頭，感時相別思悠悠。一樽酒盡青山暮，",
-      "晝公此去應相問，為說沾巾憶舊遊。",
+      "晝公此去應相問，為說沾巾憶舊遊。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送元晝上人歸蘇州兼寄張厚二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "三年無事客吳鄉，南陌春園碧草長。共醉八門回畫舸，",
       "經歲別離心自苦，何堪黃葉落清漳。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -602,17 +613,28 @@
     }
   },
   {
-    "title": "聞開江宋相公申錫下世二首",
+    "title": "聞開江宋相公申錫下世二首·其一",
     "author": "許渾",
     "paragraphs": [
       "權門陰奏奪移才，馹騎如星墮峽來。晁氏有恩忠作禍，",
-      "畢竟功成何處是，五湖雲月一帆開。",
+      "畢竟功成何處是，五湖雲月一帆開。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "聞開江宋相公申錫下世二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "月落湘潭棹不喧，玉杯瑤瑟奠蘋蘩。誰能力制乘時鶴，",
       "宵衣旰食明天子，日伏青蒲不敢言。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

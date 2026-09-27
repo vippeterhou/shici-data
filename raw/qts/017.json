@@ -112,18 +112,29 @@
     }
   },
   {
-    "title": "樂府雜曲：鼓吹曲辭：戰城南二首",
+    "title": "樂府雜曲：鼓吹曲辭：戰城南二首·其一",
     "author": "貫休",
     "paragraphs": [
       "萬里桑幹傍，茫茫古蕃壤。將軍貌憔悴，撫劍悲年長。",
       "胡兵尚陵逼，久住亦非強。邯鄲少年輩，個個有伎倆。",
-      "拖槍半夜去，雪片大如掌。",
+      "拖槍半夜去，雪片大如掌。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "樂府雜曲：鼓吹曲辭：戰城南二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "磧中有陰兵，戰馬時驚蹶。輕猛李陵心，摧殘蘇武節。",
       "黃金鎖子甲，風吹色如鐵。十載不封侯，茫茫向誰說。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -141,17 +152,28 @@
     }
   },
   {
-    "title": "樂府雜曲：鼓吹曲辭：巫山高二首",
+    "title": "樂府雜曲：鼓吹曲辭：巫山高二首·其一",
     "author": "沈佺期",
     "paragraphs": [
       "巫山峰十二，環合隱昭回。俯眺琵琶峽，平看雲雨台。",
-      "古槎天外倚，瀑水日邊來。何忽啼猿夜，荊王枕席開。",
+      "古槎天外倚，瀑水日邊來。何忽啼猿夜，荊王枕席開。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "樂府雜曲：鼓吹曲辭：巫山高二首·其二",
+    "author": "沈佺期",
+    "paragraphs": [
       "神女向高唐，巫山下夕陽。裴回作行雨，婉孌逐荊王。",
       "電影江前落，雷聲峽外長。霽雲無處所，台館曉蒼蒼。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -235,18 +257,29 @@
     }
   },
   {
-    "title": "樂府雜曲：鼓吹曲辭：巫山高二首",
+    "title": "樂府雜曲：鼓吹曲辭：巫山高二首·其一",
     "author": "孟郊",
     "paragraphs": [
       "巴山上峽重複重，陽臺碧峭十二峰。荊王獵時逢暮雨，",
-      "目極魂斷望不見，猿啼三聲淚沾衣。",
+      "目極魂斷望不見，猿啼三聲淚沾衣。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "樂府雜曲：鼓吹曲辭：巫山高二首·其二",
+    "author": "孟郊",
+    "paragraphs": [
       "見盡數萬里，不聞三聲猿。但飛蕭蕭雨，中有亭亭魂。",
       "千載楚襄恨，遺文宋玉言。至今青冥裏，雲結深閨門。"
     ],
     "format": {
-      "sentence_count": 13,
-      "sentence_lengths": [7, 7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -585,25 +618,80 @@
     }
   },
   {
-    "title": "樂府雜曲：鼓吹曲辭：凱歌六首",
+    "title": "樂府雜曲：鼓吹曲辭：凱歌六首·其一",
     "author": "岑參",
     "paragraphs": [
       "漢將承恩西破戎，捷書先奏未央宮。",
-      "天子預開麟閣待，只今誰數貳師功。",
+      "天子預開麟閣待，只今誰數貳師功。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "樂府雜曲：鼓吹曲辭：凱歌六首·其二",
+    "author": "岑參",
+    "paragraphs": [
       "官軍西出過樓蘭，營幕傍臨月窟寒。",
-      "蒲海曉霜凝劍尾，蔥山夜雪撲旌竿。",
+      "蒲海曉霜凝劍尾，蔥山夜雪撲旌竿。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "樂府雜曲：鼓吹曲辭：凱歌六首·其三",
+    "author": "岑參",
+    "paragraphs": [
       "鳴笳擂鼓擁回軍，破國平蕃昔未聞。",
-      "大夫鵲印搖邊月，天將龍旗掣海雲。",
+      "大夫鵲印搖邊月，天將龍旗掣海雲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "樂府雜曲：鼓吹曲辭：凱歌六首·其四",
+    "author": "岑參",
+    "paragraphs": [
       "月落轅門鼓角鳴，千群面縛出蕃城。",
-      "洗兵魚海雲迎陣，秣馬龍堆月照營。",
+      "洗兵魚海雲迎陣，秣馬龍堆月照營。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "樂府雜曲：鼓吹曲辭：凱歌六首·其五",
+    "author": "岑參",
+    "paragraphs": [
       "蕃軍遙見漢家營，滿谷連山遍哭聲。",
-      "萬箭千刀一夜殺，平明流血浸空城。",
+      "萬箭千刀一夜殺，平明流血浸空城。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "樂府雜曲：鼓吹曲辭：凱歌六首·其六",
+    "author": "岑參",
+    "paragraphs": [
       "暮雨旌旗濕未幹，胡塵白草日光寒。",
       "昨夜將軍連曉戰，蕃軍只見馬空鞍。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -37,41 +37,74 @@
     }
   },
   {
-    "title": "相和歌辭：子夜四時歌六首：春歌二首",
+    "title": "相和歌辭：子夜四時歌六首：春歌二首·其一",
     "author": "郭元振",
     "paragraphs": [
-      "青樓含日光，綠池起風色。贈子同心花，殷勤此何極。",
+      "青樓含日光，綠池起風色。贈子同心花，殷勤此何極。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：子夜四時歌六首：春歌二首·其二",
+    "author": "郭元振",
+    "paragraphs": [
       "陌頭楊柳枝，已被春風吹。妾心正斷絕，君懷那得知。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "相和歌辭：子夜四時歌六首：秋歌二首",
+    "title": "相和歌辭：子夜四時歌六首：秋歌二首·其一",
     "author": "郭元振",
     "paragraphs": [
-      "邀歡空佇立，望美頻回顧。何時複采菱，江中密相遇。",
+      "邀歡空佇立，望美頻回顧。何時複采菱，江中密相遇。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：子夜四時歌六首：秋歌二首·其二",
+    "author": "郭元振",
+    "paragraphs": [
       "辟惡茱萸囊，延年菊花酒。與子結綢繆，丹心此何有。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "相和歌辭：子夜四時歌六首：冬歌二首",
+    "title": "相和歌辭：子夜四時歌六首：冬歌二首·其一",
     "author": "郭元振",
     "paragraphs": [
-      "北極嚴氣升，南至溫風謝。調絲競短歌，拂枕憐長夜。",
+      "北極嚴氣升，南至溫風謝。調絲競短歌，拂枕憐長夜。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：子夜四時歌六首：冬歌二首·其二",
+    "author": "郭元振",
+    "paragraphs": [
       "帷橫雙翡翠，被卷兩鴛鴦。婉態不自得，宛轉君王床。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -176,28 +209,50 @@
     }
   },
   {
-    "title": "相和歌辭：大子夜歌二首",
+    "title": "相和歌辭：大子夜歌二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
-      "歌謠數百種，子夜最可憐。慷慨吐清音，明轉出天然。",
-      "絲竹發歌響，假器揚清音。不知歌謠妙，聲勢出口心。"
+      "歌謠數百種，子夜最可憐。慷慨吐清音，明轉出天然。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "相和歌辭：子夜警歌二首",
+    "title": "相和歌辭：大子夜歌二首·其二",
     "author": "陸龜蒙",
     "paragraphs": [
-      "鏤碗傳綠酒，雕爐熏紫煙。誰知苦寒調，共作白雪弦。",
+      "絲竹發歌響，假器揚清音。不知歌謠妙，聲勢出口心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：子夜警歌二首·其一",
+    "author": "陸龜蒙",
+    "paragraphs": [
+      "鏤碗傳綠酒，雕爐熏紫煙。誰知苦寒調，共作白雪弦。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：子夜警歌二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "恃愛如欲進，含羞出不前。朱口發豔歌，玉指弄嬌弦。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -267,33 +322,88 @@
     }
   },
   {
-    "title": "相和歌辭：讀曲歌五首",
+    "title": "相和歌辭：讀曲歌五首·其一",
     "author": "張祜",
     "paragraphs": [
-      "窗中獨自起，簾外獨自行。愁見蜘蛛織，尋思直到明。",
-      "碓上米不舂，窗中絲罷絡。看渠駕去車，定是無四角。",
-      "不見心相許，徒雲腳漫勤。摘荷空摘葉，是底採蓮人。",
-      "窗外山魈立，知渠腳不多。三更機底下，摸著是誰梭。",
-      "郎去摘黃瓜，郎來收赤棗。郎耕種麻地，今作西舍道。"
+      "窗中獨自起，簾外獨自行。愁見蜘蛛織，尋思直到明。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "相和歌辭：春江花月夜二首",
+    "title": "相和歌辭：讀曲歌五首·其二",
+    "author": "張祜",
+    "paragraphs": [
+      "碓上米不舂，窗中絲罷絡。看渠駕去車，定是無四角。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：讀曲歌五首·其三",
+    "author": "張祜",
+    "paragraphs": [
+      "不見心相許，徒雲腳漫勤。摘荷空摘葉，是底採蓮人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：讀曲歌五首·其四",
+    "author": "張祜",
+    "paragraphs": [
+      "窗外山魈立，知渠腳不多。三更機底下，摸著是誰梭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：讀曲歌五首·其五",
+    "author": "張祜",
+    "paragraphs": [
+      "郎去摘黃瓜，郎來收赤棗。郎耕種麻地，今作西舍道。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：春江花月夜二首·其一",
     "author": "張子容",
     "paragraphs": [
       "林花發岸口，氣色動江新。此夜江中月，流光花上春。",
-      "分明石潭裏，宜照浣紗人。",
+      "分明石潭裏，宜照浣紗人。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：春江花月夜二首·其二",
+    "author": "張子容",
+    "paragraphs": [
       "交甫憐瑤佩，仙妃難重期。沉沉綠江晚，惆悵碧雲姿。",
       "初逢花上月，言是弄珠時。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -356,17 +466,50 @@
     }
   },
   {
-    "title": "相和歌辭：三閣詞四首",
+    "title": "相和歌辭：三閣詞四首·其一",
     "author": "劉禹錫",
     "paragraphs": [
-      "貴人三閣上，日晏未梳頭。不應有恨事，嬌甚卻成愁。",
-      "珠箔曲瓊鉤，子細見揚州。北兵那得度，浪語判悠悠。",
-      "沉香帖閣柱，金縷畫門楣。回首降幡下，已見黍離離。",
+      "貴人三閣上，日晏未梳頭。不應有恨事，嬌甚卻成愁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：三閣詞四首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
+      "珠箔曲瓊鉤，子細見揚州。北兵那得度，浪語判悠悠。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：三閣詞四首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
+      "沉香帖閣柱，金縷畫門楣。回首降幡下，已見黍離離。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：三閣詞四首·其四",
+    "author": "劉禹錫",
+    "paragraphs": [
       "三人出眢井，一身登檻車。朱門漫臨水，不可見鱸魚。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -605,17 +748,28 @@
     }
   },
   {
-    "title": "相和歌辭：棲烏曲二首",
+    "title": "相和歌辭：棲烏曲二首·其一",
     "author": "劉方平",
     "paragraphs": [
       "蛾眉曼臉傾城國，鳴環動佩新相識。",
-      "銀漢斜臨白玉堂，芙蓉行障掩燈光。",
+      "銀漢斜臨白玉堂，芙蓉行障掩燈光。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "相和歌辭：棲烏曲二首·其二",
+    "author": "劉方平",
+    "paragraphs": [
       "畫舸雙艚錦為纜，芙蓉花發蓮葉暗。",
       "門前月色映橫塘，感郎中夜渡瀟湘。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -744,15 +898,26 @@
     }
   },
   {
-    "title": "相和歌辭：襄陽曲二首",
+    "title": "相和歌辭：襄陽曲二首·其一",
     "author": "崔國輔",
     "paragraphs": [
-      "蕙草嬌紅萼，時光舞碧雞。城中美年少，相見白銅鞮。",
+      "蕙草嬌紅萼，時光舞碧雞。城中美年少，相見白銅鞮。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：襄陽曲二首·其二",
+    "author": "崔國輔",
+    "paragraphs": [
       "少年襄陽地，來往襄陽城。城中輕薄子，知妾解秦箏。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -980,35 +1145,68 @@
     }
   },
   {
-    "title": "相和歌辭：採蓮曲三首",
+    "title": "相和歌辭：採蓮曲三首·其一",
     "author": "王昌齡",
     "paragraphs": [
       "吳姬越豔楚王妃，爭弄蓮舟水濕衣。",
-      "來時浦口花迎入，采罷江頭月送歸。",
+      "來時浦口花迎入，采罷江頭月送歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "相和歌辭：採蓮曲三首·其二",
+    "author": "王昌齡",
+    "paragraphs": [
       "荷葉羅裙一色裁，芙蓉向臉兩邊開。",
-      "亂入池中看不見，聞歌始覺有人來。",
+      "亂入池中看不見，聞歌始覺有人來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "相和歌辭：採蓮曲三首·其三",
+    "author": "王昌齡",
+    "paragraphs": [
       "越女作桂舟，還將桂為楫。湖上水渺漫，清江初可涉。",
       "摘取芙蓉花，莫摘芙蓉葉。將歸問夫婿，顏色何如妾。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
-    "title": "相和歌辭：採蓮曲二首",
+    "title": "相和歌辭：採蓮曲二首·其一",
     "author": "戎昱",
     "paragraphs": [
       "雖聽採蓮曲，詎識採蓮心。漾楫愛花遠，回船愁浪深。",
-      "煙生極浦色，日落半江陰。同侶憐波靜，看妝墮玉簪。",
+      "煙生極浦色，日落半江陰。同侶憐波靜，看妝墮玉簪。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "相和歌辭：採蓮曲二首·其二",
+    "author": "戎昱",
+    "paragraphs": [
       "涔陽女兒花滿頭，毿毿同泛木蘭舟。",
       "春風日暮南湖裏，爭唱菱歌不肯休。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -1026,15 +1224,26 @@
     }
   },
   {
-    "title": "相和歌辭：採蓮曲二首",
+    "title": "相和歌辭：採蓮曲二首·其一",
     "author": "鮑溶",
     "paragraphs": [
-      "弄舟朅來南塘水，荷葉映身摘蓮子。暑衣清淨鴛鴦喜，",
+      "弄舟朅來南塘水，荷葉映身摘蓮子。暑衣清淨鴛鴦喜，"
+    ],
+    "format": {
+      "sentence_count": 3,
+      "sentence_lengths": [7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "相和歌辭：採蓮曲二首·其二",
+    "author": "鮑溶",
+    "paragraphs": [
       "採蓮朅來水無風，蓮潭如鏡松如龍。夏衫短袖交斜紅，"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 3,
+      "sentence_lengths": [7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -1,22 +1,66 @@
 [
   {
-    "title": "遇五天僧入五台五首",
+    "title": "遇五天僧入五台五首·其一",
     "author": "貫休",
     "paragraphs": [
       "十萬里到此，辛勤詎可論。唯雲吾上祖，見買給孤園。",
-      "一月行沙磧，三更到鐵門。白頭鄉思在，回首一銷魂。",
+      "一月行沙磧，三更到鐵門。白頭鄉思在，回首一銷魂。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遇五天僧入五台五首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "雪嶺頂危坐，乾坤四顧低。河橫於闐北，日落月支西。",
-      "水石香多白，猿猱老不啼。空餘忍辱草，相對色萋萋。",
+      "水石香多白，猿猱老不啼。空餘忍辱草，相對色萋萋。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遇五天僧入五台五首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "遠禮清涼寺，尋真似善才。身心無所得，日月不將來。",
-      "白疊還圖像，滄溟亦泛杯。唐人亦何幸，處處覺花開。",
+      "白疊還圖像，滄溟亦泛杯。唐人亦何幸，處處覺花開。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遇五天僧入五台五首·其四",
+    "author": "貫休",
+    "paragraphs": [
       "塗足油應盡，幹陀帔半隳。辟支迦狀貌，刹利帝家兒。",
-      "結印魔應哭，遊心聖不知。深嗟頭已白，不得遠相隨。",
+      "結印魔應哭，遊心聖不知。深嗟頭已白，不得遠相隨。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "遇五天僧入五台五首·其五",
+    "author": "貫休",
+    "paragraphs": [
       "送迎經幾國，多化帝王心。電激青蓮目，環垂紫磨金。",
       "眉根霜入細，梵夾蠹難侵。必似陀波利，他年不可尋。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -34,17 +78,28 @@
     }
   },
   {
-    "title": "秋寄李頻使君二首",
+    "title": "秋寄李頻使君二首·其一",
     "author": "貫休",
     "paragraphs": [
       "為郎須塞詔，當路亦驅驅。貴不因人得，清還似句無。",
-      "燒煙連野白，山藥拶階枯。想得征黃詔，如今已在途。",
+      "燒煙連野白，山藥拶階枯。想得征黃詔，如今已在途。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋寄李頻使君二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "務簡趣難陪，清吟共綠苔。葉和秋蟻落，僧帶野香來。",
       "留客朝嘗酒，憂民夜畫灰。終期冒風雪，江上見宗雷。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -181,19 +236,41 @@
     }
   },
   {
-    "title": "湖頭別墅三首",
+    "title": "湖頭別墅三首·其一",
     "author": "貫休",
     "paragraphs": [
       "梨栗鳥啾啾，高歌若自由。人誰知此意，舊業在湖頭。",
-      "饑鼠掀菱殼，新蟬避栗皺。不知江海上，戈甲幾時休。",
+      "饑鼠掀菱殼，新蟬避栗皺。不知江海上，戈甲幾時休。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "湖頭別墅三首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "桑柘參桐竹，陰陰一徑苔。更無他事出，只有衲僧來。",
-      "塹蟻爭生食，窗經卷燒灰。可憐門外路，日日起塵埃。",
+      "塹蟻爭生食，窗經卷燒灰。可憐門外路，日日起塵埃。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "湖頭別墅三首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "南北如仙境，東西似畫圖。園飛青啄木，簷掛白蜘蛛。",
       "鄰叟教修廢，牛童與納租。寄言來往客，不用問榮枯。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

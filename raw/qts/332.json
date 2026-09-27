@@ -91,17 +91,28 @@
     }
   },
   {
-    "title": "憶江南舊遊二首",
+    "title": "憶江南舊遊二首·其一",
     "author": "羊士諤",
     "paragraphs": [
       "山陰道上桂花初，王謝風流滿晉書。",
-      "曾作江南步從事，秋來還複憶鱸魚。",
+      "曾作江南步從事，秋來還複憶鱸魚。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "憶江南舊遊二首·其二",
+    "author": "羊士諤",
+    "paragraphs": [
       "曲水三春弄彩毫，樟亭八月又觀濤。",
       "金罍幾醉烏程酒，鶴舫閑吟把蟹螯。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -145,17 +156,28 @@
     }
   },
   {
-    "title": "野望二首",
+    "title": "野望二首·其一",
     "author": "羊士諤",
     "paragraphs": [
       "萋萋麥隴杏花風，好是行春野望中。",
-      "日暮不辭停五馬，鴛鴦飛去綠江空。",
+      "日暮不辭停五馬，鴛鴦飛去綠江空。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "野望二首·其二",
+    "author": "羊士諤",
+    "paragraphs": [
       "忘懷不使海鷗疑，水映桃花酒滿卮。",
       "亭上一聲歌白苧，野人歸棹亦行遲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -420,28 +442,11 @@
     }
   },
   {
-    "title": "郡中玩月，寄江南李少尹虞部孟員外三首",
+    "title": "郡中玩月，寄江南李少尹虞部孟員外三首·其一",
     "author": "羊士諤",
     "paragraphs": [
       "月滿自高丘，江通無狹流。軒窗開到曉，風物坐含秋。",
-      "鵲警銀河斷，蛩悲翠幕幽。清光望不極，耿耿下西樓。",
-      "桂華臨洛浦，如挹李膺仙。茲夕披雲望，還吟擲地篇。",
-      "鳳池分直夜，牛渚泛舟年。會是風流賞，惟君內史賢。",
-      "圓景曠佳賓，徘徊夜漏頻。金波徒泛酒，瑤瑟已生塵。",
-      "露白移長簟，風清掛幅巾。西園舊才子，想見洛陽人。"
-    ],
-    "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": 5
-    }
-  },
-  {
-    "title": "城隍廟賽雨二首",
-    "author": "羊士諤",
-    "paragraphs": [
-      "零雨慰斯人，齋心薦綠蘋。山風簫鼓響，如祭敬亭神。",
-      "積潤通千里，推誠奠一卮。回飆經畫壁，忽似偃雲旗。"
+      "鵲警銀河斷，蛩悲翠幕幽。清光望不極，耿耿下西樓。"
     ],
     "format": {
       "sentence_count": 8,
@@ -450,17 +455,78 @@
     }
   },
   {
-    "title": "郡樓晴望二首",
+    "title": "郡中玩月，寄江南李少尹虞部孟員外三首·其二",
+    "author": "羊士諤",
+    "paragraphs": [
+      "桂華臨洛浦，如挹李膺仙。茲夕披雲望，還吟擲地篇。",
+      "鳳池分直夜，牛渚泛舟年。會是風流賞，惟君內史賢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "郡中玩月，寄江南李少尹虞部孟員外三首·其三",
+    "author": "羊士諤",
+    "paragraphs": [
+      "圓景曠佳賓，徘徊夜漏頻。金波徒泛酒，瑤瑟已生塵。",
+      "露白移長簟，風清掛幅巾。西園舊才子，想見洛陽人。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "城隍廟賽雨二首·其一",
+    "author": "羊士諤",
+    "paragraphs": [
+      "零雨慰斯人，齋心薦綠蘋。山風簫鼓響，如祭敬亭神。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "城隍廟賽雨二首·其二",
+    "author": "羊士諤",
+    "paragraphs": [
+      "積潤通千里，推誠奠一卮。回飆經畫壁，忽似偃雲旗。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "郡樓晴望二首·其一",
     "author": "羊士諤",
     "paragraphs": [
       "霽色朝雲盡，亭皋露亦晞。褰開臨曲檻，蕭瑟換輕衣。",
-      "地遠秦人望，天晴社燕飛。無功慚歲晚，唯念故山歸。",
+      "地遠秦人望，天晴社燕飛。無功慚歲晚，唯念故山歸。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "郡樓晴望二首·其二",
+    "author": "羊士諤",
+    "paragraphs": [
       "一雨晴山郭，驚秋碧樹風。蘭卮誰與薦，玉旆自無悰。",
       "雲景嘶賓雁，嵐陰露彩虹。閑吟懶閉閣，旦夕郡樓中。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -864,17 +930,28 @@
     }
   },
   {
-    "title": "梁國惠康公主挽歌詞二首",
+    "title": "梁國惠康公主挽歌詞二首·其一",
     "author": "羊士諤",
     "paragraphs": [
       "湯沐成陳跡，山林遂寂寥。鵲飛應織素，鳳起獨吹簫。",
-      "玉殿中參罷，雲輧上漢遙。皇情非不極，空輟未央朝。",
+      "玉殿中參罷，雲輧上漢遙。皇情非不極，空輟未央朝。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "梁國惠康公主挽歌詞二首·其二",
+    "author": "羊士諤",
+    "paragraphs": [
       "授冊榮天使，陳詩感聖恩。山河啟梁國，縞素及於門。",
       "泉向金卮咽，霜來玉樹繁。都人聽哀挽，淚盡望寒原。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1011,19 +1088,41 @@
     }
   },
   {
-    "title": "夜聽琵琶三首",
+    "title": "夜聽琵琶三首·其一",
     "author": "羊士諤",
     "paragraphs": [
       "掩抑危弦咽又通，朔雲邊月想朦朧。",
-      "當時誰佩將軍印，長使蛾眉怨不窮。",
+      "當時誰佩將軍印，長使蛾眉怨不窮。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "夜聽琵琶三首·其二",
+    "author": "羊士諤",
+    "paragraphs": [
       "一曲徘徊星漢稀，夜蘭幽怨重依依。",
-      "忽似摐金來上馬，南枝棲鳥盡驚飛。",
+      "忽似摐金來上馬，南枝棲鳥盡驚飛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "夜聽琵琶三首·其三",
+    "author": "羊士諤",
+    "paragraphs": [
       "破撥聲繁恨已長，低鬟斂黛更摧藏。",
       "潺湲隴水聽難盡，並覺風沙繞杏梁。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -14,17 +14,28 @@
     }
   },
   {
-    "title": "贈悼懷太子挽歌辭二首",
+    "title": "贈悼懷太子挽歌辭二首·其一",
     "author": "白居易",
     "paragraphs": [
       "竹馬書薨歲，銅龍表葬時。永言窀穸事，全用少陽儀。",
-      "壽夭由天命，哀榮出聖慈。恭聞褒贈詔，軫念在與夷。",
+      "壽夭由天命，哀榮出聖慈。恭聞褒贈詔，軫念在與夷。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "贈悼懷太子挽歌辭二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "剪葉藩封早，承華冊命尊。笙歌辭洛苑，風雪蔽梁園。",
       "鹵簿淩霜宿，銘旌向月翻。宮寮不逮事，哭送出都門。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -547,53 +558,262 @@
     }
   },
   {
-    "title": "和春深二十首",
+    "title": "和春深二十首·其一",
     "author": "白居易",
     "paragraphs": [
       "何處春深好，春深富貴家。馬為中路鳥，妓作後庭花。",
-      "羅綺驅論隊，金銀用斷車。眼前何所苦，唯苦日西斜。",
+      "羅綺驅論隊，金銀用斷車。眼前何所苦，唯苦日西斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深貧賤家。荒涼三徑草，冷落四鄰花。",
-      "奴困歸傭力，妻愁出賃車。途窮平路險，舉足劇褒斜。",
+      "奴困歸傭力，妻愁出賃車。途窮平路險，舉足劇褒斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其三",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深執政家。鳳池添硯水，雞樹落衣花。",
-      "詔借當衢宅，恩容上殿車。延英開對久，門與日西斜。",
+      "詔借當衢宅，恩容上殿車。延英開對久，門與日西斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其四",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深方鎮家。通犀排帶胯，瑞鶻勘袍花。",
-      "飛絮沖球馬，垂楊拂妓車。戎裝拜春設，左握寶刀斜。",
+      "飛絮沖球馬，垂楊拂妓車。戎裝拜春設，左握寶刀斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其五",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深刺史家。陰繁棠布葉，岐秀麥分花。",
-      "五匹鳴珂馬，雙輪畫軾車。和風引行樂，葉葉隼旟斜。",
+      "五匹鳴珂馬，雙輪畫軾車。和風引行樂，葉葉隼旟斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其六",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深學士家。鳳書裁五色，馬鬣剪三花。",
-      "蠟炬開明火，銀台賜物車。相逢不敢揖，彼此帽低斜。",
+      "蠟炬開明火，銀台賜物車。相逢不敢揖，彼此帽低斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其七",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深女學家。慣看溫室樹，飽識浴堂花。",
-      "禦印提隨仗，香箋把下車。宋家宮樣髻，一片綠雲斜。",
+      "禦印提隨仗，香箋把下車。宋家宮樣髻，一片綠雲斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其八",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深禦史家。絮縈驄馬尾，蝶繞繡衣花。",
-      "破柱行持斧，埋輪立駐車。入班遙認得，魚貫一行斜。",
+      "破柱行持斧，埋輪立駐車。入班遙認得，魚貫一行斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其九",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深遷客家。一杯寒食酒，萬里故園花。",
-      "炎瘴蒸如火，光陰走似車。為憂鵩鳥至，只恐日光斜。",
+      "炎瘴蒸如火，光陰走似車。為憂鵩鳥至，只恐日光斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其十",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深經業家。唯求太常第，不管曲江花。",
-      "折桂名慚郤，收螢志慕車。官場泥補處，最怕寸陰斜。",
+      "折桂名慚郤，收螢志慕車。官場泥補處，最怕寸陰斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其十一",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深隱士家。野衣裁薜葉，山飯曬松花。",
-      "蘭索紉幽佩，蒲輪駐軟車。林間箕踞坐，白眼向人斜。",
+      "蘭索紉幽佩，蒲輪駐軟車。林間箕踞坐，白眼向人斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其十二",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深漁父家。松灣隨棹月，桃浦落船花。",
-      "投餌移輕楫，牽輪轉小車。蕭蕭蘆葉裏，風起釣絲斜。",
+      "投餌移輕楫，牽輪轉小車。蕭蕭蘆葉裏，風起釣絲斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其十三",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深潮戶家。濤翻三月雪，浪噴四時花。",
-      "曳練馳千馬，驚雷走萬車。餘波落何處，江轉富陽斜。",
+      "曳練馳千馬，驚雷走萬車。餘波落何處，江轉富陽斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其十四",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深痛飲家。十分杯裏物，五色眼前花。",
-      "餔歠眠糟甕，流涎見麹車。中山一沉醉，千度日西斜。",
+      "餔歠眠糟甕，流涎見麹車。中山一沉醉，千度日西斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其十五",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深上巳家。蘭亭席上酒，曲洛岸邊花。",
-      "弄水游童棹，湔裾小婦車。齊橈爭渡處，一匹錦標斜。",
+      "弄水游童棹，湔裾小婦車。齊橈爭渡處，一匹錦標斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其十六",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深寒食家。玲瓏鏤雞子，宛轉彩球花。",
-      "碧草追遊騎，紅塵拜掃車。秋千細腰女，搖曳逐風斜。",
+      "碧草追遊騎，紅塵拜掃車。秋千細腰女，搖曳逐風斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其十七",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深博弈家。一先爭破眼，六聚鬥成花。",
-      "鼓應投壺馬，兵沖象戲車。彈棋局上事，最妙是長斜。",
+      "鼓應投壺馬，兵沖象戲車。彈棋局上事，最妙是長斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其十八",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深嫁女家。紫排襦上雉，黃帖鬢邊花。",
-      "轉燭初移障，鳴環欲上車。青衣傳氈褥，錦繡一條斜。",
+      "轉燭初移障，鳴環欲上車。青衣傳氈褥，錦繡一條斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其十九",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深娶婦家。兩行籠裏燭，一樹扇間花。",
-      "賓拜登華席，親迎障幰車。催妝詩未了，星斗漸傾斜。",
+      "賓拜登華席，親迎障幰車。催妝詩未了，星斗漸傾斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和春深二十首·其二十",
+    "author": "白居易",
+    "paragraphs": [
       "何處春深好，春深妓女家。眉欺楊柳葉，裙妒石榴花。",
       "蘭麝熏行被，金銅釘坐車。杭州蘇小小，人道最夭斜。"
     ],
     "format": {
-      "sentence_count": 160,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -613,38 +833,93 @@
     }
   },
   {
-    "title": "池鶴二首",
+    "title": "池鶴二首·其一",
     "author": "白居易",
     "paragraphs": [
       "高竹籠前無伴侶，亂雞群裏有風標。低頭乍恐丹砂落，",
-      "臨風一唳思何事，悵望青田雲水遙。",
-      "池中此鶴鶴中稀，恐是遼東老令威。帶雪松枝翹膝脛，",
-      "若問故巢知處在，主人相戀未能歸。"
+      "臨風一唳思何事，悵望青田雲水遙。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "對酒五首",
+    "title": "池鶴二首·其二",
+    "author": "白居易",
+    "paragraphs": [
+      "池中此鶴鶴中稀，恐是遼東老令威。帶雪松枝翹膝脛，",
+      "若問故巢知處在，主人相戀未能歸。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "對酒五首·其一",
     "author": "白居易",
     "paragraphs": [
       "巧拙賢愚相是非，何如一醉盡忘機。",
-      "君知天地中寬窄，雕鶚鸞皇各自飛。",
+      "君知天地中寬窄，雕鶚鸞皇各自飛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "對酒五首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "蝸牛角上爭何事，石火光中寄此身。",
-      "隨富隨貧且歡樂，不開口笑是癡人。",
+      "隨富隨貧且歡樂，不開口笑是癡人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "對酒五首·其三",
+    "author": "白居易",
+    "paragraphs": [
       "丹砂見火去無跡，白髮泥人來不休。",
-      "賴有酒仙相暖熱，松喬醉即到前頭。",
+      "賴有酒仙相暖熱，松喬醉即到前頭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "對酒五首·其四",
+    "author": "白居易",
+    "paragraphs": [
       "百歲無多時壯健，一春能幾日晴明。",
-      "相逢且莫推辭醉，聽唱陽關第四聲。",
+      "相逢且莫推辭醉，聽唱陽關第四聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "對酒五首·其五",
+    "author": "白居易",
+    "paragraphs": [
       "昨日低眉問疾來，今朝收淚吊人回。",
       "眼前流例君看取，且遣琵琶送一杯。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -821,19 +1096,41 @@
     }
   },
   {
-    "title": "元相公挽歌詞三首",
+    "title": "元相公挽歌詞三首·其一",
     "author": "白居易",
     "paragraphs": [
       "銘旌官重威儀盛，騎吹聲繁鹵簿長。",
-      "後魏帝孫唐宰相，六年七月葬咸陽。",
+      "後魏帝孫唐宰相，六年七月葬咸陽。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "元相公挽歌詞三首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "墓門已閉笳簫去，唯有夫人哭不休。",
-      "蒼蒼露草咸陽壟，此是千秋第一秋。",
+      "蒼蒼露草咸陽壟，此是千秋第一秋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "元相公挽歌詞三首·其三",
+    "author": "白居易",
+    "paragraphs": [
       "送葬萬人皆慘澹，反虞駟馬亦悲鳴。",
       "琴書劍佩誰收拾，三歲遺孤新學行。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

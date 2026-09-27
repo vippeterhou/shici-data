@@ -217,17 +217,28 @@
     }
   },
   {
-    "title": "新曲二首",
+    "title": "新曲二首·其一",
     "author": "長孫無忌",
     "paragraphs": [
       "儂阿家住朝歌下，早傳名。結伴來游淇水上，舊長情。",
-      "玉佩金鈿隨步遠，雲羅霧縠逐風輕。轉目機心懸自許，",
+      "玉佩金鈿隨步遠，雲羅霧縠逐風輕。轉目機心懸自許，"
+    ],
+    "format": {
+      "sentence_count": 7,
+      "sentence_lengths": [7, 3, 7, 3, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "新曲二首·其二",
+    "author": "長孫無忌",
+    "paragraphs": [
       "回雪淩波遊洛浦，遇陳王。婉約娉婷工語笑，侍蘭房。",
       "芙蓉綺帳還開掩，翡翠珠被爛齊光。長願今宵奉顏色，"
     ],
     "format": {
-      "sentence_count": 14,
-      "sentence_lengths": [7, 3, 7, 3, 7, 7, 7, 7, 3, 7, 3, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 3, 7, 3, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

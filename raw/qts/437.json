@@ -467,17 +467,28 @@
     }
   },
   {
-    "title": "惜牡丹花二首",
+    "title": "惜牡丹花二首·其一",
     "author": "白居易",
     "paragraphs": [
       "惆悵階前紅牡丹，晚來唯有兩枝殘。",
-      "明朝風起應吹盡，夜惜衰紅把火看。",
+      "明朝風起應吹盡，夜惜衰紅把火看。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "惜牡丹花二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "寂寞萎紅低向雨，離披破豔散隨風。",
       "晴明落地猶惆悵，何況飄零泥土中。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -667,17 +678,28 @@
     }
   },
   {
-    "title": "酬和元九東川路詩十二首：山枇杷花二首",
+    "title": "酬和元九東川路詩十二首：山枇杷花二首·其一",
     "author": "白居易",
     "paragraphs": [
       "萬重青嶂蜀門口，一樹紅花山頂頭。",
-      "春盡憶家歸未得，低紅如解替君愁。",
+      "春盡憶家歸未得，低紅如解替君愁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "酬和元九東川路詩十二首：山枇杷花二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "葉如裙色碧綃淺，花似芙蓉紅粉輕。",
       "若使此花兼解語，推囚禦史定違程。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -721,17 +743,28 @@
     }
   },
   {
-    "title": "酬和元九東川路詩十二首：嘉陵夜有懷二首",
+    "title": "酬和元九東川路詩十二首：嘉陵夜有懷二首·其一",
     "author": "白居易",
     "paragraphs": [
       "露濕牆花春意深，西廊月上半床陰。",
-      "憐君獨臥無言語，唯我知君此夜心。",
+      "憐君獨臥無言語，唯我知君此夜心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "酬和元九東川路詩十二首：嘉陵夜有懷二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "不明不暗朧朧月，不暖不寒慢慢風。",
       "獨臥空床好天氣，平明閒事到心中。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1189,17 +1222,28 @@
     }
   },
   {
-    "title": "村居二首",
+    "title": "村居二首·其一",
     "author": "白居易",
     "paragraphs": [
       "田園莽蒼經春早，籬落蕭條盡日風。",
-      "若問經過談笑者，不過田舍白頭翁。",
+      "若問經過談笑者，不過田舍白頭翁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "村居二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "門閉仍逢雪，廚寒未起煙。貧家重寥落，半為日高眠。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -1276,17 +1320,28 @@
     }
   },
   {
-    "title": "王昭君二首",
+    "title": "王昭君二首·其一",
     "author": "白居易",
     "paragraphs": [
       "滿面胡沙滿鬢風，眉銷殘黛臉銷紅。",
-      "愁苦辛勤憔悴盡，如今卻似畫圖中。",
+      "愁苦辛勤憔悴盡，如今卻似畫圖中。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "王昭君二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "漢使卻回憑寄語，黃金何日贖蛾眉。",
       "君王若問妾顏色，莫道不如宮裏時。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

@@ -445,15 +445,26 @@
     }
   },
   {
-    "title": "思歸樂二首",
+    "title": "思歸樂二首·其一",
     "author": "張祜",
     "paragraphs": [
-      "晚日催弦管，春風入綺羅。杏花如有意，偏落舞衫多。",
+      "晚日催弦管，春風入綺羅。杏花如有意，偏落舞衫多。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "思歸樂二首·其二",
+    "author": "張祜",
+    "paragraphs": [
       "萬里春應盡，三江雁亦稀。連天漢水廣，孤客未言歸。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -470,15 +481,26 @@
     }
   },
   {
-    "title": "牆頭花二首",
+    "title": "牆頭花二首·其一",
     "author": "張祜",
     "paragraphs": [
-      "蟋蟀鳴洞房，梧桐落金井。為君裁舞衣，天寒剪刀冷。",
+      "蟋蟀鳴洞房，梧桐落金井。為君裁舞衣，天寒剪刀冷。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "牆頭花二首·其二",
+    "author": "張祜",
+    "paragraphs": [
       "妾有羅衣裳，秦王在時作。為舞春風多，秋來不堪著。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -531,28 +553,50 @@
     }
   },
   {
-    "title": "宮詞二首",
+    "title": "宮詞二首·其一",
     "author": "張祜",
     "paragraphs": [
-      "故國三千里，深宮二十年。一聲河滿子，雙淚落君前。",
-      "自倚能歌日，先皇掌上憐。新聲何處唱，腸斷李延年。"
+      "故國三千里，深宮二十年。一聲河滿子，雙淚落君前。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "昭君怨二首",
+    "title": "宮詞二首·其二",
     "author": "張祜",
     "paragraphs": [
-      "萬里邊城遠，千山行路難。舉頭唯見日，何處是長安。",
+      "自倚能歌日，先皇掌上憐。新聲何處唱，腸斷李延年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "昭君怨二首·其一",
+    "author": "張祜",
+    "paragraphs": [
+      "萬里邊城遠，千山行路難。舉頭唯見日，何處是長安。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "昭君怨二首·其二",
+    "author": "張祜",
+    "paragraphs": [
       "漢庭無大議，戎虜幾先和。莫羨傾城色，昭君恨最多。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -581,16 +625,38 @@
     }
   },
   {
-    "title": "蘇小小歌三首",
+    "title": "蘇小小歌三首·其一",
     "author": "張祜",
     "paragraphs": [
-      "車輪不可遮，馬足不可絆。長怨十字街，使郎心四散。",
-      "新人千里去，故人千里來。剪刀橫眼底，方覺淚難裁。",
+      "車輪不可遮，馬足不可絆。長怨十字街，使郎心四散。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "蘇小小歌三首·其二",
+    "author": "張祜",
+    "paragraphs": [
+      "新人千里去，故人千里來。剪刀橫眼底，方覺淚難裁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "蘇小小歌三首·其三",
+    "author": "張祜",
+    "paragraphs": [
       "登山不愁峻，涉海不愁深。中擘庭前棗，教郎見赤心。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -619,18 +685,62 @@
     }
   },
   {
-    "title": "讀曲歌五首",
+    "title": "讀曲歌五首·其一",
     "author": "張祜",
     "paragraphs": [
-      "窗中獨自起，簾外獨自行。愁見蜘蛛織，尋思直到明。",
-      "碓上米不舂，窗中絲罷絡。看渠駕去車，定是無四角。",
-      "不見心相許，徒雲腳漫勤。摘荷空摘葉，是底採蓮人。",
-      "窗外山魈立，知渠腳不多。三更機底下，摸著是誰梭。",
+      "窗中獨自起，簾外獨自行。愁見蜘蛛織，尋思直到明。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "讀曲歌五首·其二",
+    "author": "張祜",
+    "paragraphs": [
+      "碓上米不舂，窗中絲罷絡。看渠駕去車，定是無四角。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "讀曲歌五首·其三",
+    "author": "張祜",
+    "paragraphs": [
+      "不見心相許，徒雲腳漫勤。摘荷空摘葉，是底採蓮人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "讀曲歌五首·其四",
+    "author": "張祜",
+    "paragraphs": [
+      "窗外山魈立，知渠腳不多。三更機底下，摸著是誰梭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "讀曲歌五首·其五",
+    "author": "張祜",
+    "paragraphs": [
       "郎去摘黃瓜，郎來收赤棗。郎耕種麻地，今作西舍道。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -945,17 +1055,28 @@
     }
   },
   {
-    "title": "大酺樂二首",
+    "title": "大酺樂二首·其一",
     "author": "張祜",
     "paragraphs": [
       "車駕東來值太平，大酺三日洛陽城。",
-      "小兒一伎竿頭絕，天下傳呼萬歲聲。",
+      "小兒一伎竿頭絕，天下傳呼萬歲聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "大酺樂二首·其二",
+    "author": "張祜",
+    "paragraphs": [
       "紫陌酺歸日欲斜，紅塵開路薛王家。",
       "雙鬟笑說樓前鼓，兩仗爭輪好落花。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1103,17 +1224,28 @@
     }
   },
   {
-    "title": "退宮人二首",
+    "title": "退宮人二首·其一",
     "author": "張祜",
     "paragraphs": [
       "開元皇帝掌中憐，流落人間二十年。",
-      "長說承天門上宴，百官樓下拾金錢。",
+      "長說承天門上宴，百官樓下拾金錢。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "退宮人二首·其二",
+    "author": "張祜",
+    "paragraphs": [
       "歌喉漸退出宮闈，泣話伶官上許歸。",
       "猶說入時歡聖壽，內人初著五方衣。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1196,36 +1328,80 @@
     }
   },
   {
-    "title": "折楊柳枝二首",
+    "title": "折楊柳枝二首·其一",
     "author": "張祜",
     "paragraphs": [
       "莫折宮前楊柳枝，玄宗曾向笛中吹。",
-      "傷心日暮煙霞起，無限春愁生翠眉。",
-      "凝碧池邊斂翠眉，景陽樓下綰青絲。",
-      "那勝妃子朝元閣，玉手和煙弄一枝。"
+      "傷心日暮煙霞起，無限春愁生翠眉。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "華清宮四首",
+    "title": "折楊柳枝二首·其二",
+    "author": "張祜",
+    "paragraphs": [
+      "凝碧池邊斂翠眉，景陽樓下綰青絲。",
+      "那勝妃子朝元閣，玉手和煙弄一枝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "華清宮四首·其一",
     "author": "張祜",
     "paragraphs": [
       "風樹離離月稍明，九天龍氣在華清。",
-      "宮門深鎖無人覺，半夜雲中羯鼓聲。",
+      "宮門深鎖無人覺，半夜雲中羯鼓聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "華清宮四首·其二",
+    "author": "張祜",
+    "paragraphs": [
       "天闕沉沉夜未央，碧雲仙曲舞霓裳。",
-      "一聲玉笛向空盡，月滿驪山宮漏長。",
+      "一聲玉笛向空盡，月滿驪山宮漏長。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "華清宮四首·其三",
+    "author": "張祜",
+    "paragraphs": [
       "紅樹蕭蕭閣半開，上皇曾幸此宮來。",
-      "至今風俗驪山下，村笛猶吹阿濫堆。",
+      "至今風俗驪山下，村笛猶吹阿濫堆。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "華清宮四首·其四",
+    "author": "張祜",
+    "paragraphs": [
       "水繞宮牆處處聲，殘紅長綠露華清。",
       "武皇一夕夢不覺，十二玉樓空月明。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1386,17 +1562,28 @@
     }
   },
   {
-    "title": "集靈台二首",
+    "title": "集靈台二首·其一",
     "author": "張祜",
     "paragraphs": [
       "日光斜照集靈台，紅樹花迎曉露開。",
-      "昨夜上皇新授籙，太真含笑入簾來。",
+      "昨夜上皇新授籙，太真含笑入簾來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "集靈台二首·其二",
+    "author": "張祜",
+    "paragraphs": [
       "虢國夫人承主恩，平明騎馬入宮門。",
       "卻嫌脂粉汙顏色，淡掃蛾眉朝至尊。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1492,17 +1679,28 @@
     }
   },
   {
-    "title": "聽歌二首",
+    "title": "聽歌二首·其一",
     "author": "張祜",
     "paragraphs": [
       "兒郎漫說轉喉輕，須待情來意自生。",
-      "只是眼前絲竹和，大家聲裏唱新聲。",
+      "只是眼前絲竹和，大家聲裏唱新聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "聽歌二首·其二",
+    "author": "張祜",
+    "paragraphs": [
       "十二年前邊塞行，坐中無語歎歌情。",
       "不堪昨夜先垂淚，西去陽關第一聲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1871,17 +2069,28 @@
     }
   },
   {
-    "title": "題畫僧二首",
+    "title": "題畫僧二首·其一",
     "author": "張祜",
     "paragraphs": [
       "骨峭情高彼岸人，一杯長泛海為津。",
-      "僧儀又入清流品，卻恐前生是許詢。",
+      "僧儀又入清流品，卻恐前生是許詢。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題畫僧二首·其二",
+    "author": "張祜",
+    "paragraphs": [
       "瘦頸隆肩碧眼生，翰林親贊虎頭能。",
       "終年不語看如意，似證禪心入大乘。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -2042,19 +2251,41 @@
     }
   },
   {
-    "title": "聽簡上人吹蘆管三首",
+    "title": "聽簡上人吹蘆管三首·其一",
     "author": "張祜",
     "paragraphs": [
       "蜀國僧吹蘆一枝，隴西遊客淚先垂。",
-      "至今留得新聲在，卻為中原人不知。",
+      "至今留得新聲在，卻為中原人不知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "聽簡上人吹蘆管三首·其二",
+    "author": "張祜",
+    "paragraphs": [
       "細蘆僧管夜沉沉，越鳥巴猿寄恨吟。",
-      "吹到耳邊聲盡處，一條絲斷碧雲心。",
+      "吹到耳邊聲盡處，一條絲斷碧雲心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "聽簡上人吹蘆管三首·其三",
+    "author": "張祜",
+    "paragraphs": [
       "月落江城樹繞鴉，一聲蘆管是天涯。",
       "分明西國人來說，赤佛堂西是漢家。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

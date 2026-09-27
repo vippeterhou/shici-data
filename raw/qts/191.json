@@ -624,17 +624,28 @@
     }
   },
   {
-    "title": "秋夜二首",
+    "title": "秋夜二首·其一",
     "author": "韋應物",
     "paragraphs": [
       "庭樹轉蕭蕭，陰蟲還戚戚。獨向高齋眠，夜聞寒雨滴。",
-      "微風時動牖，殘燈尚留壁。惆悵平生懷，偏來委今夕。",
+      "微風時動牖，殘燈尚留壁。惆悵平生懷，偏來委今夕。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋夜二首·其二",
+    "author": "韋應物",
+    "paragraphs": [
       "霜露已淒淒，星漢複昭回。朔風中夜起，驚鴻千里來。",
       "蕭條涼葉下，寂寞清砧哀。歲晏仰空宇，心事若寒灰。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

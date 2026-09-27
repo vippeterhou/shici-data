@@ -225,17 +225,28 @@
     }
   },
   {
-    "title": "帝京二首",
+    "title": "帝京二首·其一",
     "author": "殷堯藩",
     "paragraphs": [
       "列郡征才起俊髦，萬機獨使聖躬勞。開藩上相頒龍節，",
-      "迎春別賜瑤池宴，捧進金盤五色桃。",
+      "迎春別賜瑤池宴，捧進金盤五色桃。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "帝京二首·其二",
+    "author": "殷堯藩",
+    "paragraphs": [
       "龍虎山河禦氣通，遙瞻帝闕五雲紅。英雄盡入江東籍，",
       "都將儉德熙文治，淳俗應還太古風。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -461,17 +472,28 @@
     }
   },
   {
-    "title": "登鳳凰台二首",
+    "title": "登鳳凰台二首·其一",
     "author": "殷堯藩",
     "paragraphs": [
       "鳳凰臺上望長安，五色宮袍照水寒。彩筆十年留翰墨，",
-      "始信人生如一夢，壯懷莫使酒杯幹。",
+      "始信人生如一夢，壯懷莫使酒杯幹。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "登鳳凰台二首·其二",
+    "author": "殷堯藩",
+    "paragraphs": [
       "梧桐葉落秋風老，人去台空鳳不來。梁武台城芳草合，",
       "莫問人間興廢事，百年相遇且銜杯。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -709,28 +731,50 @@
     }
   },
   {
-    "title": "憶家二首",
+    "title": "憶家二首·其一",
     "author": "殷堯藩",
     "paragraphs": [
-      "新霽颺林初，蘋花貼岸舒。故鄉今夜月，猶得照孤廬。",
-      "樹擁溪邊閣，山浮雨後嵐。白頭歸未得，夢裏望江南。"
+      "新霽颺林初，蘋花貼岸舒。故鄉今夜月，猶得照孤廬。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "江行二首",
+    "title": "憶家二首·其二",
     "author": "殷堯藩",
     "paragraphs": [
-      "暝色滄州迥，秋聲玉峽長。只因江上月，不覺過潯陽。",
+      "樹擁溪邊閣，山浮雨後嵐。白頭歸未得，夢裏望江南。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江行二首·其一",
+    "author": "殷堯藩",
+    "paragraphs": [
+      "暝色滄州迥，秋聲玉峽長。只因江上月，不覺過潯陽。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江行二首·其二",
+    "author": "殷堯藩",
+    "paragraphs": [
       "晚泊長江口，寒沙白似霜。年光流不盡，東去水聲長。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -807,15 +851,26 @@
     }
   },
   {
-    "title": "酬雍秀才二首",
+    "title": "酬雍秀才二首·其一",
     "author": "殷堯藩",
     "paragraphs": [
-      "晚市人煙合，歸帆帶夕陽。棲遲未歸客，猶著錦衣裳。",
+      "晚市人煙合，歸帆帶夕陽。棲遲未歸客，猶著錦衣裳。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "酬雍秀才二首·其二",
+    "author": "殷堯藩",
+    "paragraphs": [
       "臥病茅窗下，驚聞兩月過。興來聊賦詠，清婉逼陰何。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -858,19 +913,41 @@
     }
   },
   {
-    "title": "漢宮詞三首",
+    "title": "漢宮詞三首·其一",
     "author": "殷堯藩",
     "paragraphs": [
       "成帝夫人淚滿懷，璧宮相趁落空階。",
-      "可憐玉貌花前死，惟有君恩白燕釵。",
+      "可憐玉貌花前死，惟有君恩白燕釵。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "漢宮詞三首·其二",
+    "author": "殷堯藩",
+    "paragraphs": [
       "霍家有女字成君，年少教人著繡裙。",
-      "枉殺宮中許皇后，椒房恩澤是浮雲。",
+      "枉殺宮中許皇后，椒房恩澤是浮雲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "漢宮詞三首·其三",
+    "author": "殷堯藩",
+    "paragraphs": [
       "駿馬金鞍白玉鞭，宮中來取李延年。",
       "承恩直日鴛鴦殿，一曲清歌在九天。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -901,32 +978,54 @@
     }
   },
   {
-    "title": "游山南寺二首",
+    "title": "游山南寺二首·其一",
     "author": "殷堯藩",
     "paragraphs": [
       "山中盡日無人到，竹外交加百鳥鳴。",
-      "昨日小樓微雨過，櫻桃花落晚風晴。",
-      "踏碎羊山黃葉堆，天飛細雨隱輕雷。",
-      "朗陵莫訝來何晚，不忍聽君話別杯。"
+      "昨日小樓微雨過，櫻桃花落晚風晴。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "寄太僕田卿二首",
+    "title": "游山南寺二首·其二",
+    "author": "殷堯藩",
+    "paragraphs": [
+      "踏碎羊山黃葉堆，天飛細雨隱輕雷。",
+      "朗陵莫訝來何晚，不忍聽君話別杯。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄太僕田卿二首·其一",
     "author": "殷堯藩",
     "paragraphs": [
       "客窗強飲太匆匆，急雨寒風意萬重。",
-      "驀上心來消未得，夢回又聽五更鐘。",
+      "驀上心來消未得，夢回又聽五更鐘。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄太僕田卿二首·其二",
+    "author": "殷堯藩",
+    "paragraphs": [
       "一陽才動伏群陰，萬物於今寓太音。",
       "若喜長生添線日，微微消息識天心。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -983,17 +1082,28 @@
     }
   },
   {
-    "title": "贈歌人郭婉二首",
+    "title": "贈歌人郭婉二首·其一",
     "author": "殷堯藩",
     "paragraphs": [
       "石家金穀舊歌人，起唱花筵淚滿巾。",
-      "紅粉少年諸弟子，一時惆悵望梁塵。",
+      "紅粉少年諸弟子，一時惆悵望梁塵。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈歌人郭婉二首·其二",
+    "author": "殷堯藩",
+    "paragraphs": [
       "雲滿衣裳月滿身，輕盈歸步過流塵。",
       "五更無限留連意，常恐風花又一春。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

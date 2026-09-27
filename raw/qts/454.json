@@ -39,18 +39,62 @@
     }
   },
   {
-    "title": "七年元日對酒五首",
+    "title": "七年元日對酒五首·其一",
     "author": "白居易",
     "paragraphs": [
-      "慶吊經過懶，逢迎跪拜遲。不因時節日，豈覺此身羸。",
-      "眾老憂添歲，餘衰喜入春。年開第七秩，屈指幾多人。",
-      "三杯藍尾酒，一碟膠牙餳。除卻崔常侍，無人共我爭。",
-      "今朝吳與洛，相憶一欣然。夢得君知否，俱過本命年。",
+      "慶吊經過懶，逢迎跪拜遲。不因時節日，豈覺此身羸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "七年元日對酒五首·其二",
+    "author": "白居易",
+    "paragraphs": [
+      "眾老憂添歲，餘衰喜入春。年開第七秩，屈指幾多人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "七年元日對酒五首·其三",
+    "author": "白居易",
+    "paragraphs": [
+      "三杯藍尾酒，一碟膠牙餳。除卻崔常侍，無人共我爭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "七年元日對酒五首·其四",
+    "author": "白居易",
+    "paragraphs": [
+      "今朝吳與洛，相憶一欣然。夢得君知否，俱過本命年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "七年元日對酒五首·其五",
+    "author": "白居易",
+    "paragraphs": [
       "同歲崔何在，同年杜又無。應無藏避處，只有且歡娛。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -462,17 +506,28 @@
     }
   },
   {
-    "title": "把酒思閒事二首",
+    "title": "把酒思閒事二首·其一",
     "author": "白居易",
     "paragraphs": [
       "把酒思閒事，春愁誰最深。乞錢羈客面，落第舉人心。",
-      "月下低眉立，燈前抱膝吟。憑君勸一醉，勝與萬黃金。",
+      "月下低眉立，燈前抱膝吟。憑君勸一醉，勝與萬黃金。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "把酒思閒事二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "把酒思閒事，春嬌何處多。試鞍新白馬，弄鏡小青娥。",
       "掌上初教舞，花前欲按歌。憑君勸一醉，勸了問如何。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -708,15 +763,26 @@
     }
   },
   {
-    "title": "嘗新酒憶晦叔二首",
+    "title": "嘗新酒憶晦叔二首·其一",
     "author": "白居易",
     "paragraphs": [
-      "尊裏看無色，杯中動有光。自君拋我去，此物共誰嘗。",
+      "尊裏看無色，杯中動有光。自君拋我去，此物共誰嘗。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "嘗新酒憶晦叔二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "世上強欺弱，人間醉勝醒。自君拋我去，此語更誰聽。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -734,17 +800,28 @@
     }
   },
   {
-    "title": "池上閑吟二首",
+    "title": "池上閑吟二首·其一",
     "author": "白居易",
     "paragraphs": [
       "高臥閑行自在身，池邊六見柳條新。幸逢堯舜無為日，",
-      "莫愁客到無供給，家醞香濃野菜春。",
+      "莫愁客到無供給，家醞香濃野菜春。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "池上閑吟二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "非莊非宅非蘭若，竹樹池亭十畝餘。非道非僧非俗吏，",
       "雖未定知生與死，其間勝負兩何如。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1053,29 +1130,106 @@
     }
   },
   {
-    "title": "楊柳枝詞八首",
+    "title": "楊柳枝詞八首·其一",
     "author": "白居易",
     "paragraphs": [
       "六麼水調家家唱，白雪梅花處處吹。",
-      "古歌舊曲君休聽，聽取新翻楊柳枝。",
+      "古歌舊曲君休聽，聽取新翻楊柳枝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞八首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "陶令門前四五樹，亞夫營裏百千條。",
-      "何似東都正二月，黃金枝映洛陽橋。",
+      "何似東都正二月，黃金枝映洛陽橋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞八首·其三",
+    "author": "白居易",
+    "paragraphs": [
       "依依褭褭複青青，句引春風無限情。",
-      "白雪花繁空撲地，綠絲條弱不勝鶯。",
+      "白雪花繁空撲地，綠絲條弱不勝鶯。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞八首·其四",
+    "author": "白居易",
+    "paragraphs": [
       "紅板江橋青酒旗，館娃宮暖日斜時。",
-      "可憐雨歇東風定，萬樹千條各自垂。",
+      "可憐雨歇東風定，萬樹千條各自垂。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞八首·其五",
+    "author": "白居易",
+    "paragraphs": [
       "蘇州楊柳任君誇，更有錢唐勝館娃。",
-      "若解多情尋小小，綠楊深處是蘇家。",
+      "若解多情尋小小，綠楊深處是蘇家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞八首·其六",
+    "author": "白居易",
+    "paragraphs": [
       "蘇家小女舊知名，楊柳風前別有情。",
-      "剝條盤作銀環樣，卷葉吹為玉笛聲。",
+      "剝條盤作銀環樣，卷葉吹為玉笛聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞八首·其七",
+    "author": "白居易",
+    "paragraphs": [
       "葉含濃露如啼眼，枝嫋輕風似舞腰。",
-      "小樹不禁攀折苦，乞君留取兩三條。",
+      "小樹不禁攀折苦，乞君留取兩三條。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞八首·其八",
+    "author": "白居易",
+    "paragraphs": [
       "人言柳葉似愁眉，更有愁腸似柳絲。",
       "柳絲挽斷腸牽斷，彼此應無續得期。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

@@ -524,17 +524,28 @@
     }
   },
   {
-    "title": "送遷客二首",
+    "title": "送遷客二首·其一",
     "author": "於鵠",
     "paragraphs": [
       "得罪誰人送，來時不到家。白頭無侍子，多病向天涯。",
-      "莽蒼淩江水，黃昏見塞花。如今賈誼賦，不漫說長沙。",
+      "莽蒼淩江水，黃昏見塞花。如今賈誼賦，不漫說長沙。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送遷客二首·其二",
+    "author": "於鵠",
+    "paragraphs": [
       "流人何處去，萬里向江州。孤驛瘴煙重，行人巴草秋。",
       "上帆南去遠，送雁北看愁。遍問炎方客，無人得白頭。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -643,16 +654,38 @@
     }
   },
   {
-    "title": "古詞三首",
+    "title": "古詞三首·其一",
     "author": "於鵠",
     "paragraphs": [
-      "素絲帶金地，窗間掬飛塵。偷得鳳凰釵，門前乞行人。",
-      "新長青絲發，啞啞言語黠。隨人敲銅鏡，街頭救明月。",
+      "素絲帶金地，窗間掬飛塵。偷得鳳凰釵，門前乞行人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古詞三首·其二",
+    "author": "於鵠",
+    "paragraphs": [
+      "新長青絲發，啞啞言語黠。隨人敲銅鏡，街頭救明月。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古詞三首·其三",
+    "author": "於鵠",
+    "paragraphs": [
       "東家新長兒，與妾同時生。並長兩心熟，到大相呼名。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

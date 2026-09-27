@@ -26,21 +26,54 @@
     }
   },
   {
-    "title": "山居即事四首",
+    "title": "山居即事四首·其一",
     "author": "吳融",
     "paragraphs": [
       "桂樹秋來風滿枝，碧岩歸日免乖期。",
-      "故人盡向蟾宮折，獨我攀條欲寄誰。",
+      "故人盡向蟾宮折，獨我攀條欲寄誰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "山居即事四首·其二",
+    "author": "吳融",
+    "paragraphs": [
       "不傲南窗且采樵，乾鬆每帶濕雲燒。",
-      "庖廚卻得長兼味，三秀芝根五朮苗。",
+      "庖廚卻得長兼味，三秀芝根五朮苗。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "山居即事四首·其三",
+    "author": "吳融",
+    "paragraphs": [
       "萬事翛然只有棋，小軒高淨簟涼時。",
-      "闌珊半局和微醉，花落中庭樹影移。",
+      "闌珊半局和微醉，花落中庭樹影移。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "山居即事四首·其四",
+    "author": "吳融",
+    "paragraphs": [
       "無鄰無裏不成村，水曲雲重掩石門。",
       "何用深求避秦客，吾家便是武陵源。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -362,17 +395,28 @@
     }
   },
   {
-    "title": "雨後聞思歸樂二首",
+    "title": "雨後聞思歸樂二首·其一",
     "author": "吳融",
     "paragraphs": [
       "山禽連夜叫，兼雨未嘗休。盡道思歸樂，應多離別愁。",
-      "我家方旅食，故國在滄洲。聞此不能寐，青燈茆屋幽。",
+      "我家方旅食，故國在滄洲。聞此不能寐，青燈茆屋幽。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雨後聞思歸樂二首·其二",
+    "author": "吳融",
+    "paragraphs": [
       "一夜鳥飛鳴，關關徹五更。似因歸路隔，長使別魂驚。",
       "未省愁雨暗，就中傷月明。須知越吟客，欹枕不勝情。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -744,17 +788,28 @@
     }
   },
   {
-    "title": "華清宮二首",
+    "title": "華清宮二首·其一",
     "author": "吳融",
     "paragraphs": [
       "四郊飛雪暗雲端，唯此宮中落旋幹。",
-      "綠樹碧簷相掩映，無人知道外邊寒。",
+      "綠樹碧簷相掩映，無人知道外邊寒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "華清宮二首·其二",
+    "author": "吳融",
+    "paragraphs": [
       "長生秘殿倚青蒼，擬敵金庭不死鄉。",
       "無奈逝川東去急，秦陵松柏滿殘陽。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -863,19 +918,41 @@
     }
   },
   {
-    "title": "彭門用兵後經汴路三首",
+    "title": "彭門用兵後經汴路三首·其一",
     "author": "吳融",
     "paragraphs": [
       "長亭一望一徘徊，千里關河百戰來。細柳舊營猶鎖月，",
-      "若比江南更牢落，子山詞賦莫興哀。",
+      "若比江南更牢落，子山詞賦莫興哀。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "彭門用兵後經汴路三首·其二",
+    "author": "吳融",
+    "paragraphs": [
       "隋堤風物已淒涼，堤下仍多舊戰場。金鏃有苔人拾得，",
-      "獨上寒城正愁絕，戍鼙驚起雁行行。",
+      "獨上寒城正愁絕，戍鼙驚起雁行行。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "彭門用兵後經汴路三首·其三",
+    "author": "吳融",
+    "paragraphs": [
       "鐵馬雲旗夢渺茫，東來無處不堪傷。風吹白草人行少，",
       "曾為塞北閒遊客，遼水天山未斷腸。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

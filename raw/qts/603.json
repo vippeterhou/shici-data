@@ -351,17 +351,28 @@
     }
   },
   {
-    "title": "塞下二首",
+    "title": "塞下二首·其一",
     "author": "許棠",
     "paragraphs": [
       "胡虜偏狂悍，邊兵不敢閑。防秋朝伏弩，縱火夜搜山。",
-      "雁逆風鼙振，沙飛獵騎還。安西雖有路，難更出陽關。",
+      "雁逆風鼙振，沙飛獵騎還。安西雖有路，難更出陽關。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "塞下二首·其二",
+    "author": "許棠",
+    "paragraphs": [
       "征役已不定，又緣無定河。塞深烽砦密，山亂犬羊多。",
       "漢卒聞笳泣，胡兒擊劍歌。番情終未測，今昔謾言和。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -535,23 +546,67 @@
     }
   },
   {
-    "title": "陳情獻江西李常侍五首",
+    "title": "陳情獻江西李常侍五首·其一",
     "author": "許棠",
     "paragraphs": [
       "二十二三年，游秦複滯燕。徒陪群彥後，自苦此生前。",
-      "徑折啼猿樹，岩荒噴月泉。東堂曾受薦，垂白志猶堅。",
+      "徑折啼猿樹，岩荒噴月泉。東堂曾受薦，垂白志猶堅。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "陳情獻江西李常侍五首·其二",
+    "author": "許棠",
+    "paragraphs": [
       "淅淅複棲棲，人間只自迷。終年愁遠道，到老去何蹊。",
-      "始見紅葉落，又聞黃鳥啼。不因趨大旆，誰肯暫提攜。",
+      "始見紅葉落，又聞黃鳥啼。不因趨大旆，誰肯暫提攜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "陳情獻江西李常侍五首·其三",
+    "author": "許棠",
+    "paragraphs": [
       "童蒙即苦辛，未識杏園春。謾倚無為日，還成不偶人。",
-      "鄉程長恨遠，旅夢亦愁貧。天地雖雲廣，殊難寄此身。",
+      "鄉程長恨遠，旅夢亦愁貧。天地雖雲廣，殊難寄此身。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "陳情獻江西李常侍五首·其四",
+    "author": "許棠",
+    "paragraphs": [
       "春闈久已滯，秋賦又逢停。選士疑長阻，傷時自不寧。",
-      "秦城還逐夢，楚徼影隨形。此去吟雖苦，何人更肯聽。",
+      "秦城還逐夢，楚徼影隨形。此去吟雖苦，何人更肯聽。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "陳情獻江西李常侍五首·其五",
+    "author": "許棠",
+    "paragraphs": [
       "孤立時全塞，求名勢轉難。身多離下國，分合阻長安。",
       "越鳥啼春早，蠻花送雨寒。丘門沾顧重，未別欲闌幹。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -777,17 +832,28 @@
     }
   },
   {
-    "title": "題汧湖二首",
+    "title": "題汧湖二首·其一",
     "author": "許棠",
     "paragraphs": [
       "偶得湖中趣，都忘隴坻愁。邊聲風下雁，楚思浪移舟。",
-      "靜極亭連寺，涼多島近樓。吟遊終不厭，還似曲江頭。",
+      "靜極亭連寺，涼多島近樓。吟遊終不厭，還似曲江頭。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "題汧湖二首·其二",
+    "author": "許棠",
+    "paragraphs": [
       "隴首時無事，湖邊日縱吟。遊魚來複去，浴鳥出還沉。",
       "蜃氣藏孤嶼，波光到遠林。無人見垂釣，暗起洞庭心。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -835,23 +901,67 @@
     }
   },
   {
-    "title": "冬杪歸陵陽別業五首",
+    "title": "冬杪歸陵陽別業五首·其一",
     "author": "許棠",
     "paragraphs": [
       "無媒歸別業，所向自乖心。閭裏故人少，田園荒草深。",
-      "浪翻全失岸，竹迸別成林。鷗鳥猶相識，時來聽苦吟。",
+      "浪翻全失岸，竹迸別成林。鷗鳥猶相識，時來聽苦吟。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "冬杪歸陵陽別業五首·其二",
+    "author": "許棠",
+    "paragraphs": [
       "眠雲終未遂，策馬暫休期。上國勞魂夢，中心甚別離。",
-      "冰封岩溜斷，雪壓砌松欹。骨肉嗟名晚，看歸卻淚垂。",
+      "冰封岩溜斷，雪壓砌松欹。骨肉嗟名晚，看歸卻淚垂。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "冬杪歸陵陽別業五首·其三",
+    "author": "許棠",
+    "paragraphs": [
       "學劍雖無術，吟詩似有魔。已貧甘事晚，臨老愛閑多。",
-      "雞犬唯隨鹿，兒童只衣蓑。時因尋野叟，狂醉複狂歌。",
+      "雞犬唯隨鹿，兒童只衣蓑。時因尋野叟，狂醉複狂歌。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "冬杪歸陵陽別業五首·其四",
+    "author": "許棠",
+    "paragraphs": [
       "鄉國亂離後，交親半旅遊。遠聞誠可念，歸見豈無愁。",
-      "敗葦迷荒徑，寒蓑沒壞舟。衡門終不掩，倚杖看波流。",
+      "敗葦迷荒徑，寒蓑沒壞舟。衡門終不掩，倚杖看波流。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "冬杪歸陵陽別業五首·其五",
+    "author": "許棠",
+    "paragraphs": [
       "游秦複滯燕，不覺近衰年。旅貌同柴毀，行衣對骨穿。",
       "籬寒多啄雀，木落斷浮煙。楚夜聞鳴雁，猶疑在塞天。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

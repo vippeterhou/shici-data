@@ -192,15 +192,26 @@
     }
   },
   {
-    "title": "嶽州守歲二首",
+    "title": "嶽州守歲二首·其一",
     "author": "張說",
     "paragraphs": [
-      "夜風吹醉舞，庭戶對酣歌。愁逐前年少，歡迎今歲多。",
+      "夜風吹醉舞，庭戶對酣歌。愁逐前年少，歡迎今歲多。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "嶽州守歲二首·其二",
+    "author": "張說",
+    "paragraphs": [
       "桃枝堪辟惡，爆竹好驚眠。歌舞留今夕，猶言惜舊年。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -217,15 +228,26 @@
     }
   },
   {
-    "title": "耗磨日飲二首",
+    "title": "耗磨日飲二首·其一",
     "author": "張說",
     "paragraphs": [
-      "耗磨傳茲日，縱橫道未宜。但令不忌醉，翻是樂無為。",
+      "耗磨傳茲日，縱橫道未宜。但令不忌醉，翻是樂無為。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "耗磨日飲二首·其二",
+    "author": "張說",
+    "paragraphs": [
       "上月今朝減，流傳耗磨辰。還將不事事，同醉俗中人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -242,18 +264,62 @@
     }
   },
   {
-    "title": "九日進茱萸山詩五首",
+    "title": "九日進茱萸山詩五首·其一",
     "author": "張說",
     "paragraphs": [
-      "家居洛陽下，舉目見嵩山。刻作茱萸節，情生造化間。",
-      "黃花宜泛酒，青岳好登高。稽首明廷內，心為天下勞。",
-      "菊酒攜山客，萸囊系牧童。路疑隨大隗，心似問鴻蒙。",
-      "九日重陽數，三秋萬實成。時來謁軒後，罷去坐蓬瀛。",
+      "家居洛陽下，舉目見嵩山。刻作茱萸節，情生造化間。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "九日進茱萸山詩五首·其二",
+    "author": "張說",
+    "paragraphs": [
+      "黃花宜泛酒，青岳好登高。稽首明廷內，心為天下勞。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "九日進茱萸山詩五首·其三",
+    "author": "張說",
+    "paragraphs": [
+      "菊酒攜山客，萸囊系牧童。路疑隨大隗，心似問鴻蒙。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "九日進茱萸山詩五首·其四",
+    "author": "張說",
+    "paragraphs": [
+      "九日重陽數，三秋萬實成。時來謁軒後，罷去坐蓬瀛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "九日進茱萸山詩五首·其五",
+    "author": "張說",
+    "paragraphs": [
       "晚節歡重九，高山上五千。醉中知遇聖，夢裏見尋仙。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -270,30 +336,74 @@
     }
   },
   {
-    "title": "嶺南送使二首",
+    "title": "嶺南送使二首·其一",
     "author": "張說",
     "paragraphs": [
-      "獄中生白髮，嶺外罷紅顏。古來相送處，凡得幾人還。",
-      "萬里投荒裔，來時不見親。一朝成白首，看取報家人。"
+      "獄中生白髮，嶺外罷紅顏。古來相送處，凡得幾人還。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "傷妓人董氏四首",
+    "title": "嶺南送使二首·其二",
     "author": "張說",
     "paragraphs": [
-      "董氏嬌嬈性，多為窈窕名。人隨秋月落，韻入擣衣聲。",
-      "粉蕊粘妝簏，金花竭翠條。夜台無戲伴，魂影向誰嬌。",
-      "舊亭紅粉閣，宿處白雲關。春日雙飛去，秋風獨不還。",
+      "萬里投荒裔，來時不見親。一朝成白首，看取報家人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "傷妓人董氏四首·其一",
+    "author": "張說",
+    "paragraphs": [
+      "董氏嬌嬈性，多為窈窕名。人隨秋月落，韻入擣衣聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "傷妓人董氏四首·其二",
+    "author": "張說",
+    "paragraphs": [
+      "粉蕊粘妝簏，金花竭翠條。夜台無戲伴，魂影向誰嬌。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "傷妓人董氏四首·其三",
+    "author": "張說",
+    "paragraphs": [
+      "舊亭紅粉閣，宿處白雲關。春日雙飛去，秋風獨不還。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "傷妓人董氏四首·其四",
+    "author": "張說",
+    "paragraphs": [
       "舞席沾殘粉，歌梁委舊塵。獨傷窗裏月，不見帳中人。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -310,34 +420,100 @@
     }
   },
   {
-    "title": "破陳樂詞二首",
+    "title": "破陳樂詞二首·其一",
     "author": "張說",
     "paragraphs": [
       "漢兵出頓金微，照日光明鐵衣。百里火幡焰焰，",
-      "正屬四方朝賀，端知萬舞皇威。",
-      "少年膽氣淩雲，共許驍雄出群。匹馬城西挑戰，",
-      "誓欲成名報國，羞將開閣論勳。"
+      "正屬四方朝賀，端知萬舞皇威。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
+      "sentence_count": 5,
+      "sentence_lengths": [6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },
   {
-    "title": "舞馬詞六首",
+    "title": "破陳樂詞二首·其二",
     "author": "張說",
     "paragraphs": [
-      "萬玉朝宗鳳扆，千金率領龍媒。眄鼓凝驕躞蹀，",
-      "天鹿遙征衛叔，日龍上借羲和。將共兩驂爭舞，",
-      "彩旄八佾成行，時龍五色因方。屈膝銜杯赴節，",
-      "帝皂龍駒沛艾，星蘭驥子權奇。騰倚驤洋應節，",
-      "二聖先天合德，群靈率土可封。擊石驂驔紫燕，",
+      "少年膽氣淩雲，共許驍雄出群。匹馬城西挑戰，",
+      "誓欲成名報國，羞將開閣論勳。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [6, 6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "舞馬詞六首·其一",
+    "author": "張說",
+    "paragraphs": [
+      "萬玉朝宗鳳扆，千金率領龍媒。眄鼓凝驕躞蹀，"
+    ],
+    "format": {
+      "sentence_count": 3,
+      "sentence_lengths": [6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "舞馬詞六首·其二",
+    "author": "張說",
+    "paragraphs": [
+      "天鹿遙征衛叔，日龍上借羲和。將共兩驂爭舞，"
+    ],
+    "format": {
+      "sentence_count": 3,
+      "sentence_lengths": [6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "舞馬詞六首·其三",
+    "author": "張說",
+    "paragraphs": [
+      "彩旄八佾成行，時龍五色因方。屈膝銜杯赴節，"
+    ],
+    "format": {
+      "sentence_count": 3,
+      "sentence_lengths": [6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "舞馬詞六首·其四",
+    "author": "張說",
+    "paragraphs": [
+      "帝皂龍駒沛艾，星蘭驥子權奇。騰倚驤洋應節，"
+    ],
+    "format": {
+      "sentence_count": 3,
+      "sentence_lengths": [6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "舞馬詞六首·其五",
+    "author": "張說",
+    "paragraphs": [
+      "二聖先天合德，群靈率土可封。擊石驂驔紫燕，"
+    ],
+    "format": {
+      "sentence_count": 3,
+      "sentence_lengths": [6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "舞馬詞六首·其六",
+    "author": "張說",
+    "paragraphs": [
       "聖君出震應籙，神馬浮河獻圖。足踏天庭鼓舞，"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
+      "sentence_count": 3,
+      "sentence_lengths": [6, 6, 6],
       "uniform_sentence_length": 6
     }
   },
@@ -394,38 +570,93 @@
     }
   },
   {
-    "title": "十五日夜御前口號踏歌詞二首",
+    "title": "十五日夜御前口號踏歌詞二首·其一",
     "author": "張說",
     "paragraphs": [
       "花萼樓前雨露新，長安城裏太平人。",
-      "龍銜火樹千重焰，雞踏蓮花萬歲春。",
-      "帝宮三五戲春台，行雨流風莫妒來。",
-      "西域燈輪千影合，東華金闕萬重開。"
+      "龍銜火樹千重焰，雞踏蓮花萬歲春。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "蘇摩遮五首",
+    "title": "十五日夜御前口號踏歌詞二首·其二",
+    "author": "張說",
+    "paragraphs": [
+      "帝宮三五戲春台，行雨流風莫妒來。",
+      "西域燈輪千影合，東華金闕萬重開。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "蘇摩遮五首·其一",
     "author": "張說",
     "paragraphs": [
       "摩遮本出海西胡，琉璃寶服紫髯胡。",
-      "聞道皇恩遍宇宙，來將歌舞助歡娛。",
+      "聞道皇恩遍宇宙，來將歌舞助歡娛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "蘇摩遮五首·其二",
+    "author": "張說",
+    "paragraphs": [
       "繡裝帕額寶花冠，夷歌騎舞借人看。",
-      "自能激水成陰氣，不慮今年寒不寒。",
+      "自能激水成陰氣，不慮今年寒不寒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "蘇摩遮五首·其三",
+    "author": "張說",
+    "paragraphs": [
       "臘月凝陰積帝台，豪歌急鼓送寒來。",
-      "油囊取得天河水，將添上壽萬年杯。",
+      "油囊取得天河水，將添上壽萬年杯。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "蘇摩遮五首·其四",
+    "author": "張說",
+    "paragraphs": [
       "寒氣宜人最可憐，故將寒水散庭前。",
-      "惟願聖君無限壽，長取新年續舊年。",
+      "惟願聖君無限壽，長取新年續舊年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "蘇摩遮五首·其五",
+    "author": "張說",
+    "paragraphs": [
       "昭成皇后帝家親，榮樂諸人不比倫。",
       "往日霜前花委地，今年雪後樹逢春。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

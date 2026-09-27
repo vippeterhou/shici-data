@@ -104,19 +104,41 @@
     }
   },
   {
-    "title": "遣悲懷三首",
+    "title": "遣悲懷三首·其一",
     "author": "元稹",
     "paragraphs": [
       "謝公最小偏憐女，嫁與黔婁百事乖。顧我無衣搜畫篋，",
-      "今日俸錢過十萬，與君營奠複營齋。",
+      "今日俸錢過十萬，與君營奠複營齋。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "遣悲懷三首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "昔日戲言身後意，今朝皆到眼前來。衣裳已施行看盡，",
-      "誠知此恨人人有，貧賤夫妻百事哀。",
+      "誠知此恨人人有，貧賤夫妻百事哀。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "遣悲懷三首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "閑坐悲君亦自悲，百年都是幾多時。鄧攸無子尋知命，",
       "唯將終夜長開眼，報答平生未展眉。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -280,29 +302,106 @@
     }
   },
   {
-    "title": "六年春遣懷八首",
+    "title": "六年春遣懷八首·其一",
     "author": "元稹",
     "paragraphs": [
       "傷禽我是籠中鶴，沉劍君為泉下龍。",
-      "重纊猶存孤枕在，春衫無復舊裁縫。",
+      "重纊猶存孤枕在，春衫無復舊裁縫。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "六年春遣懷八首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "檢得舊書三四紙，高低闊狹粗成行。",
-      "自言並食尋高事，唯念山深驛路長。",
+      "自言並食尋高事，唯念山深驛路長。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "六年春遣懷八首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "公無渡河音響絕，已隔前春複去秋。",
-      "今日閑窗拂塵土，殘弦猶迸鈿箜篌。",
+      "今日閑窗拂塵土，殘弦猶迸鈿箜篌。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "六年春遣懷八首·其四",
+    "author": "元稹",
+    "paragraphs": [
       "婢僕曬君餘服用，嬌癡稚女繞床行。",
-      "玉梳鈿朵香膠解，盡日風吹玳瑁箏。",
+      "玉梳鈿朵香膠解，盡日風吹玳瑁箏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "六年春遣懷八首·其五",
+    "author": "元稹",
+    "paragraphs": [
       "伴客銷愁長日飲，偶然乘興便醺醺。",
-      "怪來醒後傍人泣，醉裏時時錯問君。",
+      "怪來醒後傍人泣，醉裏時時錯問君。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "六年春遣懷八首·其六",
+    "author": "元稹",
+    "paragraphs": [
       "我隨楚澤波中梗，君作咸陽泉下泥。",
-      "百事無心值寒食，身將稚女帳前啼。",
+      "百事無心值寒食，身將稚女帳前啼。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "六年春遣懷八首·其七",
+    "author": "元稹",
+    "paragraphs": [
       "童稚癡狂撩亂走，繡球花仗滿堂前。",
-      "病身一到繐帷下，還向臨階背日眠。",
+      "病身一到繐帷下，還向臨階背日眠。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "六年春遣懷八首·其八",
+    "author": "元稹",
+    "paragraphs": [
       "小於潘岳頭先白，學取莊周淚莫多。",
       "止竟悲君須自省，川流前後各風波。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -390,33 +489,132 @@
     }
   },
   {
-    "title": "哭子十首",
+    "title": "哭子十首·其一",
     "author": "元稹",
     "paragraphs": [
       "維鵜受刺因吾過，得馬生災念爾冤。",
-      "獨在中庭倚閑樹，亂蟬嘶噪欲黃昏。",
+      "獨在中庭倚閑樹，亂蟬嘶噪欲黃昏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "哭子十首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "才能辨別東西位，未解分明管帶身。",
-      "自食自眠猶未得，九重泉路托何人。",
+      "自食自眠猶未得，九重泉路托何人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "哭子十首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "爾母溺情連夜哭，我身因事有時悲。",
-      "鐘聲欲絕東方動，便是尋常上學時。",
+      "鐘聲欲絕東方動，便是尋常上學時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "哭子十首·其四",
+    "author": "元稹",
+    "paragraphs": [
       "蓮花上品生真界，兜率天中離世途。",
-      "彼此業緣多障礙，不知還得見兒無。",
+      "彼此業緣多障礙，不知還得見兒無。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "哭子十首·其五",
+    "author": "元稹",
+    "paragraphs": [
       "節量梨栗愁生疾，教示詩書望早成。",
-      "鞭撲校多憐校少，又緣遺恨哭三聲。",
+      "鞭撲校多憐校少，又緣遺恨哭三聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "哭子十首·其六",
+    "author": "元稹",
+    "paragraphs": [
       "深嗟爾更無兄弟，自歎予應絕子孫。",
-      "寂寞講堂基址在，何人車馬入高門。",
+      "寂寞講堂基址在，何人車馬入高門。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "哭子十首·其七",
+    "author": "元稹",
+    "paragraphs": [
       "往年鬢已同潘嶽，垂老年教作鄧攸。",
-      "煩惱數中除一事，自茲無複子孫憂。",
+      "煩惱數中除一事，自茲無複子孫憂。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "哭子十首·其八",
+    "author": "元稹",
+    "paragraphs": [
       "長年苦境知何限，豈得因兒獨喪明。",
-      "消遣又來緣爾母，夜深和淚有經聲。",
+      "消遣又來緣爾母，夜深和淚有經聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "哭子十首·其九",
+    "author": "元稹",
+    "paragraphs": [
       "烏生八子今無七，猿叫三聲月正孤。",
-      "寂寞空堂天欲曙，拂簾雙燕引新雛。",
+      "寂寞空堂天欲曙，拂簾雙燕引新雛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "哭子十首·其十",
+    "author": "元稹",
+    "paragraphs": [
       "頻頻子落長江水，夜夜巢邊舊處棲。",
       "若是愁腸終不斷，一年添得一聲啼。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

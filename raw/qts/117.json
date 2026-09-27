@@ -159,15 +159,26 @@
     }
   },
   {
-    "title": "賦得春鶯送友人二首",
+    "title": "賦得春鶯送友人二首·其一",
     "author": "賀朝",
     "paragraphs": [
-      "翅掩飛鶯舞，啼惱婕妤悲。料取金閨意，因君問所思。",
+      "翅掩飛鶯舞，啼惱婕妤悲。料取金閨意，因君問所思。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "賦得春鶯送友人二首·其二",
+    "author": "賀朝",
+    "paragraphs": [
       "流鶯拂繡羽，二月上林期。待雪銷金禁，銜花向玉墀。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

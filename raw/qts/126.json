@@ -1092,19 +1092,41 @@
     }
   },
   {
-    "title": "愚公穀三首",
+    "title": "愚公穀三首·其一",
     "author": "王維",
     "paragraphs": [
       "愚穀與誰去，唯將黎子同。非須一處住，不那兩心空。",
-      "甯問春將夏，誰論西複東。不知吾與子，若個是愚公。",
+      "甯問春將夏，誰論西複東。不知吾與子，若個是愚公。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "愚公穀三首·其二",
+    "author": "王維",
+    "paragraphs": [
       "吾家愚穀裏，此谷本來平。雖則行無跡，還能回應聲。",
-      "不隨雲色暗，只待日光明。緣底名愚穀，都由愚所成。",
+      "不隨雲色暗，只待日光明。緣底名愚穀，都由愚所成。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "愚公穀三首·其三",
+    "author": "王維",
+    "paragraphs": [
       "借問愚公穀，與君聊一尋。不尋翻到谷，此穀不離心。",
       "行處曾無險，看時豈有深。寄言塵世客，何處欲歸臨。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1135,59 +1157,158 @@
     }
   },
   {
-    "title": "恭懿太子挽歌五首",
+    "title": "恭懿太子挽歌五首·其一",
     "author": "王維",
     "paragraphs": [
       "何悟藏環早，才知拜璧年。翀天王子去，對日聖君憐。",
-      "樹轉宮猶出，笳悲馬不前。雖蒙絕馳道，京兆別開阡。",
+      "樹轉宮猶出，笳悲馬不前。雖蒙絕馳道，京兆別開阡。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "恭懿太子挽歌五首·其二",
+    "author": "王維",
+    "paragraphs": [
       "蘭殿新恩切，椒宮夕臨幽。白雲隨鳳管，明月在龍樓。",
-      "人向青山哭，天臨渭水愁。雞鳴常問膳，今恨玉京留。",
+      "人向青山哭，天臨渭水愁。雞鳴常問膳，今恨玉京留。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "恭懿太子挽歌五首·其三",
+    "author": "王維",
+    "paragraphs": [
       "騎吹淩霜發，旌旗夾路陳。凱容金節護，冊命玉符新。",
-      "傅母悲香褓，君家擁畫輪。射熊今夢帝，秤象問何人。",
+      "傅母悲香褓，君家擁畫輪。射熊今夢帝，秤象問何人。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "恭懿太子挽歌五首·其四",
+    "author": "王維",
+    "paragraphs": [
       "蒼舒留帝寵，子晉有仙才。五歲過人智，三天使鶴催。",
-      "心悲陽祿館，目斷望思台。若道長安近，何為更不來。",
+      "心悲陽祿館，目斷望思台。若道長安近，何為更不來。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "恭懿太子挽歌五首·其五",
+    "author": "王維",
+    "paragraphs": [
       "西望昆池闊，東瞻下杜平。山朝豫章館，樹轉鳳凰城。",
       "五校連旗色，千門疊鼓聲。金環如有驗，還向畫堂生。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "故太子太師徐公挽歌四首",
+    "title": "故太子太師徐公挽歌四首·其一",
     "author": "王維",
     "paragraphs": [
       "功德冠群英，彌綸有大名。軒皇用風後，傅說是星精。",
-      "就第優遺老，來朝詔不名。留侯常辟穀，何苦不長生。",
+      "就第優遺老，來朝詔不名。留侯常辟穀，何苦不長生。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故太子太師徐公挽歌四首·其二",
+    "author": "王維",
+    "paragraphs": [
       "謀猷為相國，翊戴奉宸輿。劍履升前殿，貂蟬托後車。",
-      "齊侯疏土宇，漢室賴圖書。僻處留田宅，仍才十頃餘。",
+      "齊侯疏土宇，漢室賴圖書。僻處留田宅，仍才十頃餘。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故太子太師徐公挽歌四首·其三",
+    "author": "王維",
+    "paragraphs": [
       "舊裏趨庭日，新年置酒辰。聞詩鸞渚客，獻賦鳳樓人。",
-      "北首辭明主，東堂哭大臣。猶思禦朱輅，不惜汙車茵。",
+      "北首辭明主，東堂哭大臣。猶思禦朱輅，不惜汙車茵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故太子太師徐公挽歌四首·其四",
+    "author": "王維",
+    "paragraphs": [
       "久踐中台座，終登上將壇。誰言斷車騎，空憶盛衣冠。",
       "風日咸陽慘，笳簫渭水寒。無人當便闕，應罷太師官。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "故西河郡杜太守挽歌三首",
+    "title": "故西河郡杜太守挽歌三首·其一",
     "author": "王維",
     "paragraphs": [
       "天上去西征，雲中護北平。生擒白馬將，連破黑雕城。",
-      "忽見芻靈苦，徒聞竹使榮。空留左氏傳，誰繼卜商名。",
+      "忽見芻靈苦，徒聞竹使榮。空留左氏傳，誰繼卜商名。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故西河郡杜太守挽歌三首·其二",
+    "author": "王維",
+    "paragraphs": [
       "返葬金符守，同歸石窌妻。卷衣悲畫翟，持翣待鳴雞。",
-      "容衛都人慘，山川駟馬嘶。猶聞隴上客，相對哭征西。",
+      "容衛都人慘，山川駟馬嘶。猶聞隴上客，相對哭征西。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故西河郡杜太守挽歌三首·其三",
+    "author": "王維",
+    "paragraphs": [
       "塗芻去國門，秘器出東園。太守留金印，夫人罷錦軒。",
       "旌旗轉衰木，簫鼓上寒原。墳樹應西靡，長思魏闕恩。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1205,17 +1326,28 @@
     }
   },
   {
-    "title": "達奚侍郎夫人寇氏挽詞二首",
+    "title": "達奚侍郎夫人寇氏挽詞二首·其一",
     "author": "王維",
     "paragraphs": [
       "束帶將朝日，鳴環映牖辰。能令諫明主，相勸識賢人。",
-      "遺掛空留壁，回文日覆塵。金蠶將畫柳，何處更知春。",
+      "遺掛空留壁，回文日覆塵。金蠶將畫柳，何處更知春。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "達奚侍郎夫人寇氏挽詞二首·其二",
+    "author": "王維",
+    "paragraphs": [
       "女史悲彤管，夫人罷錦軒。蔔塋占二室，行哭度千門。",
       "秋日光能淡，寒川波自翻。一朝成萬古，松柏暗平原。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

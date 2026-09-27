@@ -266,32 +266,54 @@
     }
   },
   {
-    "title": "梅花二首",
+    "title": "梅花二首·其一",
     "author": "王初",
     "paragraphs": [
       "應為陽春信未傳，固將青豔屬殘年。",
-      "東君欲待尋佳約，剩寄衣香與粉綿。",
-      "迎春雪豔飄零極，度夕蟾華掩映多。",
-      "欲托清香傳遠信，一枝無計奈愁何。"
+      "東君欲待尋佳約，剩寄衣香與粉綿。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "春日詠梅花二首",
+    "title": "梅花二首·其二",
+    "author": "王初",
+    "paragraphs": [
+      "迎春雪豔飄零極，度夕蟾華掩映多。",
+      "欲托清香傳遠信，一枝無計奈愁何。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "春日詠梅花二首·其一",
     "author": "王初",
     "paragraphs": [
       "靚妝才罷粉痕新，遞曉風回散玉塵。",
-      "若遣有情應悵望，已兼殘雪又兼春。",
+      "若遣有情應悵望，已兼殘雪又兼春。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "春日詠梅花二首·其二",
+    "author": "王初",
+    "paragraphs": [
       "青帝來時值遠芳，殘花殘雪尚交光。",
       "來年擬待春消息，得見春風已斷腸。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

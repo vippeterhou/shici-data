@@ -52,17 +52,28 @@
     }
   },
   {
-    "title": "還渭南感舊二首",
+    "title": "還渭南感舊二首·其一",
     "author": "唐暄",
     "paragraphs": [
       "寢室悲長簟，妝樓泣鏡臺。獨悲桃李節，不共一時開。",
-      "魂兮若有感，仿佛夢中來。",
+      "魂兮若有感，仿佛夢中來。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "還渭南感舊二首·其二",
+    "author": "唐暄",
+    "paragraphs": [
       "常時華室靜，笑語度更籌。恍惚人事改，冥漠委荒丘。",
       "陽原歎薤露，陰壑悼藏舟。清夜妝台月，空想畫眉愁。"
     ],
     "format": {
-      "sentence_count": 14,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -399,17 +410,28 @@
     }
   },
   {
-    "title": "水殿拋球曲二首",
+    "title": "水殿拋球曲二首·其一",
     "author": "李謹言",
     "paragraphs": [
       "侍宴黃昏曉未休，玉階夜色月如流。",
-      "朝來自覺承恩最，笑倩傍人認繡球。",
+      "朝來自覺承恩最，笑倩傍人認繡球。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "水殿拋球曲二首·其二",
+    "author": "李謹言",
+    "paragraphs": [
       "堪恨隋家幾帝王，舞裀揉盡繡鴛鴦。",
       "如今重到拋球處，不是金爐舊日香。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

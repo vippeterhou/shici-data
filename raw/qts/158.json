@@ -40,17 +40,28 @@
     }
   },
   {
-    "title": "古意二首",
+    "title": "古意二首·其一",
     "author": "賀蘭進明",
     "paragraphs": [
       "秦庭初指鹿，群盜滿山東。忤意皆誅死，所言誰肯忠。",
-      "武關猶未啟，兵入望夷宮。為祟非涇水，人君道自窮。",
+      "武關猶未啟，兵入望夷宮。為祟非涇水，人君道自窮。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古意二首·其二",
+    "author": "賀蘭進明",
+    "paragraphs": [
       "崇蘭生澗底，香氣滿幽林。采采欲為贈，何人是同心。",
       "日暮徒盈把，裴回憂思深。慨然紉雜佩，重奏丘中琴。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -169,17 +180,28 @@
     }
   },
   {
-    "title": "薊北行二首",
+    "title": "薊北行二首·其一",
     "author": "李希仲",
     "paragraphs": [
       "旄頭有精芒，胡騎獵秋草。羽檄南渡河，邊庭用兵早。",
-      "漢家愛征戰，宿將今已老。辛苦羽林兒，從戎榆關道。",
+      "漢家愛征戰，宿將今已老。辛苦羽林兒，從戎榆關道。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "薊北行二首·其二",
+    "author": "李希仲",
+    "paragraphs": [
       "一身救邊速，烽火通薊門。前軍飛鳥斷，格鬥塵沙昏。",
       "寒日鼓聲急，單于夜將奔。當須徇忠義，身死報國恩。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

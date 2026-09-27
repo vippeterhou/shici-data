@@ -508,17 +508,28 @@
     }
   },
   {
-    "title": "湘夫人二首",
+    "title": "湘夫人二首·其一",
     "author": "郎士元",
     "paragraphs": [
       "蛾眉對湘水，遙哭蒼梧山。萬乘既已歿，孤舟誰忍還。",
-      "至今楚竹上，猶有淚痕斑。",
+      "至今楚竹上，猶有淚痕斑。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "湘夫人二首·其二",
+    "author": "郎士元",
+    "paragraphs": [
       "南有涔陽路，渺渺多新愁。桂酒神降時，回風江上秋。",
       "彩雲忽無處，碧水空安流。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -913,17 +924,28 @@
     }
   },
   {
-    "title": "聞吹楊葉者二首",
+    "title": "聞吹楊葉者二首·其一",
     "author": "郎士元",
     "paragraphs": [
       "妙吹楊葉動悲笳，胡馬迎風起恨賒。",
-      "若是雁門寒月夜，此時應卷盡驚沙。",
+      "若是雁門寒月夜，此時應卷盡驚沙。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "聞吹楊葉者二首·其二",
+    "author": "郎士元",
+    "paragraphs": [
       "天生一藝更無倫，寥亮幽音妙入神。",
       "吹向別離攀折處，當應合有斷腸人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

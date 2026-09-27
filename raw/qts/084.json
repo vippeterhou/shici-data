@@ -156,17 +156,28 @@
     }
   },
   {
-    "title": "春夜別友人二首",
+    "title": "春夜別友人二首·其一",
     "author": "陳子昂",
     "paragraphs": [
       "銀燭吐青煙，金樽對綺筵。離堂思琴瑟，別路繞山川。",
-      "明月隱高樹，長河沒曉天。悠悠洛陽道，此會在何年。",
+      "明月隱高樹，長河沒曉天。悠悠洛陽道，此會在何年。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春夜別友人二首·其二",
+    "author": "陳子昂",
+    "paragraphs": [
       "紫塞白雲斷，青春明月初。對此芳樽夜，離憂悵有餘。",
       "清冷花露滿，滴瀝簷宇虛。懷君欲何贈，願上大臣書。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

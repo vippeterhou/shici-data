@@ -90,16 +90,38 @@
     }
   },
   {
-    "title": "貞元八年十二月謁先主廟絕句三首",
+    "title": "貞元八年十二月謁先主廟絕句三首·其一",
     "author": "張儼",
     "paragraphs": [
-      "仗順繼皇業，併吞勢由己。天命屈雄圖，誰歌大風起。",
-      "得股肱賢明，能以奇用兵。何事傷客情，何人歸帝京。",
+      "仗順繼皇業，併吞勢由己。天命屈雄圖，誰歌大風起。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "貞元八年十二月謁先主廟絕句三首·其二",
+    "author": "張儼",
+    "paragraphs": [
+      "得股肱賢明，能以奇用兵。何事傷客情，何人歸帝京。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "貞元八年十二月謁先主廟絕句三首·其三",
+    "author": "張儼",
+    "paragraphs": [
       "雄名垂竹帛，荒陵壓阡陌。終古更何聞，悲風入松柏。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -310,19 +332,41 @@
     }
   },
   {
-    "title": "長門怨三首",
+    "title": "長門怨三首·其一",
     "author": "劉皂",
     "paragraphs": [
       "雨滴長門秋夜長，愁心和雨到昭陽。",
-      "淚痕不學君恩斷，拭卻千行更萬行。",
+      "淚痕不學君恩斷，拭卻千行更萬行。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "長門怨三首·其二",
+    "author": "劉皂",
+    "paragraphs": [
       "宮殿沉沉月欲分，昭陽更漏不堪聞。",
-      "珊瑚枕上千行淚，不是思君是恨君。",
+      "珊瑚枕上千行淚，不是思君是恨君。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "長門怨三首·其三",
+    "author": "劉皂",
+    "paragraphs": [
       "蟬鬢慵梳倚帳門，蛾眉不掃慣承恩。",
       "旁人未必知心事，一面殘妝空淚痕。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

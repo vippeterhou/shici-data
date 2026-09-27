@@ -647,17 +647,28 @@
     }
   },
   {
-    "title": "新居早春二首",
+    "title": "新居早春二首·其一",
     "author": "白居易",
     "paragraphs": [
       "靜巷無來客，深居不出門。鋪沙蓋苔面，掃雪擁松根。",
-      "漸暖宜閒步，初晴愛小園。覓花都未有，唯覺樹枝繁。",
+      "漸暖宜閒步，初晴愛小園。覓花都未有，唯覺樹枝繁。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "新居早春二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "地潤東風暖，閑行蹋草芽。呼童遣移竹，留客伴嘗茶。",
       "溜滴簷冰盡，塵浮隙日斜。新居未曾到，鄰里是誰家。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

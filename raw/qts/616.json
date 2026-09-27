@@ -170,15 +170,26 @@
     }
   },
   {
-    "title": "奉和魯望疊韻吳宮詞二首",
+    "title": "奉和魯望疊韻吳宮詞二首·其一",
     "author": "皮日休",
     "paragraphs": [
-      "侵深尋嶔岑，勢厲衛睥睨。荒王將鄉亡，細麗蔽袂逝。",
+      "侵深尋嶔岑，勢厲衛睥睨。荒王將鄉亡，細麗蔽袂逝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "奉和魯望疊韻吳宮詞二首·其二",
+    "author": "皮日休",
+    "paragraphs": [
       "枍栺替制曳，康莊傷荒涼。主虜部伍苦，嬙亡房廊香。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -248,49 +259,93 @@
     }
   },
   {
-    "title": "奉和魯望藥名離合夏月即事三首",
+    "title": "奉和魯望藥名離合夏月即事三首·其一",
     "author": "皮日休",
     "paragraphs": [
       "季春人病拋芳杜，仲夏溪波繞壞垣。",
-      "衣典濁醪身倚桂，心中無事到雲昏。",
+      "衣典濁醪身倚桂，心中無事到雲昏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "奉和魯望藥名離合夏月即事三首·其二",
+    "author": "皮日休",
+    "paragraphs": [
       "數曲急溪沖細竹，葉舟來往盡能通。",
-      "草香石冷無辭遠，志在天臺一遇中。",
+      "草香石冷無辭遠，志在天臺一遇中。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "奉和魯望藥名離合夏月即事三首·其三",
+    "author": "皮日休",
+    "paragraphs": [
       "桂葉似茸含露紫，葛花如綬蘸溪黃。",
       "連雲更入幽深地，骨錄閑攜相獵郎。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "懷錫山藥名離合二首",
+    "title": "懷錫山藥名離合二首·其一",
     "author": "皮日休",
     "paragraphs": [
       "暗竇養泉容決決，明園護桂放亭亭。",
-      "曆山居處當天半，夏裏松風盡足聽。",
+      "曆山居處當天半，夏裏松風盡足聽。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "懷錫山藥名離合二首·其二",
+    "author": "皮日休",
+    "paragraphs": [
       "曉景半和山氣白，薇香清淨雜纖雲。",
       "實頭自是眠平石，腦側空林看虎群。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "懷鹿門縣名離合二首",
+    "title": "懷鹿門縣名離合二首·其一",
     "author": "皮日休",
     "paragraphs": [
       "山瘦更培秋後桂，溪澄閑數晚來魚。",
-      "台前過雁盈千百，泉石無情不寄書。",
+      "台前過雁盈千百，泉石無情不寄書。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "懷鹿門縣名離合二首·其二",
+    "author": "皮日休",
+    "paragraphs": [
       "十裏松蘿陰亂石，門前幽事雨來新。",
       "野霜濃處憐殘菊，潭上花開不見人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -308,17 +363,28 @@
     }
   },
   {
-    "title": "胥口即事六言二首",
+    "title": "胥口即事六言二首·其一",
     "author": "皮日休",
     "paragraphs": [
       "波光杳杳不極，霽景澹澹初斜。黑蛺蝶粘蓮蕊，",
-      "會把酒船偎荻，共君作個生涯。",
+      "會把酒船偎荻，共君作個生涯。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [6, 6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "胥口即事六言二首·其二",
+    "author": "皮日休",
+    "paragraphs": [
       "拂釣清風細麗，飄蓑暑雨霏微。湖雲欲散未散，",
       "斯人到死還樂，誰道剛須用機？"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
+      "sentence_count": 5,
+      "sentence_lengths": [6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },

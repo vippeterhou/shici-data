@@ -272,16 +272,38 @@
     }
   },
   {
-    "title": "班婕妤三首",
+    "title": "班婕妤三首·其一",
     "author": "王維",
     "paragraphs": [
-      "玉窗螢影度，金殿人聲絕。秋夜守羅帷，孤燈耿不滅。",
-      "宮殿生秋草，君王恩幸疏。那堪聞鳳吹，門外度金輿。",
+      "玉窗螢影度，金殿人聲絕。秋夜守羅帷，孤燈耿不滅。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "班婕妤三首·其二",
+    "author": "王維",
+    "paragraphs": [
+      "宮殿生秋草，君王恩幸疏。那堪聞鳳吹，門外度金輿。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "班婕妤三首·其三",
+    "author": "王維",
+    "paragraphs": [
       "怪來妝閣閉，朝下不相迎。總向春園裏，花間笑語聲。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -730,16 +752,38 @@
     }
   },
   {
-    "title": "雜詩三首",
+    "title": "雜詩三首·其一",
     "author": "王維",
     "paragraphs": [
-      "家住孟津河，門對孟津口。常有江南船，寄書家中否。",
-      "君自故鄉來，應知故鄉事。來日綺窗前，寒梅著花未。",
+      "家住孟津河，門對孟津口。常有江南船，寄書家中否。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜詩三首·其二",
+    "author": "王維",
+    "paragraphs": [
+      "君自故鄉來，應知故鄉事。來日綺窗前，寒梅著花未。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜詩三首·其三",
+    "author": "王維",
+    "paragraphs": [
       "已見寒梅發，複聞啼鳥聲。心心視春草，畏向階前生。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -804,59 +848,169 @@
     }
   },
   {
-    "title": "闕題二首",
+    "title": "闕題二首·其一",
     "author": "王維",
     "paragraphs": [
-      "荊溪白石出，天寒紅葉稀。山路元無雨，空翠濕人衣。",
-      "相看不忍發，慘澹暮潮平。語罷更攜手，月明洲渚生。"
+      "荊溪白石出，天寒紅葉稀。山路元無雨，空翠濕人衣。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "田園樂七首",
+    "title": "闕題二首·其二",
+    "author": "王維",
+    "paragraphs": [
+      "相看不忍發，慘澹暮潮平。語罷更攜手，月明洲渚生。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "田園樂七首·其一",
     "author": "王維",
     "paragraphs": [
       "厭見千門萬戶，經過北裏南鄰。",
-      "官府鳴珂有底，崆峒散發何人。",
-      "再見封侯萬戶，立談賜璧一雙。",
-      "詎勝耦耕南畝，何如高臥東窗。",
-      "采菱渡頭風急，策杖林西日斜。",
-      "杏樹壇邊漁父，桃花源裏人家。",
-      "萋萋春草秋綠，落落長松夏寒。",
-      "牛羊自歸村巷，童稚不識衣冠。",
-      "山下孤煙遠村，天邊獨樹高原。",
-      "一瓢顏回陋巷，五柳先生對門。",
-      "桃紅複含宿雨，柳綠更帶朝煙。",
-      "花落家童未掃，鶯啼山客猶眠。",
-      "酌酒會臨泉水，抱琴好倚長松。",
-      "南園露葵朝折，東谷黃粱夜舂。"
+      "官府鳴珂有底，崆峒散發何人。"
     ],
     "format": {
-      "sentence_count": 28,
-      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },
   {
-    "title": "少年行四首",
+    "title": "田園樂七首·其二",
+    "author": "王維",
+    "paragraphs": [
+      "再見封侯萬戶，立談賜璧一雙。",
+      "詎勝耦耕南畝，何如高臥東窗。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "田園樂七首·其三",
+    "author": "王維",
+    "paragraphs": [
+      "采菱渡頭風急，策杖林西日斜。",
+      "杏樹壇邊漁父，桃花源裏人家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "田園樂七首·其四",
+    "author": "王維",
+    "paragraphs": [
+      "萋萋春草秋綠，落落長松夏寒。",
+      "牛羊自歸村巷，童稚不識衣冠。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "田園樂七首·其五",
+    "author": "王維",
+    "paragraphs": [
+      "山下孤煙遠村，天邊獨樹高原。",
+      "一瓢顏回陋巷，五柳先生對門。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "田園樂七首·其六",
+    "author": "王維",
+    "paragraphs": [
+      "桃紅複含宿雨，柳綠更帶朝煙。",
+      "花落家童未掃，鶯啼山客猶眠。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "田園樂七首·其七",
+    "author": "王維",
+    "paragraphs": [
+      "酌酒會臨泉水，抱琴好倚長松。",
+      "南園露葵朝折，東谷黃粱夜舂。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "少年行四首·其一",
     "author": "王維",
     "paragraphs": [
       "新豐美酒鬥十千，咸陽遊俠多少年。",
-      "相逢意氣為君飲，系馬高樓垂柳邊。",
+      "相逢意氣為君飲，系馬高樓垂柳邊。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "少年行四首·其二",
+    "author": "王維",
+    "paragraphs": [
       "出身仕漢羽林郎，初隨驃騎戰漁陽。",
-      "孰知不向邊庭苦，縱死猶聞俠骨香。",
+      "孰知不向邊庭苦，縱死猶聞俠骨香。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "少年行四首·其三",
+    "author": "王維",
+    "paragraphs": [
       "一身能擘兩雕弧，虜騎千重只似無。",
-      "偏坐金鞍調白羽，紛紛射殺五單于。",
+      "偏坐金鞍調白羽，紛紛射殺五單于。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "少年行四首·其四",
+    "author": "王維",
+    "paragraphs": [
       "漢家君臣歡宴終，高議雲台論戰功。",
       "天子臨軒賜侯印，將軍佩出明光宮。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1124,13 +1278,12 @@
     "title": "句",
     "author": "王維",
     "paragraphs": [
-      "人家在仙掌，雲氣欲生衣。",
-      "知古齋主精校2000。01。22。"
+      "人家在仙掌，雲氣欲生衣。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 6],
-      "uniform_sentence_length": null
+      "sentence_count": 2,
+      "sentence_lengths": [5, 5],
+      "uniform_sentence_length": 5
     }
   }
 ]

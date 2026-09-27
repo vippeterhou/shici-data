@@ -2002,83 +2002,171 @@
     }
   },
   {
-    "title": "苗侍中挽歌二首",
+    "title": "苗侍中挽歌二首·其一",
     "author": "岑參",
     "paragraphs": [
       "攝政朝章重，持衡國相尊。筆端通造化，掌內運乾坤。",
-      "青史遺芳滿，黃樞故事存。空悲渭橋路，誰對漢皇言。",
+      "青史遺芳滿，黃樞故事存。空悲渭橋路，誰對漢皇言。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "苗侍中挽歌二首·其二",
+    "author": "岑參",
+    "paragraphs": [
       "天子悲元老，都人惜上公。優賢几杖在，會葬市朝空。",
       "丹旐飛斜日，清笳怨暮風。平生門下客，繼美廟堂中。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "故僕射裴公挽歌三首",
+    "title": "故僕射裴公挽歌三首·其一",
     "author": "岑參",
     "paragraphs": [
       "盛德資邦傑，嘉謨作世程。門瞻駟馬貴，時仰八龍名。",
-      "罷市秦人送，還鄉絳老迎。莫埋丞相印，留著付玄成。",
+      "罷市秦人送，還鄉絳老迎。莫埋丞相印，留著付玄成。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故僕射裴公挽歌三首·其二",
+    "author": "岑參",
+    "paragraphs": [
       "五府瞻高位，三台喪大賢。禮容還故絳，寵贈冠新田。",
-      "氣歇汾陰鼎，魂飛京兆阡。先時劍已沒，隴樹久蒼然。",
+      "氣歇汾陰鼎，魂飛京兆阡。先時劍已沒，隴樹久蒼然。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故僕射裴公挽歌三首·其三",
+    "author": "岑參",
+    "paragraphs": [
       "富貴徒言久，鄉閭歿後歸。錦衣都未著，丹旐忽先飛。",
       "哀挽辭秦塞，悲笳出帝畿。遙知九原上，漸覺吊人稀。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "河西太守杜公挽歌四首",
+    "title": "河西太守杜公挽歌四首·其一",
     "author": "岑參",
     "paragraphs": [
       "蒙叟悲藏壑，殷宗惜濟川。長安非舊日，京兆是新阡。",
-      "黃霸官猶屈，蒼生望已愆。唯餘卿月在，留向杜陵懸。",
+      "黃霸官猶屈，蒼生望已愆。唯餘卿月在，留向杜陵懸。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "河西太守杜公挽歌四首·其二",
+    "author": "岑參",
+    "paragraphs": [
       "鼓角城中出，墳塋郭外新。雨隨思太守，雲從送夫人。",
-      "蒿裏埋雙劍，松門閉萬春。回瞻北堂上，金印已生塵。",
+      "蒿裏埋雙劍，松門閉萬春。回瞻北堂上，金印已生塵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "河西太守杜公挽歌四首·其三",
+    "author": "岑參",
+    "paragraphs": [
       "憶昨明光殿，新承天子恩。剖符移北地，授鉞領西門。",
-      "塞草迎軍幕，邊雲拂使軒。至今聞隴外，戎虜尚亡魂。",
+      "塞草迎軍幕，邊雲拂使軒。至今聞隴外，戎虜尚亡魂。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "河西太守杜公挽歌四首·其四",
+    "author": "岑參",
+    "paragraphs": [
       "漫漫澄波闊，沉沉大廈深。秉心常匪席，行義每揮金。",
       "汲引窺蘭室，招攜入翰林。多君有令子，猶注世人心。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "故河南尹岐國公贈工部尚書蘇公挽歌二首",
+    "title": "故河南尹岐國公贈工部尚書蘇公挽歌二首·其一",
     "author": "岑參",
     "paragraphs": [
       "河尹恩榮舊，尚書寵贈新。一門傳畫戟，幾世駕朱輪。",
-      "夜色何時曉，泉台不復春。唯餘朝服在，金印已生塵。",
+      "夜色何時曉，泉台不復春。唯餘朝服在，金印已生塵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故河南尹岐國公贈工部尚書蘇公挽歌二首·其二",
+    "author": "岑參",
+    "paragraphs": [
       "白日扃泉戶，青春掩夜台。舊堂階草長，空院砌花開。",
       "山晚銘旌去，郊寒騎吹回。三川難可見，應惜庾公才。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "韓員外夫人清河縣君崔氏挽歌二首",
+    "title": "韓員外夫人清河縣君崔氏挽歌二首·其一",
     "author": "岑參",
     "paragraphs": [
       "令德當時重，高門舉世推。從夫榮已絕，封邑寵難追。",
-      "陌上人皆惜，花間鳥亦悲。仙郎看隴月，猶憶畫眉時。",
+      "陌上人皆惜，花間鳥亦悲。仙郎看隴月，猶憶畫眉時。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "韓員外夫人清河縣君崔氏挽歌二首·其二",
+    "author": "岑參",
+    "paragraphs": [
       "遽聞傷別劍，忽複歎藏舟。燈冷泉中夜，衣寒地下秋。",
       "青松吊客淚，丹旐路人愁。徒有清河在，空悲逝水流。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

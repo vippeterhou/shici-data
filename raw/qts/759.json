@@ -231,31 +231,119 @@
     }
   },
   {
-    "title": "柳枝辭九首",
+    "title": "柳枝辭九首·其一",
     "author": "成彥雄",
     "paragraphs": [
       "輕籠小徑近誰家，玉馬追風翠影斜。",
-      "愛把長條惱公子，惹他頭上海棠花。",
+      "愛把長條惱公子，惹他頭上海棠花。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭九首·其二",
+    "author": "成彥雄",
+    "paragraphs": [
       "鵝黃剪出小花鈿，綴上芳枝色轉鮮。",
-      "飲散無人收拾得，月明階下伴秋千。",
+      "飲散無人收拾得，月明階下伴秋千。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭九首·其三",
+    "author": "成彥雄",
+    "paragraphs": [
       "東君愛惜與先春，草澤無人處也新。",
-      "委囑露華並細雨，莫教遲日惹風塵。",
+      "委囑露華並細雨，莫教遲日惹風塵。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭九首·其四",
+    "author": "成彥雄",
+    "paragraphs": [
       "句踐初迎西子年，琉璃為帚掃溪煙。",
-      "至今不改當時色，留與王孫系酒船。",
+      "至今不改當時色，留與王孫系酒船。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭九首·其五",
+    "author": "成彥雄",
+    "paragraphs": [
       "綠楊移傍小亭栽，便擁穠煙撥不開。",
-      "誰把金刀為刪掠，放教明月入窗來。",
+      "誰把金刀為刪掠，放教明月入窗來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭九首·其六",
+    "author": "成彥雄",
+    "paragraphs": [
       "遠接關河高接雲，雨餘洗出半天津。",
-      "牡丹不用相輕薄，自有清陰覆得人。",
+      "牡丹不用相輕薄，自有清陰覆得人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭九首·其七",
+    "author": "成彥雄",
+    "paragraphs": [
       "掩映鶯花媚有餘，風流才調比應無。",
-      "朝朝奉禦臨池上，不羨青松拜大夫。",
+      "朝朝奉禦臨池上，不羨青松拜大夫。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭九首·其八",
+    "author": "成彥雄",
+    "paragraphs": [
       "王孫宴罷曲江池，折取春光伴醉歸。",
-      "怪得美人爭鬥乞，要他穠翠染羅衣。",
+      "怪得美人爭鬥乞，要他穠翠染羅衣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭九首·其九",
+    "author": "成彥雄",
+    "paragraphs": [
       "殘照林梢嫋數枝，能招醉客上金堤。",
       "馬嬌如練纓如火，瑟瑟陰中步步嘶。"
     ],
     "format": {
-      "sentence_count": 36,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

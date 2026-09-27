@@ -143,17 +143,28 @@
     }
   },
   {
-    "title": "舞曲歌辭：白紵辭二首",
+    "title": "舞曲歌辭：白紵辭二首·其一",
     "author": "崔國輔",
     "paragraphs": [
       "洛陽梨花落如霰，河陽桃葉生複齊。",
-      "坐恐玉樓春欲盡，紅綿粉絮裛妝啼。",
+      "坐恐玉樓春欲盡，紅綿粉絮裛妝啼。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "舞曲歌辭：白紵辭二首·其二",
+    "author": "崔國輔",
+    "paragraphs": [
       "董賢女弟在椒風，窈窕繁華貴後宮。",
       "璧帶金釭皆翡翠，一朝零落變成空。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -189,17 +200,28 @@
     }
   },
   {
-    "title": "舞曲歌辭：白紵歌二首",
+    "title": "舞曲歌辭：白紵歌二首·其一",
     "author": "王建",
     "paragraphs": [
       "天河漫漫北斗粲，宮中烏啼知夜半。新縫白紵舞衣成，",
-      "酒多夜長夜未曉，月明燈光兩相照，後庭歌聲更窈窕。",
+      "酒多夜長夜未曉，月明燈光兩相照，後庭歌聲更窈窕。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "舞曲歌辭：白紵歌二首·其二",
+    "author": "王建",
+    "paragraphs": [
       "館娃宮中春日暮，荔枝木瓜花滿樹。城頭烏棲休擊鼓，",
       "美人醉起無次第，墮釵遺佩滿中庭。此時但願可君意，"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -242,33 +264,132 @@
     }
   },
   {
-    "title": "舞曲歌辭：霓裳辭十首",
+    "title": "舞曲歌辭：霓裳辭十首·其一",
     "author": "王建",
     "paragraphs": [
       "弟子部中留一色，聽風聽水作霓裳。",
-      "散聲未足重來授，直到床前見上皇。",
+      "散聲未足重來授，直到床前見上皇。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "舞曲歌辭：霓裳辭十首·其二",
+    "author": "王建",
+    "paragraphs": [
       "中管五弦初半曲，遙教合上隔簾聽。",
-      "一聲聲向天頭落，效得仙人夜唱經。",
+      "一聲聲向天頭落，效得仙人夜唱經。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "舞曲歌辭：霓裳辭十首·其三",
+    "author": "王建",
+    "paragraphs": [
       "自直梨園得出稀，更番上曲不教歸。",
-      "一時跪拜霓裳徹，立地階前賜紫衣。",
+      "一時跪拜霓裳徹，立地階前賜紫衣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "舞曲歌辭：霓裳辭十首·其四",
+    "author": "王建",
+    "paragraphs": [
       "旋翻新譜聲初足，除卻梨園未教人。",
-      "宣與書家分手寫，中官走馬賜功臣。",
+      "宣與書家分手寫，中官走馬賜功臣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "舞曲歌辭：霓裳辭十首·其五",
+    "author": "王建",
+    "paragraphs": [
       "伴教霓裳有貴妃，從初直到曲成時。",
-      "日長耳裏聞聲熟，拍數分毫錯總知。",
+      "日長耳裏聞聲熟，拍數分毫錯總知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "舞曲歌辭：霓裳辭十首·其六",
+    "author": "王建",
+    "paragraphs": [
       "弦索摐摐隔彩雲，五更初發一山聞。",
-      "武皇自送西王母，新換霓裳月色裙。",
+      "武皇自送西王母，新換霓裳月色裙。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "舞曲歌辭：霓裳辭十首·其七",
+    "author": "王建",
+    "paragraphs": [
       "敕賜宮人澡浴回，遙看美女院門開。",
-      "一山星月霓裳動，好字先從殿裏來。",
+      "一山星月霓裳動，好字先從殿裏來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "舞曲歌辭：霓裳辭十首·其八",
+    "author": "王建",
+    "paragraphs": [
       "傳呼法部按霓裳，新得承恩別作行。",
-      "應是貴妃樓上看，內人舁下彩羅箱。",
+      "應是貴妃樓上看，內人舁下彩羅箱。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "舞曲歌辭：霓裳辭十首·其九",
+    "author": "王建",
+    "paragraphs": [
       "朝元閣上山風起，夜聽霓裳玉露寒。",
-      "宮女月中更替立，黃金梯滑並行難。",
+      "宮女月中更替立，黃金梯滑並行難。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "舞曲歌辭：霓裳辭十首·其十",
+    "author": "王建",
+    "paragraphs": [
       "知向華清年月滿，山頭山底種長生。",
       "去時留下霓裳曲，總是離宮別館聲。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -286,19 +407,41 @@
     }
   },
   {
-    "title": "舞曲歌辭：柘枝詞三首",
+    "title": "舞曲歌辭：柘枝詞三首·其一",
     "author": "薛能",
     "paragraphs": [
       "同營三十萬，震鼓伐西羌。戰血粘秋草，征塵攪夕陽。",
-      "歸來人不識，帝裏獨戎裝。",
+      "歸來人不識，帝裏獨戎裝。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "舞曲歌辭：柘枝詞三首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "懸軍征拓羯，內地隔蕭關。日色昆侖上，風聲朔漠間。",
-      "何當千萬騎，颯颯貳師還。",
+      "何當千萬騎，颯颯貳師還。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "舞曲歌辭：柘枝詞三首·其三",
+    "author": "薛能",
+    "paragraphs": [
       "意氣成功日，春風起絮天。樓臺新邸第，歌舞小嬋娟。",
       "急破催搖曳，羅衫半脫肩。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

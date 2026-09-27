@@ -67,16 +67,38 @@
     }
   },
   {
-    "title": "王昭君三首",
+    "title": "王昭君三首·其一",
     "author": "郭震",
     "paragraphs": [
-      "自嫁單于國，長銜漢掖悲。容顏日憔悴，有甚畫圖時。",
-      "厭踐冰霜域，嗟為邊塞人。思從漠南獵，一見漢家塵。",
+      "自嫁單于國，長銜漢掖悲。容顏日憔悴，有甚畫圖時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "王昭君三首·其二",
+    "author": "郭震",
+    "paragraphs": [
+      "厭踐冰霜域，嗟為邊塞人。思從漠南獵，一見漢家塵。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "王昭君三首·其三",
+    "author": "郭震",
+    "paragraphs": [
       "聞有南河信，傳言殺畫師。始知君念重，更肯惜蛾眉。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

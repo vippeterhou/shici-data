@@ -130,44 +130,88 @@
     }
   },
   {
-    "title": "和晉公三首",
+    "title": "和晉公三首·其一",
     "author": "李紳",
     "paragraphs": [
-      "鳳儀常欲附，蚊力自知微。願假樽罍末，膺門自此依。",
-      "貂蟬公獨步，鴛鷺我同群。插羽先飛酒，交鋒便著文。",
+      "鳳儀常欲附，蚊力自知微。願假樽罍末，膺門自此依。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和晉公三首·其二",
+    "author": "李紳",
+    "paragraphs": [
+      "貂蟬公獨步，鴛鷺我同群。插羽先飛酒，交鋒便著文。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和晉公三首·其三",
+    "author": "李紳",
+    "paragraphs": [
       "窮陰初莽蒼，離思漸氛氳。殘雪午橋岸，斜陽伊水濱。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "古風二首",
+    "title": "古風二首·其一",
     "author": "李紳",
     "paragraphs": [
-      "春種一粒粟，秋成萬顆子。四海無閒田，農夫猶餓死。",
+      "春種一粒粟，秋成萬顆子。四海無閒田，農夫猶餓死。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古風二首·其二",
+    "author": "李紳",
+    "paragraphs": [
       "鋤禾日當午，汗滴禾下土。誰知盤中餐，粒粒皆辛苦。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "柳二首",
+    "title": "柳二首·其一",
     "author": "李紳",
     "paragraphs": [
       "陶令門前罥接籬，亞夫營裏拂朱旗。",
-      "人事推移無舊物，年年春至綠垂絲。",
+      "人事推移無舊物，年年春至綠垂絲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳二首·其二",
+    "author": "李紳",
+    "paragraphs": [
       "千條垂柳拂金絲，日暖牽風葉學眉。",
       "愁見花飛狂不定，還同輕薄五陵兒。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -263,17 +307,28 @@
     }
   },
   {
-    "title": "端州江亭得家書二首",
+    "title": "端州江亭得家書二首·其一",
     "author": "李紳",
     "paragraphs": [
       "雨中鵲語喧江樹，風處蛛絲颺水潯。",
-      "開拆遠書何事喜，數行家信抵千金。",
+      "開拆遠書何事喜，數行家信抵千金。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "端州江亭得家書二首·其二",
+    "author": "李紳",
+    "paragraphs": [
       "長安別日春風早，嶺外今來白露秋。",
       "莫道淮南悲木葉，不聞搖落更堪愁。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

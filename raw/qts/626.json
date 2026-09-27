@@ -40,19 +40,41 @@
     }
   },
   {
-    "title": "和襲美新秋即事次韻三首",
+    "title": "和襲美新秋即事次韻三首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "心似孤雲任所之，世塵中更有誰知。愁尋冷落驚雙鬢，",
-      "兼須為月求高處，即是霜輪殺滿時。",
+      "兼須為月求高處，即是霜輪殺滿時。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和襲美新秋即事次韻三首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "帆楫衣裳盡釣徒，往來蹤跡遍三吳。閑中展卷興亡小，",
-      "還須待致升平了，即往扁舟放五湖。",
+      "還須待致升平了，即往扁舟放五湖。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和襲美新秋即事次韻三首·其三",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "聲利從來解破除，秋灘唯憶下桐廬。鸕鷀陣合殘陽少，",
       "當時任使真堪笑，波上三年學炙魚。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -515,17 +537,28 @@
     }
   },
   {
-    "title": "中元夜寄道侶二首",
+    "title": "中元夜寄道侶二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "學餌霜茸骨未輕，每逢真夕夢還清。丁甯獨受金妃約，",
-      "須臾枕上桐窗曉，露壓千枝滴滴聲。",
+      "須臾枕上桐窗曉，露壓千枝滴滴聲。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "中元夜寄道侶二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "橘齋風露已清餘，東郭先生病未除。孤枕易為蛩破夢，",
       "唯羨羽人襟似水，平持旄節步空虛。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

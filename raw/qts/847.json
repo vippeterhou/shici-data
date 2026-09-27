@@ -615,17 +615,28 @@
     }
   },
   {
-    "title": "夏日城中作二首",
+    "title": "夏日城中作二首·其一",
     "author": "齊己",
     "paragraphs": [
       "三面僧鄰一面牆，更無風路可吹涼。",
-      "他年舍此歸何處，青壁紅霞裹石房。",
+      "他年舍此歸何處，青壁紅霞裹石房。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "夏日城中作二首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "竹低莎淺雨濛濛，水檻幽窗暑月中。",
       "有境牽懷人不會，東林門外翠橫空。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -708,17 +719,28 @@
     }
   },
   {
-    "title": "《謝陰符經》勉送藏休上人二首",
+    "title": "《謝陰符經》勉送藏休上人二首·其一",
     "author": "齊己",
     "paragraphs": [
       "事遂鼎湖遺劍履，時來渭水擲魚竿。",
-      "欲知賢聖存亡道，自向心機反復看。",
+      "欲知賢聖存亡道，自向心機反復看。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "《謝陰符經》勉送藏休上人二首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "一林霜雪未沾頭，爭遣藏休肯便休。",
       "學盡世間難學事，始堪隨處任虛舟。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -866,21 +888,54 @@
     }
   },
   {
-    "title": "折楊柳詞四首",
+    "title": "折楊柳詞四首·其一",
     "author": "齊己",
     "paragraphs": [
       "鳳樓高映綠陰陰，凝重多含雨露深。",
-      "莫謂一枝柔軟力，幾曾牽破別離心。",
+      "莫謂一枝柔軟力，幾曾牽破別離心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳詞四首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "館娃宮畔響廊前，依託吳王養翠煙。",
-      "劍去國亡台殿毀，卻隨紅樹噪秋蟬。",
+      "劍去國亡台殿毀，卻隨紅樹噪秋蟬。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳詞四首·其三",
+    "author": "齊己",
+    "paragraphs": [
       "穠低似中陶潛酒，軟極如傷宋玉風。",
-      "多謝將軍繞營種，翠中閑卓戰旗紅。",
+      "多謝將軍繞營種，翠中閑卓戰旗紅。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳詞四首·其四",
+    "author": "齊己",
+    "paragraphs": [
       "高僧愛惜遮江寺，遊子傷殘露野橋。",
       "爭似著行垂上苑，碧桃紅杏對搖搖。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -65,17 +65,28 @@
     }
   },
   {
-    "title": "蒙召拜拾遺書情二首",
+    "title": "蒙召拜拾遺書情二首·其一",
     "author": "費冠卿",
     "paragraphs": [
       "拾遺帝側知難得，官緊才微恐不勝。",
-      "好是中朝絕親友，九華山下詔來征。",
+      "好是中朝絕親友，九華山下詔來征。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "蒙召拜拾遺書情二首·其二",
+    "author": "費冠卿",
+    "paragraphs": [
       "三千裏外一微臣，二十年來任運身。",
       "今日忽蒙天子召，自慚驚動國中人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

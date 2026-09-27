@@ -24,15 +24,26 @@
     }
   },
   {
-    "title": "春意二首",
+    "title": "春意二首·其一",
     "author": "王建",
     "paragraphs": [
-      "去日丁寧別，情知寒食歸。緣逢好天氣，教熨看花衣。",
+      "去日丁寧別，情知寒食歸。緣逢好天氣，教熨看花衣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春意二首·其二",
+    "author": "王建",
+    "paragraphs": [
       "誰是杏園主，一枝臨古岐。從傷早春意，乞取欲開枝。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -253,16 +264,38 @@
     }
   },
   {
-    "title": "新嫁娘詞三首",
+    "title": "新嫁娘詞三首·其一",
     "author": "王建",
     "paragraphs": [
-      "鄰家人未識，床上坐堆堆。郎來傍門戶，滿口索錢財。",
-      "錦幛兩邊橫，遮掩侍娘行。遣郎鋪簟席，相並拜親情。",
+      "鄰家人未識，床上坐堆堆。郎來傍門戶，滿口索錢財。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "新嫁娘詞三首·其二",
+    "author": "王建",
+    "paragraphs": [
+      "錦幛兩邊橫，遮掩侍娘行。遣郎鋪簟席，相並拜親情。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "新嫁娘詞三首·其三",
+    "author": "王建",
+    "paragraphs": [
       "三日入廚下，洗手作羹湯。未諳姑食性，先遣小姑嘗。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -315,36 +348,80 @@
     }
   },
   {
-    "title": "宮中三臺詞二首",
+    "title": "宮中三臺詞二首·其一",
     "author": "王建",
     "paragraphs": [
       "魚藻池邊射鴨，芙蓉園裏看花。",
-      "日色柘袍相似，不著紅鸞扇遮。",
-      "池北池南草綠，殿前殿后花紅。",
-      "天子千年萬歲，未央明月清風。"
+      "日色柘袍相似，不著紅鸞扇遮。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6],
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },
   {
-    "title": "江南三臺詞四首",
+    "title": "宮中三臺詞二首·其二",
+    "author": "王建",
+    "paragraphs": [
+      "池北池南草綠，殿前殿后花紅。",
+      "天子千年萬歲，未央明月清風。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "江南三臺詞四首·其一",
     "author": "王建",
     "paragraphs": [
       "揚州橋邊少婦，長安城裏商人。",
-      "二年不得消息，各自拜鬼求神。",
+      "二年不得消息，各自拜鬼求神。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "江南三臺詞四首·其二",
+    "author": "王建",
+    "paragraphs": [
       "青草湖邊草色，飛猿嶺上猿聲。",
-      "萬里湘江客到，有風有雨人行。",
+      "萬里湘江客到，有風有雨人行。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "江南三臺詞四首·其三",
+    "author": "王建",
+    "paragraphs": [
       "樹頭花落花開，道上人去人來。",
-      "朝愁暮愁即老，百年幾度三台。",
+      "朝愁暮愁即老，百年幾度三台。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "江南三臺詞四首·其四",
+    "author": "王建",
+    "paragraphs": [
       "聞身強健且為，頭白齒落難追。",
       "准擬百年千歲，能得幾許多時。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },
@@ -419,33 +496,132 @@
     }
   },
   {
-    "title": "霓裳詞十首",
+    "title": "霓裳詞十首·其一",
     "author": "王建",
     "paragraphs": [
       "弟子部中留一色，聽風聽水作霓裳。",
-      "散聲未足重來授，直到床前見上皇。",
+      "散聲未足重來授，直到床前見上皇。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "霓裳詞十首·其二",
+    "author": "王建",
+    "paragraphs": [
       "中管五弦初半曲，遙教合上隔簾聽。",
-      "一聲聲向天頭落，效得仙人夜唱經。",
+      "一聲聲向天頭落，效得仙人夜唱經。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "霓裳詞十首·其三",
+    "author": "王建",
+    "paragraphs": [
       "自直梨園得出稀，更番上曲不教歸。",
-      "一時跪拜霓裳徹，立地階前賜紫衣。",
+      "一時跪拜霓裳徹，立地階前賜紫衣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "霓裳詞十首·其四",
+    "author": "王建",
+    "paragraphs": [
       "旋翻新譜聲初足，除卻梨園未教人。",
-      "宣與書家分手寫，中官走馬賜功臣。",
+      "宣與書家分手寫，中官走馬賜功臣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "霓裳詞十首·其五",
+    "author": "王建",
+    "paragraphs": [
       "伴教霓裳有貴妃，從初直到曲成時。",
-      "日長耳裏聞聲熟，拍數分毫錯總知。",
+      "日長耳裏聞聲熟，拍數分毫錯總知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "霓裳詞十首·其六",
+    "author": "王建",
+    "paragraphs": [
       "弦索摐摐隔彩雲，五更初發一山聞。",
-      "武皇自送西王母，新換霓裳月色裙。",
+      "武皇自送西王母，新換霓裳月色裙。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "霓裳詞十首·其七",
+    "author": "王建",
+    "paragraphs": [
       "敕賜宮人澡浴回，遙看美女院門開。",
-      "一山星月霓裳動，好字先從殿裏來。",
+      "一山星月霓裳動，好字先從殿裏來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "霓裳詞十首·其八",
+    "author": "王建",
+    "paragraphs": [
       "傳呼法部按霓裳，新得承恩別作行。",
-      "應是貴妃樓上看，內人舁下彩羅箱。",
+      "應是貴妃樓上看，內人舁下彩羅箱。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "霓裳詞十首·其九",
+    "author": "王建",
+    "paragraphs": [
       "朝元閣上山風起，夜聽霓裳玉露寒。",
-      "宮女月中更替立，黃金梯滑並行難。",
+      "宮女月中更替立，黃金梯滑並行難。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "霓裳詞十首·其十",
+    "author": "王建",
+    "paragraphs": [
       "知向華清年月滿，山頭山底種長生。",
       "去時留下霓裳曲，總是離宮別館聲。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -866,17 +1042,28 @@
     }
   },
   {
-    "title": "華嶽廟二首",
+    "title": "華嶽廟二首·其一",
     "author": "王建",
     "paragraphs": [
       "女巫遮客買神盤，爭取琵琶廟裏彈。",
-      "聞有馬蹄生拍樹，路人來去向南看。",
+      "聞有馬蹄生拍樹，路人來去向南看。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "華嶽廟二首·其二",
+    "author": "王建",
+    "paragraphs": [
       "自移西嶽門長鎖，一個行人一遍開。",
       "上廟參天今見在，夜頭風起覺神來。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -907,17 +1094,28 @@
     }
   },
   {
-    "title": "送山人二首",
+    "title": "送山人二首·其一",
     "author": "王建",
     "paragraphs": [
       "嵩山古寺離來久，回見溪橋野葉黃。",
-      "辛苦老師看守處，為懸秋藥閉空房。",
+      "辛苦老師看守處，為懸秋藥閉空房。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送山人二首·其二",
+    "author": "王建",
+    "paragraphs": [
       "山客狂來跨白驢，袖中遺卻潁陽書。",
       "人間亦有妻兒在，拋向嵩陽古觀居。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1182,17 +1380,28 @@
     }
   },
   {
-    "title": "贈人二首",
+    "title": "贈人二首·其一",
     "author": "王建",
     "paragraphs": [
       "金爐煙裏要班頭，欲得歸山可自由。",
-      "每度報朝愁入閣，在先教示小千牛。",
+      "每度報朝愁入閣，在先教示小千牛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈人二首·其二",
+    "author": "王建",
+    "paragraphs": [
       "多在蓬萊少在家，越緋衫上有紅霞。",
       "朝回不向諸餘處，騎馬城西檢校花。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1262,17 +1471,28 @@
     }
   },
   {
-    "title": "哭孟東野二首",
+    "title": "哭孟東野二首·其一",
     "author": "王建",
     "paragraphs": [
       "吟損秋天月不明，蘭無香氣鶴無聲。",
-      "自從東野先生死，側近雲山得散行。",
+      "自從東野先生死，側近雲山得散行。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "哭孟東野二首·其二",
+    "author": "王建",
+    "paragraphs": [
       "老松臨死不生枝，東野先生早哭兒。",
       "但是洛陽城裏客，家傳一本杏殤詩。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1368,23 +1588,67 @@
     }
   },
   {
-    "title": "和元郎中從八月十二至十五夜玩月五首",
+    "title": "和元郎中從八月十二至十五夜玩月五首·其一",
     "author": "王建",
     "paragraphs": [
       "半秋初入中旬夜，已向階前守月明。",
-      "從未圓時看卻好，一分分見傍輪生。",
+      "從未圓時看卻好，一分分見傍輪生。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和元郎中從八月十二至十五夜玩月五首·其二",
+    "author": "王建",
+    "paragraphs": [
       "亂雲遮卻台東月，不許教依次第看。",
-      "莫為詩家先見鏡，被他籠與作艱難。",
+      "莫為詩家先見鏡，被他籠與作艱難。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和元郎中從八月十二至十五夜玩月五首·其三",
+    "author": "王建",
+    "paragraphs": [
       "今夜月明勝昨夜，新添桂樹近東枝。",
-      "立多地濕舁床坐，看過牆西寸寸遲。",
+      "立多地濕舁床坐，看過牆西寸寸遲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和元郎中從八月十二至十五夜玩月五首·其四",
+    "author": "王建",
+    "paragraphs": [
       "月似圓來色漸凝，玉盆盛水欲侵棱。",
-      "夜深盡放家人睡，直到天明不炷燈。",
+      "夜深盡放家人睡，直到天明不炷燈。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和元郎中從八月十二至十五夜玩月五首·其五",
+    "author": "王建",
+    "paragraphs": [
       "合望月時常望月，分明不得似今年。",
       "仰頭五夜風中立，從未圓時直到圓。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1415,17 +1679,28 @@
     }
   },
   {
-    "title": "贈李愬僕射二首",
+    "title": "贈李愬僕射二首·其一",
     "author": "王建",
     "paragraphs": [
       "和雪翻營一夜行，神旗凍定馬無聲。",
-      "遙看火號連營赤，知是先鋒已上城。",
+      "遙看火號連營赤，知是先鋒已上城。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈李愬僕射二首·其二",
+    "author": "王建",
+    "paragraphs": [
       "旗幡四面下營稠，手詔頻來老將憂。",
       "每日城南空挑戰，不知生縛入唐州。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

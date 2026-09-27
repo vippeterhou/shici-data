@@ -71,17 +71,28 @@
     }
   },
   {
-    "title": "游邊感懷二首",
+    "title": "游邊感懷二首·其一",
     "author": "張喬",
     "paragraphs": [
       "貧游繚繞困邊沙，卻被遼陽戰士嗟。",
-      "不是無家歸不得，有家歸去似無家。",
+      "不是無家歸不得，有家歸去似無家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "游邊感懷二首·其二",
+    "author": "張喬",
+    "paragraphs": [
       "兄弟江南身塞北，雁飛猶自半年餘。",
       "夜來因得思鄉夢，重讀前秋轉海書。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -291,15 +302,26 @@
     }
   },
   {
-    "title": "對月二首",
+    "title": "對月二首·其一",
     "author": "張喬",
     "paragraphs": [
-      "圓魄上寒空，皆言四海同。安知千裏外，不有雨兼風。",
+      "圓魄上寒空，皆言四海同。安知千裏外，不有雨兼風。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "對月二首·其二",
+    "author": "張喬",
+    "paragraphs": [
       "盈缺青冥外，東風萬古吹。何人種丹桂，不長出輪枝。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

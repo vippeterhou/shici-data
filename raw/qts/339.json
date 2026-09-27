@@ -132,16 +132,38 @@
     }
   },
   {
-    "title": "青青水中蒲三首",
+    "title": "青青水中蒲三首·其一",
     "author": "韓愈",
     "paragraphs": [
-      "青青水中蒲，下有一雙魚。君今上隴去，我在與誰居。",
-      "青青水中蒲，長在水中居。寄語浮萍草，相隨我不如。",
+      "青青水中蒲，下有一雙魚。君今上隴去，我在與誰居。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "青青水中蒲三首·其二",
+    "author": "韓愈",
+    "paragraphs": [
+      "青青水中蒲，長在水中居。寄語浮萍草，相隨我不如。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "青青水中蒲三首·其三",
+    "author": "韓愈",
+    "paragraphs": [
       "青青水中蒲，葉短不出水。婦人不下堂，行子在萬里。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

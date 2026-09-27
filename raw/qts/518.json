@@ -145,25 +145,80 @@
     }
   },
   {
-    "title": "和劉補闕秋園寓興六首",
+    "title": "和劉補闕秋園寓興六首·其一",
     "author": "雍陶",
     "paragraphs": [
       "水木夕陰冷，池塘秋意多。庭風吹故葉，階露淨寒莎。",
-      "愁燕窺燈語，情人見月過。砧聲聽已別，蟲響複相和。",
+      "愁燕窺燈語，情人見月過。砧聲聽已別，蟲響複相和。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和劉補闕秋園寓興六首·其二",
+    "author": "雍陶",
+    "paragraphs": [
       "閉門無事後，此地即山中。但覺鳥聲異，不知人境同。",
-      "晚花開為雨，殘果落因風。獨坐還吟酌，詩成酒已空。",
+      "晚花開為雨，殘果落因風。獨坐還吟酌，詩成酒已空。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和劉補闕秋園寓興六首·其三",
+    "author": "雍陶",
+    "paragraphs": [
       "自得家林趣，常時在外稀。對僧餐野食，迎客著山衣。",
-      "雀鬥翻簷散，蟬驚出樹飛。功成他日後，何必五湖歸。",
+      "雀鬥翻簷散，蟬驚出樹飛。功成他日後，何必五湖歸。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和劉補闕秋園寓興六首·其四",
+    "author": "雍陶",
+    "paragraphs": [
       "秋色庭蕪上，清朝見露華。疏篁抽晚筍，幽藥吐寒芽。",
-      "引水新渠淨，登臺小徑斜。人來多愛此，蕭爽似仙家。",
+      "引水新渠淨，登臺小徑斜。人來多愛此，蕭爽似仙家。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和劉補闕秋園寓興六首·其五",
+    "author": "雍陶",
+    "paragraphs": [
       "禁掖朝回後，林園勝賞時。野人來辨藥，庭鶴往看棋。",
-      "晚日明丹棗，朝霜潤紫梨。還因重風景，猶自有秋詩。",
+      "晚日明丹棗，朝霜潤紫梨。還因重風景，猶自有秋詩。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和劉補闕秋園寓興六首·其六",
+    "author": "雍陶",
+    "paragraphs": [
       "聖代少封事，閒居方屏喧。漏寒雲外闕，木落月中園。",
       "山鳥宿簷樹，水螢流洞門。無人見清景，林下自開尊。"
     ],
     "format": {
-      "sentence_count": 48,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -768,17 +823,28 @@
     }
   },
   {
-    "title": "恨別二首",
+    "title": "恨別二首·其一",
     "author": "雍陶",
     "paragraphs": [
       "知君餞酒深深意，圖使行人涕不流。",
-      "如今卻恨酒中別，不得一言千里愁。",
+      "如今卻恨酒中別，不得一言千里愁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "恨別二首·其二",
+    "author": "雍陶",
+    "paragraphs": [
       "人言日遠還疏索，別後都非未別心。",
       "唯我憶君千里意，一年不見一重深。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -965,17 +1031,28 @@
     }
   },
   {
-    "title": "聞杜鵑二首",
+    "title": "聞杜鵑二首·其一",
     "author": "雍陶",
     "paragraphs": [
       "碧竿微露月玲瓏，謝豹傷心獨叫風。",
-      "高處已應聞滴血，山榴一夜幾枝紅。",
+      "高處已應聞滴血，山榴一夜幾枝紅。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "聞杜鵑二首·其二",
+    "author": "雍陶",
+    "paragraphs": [
       "蜀客春城聞蜀鳥，思歸聲引未歸心。",
       "卻知夜夜愁相似，爾正啼時我正吟。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1058,17 +1135,28 @@
     }
   },
   {
-    "title": "訪友人幽居二首",
+    "title": "訪友人幽居二首·其一",
     "author": "雍陶",
     "paragraphs": [
       "落花門外春將盡，飛絮庭前日欲高。",
-      "深院客來人未起，黃鸝枝上啄櫻桃。",
+      "深院客來人未起，黃鸝枝上啄櫻桃。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "訪友人幽居二首·其二",
+    "author": "雍陶",
+    "paragraphs": [
       "莎深苔滑地無塵，竹冷花遲剩駐春。",
       "盡日弄琴誰共聽，與君兼鶴是三人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1411,17 +1499,28 @@
     }
   },
   {
-    "title": "題等界寺二首",
+    "title": "題等界寺二首·其一",
     "author": "雍陶",
     "paragraphs": [
       "吳蜀千年等界村，英雄無主豈長存。",
-      "思量往事今何在，萬里山中一寺門。",
+      "思量往事今何在，萬里山中一寺門。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題等界寺二首·其二",
+    "author": "雍陶",
+    "paragraphs": [
       "兩國道塗都萬里，來從此地等平分。",
       "行人競說東西利，事不關心耳不聞。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1478,17 +1577,28 @@
     }
   },
   {
-    "title": "送客二首",
+    "title": "送客二首·其一",
     "author": "雍陶",
     "paragraphs": [
       "與君同在少年場，知己蕭條壯士傷。",
-      "可惜報恩無處所，卻提孤劍過咸陽。",
+      "可惜報恩無處所，卻提孤劍過咸陽。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送客二首·其二",
+    "author": "雍陶",
+    "paragraphs": [
       "行人立馬強盤回，別字猶含未忍開。",
       "好去出門休落淚，不如前路早歸來。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

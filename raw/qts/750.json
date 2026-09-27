@@ -1,22 +1,66 @@
 [
   {
-    "title": "和潯陽宰感舊絕句五首",
+    "title": "和潯陽宰感舊絕句五首·其一",
     "author": "李中",
     "paragraphs": [
       "追感古今情不已，竹軒閑取史書看。",
-      "欲親往哲無因見，空樹臨風襟袖寒。",
+      "欲親往哲無因見，空樹臨風襟袖寒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和潯陽宰感舊絕句五首·其二",
+    "author": "李中",
+    "paragraphs": [
       "潯陽物景真難及，練瀉澄江最好看。",
-      "曾上虛樓吟倚檻，五峰擎雪照人寒。",
+      "曾上虛樓吟倚檻，五峰擎雪照人寒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和潯陽宰感舊絕句五首·其三",
+    "author": "李中",
+    "paragraphs": [
       "園林春媚千花發，爛熳如將畫障看。",
-      "惟愛松筠多冷淡，青青偏稱雪霜寒。",
+      "惟愛松筠多冷淡，青青偏稱雪霜寒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和潯陽宰感舊絕句五首·其四",
+    "author": "李中",
+    "paragraphs": [
       "知君百里鳴琴處，公退千山盡日看。",
-      "政化有同風偃草，更將餘力拯孤寒。",
+      "政化有同風偃草，更將餘力拯孤寒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和潯陽宰感舊絕句五首·其五",
+    "author": "李中",
+    "paragraphs": [
       "昔歲尋芳忻得侶，江堤物景盡情看。",
       "就中吟戀垂楊下，撼起啼鶯晚吹寒。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -99,15 +143,26 @@
     }
   },
   {
-    "title": "游茅山二首",
+    "title": "游茅山二首·其一",
     "author": "李中",
     "paragraphs": [
-      "綠蘚深迎步，紅霞爛滿衣。洞天應不遠，鸞鶴向人飛。",
+      "綠蘚深迎步，紅霞爛滿衣。洞天應不遠，鸞鶴向人飛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "游茅山二首·其二",
+    "author": "李中",
+    "paragraphs": [
       "茅許仙蹤在，煙霞一境清。夷希何許叩，松徑月空明。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -164,17 +219,28 @@
     }
   },
   {
-    "title": "漁父二首",
+    "title": "漁父二首·其一",
     "author": "李中",
     "paragraphs": [
       "偶向蘆花深處行，溪光山色晚來晴。",
-      "漁家開戶相迎接，稚子爭窺犬吠聲。",
+      "漁家開戶相迎接，稚子爭窺犬吠聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "漁父二首·其二",
+    "author": "李中",
+    "paragraphs": [
       "雪鬢衰髯白布袍，笑攜赬鯉換村醪。",
       "殷勤留我宿溪上，釣艇歸來明月高。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -244,15 +310,26 @@
     }
   },
   {
-    "title": "再到山陽尋故人不遇二首",
+    "title": "再到山陽尋故人不遇二首·其一",
     "author": "李中",
     "paragraphs": [
-      "維舟登野岸，因訪故人居。亂後知何處，荊榛匝弊廬。",
+      "維舟登野岸，因訪故人居。亂後知何處，荊榛匝弊廬。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "再到山陽尋故人不遇二首·其二",
+    "author": "李中",
+    "paragraphs": [
       "欲問當年事，耕人都不知。空餘堤上柳，依舊自垂絲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -283,23 +360,67 @@
     }
   },
   {
-    "title": "思朐陽春遊感舊寄柴司徒五首",
+    "title": "思朐陽春遊感舊寄柴司徒五首·其一",
     "author": "李中",
     "paragraphs": [
       "王孫昔日甚相親，共賞西園正媚春。",
-      "醉臥如茵芳草上，覺來花月影籠身。",
+      "醉臥如茵芳草上，覺來花月影籠身。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "思朐陽春遊感舊寄柴司徒五首·其二",
+    "author": "李中",
+    "paragraphs": [
       "煙鋪芳草正綿綿，藉草傳杯似列仙。",
-      "暫輟笙歌且聯句，含毫花下破香箋。",
+      "暫輟笙歌且聯句，含毫花下破香箋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "思朐陽春遊感舊寄柴司徒五首·其三",
+    "author": "李中",
+    "paragraphs": [
       "南陌風和舞蝶狂，惜春公子戀斜陽。",
-      "高歌飲罷將回轡，衣上花兼百草香。",
+      "高歌飲罷將回轡，衣上花兼百草香。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "思朐陽春遊感舊寄柴司徒五首·其四",
+    "author": "李中",
+    "paragraphs": [
       "春郊飲散暮煙收，卻引絲簧上翠樓。",
-      "紅袖歌長金斝亂，銀蟾飛出海東頭。",
+      "紅袖歌長金斝亂，銀蟾飛出海東頭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "思朐陽春遊感舊寄柴司徒五首·其五",
+    "author": "李中",
+    "paragraphs": [
       "昔年常接五陵狂，洪飲花間數十場。",
       "別後或驚如夢覺，音塵難問水茫茫。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -524,17 +645,28 @@
     }
   },
   {
-    "title": "敘吟二首",
+    "title": "敘吟二首·其一",
     "author": "李中",
     "paragraphs": [
       "往哲搜羅妙入神，隋珠和璧未為珍。",
-      "而今所得慚難繼，謬向平生著苦辛。",
+      "而今所得慚難繼，謬向平生著苦辛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "敘吟二首·其二",
+    "author": "李中",
+    "paragraphs": [
       "成僻成魔二雅中，每逢知己是亨通。",
       "言之無罪終難厭，欲把風騷繼古風。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -36,16 +36,38 @@
     }
   },
   {
-    "title": "和魯望風人詩三首",
+    "title": "和魯望風人詩三首·其一",
     "author": "皮日休",
     "paragraphs": [
-      "刻石書離恨，因成別後悲。莫言春繭薄，猶有萬重思。",
-      "鏤出容刀飾，親逢巧笑難。日中騷客佩，爭奈即闌幹。",
+      "刻石書離恨，因成別後悲。莫言春繭薄，猶有萬重思。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和魯望風人詩三首·其二",
+    "author": "皮日休",
+    "paragraphs": [
+      "鏤出容刀飾，親逢巧笑難。日中騷客佩，爭奈即闌幹。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "和魯望風人詩三首·其三",
+    "author": "皮日休",
+    "paragraphs": [
       "江上秋聲起，從來浪得名。逆風猶掛席，若不會凡情。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -98,16 +120,38 @@
     }
   },
   {
-    "title": "古宮詞三首",
+    "title": "古宮詞三首·其一",
     "author": "皮日休",
     "paragraphs": [
-      "樓殿倚明月，參差如亂峰。宮花半夜發，不待景陽鐘。",
-      "閑騎小步馬，獨繞萬年枝。盡日看花足，君王自不知。",
+      "樓殿倚明月，參差如亂峰。宮花半夜發，不待景陽鐘。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古宮詞三首·其二",
+    "author": "皮日休",
+    "paragraphs": [
+      "閑騎小步馬，獨繞萬年枝。盡日看花足，君王自不知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古宮詞三首·其三",
+    "author": "皮日休",
+    "paragraphs": [
       "玉枕寐不足，宮花空觸簷。梁間燕不睡，應怪夜明簾。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -580,17 +624,28 @@
     }
   },
   {
-    "title": "汴河懷古二首",
+    "title": "汴河懷古二首·其一",
     "author": "皮日休",
     "paragraphs": [
       "萬艘龍舸綠絲間，載到揚州盡不還。",
-      "應是天教開汴水，一千餘裏地無山。",
+      "應是天教開汴水，一千餘裏地無山。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "汴河懷古二首·其二",
+    "author": "皮日休",
+    "paragraphs": [
       "盡道隋亡為此河，至今千里賴通波。",
       "若無水殿龍舟事，共禹論功不較多。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

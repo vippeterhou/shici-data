@@ -87,20 +87,64 @@
     }
   },
   {
-    "title": "奔亡道中五首",
+    "title": "奔亡道中五首·其一",
     "author": "李白",
     "paragraphs": [
-      "蘇武天山上，田橫海島邊。萬重關塞斷，何日是歸年。",
-      "亭伯去安在，李陵降未歸。愁容變海色，短服改胡衣。",
-      "談笑三軍卻，交遊七貴疏。仍留一隻箭，未射魯連書。",
+      "蘇武天山上，田橫海島邊。萬重關塞斷，何日是歸年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "奔亡道中五首·其二",
+    "author": "李白",
+    "paragraphs": [
+      "亭伯去安在，李陵降未歸。愁容變海色，短服改胡衣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "奔亡道中五首·其三",
+    "author": "李白",
+    "paragraphs": [
+      "談笑三軍卻，交遊七貴疏。仍留一隻箭，未射魯連書。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "奔亡道中五首·其四",
+    "author": "李白",
+    "paragraphs": [
       "函谷如玉關，幾時可生還。洛陽為易水，嵩岳是燕山。",
-      "俗變羌胡語，人多沙塞顏。申包惟慟哭，七日鬢毛斑。",
+      "俗變羌胡語，人多沙塞顏。申包惟慟哭，七日鬢毛斑。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "奔亡道中五首·其五",
+    "author": "李白",
+    "paragraphs": [
       "淼淼望湖水，青青蘆葉齊。歸心落何處，日沒大江西。",
       "歇馬傍春草，欲行遠道迷。誰忍子規鳥，連聲向我啼。"
     ],
     "format": {
-      "sentence_count": 28,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -426,19 +470,41 @@
     }
   },
   {
-    "title": "金陵三首",
+    "title": "金陵三首·其一",
     "author": "李白",
     "paragraphs": [
       "晉家南渡日，此地舊長安。地即帝王宅，山為龍虎盤。",
-      "金陵空壯觀，天塹淨波瀾。醉客回橈去，吳歌且自歡。",
+      "金陵空壯觀，天塹淨波瀾。醉客回橈去，吳歌且自歡。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "金陵三首·其二",
+    "author": "李白",
+    "paragraphs": [
       "地擁金陵勢，城回江水流。當時百萬戶，夾道起朱樓。",
-      "亡國生春草，離宮沒古丘。空餘後湖月，波上對江州。",
+      "亡國生春草，離宮沒古丘。空餘後湖月，波上對江州。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "金陵三首·其三",
+    "author": "李白",
+    "paragraphs": [
       "六代興亡國，三杯為爾歌。苑方秦地少，山似洛陽多。",
       "古殿吳花草，深宮晉綺羅。並隨人事滅，東逝與滄波。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

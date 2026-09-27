@@ -26,17 +26,28 @@
     }
   },
   {
-    "title": "和江西蕭少卿見寄二首",
+    "title": "和江西蕭少卿見寄二首·其一",
     "author": "徐鉉",
     "paragraphs": [
       "亡羊岐路愧司南，二紀窮通聚散三。老去何妨從笑傲，",
-      "珍重加餐省思慮，時時斟酒壓山嵐。",
+      "珍重加餐省思慮，時時斟酒壓山嵐。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "和江西蕭少卿見寄二首·其二",
+    "author": "徐鉉",
+    "paragraphs": [
       "身遙上國三千里，名在朝中二十春。金印不須辭入幕，",
       "世路風波自翻覆，虛舟無計得沉淪。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -155,23 +166,67 @@
     }
   },
   {
-    "title": "步虛詞五首",
+    "title": "步虛詞五首·其一",
     "author": "徐鉉",
     "paragraphs": [
       "氣為還元正，心由抱一靈。凝神歸罔象，飛步入青冥。",
-      "整服乘三素，旋綱躡九星。瓊章開後學，稽首奉真經。",
+      "整服乘三素，旋綱躡九星。瓊章開後學，稽首奉真經。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "步虛詞五首·其二",
+    "author": "徐鉉",
+    "paragraphs": [
       "天帝黃金闕，真人紫錦書。霓裳紛蔽景，羽服迥淩虛。",
-      "白鶴能為使，班麟解駕車。靈符終願借，轉共世情疏。",
+      "白鶴能為使，班麟解駕車。靈符終願借，轉共世情疏。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "步虛詞五首·其三",
+    "author": "徐鉉",
+    "paragraphs": [
       "聖主過幽谷，虛皇在蕊宮。五千宗物母，七字秘神童。",
-      "世上金壺遠，人間玉龠空。唯餘養身法，修此與天通。",
+      "世上金壺遠，人間玉龠空。唯餘養身法，修此與天通。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "步虛詞五首·其四",
+    "author": "徐鉉",
+    "paragraphs": [
       "何處求玄解，人間有洞天。勤行皆是道，謫下尚為仙。",
-      "蔽景乘朱鳳，排虛駕紫煙。不嫌園吏傲，願在玉宸前。",
+      "蔽景乘朱鳳，排虛駕紫煙。不嫌園吏傲，願在玉宸前。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "步虛詞五首·其五",
+    "author": "徐鉉",
+    "paragraphs": [
       "三素霏霏遠，盟威凜凜寒。火鈴空滅沒，星斗曉闌幹。",
       "佩響流虛殿，爐煙在醮壇。蕭寥不可極，驂駕上雲端。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -398,23 +453,67 @@
     }
   },
   {
-    "title": "文獻太子挽歌詞五首",
+    "title": "文獻太子挽歌詞五首·其一",
     "author": "徐鉉",
     "paragraphs": [
       "國有承祧重，人知秉哲尊。清風來望苑，遺烈在東藩。",
-      "此日升緱嶺，何因到寢門。天高不可問，煙靄共昏昏。",
+      "此日升緱嶺，何因到寢門。天高不可問，煙靄共昏昏。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "文獻太子挽歌詞五首·其二",
+    "author": "徐鉉",
+    "paragraphs": [
       "夏啟吾君子，周儲上帝賓。音容一飄忽，功業自紛綸。",
-      "露泣承華月，風驚麗正塵。空餘商嶺客，行淚下宜春。",
+      "露泣承華月，風驚麗正塵。空餘商嶺客，行淚下宜春。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "文獻太子挽歌詞五首·其三",
+    "author": "徐鉉",
+    "paragraphs": [
       "出處成交讓，經綸有大功。淚碑瓜步北，棠樹蒜山東。",
-      "百揆方時敘，重離遂不融。故臣偏感咽，曾是歎三窮。",
+      "百揆方時敘，重離遂不融。故臣偏感咽，曾是歎三窮。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "文獻太子挽歌詞五首·其四",
+    "author": "徐鉉",
+    "paragraphs": [
       "甲觀光陰促，園陵天地長。簫笳咽無韻，賓禦哭相將。",
-      "盛烈傳彝鼎，遺文被樂章。君臣知己分，零淚亂無行。",
+      "盛烈傳彝鼎，遺文被樂章。君臣知己分，零淚亂無行。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "文獻太子挽歌詞五首·其五",
+    "author": "徐鉉",
+    "paragraphs": [
       "彩仗清晨出，非同齒胄時。愁煙鎖平甸，朔吹繞寒枝。",
       "楚客來何補，緱山去莫追。回瞻飛蓋處，掩袂不勝悲。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -606,19 +705,41 @@
     }
   },
   {
-    "title": "光穆皇后挽歌三首",
+    "title": "光穆皇后挽歌三首·其一",
     "author": "徐鉉",
     "paragraphs": [
       "仙馭期難改，坤儀道自光。閟宮新表德，沙麓舊膺祥。",
-      "素帟堯門掩，凝笳畢陌長。東風慘陵樹，無複見親桑。",
+      "素帟堯門掩，凝笳畢陌長。東風慘陵樹，無複見親桑。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "光穆皇后挽歌三首·其二",
+    "author": "徐鉉",
+    "paragraphs": [
       "永樂留虛位，長陵啟夕扉。返虞嚴吉仗，複土掩空衣。",
-      "功業投三母，光靈極四妃。唯應彤史在，不與露花晞。",
+      "功業投三母，光靈極四妃。唯應彤史在，不與露花晞。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "光穆皇后挽歌三首·其三",
+    "author": "徐鉉",
+    "paragraphs": [
       "隱隱閶門路，煙雲曉更愁。空瞻金輅出，非是濯龍遊。",
       "德感人倫正，風行內職修。還隨偶物化，同此思軒丘。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -729,16 +850,38 @@
     }
   },
   {
-    "title": "自題山亭三首",
+    "title": "自題山亭三首·其一",
     "author": "徐鉉",
     "paragraphs": [
-      "簪組非無累，園林未是歸。世喧長不到，何必故山薇。",
-      "小舫行乘月，高齋臥看山。退公聊自足，爭敢望長閑。",
+      "簪組非無累，園林未是歸。世喧長不到，何必故山薇。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "自題山亭三首·其二",
+    "author": "徐鉉",
+    "paragraphs": [
+      "小舫行乘月，高齋臥看山。退公聊自足，爭敢望長閑。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "自題山亭三首·其三",
+    "author": "徐鉉",
+    "paragraphs": [
       "跂石仍臨水，披襟複掛冠。機心忘未得，棋局與魚竿。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

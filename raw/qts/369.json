@@ -1,16 +1,27 @@
 [
   {
-    "title": "贈藥山高僧惟儼二首",
+    "title": "贈藥山高僧惟儼二首·其一",
     "author": "李翱",
     "paragraphs": [
       "練得身形似鶴形，千株松下兩函經。",
-      "我來問道無餘說，雲在青霄水在瓶。",
+      "我來問道無餘說，雲在青霄水在瓶。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈藥山高僧惟儼二首·其二",
+    "author": "李翱",
+    "paragraphs": [
       "選得幽居愜野情，終年無送亦無迎。",
       "有時直上孤峰頂，月下披雲嘯一聲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -215,17 +226,28 @@
     }
   },
   {
-    "title": "採蓮子二首",
+    "title": "採蓮子二首·其一",
     "author": "皇甫松",
     "paragraphs": [
       "菡萏香連十頃陂，小姑貪戲採蓮遲。",
-      "晚來弄水船頭濕，更脫紅裙裹鴨兒。",
+      "晚來弄水船頭濕，更脫紅裙裹鴨兒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "採蓮子二首·其二",
+    "author": "皇甫松",
+    "paragraphs": [
       "船動湖光灩灩秋，貪看年少信船流。",
       "無端隔水拋蓮子，遙被人知半日羞。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -269,32 +291,54 @@
     }
   },
   {
-    "title": "楊柳枝詞二首",
+    "title": "楊柳枝詞二首·其一",
     "author": "皇甫松",
     "paragraphs": [
       "爛漫春歸水國時，吳王宮殿柳絲垂。",
-      "黃鶯長叫空閨畔，西子無因更得知。",
-      "春入行宮映翠微，玄宗侍女舞煙絲。",
-      "如今柳向空城綠，玉笛何人更把吹。"
+      "黃鶯長叫空閨畔，西子無因更得知。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "浪淘沙二首",
+    "title": "楊柳枝詞二首·其二",
+    "author": "皇甫松",
+    "paragraphs": [
+      "春入行宮映翠微，玄宗侍女舞煙絲。",
+      "如今柳向空城綠，玉笛何人更把吹。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "浪淘沙二首·其一",
     "author": "皇甫松",
     "paragraphs": [
       "灘頭細草接疏林，浪惡罾船半欲沉。",
-      "宿鷺眠洲非舊浦，去年沙觜是江心。",
+      "宿鷺眠洲非舊浦，去年沙觜是江心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "浪淘沙二首·其二",
+    "author": "皇甫松",
+    "paragraphs": [
       "蠻歌豆蔻北人愁，松雨蒲風野艇秋。",
       "浪起鵁鶄眠不得，寒沙細細入江流。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

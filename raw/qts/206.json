@@ -1068,32 +1068,54 @@
     }
   },
   {
-    "title": "故燕國相公挽歌二首",
+    "title": "故燕國相公挽歌二首·其一",
     "author": "李嘉佑",
     "paragraphs": [
       "文若為全德，留侯是重名。論公長不宰，因病得無生。",
-      "大夢依禪定，高墳共化城。自應憐寂滅，人世但傷情。",
-      "共美持衡日，皆言折檻時。蜀侯供廟略，漢主缺台司。",
-      "車馬行仍止，笳簫咽又悲。今年杜陵陌，殄瘁百花遲。"
+      "大夢依禪定，高墳共化城。自應憐寂滅，人世但傷情。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "故吏部郎中贈給事中韋公挽歌二首",
+    "title": "故燕國相公挽歌二首·其二",
+    "author": "李嘉佑",
+    "paragraphs": [
+      "共美持衡日，皆言折檻時。蜀侯供廟略，漢主缺台司。",
+      "車馬行仍止，笳簫咽又悲。今年杜陵陌，殄瘁百花遲。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故吏部郎中贈給事中韋公挽歌二首·其一",
     "author": "李嘉佑",
     "paragraphs": [
       "神理今何在，斯人竟若斯。顏淵徒有德，伯道且無兒。",
-      "白髮今非老，青雲數有奇。誰言夕郎拜，翻向夜台悲。",
+      "白髮今非老，青雲數有奇。誰言夕郎拜，翻向夜台悲。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "故吏部郎中贈給事中韋公挽歌二首·其二",
+    "author": "李嘉佑",
+    "paragraphs": [
       "社裏東城接，松阡北地開。聞笳春色慘，執紼故人哀。",
       "終日南山對，何時渭水回。仁兄與恩舊，相望泣泉台。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   }

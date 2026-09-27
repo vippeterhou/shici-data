@@ -167,17 +167,28 @@
     }
   },
   {
-    "title": "偶題二首",
+    "title": "偶題二首·其一",
     "author": "杜牧",
     "paragraphs": [
       "勞勞千里身，襟袂滿行塵。深夜懸雙淚，短亭思遠人。",
-      "蒼江程未息，黑水夢何頻。明月輕橈去，唯應釣赤鱗。",
+      "蒼江程未息，黑水夢何頻。明月輕橈去，唯應釣赤鱗。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "偶題二首·其二",
+    "author": "杜牧",
+    "paragraphs": [
       "有恨秋來極，無端別後知。夜闌終耿耿，明發竟遲遲。",
       "信已憑鴻去，歸唯與燕期。只因明月見，千里兩相思。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -350,17 +361,28 @@
     }
   },
   {
-    "title": "送薛邽二首",
+    "title": "送薛邽二首·其一",
     "author": "杜牧",
     "paragraphs": [
       "可憐走馬騎驢漢，豈有風光肯占伊。",
-      "只有三張最惆悵，下山回馬尚遲遲。",
+      "只有三張最惆悵，下山回馬尚遲遲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送薛邽二首·其二",
+    "author": "杜牧",
+    "paragraphs": [
       "小捷風流已俊才，便將紅粉作金台。",
       "明年未去池陽郡，更乞春時卻重來。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -546,17 +568,28 @@
     }
   },
   {
-    "title": "宮祠二首",
+    "title": "宮祠二首·其一",
     "author": "杜牧",
     "paragraphs": [
       "蟬翼輕綃傅體紅，玉膚如醉向春風。",
-      "深宮鎖閉猶疑惑，更取丹沙試辟宮。",
+      "深宮鎖閉猶疑惑，更取丹沙試辟宮。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "宮祠二首·其二",
+    "author": "杜牧",
+    "paragraphs": [
       "監宮引出暫開門，隨例須朝不是恩。",
       "銀鑰卻收金鎖合，月明花落又黃昏。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1237,19 +1270,41 @@
     }
   },
   {
-    "title": "望少華三首",
+    "title": "望少華三首·其一",
     "author": "杜牧",
     "paragraphs": [
       "身隨白日看將老，心與青雲自有期。",
-      "今對晴峰無十裏，世緣多累暗生悲。",
+      "今對晴峰無十裏，世緣多累暗生悲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "望少華三首·其二",
+    "author": "杜牧",
+    "paragraphs": [
       "文字波中去不還，物情初與是非閑。",
-      "時名竟是無端事，羞對靈山道愛山。",
+      "時名竟是無端事，羞對靈山道愛山。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "望少華三首·其三",
+    "author": "杜牧",
+    "paragraphs": [
       "眼看雲鶴不相隨，何況塵中事作為。",
       "好伴羽人深洞去，月前秋聽玉參差。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1305,15 +1360,26 @@
     }
   },
   {
-    "title": "龍丘途中二首",
+    "title": "龍丘途中二首·其一",
     "author": "杜牧",
     "paragraphs": [
-      "漢苑殘花別，吳江盛夏來。唯看萬樹合，不見一枝開。",
+      "漢苑殘花別，吳江盛夏來。唯看萬樹合，不見一枝開。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "龍丘途中二首·其二",
+    "author": "杜牧",
+    "paragraphs": [
       "水色饒湘浦，灘聲怯建溪。淚流回月上，可得更猿啼。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1344,17 +1410,28 @@
     }
   },
   {
-    "title": "寄杜子二首",
+    "title": "寄杜子二首·其一",
     "author": "杜牧",
     "paragraphs": [
       "不識長楊事北胡，且教紅袖醉來扶。",
-      "狂風烈焰雖千尺，豁得平生俊氣無。",
+      "狂風烈焰雖千尺，豁得平生俊氣無。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄杜子二首·其二",
+    "author": "杜牧",
+    "paragraphs": [
       "武牢關吏應相笑，個裏年年往復來。",
       "若問使君何處去，為言相憶首長回。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

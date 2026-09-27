@@ -540,17 +540,28 @@
     }
   },
   {
-    "title": "病題二首",
+    "title": "病題二首·其一",
     "author": "徐鉉",
     "paragraphs": [
       "性靈慵懶百無能，唯被朝參遣夙興。聖主優容恩未答，",
-      "進與時乖不知退，可憐身計謾騰騰。",
+      "進與時乖不知退，可憐身計謾騰騰。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "病題二首·其二",
+    "author": "徐鉉",
+    "paragraphs": [
       "人間多事本難論，況是人間懶慢人。不解養生何怪病，",
       "金馬門前君識否，東方曼倩是前身。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -633,37 +644,158 @@
     }
   },
   {
-    "title": "柳枝辭十二首",
+    "title": "柳枝辭十二首·其一",
     "author": "徐鉉",
     "paragraphs": [
       "把酒憑君唱柳枝，也從絲管遞相隨。",
-      "逢春只合朝朝醉，記取秋風落葉時。",
+      "逢春只合朝朝醉，記取秋風落葉時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭十二首·其二",
+    "author": "徐鉉",
+    "paragraphs": [
       "南園日暮起春風，吹散楊花雪滿空。",
-      "不惜楊花飛也得，愁君老盡臉邊紅。",
+      "不惜楊花飛也得，愁君老盡臉邊紅。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭十二首·其三",
+    "author": "徐鉉",
+    "paragraphs": [
       "陌上朱門柳映花，簾鉤半卷綠陰斜。",
-      "憑郎暫駐青驄馬，此是錢塘小小家。",
+      "憑郎暫駐青驄馬，此是錢塘小小家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭十二首·其四",
+    "author": "徐鉉",
+    "paragraphs": [
       "夾岸朱欄柳映樓，綠波平幔帶花流。",
-      "歌聲不出長條密，忽地風回見彩舟。",
+      "歌聲不出長條密，忽地風回見彩舟。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭十二首·其五",
+    "author": "徐鉉",
+    "paragraphs": [
       "老大逢春總恨春，綠楊陰裏最愁人。",
-      "舊遊一別無因見，嫩葉如眉處處新。",
+      "舊遊一別無因見，嫩葉如眉處處新。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭十二首·其六",
+    "author": "徐鉉",
+    "paragraphs": [
       "濛濛堤畔柳含煙，疑是陽和二月天。",
-      "醉裏不知時節改，漫隨兒女打秋千。",
+      "醉裏不知時節改，漫隨兒女打秋千。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭十二首·其七",
+    "author": "徐鉉",
+    "paragraphs": [
       "水閣春來乍減寒，曉妝初罷倚欄幹。",
-      "長條亂拂春波動，不許佳人照影看。",
+      "長條亂拂春波動，不許佳人照影看。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭十二首·其八",
+    "author": "徐鉉",
+    "paragraphs": [
       "柳岸煙昏醉裏歸，不知深處有芳菲。",
-      "重來已見花飄盡，唯有黃鶯囀樹飛。",
+      "重來已見花飄盡，唯有黃鶯囀樹飛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭十二首·其九",
+    "author": "徐鉉",
+    "paragraphs": [
       "此去仙源不是遙，垂楊深處有朱橋。",
-      "共君同過朱橋去，索映垂楊聽洞簫。",
+      "共君同過朱橋去，索映垂楊聽洞簫。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭十二首·其十",
+    "author": "徐鉉",
+    "paragraphs": [
       "暫別揚州十度春，不知光景屬何人。",
-      "一帆歸客千條柳，腸斷東風揚子津。",
+      "一帆歸客千條柳，腸斷東風揚子津。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭十二首·其十一",
+    "author": "徐鉉",
+    "paragraphs": [
       "仙樂春來按舞腰，清聲偏似傍嬌饒。",
-      "應緣鶯舌多情賴，長向雙成說翠條。",
+      "應緣鶯舌多情賴，長向雙成說翠條。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝辭十二首·其十二",
+    "author": "徐鉉",
+    "paragraphs": [
       "鳳笙臨檻不能吹，舞袖當筵亦自疑。",
       "唯有美人多意緒，解依芳態畫雙眉。"
     ],
     "format": {
-      "sentence_count": 48,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

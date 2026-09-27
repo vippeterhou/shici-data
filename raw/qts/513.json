@@ -39,17 +39,28 @@
     }
   },
   {
-    "title": "同樂天中秋夜洛河玩月二首",
+    "title": "同樂天中秋夜洛河玩月二首·其一",
     "author": "裴夷直",
     "paragraphs": [
       "清洛半秋懸璧月，彩船當夕泛銀河。蒼龍頷底珠皆沒，",
-      "須知天地為爐意，盡取黃金鑄作波。",
+      "須知天地為爐意，盡取黃金鑄作波。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "同樂天中秋夜洛河玩月二首·其二",
+    "author": "裴夷直",
+    "paragraphs": [
       "不熱不寒三五夕，晴川明月正相臨。千珠競沒蒼龍頷，",
       "如何清洛如清晝，共見初升又見沈。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -279,17 +290,28 @@
     }
   },
   {
-    "title": "奉和大樑相公送人二首",
+    "title": "奉和大樑相公送人二首·其一",
     "author": "裴夷直",
     "paragraphs": [
       "謝公日日傷離別，又向西堂送阿連。",
-      "想到越中秋已盡，鏡河應羨月團圓。",
+      "想到越中秋已盡，鏡河應羨月團圓。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "奉和大樑相公送人二首·其二",
+    "author": "裴夷直",
+    "paragraphs": [
       "北津楊柳迎煙綠，南岸闌幹映水紅。",
       "君到襄陽渡江處，始應回首憶羊公。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -372,17 +394,28 @@
     }
   },
   {
-    "title": "上下七盤二首",
+    "title": "上下七盤二首·其一",
     "author": "裴夷直",
     "paragraphs": [
       "鬥回山路掩皇州，二載歡娛一望休。",
-      "從此萬重青嶂合，無因更得重回頭。",
+      "從此萬重青嶂合，無因更得重回頭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "上下七盤二首·其二",
+    "author": "裴夷直",
+    "paragraphs": [
       "商山半月雨漫漫，偶值新晴下七盤。",
       "山似換來天似洗，可憐風日到長安。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -569,17 +602,28 @@
     }
   },
   {
-    "title": "寄婺州李給事二首",
+    "title": "寄婺州李給事二首·其一",
     "author": "裴夷直",
     "paragraphs": [
       "心盡玉皇恩已遠，跡留江郡宦應孤。",
-      "不知壯氣今何似，猶得淩雲貫日無。",
+      "不知壯氣今何似，猶得淩雲貫日無。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄婺州李給事二首·其二",
+    "author": "裴夷直",
+    "paragraphs": [
       "瘴鬼翻能念直心，五年相遇不相侵。",
       "目前唯有思君病，無底滄溟未是深。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

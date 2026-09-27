@@ -425,17 +425,28 @@
     }
   },
   {
-    "title": "江邊星月二首",
+    "title": "江邊星月二首·其一",
     "author": "杜甫",
     "paragraphs": [
       "驟雨清秋夜，金波耿玉繩。天河元自白，江浦向來澄。",
-      "映物連珠斷，緣空一鏡升。餘光隱更漏，況乃露華凝。",
+      "映物連珠斷，緣空一鏡升。餘光隱更漏，況乃露華凝。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江邊星月二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "江月辭風纜，江星別霧船。雞鳴還曙色，鷺浴自清川。",
       "歷歷竟誰種，悠悠何處圓。客愁殊未已，他夕始相鮮。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -730,17 +741,28 @@
     }
   },
   {
-    "title": "宴王使君宅題二首",
+    "title": "宴王使君宅題二首·其一",
     "author": "杜甫",
     "paragraphs": [
       "漢主追韓信，蒼生起謝安。吾徒自漂泊，世事各艱難。",
-      "逆旅招邀近，他鄉思緒寬。不材甘朽質，高臥豈泥蟠。",
+      "逆旅招邀近，他鄉思緒寬。不材甘朽質，高臥豈泥蟠。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "宴王使君宅題二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "泛愛容霜發，留歡蔔夜閑。自吟詩送老，相勸酒開顏。",
       "戎馬今何地，鄉園獨舊山。江湖墮清月，酩酊任扶還。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

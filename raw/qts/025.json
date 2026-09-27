@@ -14,17 +14,28 @@
     }
   },
   {
-    "title": "雜曲歌辭：輕薄篇二首",
+    "title": "雜曲歌辭：輕薄篇二首·其一",
     "author": "貫休",
     "paragraphs": [
       "繡林錦野，春態相壓。誰家少年，馬蹄蹋蹋。",
-      "鬥雞走狗夜不歸，一擲賭卻如花妾。惟雲不顛不狂，",
+      "鬥雞走狗夜不歸，一擲賭卻如花妾。惟雲不顛不狂，"
+    ],
+    "format": {
+      "sentence_count": 7,
+      "sentence_lengths": [4, 4, 4, 4, 7, 7, 6],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "雜曲歌辭：輕薄篇二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "木落蕭蕭，蛩鳴唧唧。不覺朱蔫臉紅，霜劫鬢漆。",
       "世途多事，泣向秋日。方吟少壯不努力，老大徒傷悲，"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [4, 4, 4, 4, 7, 7, 6, 4, 4, 6, 4, 4, 4, 7, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [4, 4, 6, 4, 4, 4, 7, 5],
       "uniform_sentence_length": null
     }
   },
@@ -639,15 +650,26 @@
     }
   },
   {
-    "title": "雜曲歌辭：長相思二首",
+    "title": "雜曲歌辭：長相思二首·其一",
     "author": "令狐楚",
     "paragraphs": [
-      "君行登隴上，妾夢在閨中。玉箸千行落，銀床一半空。",
+      "君行登隴上，妾夢在閨中。玉箸千行落，銀床一半空。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "雜曲歌辭：長相思二首·其二",
+    "author": "令狐楚",
+    "paragraphs": [
       "綺席春眠覺，紗窗曉望迷。朦朧殘夢裏，猶自在遼西。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

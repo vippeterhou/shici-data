@@ -39,17 +39,28 @@
     }
   },
   {
-    "title": "觀李翰林真二首",
+    "title": "觀李翰林真二首·其一",
     "author": "貫休",
     "paragraphs": [
       "日角浮紫氣，凜然塵外清。雖稱李太白，知是那星精。",
-      "禦宴千鐘飲，蕃書一筆成。宜哉杜工部，不錯道騎鯨。",
+      "禦宴千鐘飲，蕃書一筆成。宜哉杜工部，不錯道騎鯨。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "觀李翰林真二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "誰氏子丹青，毫端曲有靈。屹如山忽墮，爽似酒初醒。",
       "天馬難攏勒，仙房久閉扃。若非如此輩，何以傲彤庭。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -80,17 +91,28 @@
     }
   },
   {
-    "title": "《讀杜工部集》二首",
+    "title": "《讀杜工部集》二首·其一",
     "author": "貫休",
     "paragraphs": [
       "造化拾無遺，唯應杜甫詩。豈非玄域橐，奪得古人旗。",
-      "日月精華薄，山川氣概卑。古今吟不盡，惆悵不同時。",
+      "日月精華薄，山川氣概卑。古今吟不盡，惆悵不同時。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "《讀杜工部集》二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "甫也道亦喪，孤身出蜀城。彩毫終不撅，白雪更能輕。",
       "命薄相如命，名齊李白名。不知耒陽令，何以葬先生。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -108,17 +130,28 @@
     }
   },
   {
-    "title": "讀劉得仁、賈島集二首",
+    "title": "讀劉得仁、賈島集二首·其一",
     "author": "貫休",
     "paragraphs": [
       "二公俱作者，其奈亦迂儒。且有諸峰在，何將一第籲。",
-      "句還如菡萏，誰複贈襜褕。想得重泉下，依前與眾殊。",
+      "句還如菡萏，誰複贈襜褕。想得重泉下，依前與眾殊。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "讀劉得仁、賈島集二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "役思曾沖尹，多言阻國親。桂枝何所直，陋巷不勝貧。",
       "馬病唯湯雪，門荒劣有人。伊餘吟亦苦，為爾一眉嚬。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -503,17 +536,28 @@
     }
   },
   {
-    "title": "懷武夷紅石子二首",
+    "title": "懷武夷紅石子二首·其一",
     "author": "貫休",
     "paragraphs": [
       "常思紅石子，獨自住山椒。窗外猩猩語，爐中姹姹嬌。",
-      "乳香諸洞滴，地秀眾峰朝。曾見奇人說，煙霞恨太遙。",
+      "乳香諸洞滴，地秀眾峰朝。曾見奇人說，煙霞恨太遙。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "懷武夷紅石子二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "弋者終何慕，高吟坐綠鼇。燒侵薑芋窖，僧與水雲袍。",
       "竹鞘畬刀缺，松枝獵箭牢。何時一相見，清話擘蟠桃。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -713,20 +757,42 @@
     }
   },
   {
-    "title": "秋居寄王相公三首",
+    "title": "秋居寄王相公三首·其一",
     "author": "貫休",
     "paragraphs": [
       "禪林蟬□落，地燥可生苔。好句慵收拾，清風作麼來。",
-      "餅唯餐喜悅，社已得宗雷。還似山中日，柴門更不開。",
+      "餅唯餐喜悅，社已得宗雷。還似山中日，柴門更不開。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [4, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "秋居寄王相公三首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "松聲高似瀑，藥熟色如花。誰道全無病，時猶不在家。",
-      "山童舂菽粉，園叟送銀瓜。誰訪孫弘閣，談玄到日斜。",
+      "山童舂菽粉，園叟送銀瓜。誰訪孫弘閣，談玄到日斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秋居寄王相公三首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "氣與非常合，常人爭得知。直須窮到底，始是出家兒。",
       "閣雀銜紅粟，鄰僧背古碑。只應王與謝，時有沃州期。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

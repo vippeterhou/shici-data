@@ -193,41 +193,74 @@
     }
   },
   {
-    "title": "怨詞二首",
+    "title": "怨詞二首·其一",
     "author": "崔國輔",
     "paragraphs": [
-      "妾有羅衣裳，秦王在時作。為舞春風多，秋來不堪著。",
+      "妾有羅衣裳，秦王在時作。為舞春風多，秋來不堪著。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "怨詞二首·其二",
+    "author": "崔國輔",
+    "paragraphs": [
       "樓頭桃李疏，池上芙蓉落。織錦猶未成，蛩聲入羅幕。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "古意二首",
+    "title": "古意二首·其一",
     "author": "崔國輔",
     "paragraphs": [
-      "玉籠熏繡裳，著罷眠洞房。不能春風裏，吹卻蘭麝香。",
+      "玉籠熏繡裳，著罷眠洞房。不能春風裏，吹卻蘭麝香。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古意二首·其二",
+    "author": "崔國輔",
+    "paragraphs": [
       "種棘遮蘼蕪，畏人來采殺。比至狂夫還，看看幾花發。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "襄陽曲二首",
+    "title": "襄陽曲二首·其一",
     "author": "崔國輔",
     "paragraphs": [
-      "蕙草嬌紅萼，時光舞碧雞。城中美年少，相見白銅鞮。",
+      "蕙草嬌紅萼，時光舞碧雞。城中美年少，相見白銅鞮。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "襄陽曲二首·其二",
+    "author": "崔國輔",
+    "paragraphs": [
       "少年襄陽地，來往襄陽城。城中輕薄子，知妾解秦箏。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -436,17 +469,28 @@
     }
   },
   {
-    "title": "《白紵辭二首",
+    "title": "《白紵辭二首·其一",
     "author": "崔國輔",
     "paragraphs": [
       "洛陽梨花落如霰，河陽桃葉生複齊。",
-      "坐惜玉樓春欲盡，紅綿粉絮裛妝啼。",
+      "坐惜玉樓春欲盡，紅綿粉絮裛妝啼。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "《白紵辭二首·其二",
+    "author": "崔國輔",
+    "paragraphs": [
       "董賢女弟在椒風，窈窕繁華貴後宮。",
       "璧帶金釭皆翡翠，一朝零落變成空。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

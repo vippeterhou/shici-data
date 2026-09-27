@@ -260,19 +260,41 @@
     }
   },
   {
-    "title": "寄峴山願公三首",
+    "title": "寄峴山願公三首·其一",
     "author": "齊己",
     "paragraphs": [
       "形影更誰親，應懷漆道人。片言酬鑿齒，半偈伏姚秦。",
-      "榛莽池經燒，蒿萊寺過春。心期重西去，一共吊遺塵。",
+      "榛莽池經燒，蒿萊寺過春。心期重西去，一共吊遺塵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄峴山願公三首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "相思恨相遠，至理那時何。道笑忘言甚，詩嫌背俗多。",
-      "青苔閑閣閉，白日斷人過。獨上西樓望，荊門千萬坡。",
+      "青苔閑閣閉，白日斷人過。獨上西樓望，荊門千萬坡。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寄峴山願公三首·其三",
+    "author": "齊己",
+    "paragraphs": [
       "彼此無消息，所思江漢遙。轉聞多患難，甚說遠相招。",
       "老至何悲歎，生知便寂寥。終期踏松影，攜手虎溪橋。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -407,44 +429,198 @@
     }
   },
   {
-    "title": "渚宮莫問詩一十五首",
+    "title": "渚宮莫問詩一十五首·其一",
     "author": "齊己",
     "paragraphs": [
       "莫問疏人事，王侯已任伊。不妨隨野性，還似在山時。",
-      "靜入無聲樂，狂拋正律詩。自為仍自愛，清淨裏尋思。",
+      "靜入無聲樂，狂拋正律詩。自為仍自愛，清淨裏尋思。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "渚宮莫問詩一十五首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "莫問伊嵇懶，流年已付他。話通時事少，詩著野題多。",
-      "夢外春桃李，心中舊薜蘿。浮生此不悟，剃發竟如何。",
+      "夢外春桃李，心中舊薜蘿。浮生此不悟，剃發竟如何。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "渚宮莫問詩一十五首·其三",
+    "author": "齊己",
+    "paragraphs": [
       "莫問休行腳，南方已遍尋。了應須自了，心不是他心。",
-      "赤水珠何覓，寒山偈莫吟。誰同論此理，杜口少知音。",
+      "赤水珠何覓，寒山偈莫吟。誰同論此理，杜口少知音。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "渚宮莫問詩一十五首·其四",
+    "author": "齊己",
+    "paragraphs": [
       "莫問孱愚格，天應只與閑。合居長樹下，那稱眾人間。",
-      "跡絕為真隱，機忘是大還。終當學支遁，買取個青山。",
+      "跡絕為真隱，機忘是大還。終當學支遁，買取個青山。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "渚宮莫問詩一十五首·其五",
+    "author": "齊己",
+    "paragraphs": [
       "莫問無求意，浮雲喻可知。滿盈如不戒，倚伏更何疑。",
-      "樂矣賢顏子，窮乎聖仲尼。已過知命歲，休把運行推。",
+      "樂矣賢顏子，窮乎聖仲尼。已過知命歲，休把運行推。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "渚宮莫問詩一十五首·其六",
+    "author": "齊己",
+    "paragraphs": [
       "莫問閑行趣，春風野水涯。千門無謝女，兩岸有楊花。",
-      "好鶴曾為客，真龍或作蛇。躊躕自回首，日腳背樓斜。",
+      "好鶴曾為客，真龍或作蛇。躊躕自回首，日腳背樓斜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "渚宮莫問詩一十五首·其七",
+    "author": "齊己",
+    "paragraphs": [
       "莫問真消息，中心只自知。清風含笑詠，明月混希夷。",
-      "壞衲涼天擁，玄文靜夜披。善哉溫伯子，言望至公知。",
+      "壞衲涼天擁，玄文靜夜披。善哉溫伯子，言望至公知。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "渚宮莫問詩一十五首·其八",
+    "author": "齊己",
+    "paragraphs": [
       "莫問休持缽，從貧乞已疏。侯門叨月俸，齋食剩年儲。",
-      "簪履三千外，形骸六十餘。舊峰呵練若，松徑接匡廬。",
+      "簪履三千外，形骸六十餘。舊峰呵練若，松徑接匡廬。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "渚宮莫問詩一十五首·其九",
+    "author": "齊己",
+    "paragraphs": [
       "莫問依劉跡，金台又度秋。威儀非上客，譚笑愧諸侯。",
-      "禮許無拘檢，詩推異輩流。東林未歸得，搖落楚江頭。",
+      "禮許無拘檢，詩推異輩流。東林未歸得，搖落楚江頭。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "渚宮莫問詩一十五首·其十",
+    "author": "齊己",
+    "paragraphs": [
       "莫問無機性，甘名百鈍人。一床鋪冷落，長日臥精神。",
-      "分已疏知舊，詩還得意新。多才碧雲客，時或此相親。",
+      "分已疏知舊，詩還得意新。多才碧雲客，時或此相親。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "渚宮莫問詩一十五首·其十一",
+    "author": "齊己",
+    "paragraphs": [
       "莫問關門意，從來寡往還。道應歸淡泊，身合在空閒。",
-      "四面苔圍綠，孤窗雨灑斑。夢尋何處去，秋色水邊山。",
+      "四面苔圍綠，孤窗雨灑斑。夢尋何處去，秋色水邊山。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "渚宮莫問詩一十五首·其十二",
+    "author": "齊己",
+    "paragraphs": [
       "莫問□□□，□□逐性情。人間高此道，禪外剩他名。",
-      "夏□松邊坐，秋光水畔行。更無時忌諱，容易得題成。",
+      "夏□松邊坐，秋光水畔行。更無時忌諱，容易得題成。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [2, 3, 5, 5, 4, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "渚宮莫問詩一十五首·其十三",
+    "author": "齊己",
+    "paragraphs": [
       "莫問多山興，晴樓獨憑時。六年滄海寺，一別白蓮池。",
-      "句早逢名匠，禪曾見祖師。冥搜與真性，清外認揚眉。",
+      "句早逢名匠，禪曾見祖師。冥搜與真性，清外認揚眉。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "渚宮莫問詩一十五首·其十四",
+    "author": "齊己",
+    "paragraphs": [
       "莫問衰殘質，流光速可悲。寸心修未了，長命欲何為。",
-      "坐臥身多倦，經行骨漸疲。分明說此苦，珍重竺幹師。",
+      "坐臥身多倦，經行骨漸疲。分明說此苦，珍重竺幹師。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "渚宮莫問詩一十五首·其十五",
+    "author": "齊己",
+    "paragraphs": [
       "莫問野騰騰，勞形已不能。殷勤無上士，珍重有名僧。",
       "坐覺心心默，行思步步冰。終歸石房裏，一點夜深燈。"
     ],
     "format": {
-      "sentence_count": 120,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 3, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

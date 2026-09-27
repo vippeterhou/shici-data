@@ -187,19 +187,30 @@
     }
   },
   {
-    "title": "學仙二首",
+    "title": "學仙二首·其一",
     "author": "韋應物",
     "paragraphs": [
       "昔有道士求神仙，靈真下試心確然。千鈞巨石一發懸，",
-      "雲氣冉冉漸不見，留語弟子但精堅。",
+      "雲氣冉冉漸不見，留語弟子但精堅。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "學仙二首·其二",
+    "author": "韋應物",
+    "paragraphs": [
       "石上鑿井欲到水，惰心一起中路止。",
       "豈不見古來三人俱弟兄，結茅深山讀仙經。",
       "上有青冥倚天之絕壁，下有颼飀萬壑之松聲。",
       "仙人變化為白鹿，二弟玩之兄誦讀。讀多七過可乞言，"
     ],
     "format": {
-      "sentence_count": 14,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 10, 7, 9, 9, 7, 7, 7],
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 10, 7, 9, 9, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

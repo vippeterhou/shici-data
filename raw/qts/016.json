@@ -903,32 +903,54 @@
     }
   },
   {
-    "title": "郊廟歌辭：晉昭德成功舞歌：昭德舞歌二首",
+    "title": "郊廟歌辭：晉昭德成功舞歌：昭德舞歌二首·其一",
     "author": "不詳",
     "paragraphs": [
       "聖代修文德，明庭舉舊章。兩階陳羽鑰，萬舞合宮商。",
-      "劍佩森鴛鷺，簫韶下鳳凰。我朝青史上，千古有輝光。",
-      "淮海干戈戢，朝廷禮樂施。白駒皆就縶，丹鳳複來儀。",
-      "德備三苗格，風行萬國隨。小臣同百獸，率舞賀昌期。"
+      "劍佩森鴛鷺，簫韶下鳳凰。我朝青史上，千古有輝光。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "郊廟歌辭：晉昭德成功舞歌：武功舞歌二首",
+    "title": "郊廟歌辭：晉昭德成功舞歌：昭德舞歌二首·其二",
+    "author": "不詳",
+    "paragraphs": [
+      "淮海干戈戢，朝廷禮樂施。白駒皆就縶，丹鳳複來儀。",
+      "德備三苗格，風行萬國隨。小臣同百獸，率舞賀昌期。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "郊廟歌辭：晉昭德成功舞歌：武功舞歌二首·其一",
     "author": "不詳",
     "paragraphs": [
       "撥亂資英主，開基自晉陽。一戎成大業，七德煥前王。",
-      "炎漢提封遠，姬周世祚長。朱幹將玉戚，全象武功揚。",
+      "炎漢提封遠，姬周世祚長。朱幹將玉戚，全象武功揚。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "郊廟歌辭：晉昭德成功舞歌：武功舞歌二首·其二",
+    "author": "不詳",
+    "paragraphs": [
       "睿算超前古，神功格上圓。百川留禹跡，萬國戴堯天。",
       "既已櫜弓矢，誠宜播管弦。蹌蹌隨鳥獸，共樂太平年。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   }

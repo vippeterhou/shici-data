@@ -13,17 +13,28 @@
     }
   },
   {
-    "title": "烏棲曲二首",
+    "title": "烏棲曲二首·其一",
     "author": "劉方平",
     "paragraphs": [
       "蛾眉曼臉傾城國，鳴環動佩新相識。",
-      "銀漢斜臨白玉堂，芙蓉行障掩燈光。",
+      "銀漢斜臨白玉堂，芙蓉行障掩燈光。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "烏棲曲二首·其二",
+    "author": "劉方平",
+    "paragraphs": [
       "畫舸雙艚錦為纜，芙蓉花發蓮葉暗。",
       "門前月色映橫塘，感郎中夜度瀟湘。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

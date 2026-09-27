@@ -1143,17 +1143,28 @@
     }
   },
   {
-    "title": "自歎二首",
+    "title": "自歎二首·其一",
     "author": "白居易",
     "paragraphs": [
       "形羸自覺朝餐減，睡少偏知夜漏長。",
-      "實事漸消虛事在，銀魚金帶繞腰光。",
+      "實事漸消虛事在，銀魚金帶繞腰光。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "自歎二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "二毛曉落梳頭懶，兩眼春昏點藥頻。",
       "唯有閑行猶得在，心情未到不如人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

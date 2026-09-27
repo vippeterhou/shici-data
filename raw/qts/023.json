@@ -430,15 +430,26 @@
     }
   },
   {
-    "title": "琴曲歌辭：昭君怨二首",
+    "title": "琴曲歌辭：昭君怨二首·其一",
     "author": "張祜",
     "paragraphs": [
-      "萬里邊城遠，千山行路難。舉頭惟見月，何處是長安。",
+      "萬里邊城遠，千山行路難。舉頭惟見月，何處是長安。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "琴曲歌辭：昭君怨二首·其二",
+    "author": "張祜",
+    "paragraphs": [
       "漢庭無大議，戎虜幾先和。莫羨傾城色，昭君恨最多。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -469,44 +480,88 @@
     }
   },
   {
-    "title": "琴曲歌辭：蔡氏五弄：游春曲二首",
+    "title": "琴曲歌辭：蔡氏五弄：游春曲二首·其一",
     "author": "王涯",
     "paragraphs": [
-      "萬樹江邊杏，新開一夜風。滿園深淺色，照在綠波中。",
-      "上苑何窮樹，花開次第新。香車與絲騎，風靜亦生塵。"
+      "萬樹江邊杏，新開一夜風。滿園深淺色，照在綠波中。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "琴曲歌辭：蔡氏五弄：游春辭二首",
+    "title": "琴曲歌辭：蔡氏五弄：游春曲二首·其二",
+    "author": "王涯",
+    "paragraphs": [
+      "上苑何窮樹，花開次第新。香車與絲騎，風靜亦生塵。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "琴曲歌辭：蔡氏五弄：游春辭二首·其一",
     "author": "王涯",
     "paragraphs": [
       "曲江絲柳變煙條，寒骨冰隨暖氣銷。",
-      "才見春光生綺陌，已聞清樂動雲韶。",
-      "經過柳陌與桃蹊，尋逐風光著處迷。",
-      "鳥度時時沖絮起，花繁袞袞壓枝低。"
+      "才見春光生綺陌，已聞清樂動雲韶。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "琴曲歌辭：蔡氏五弄：遊春辭三首",
+    "title": "琴曲歌辭：蔡氏五弄：游春辭二首·其二",
+    "author": "王涯",
+    "paragraphs": [
+      "經過柳陌與桃蹊，尋逐風光著處迷。",
+      "鳥度時時沖絮起，花繁袞袞壓枝低。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "琴曲歌辭：蔡氏五弄：遊春辭三首·其一",
     "author": "令狐楚",
     "paragraphs": [
-      "晚遊臨碧殿，日上望春亭。芳樹羅仙仗，晴山展翠屏。",
-      "一夜好風吹，新花一萬枝。風前調玉管，花下簇金羈。",
+      "晚遊臨碧殿，日上望春亭。芳樹羅仙仗，晴山展翠屏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "琴曲歌辭：蔡氏五弄：遊春辭三首·其二",
+    "author": "令狐楚",
+    "paragraphs": [
+      "一夜好風吹，新花一萬枝。風前調玉管，花下簇金羈。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "琴曲歌辭：蔡氏五弄：遊春辭三首·其三",
+    "author": "令狐楚",
+    "paragraphs": [
       "閶闔春風起，蓬萊雪水消。相將折楊柳，爭取最長條。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -549,22 +604,33 @@
     }
   },
   {
-    "title": "琴曲歌辭：蔡氏五弄：秋思二首",
+    "title": "琴曲歌辭：蔡氏五弄：秋思二首·其一",
     "author": "李白",
     "paragraphs": [
       "春陽如昨日，碧樹鳴黃鸝。蕪然蕙草暮，颯爾涼風吹。",
-      "天秋木葉下，月冷莎雞悲。坐愁群芳歇，白露凋華滋。",
-      "閼氏黃葉落，妾望白登臺。月出碧雲斷，蟬聲秋色來。",
-      "胡兵沙塞合，漢使玉關回。征客無歸日，空悲蕙草摧。"
+      "天秋木葉下，月冷莎雞悲。坐愁群芳歇，白露凋華滋。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "琴曲歌辭：蔡氏五弄：秋思二首",
+    "title": "琴曲歌辭：蔡氏五弄：秋思二首·其二",
+    "author": "李白",
+    "paragraphs": [
+      "閼氏黃葉落，妾望白登臺。月出碧雲斷，蟬聲秋色來。",
+      "胡兵沙塞合，漢使玉關回。征客無歸日，空悲蕙草摧。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "琴曲歌辭：蔡氏五弄：秋思二首·其一",
     "author": "鮑溶",
     "paragraphs": [
       "胡風吹雁翼，遠別無人鄉。君近雁來處，幾回斷君腸。",
@@ -573,15 +639,26 @@
       "君其若不然，歲晚雙鴛鴦。顧兔蝕殘月，幽光不如星。",
       "女兒晚事夫，顏色同秋螢。秋日邊馬思，武夫不遑甯。",
       "燕歌易水怨，劍舞蛟龍腥。風折連枝樹，水翻無蒂萍。",
-      "立身多戶門，何必燕山銘。生世不如鳥，雙雙比翼翎。",
+      "立身多戶門，何必燕山銘。生世不如鳥，雙雙比翼翎。"
+    ],
+    "format": {
+      "sentence_count": 28,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "琴曲歌辭：蔡氏五弄：秋思二首·其二",
+    "author": "鮑溶",
+    "paragraphs": [
       "季秋天地間，萬物生意足。我憂長於生，安得及草木。",
       "試從古人願，致酒歌秉燭。燕趙皆世人，詎能長似玉。",
       "俯憐老期近，仰視日車速。蕭颯禦風君，魂夢願相逐。",
       "百年夜銷半，端為垂纓束。"
     ],
     "format": {
-      "sentence_count": 42,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -612,17 +689,28 @@
     }
   },
   {
-    "title": "琴曲歌辭：蔡氏五弄：秋思二首",
+    "title": "琴曲歌辭：蔡氏五弄：秋思二首·其一",
     "author": "王涯",
     "paragraphs": [
       "網軒涼吹動輕衣，夜聽更長玉漏稀。",
-      "月渡天河光轉濕，鵲驚秋樹葉頻飛。",
+      "月渡天河光轉濕，鵲驚秋樹葉頻飛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "琴曲歌辭：蔡氏五弄：秋思二首·其二",
+    "author": "王涯",
+    "paragraphs": [
       "宮連太液見蒼波，暑氣微清秋意多。",
       "一夜輕風蘋末起，露珠翻盡滿池荷。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

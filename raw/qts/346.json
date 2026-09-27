@@ -53,15 +53,26 @@
     }
   },
   {
-    "title": "春遊曲二首",
+    "title": "春遊曲二首·其一",
     "author": "王涯",
     "paragraphs": [
-      "萬樹江邊杏，新開一夜風。滿園深淺色，照在綠波中。",
+      "萬樹江邊杏，新開一夜風。滿園深淺色，照在綠波中。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春遊曲二首·其二",
+    "author": "王涯",
+    "paragraphs": [
       "上苑何窮樹，花間次第新。香車與絲騎，風靜亦生塵。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -90,15 +101,26 @@
     }
   },
   {
-    "title": "塞上曲二首",
+    "title": "塞上曲二首·其一",
     "author": "王涯",
     "paragraphs": [
-      "天驕遠塞行，出鞘寶刀鳴。定是酬恩日，今朝覺命輕。",
+      "天驕遠塞行，出鞘寶刀鳴。定是酬恩日，今朝覺命輕。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "塞上曲二首·其二",
+    "author": "王涯",
+    "paragraphs": [
       "塞虜常為敵，邊風已報秋。平生多志氣，箭底覓封侯。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -151,48 +173,125 @@
     }
   },
   {
-    "title": "閨人贈遠五首",
+    "title": "閨人贈遠五首·其一",
     "author": "王涯",
     "paragraphs": [
-      "花明綺陌春，柳拂禦溝新。為報遼陽客，流芳不待人。",
-      "遠戍功名薄，幽閨年貌傷。妝成對春樹，不語淚千行。",
-      "形影一朝別，煙波千里分。君看望君處，只是起行雲。",
-      "啼鶯綠樹深，語燕雕梁晚。不省出門行，沙場知近遠。",
-      "洞房今夜月，如練複如霜。為照離人恨，亭亭到曉光。"
+      "花明綺陌春，柳拂禦溝新。為報遼陽客，流芳不待人。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "從軍詞三首",
+    "title": "閨人贈遠五首·其二",
     "author": "王涯",
     "paragraphs": [
-      "戈甲從軍久，風雲識陣難。今朝拜韓信，計日斬成安。",
-      "燕頷多奇相，狼頭敢犯邊。寄言班定遠，正是立功年。",
+      "遠戍功名薄，幽閨年貌傷。妝成對春樹，不語淚千行。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閨人贈遠五首·其三",
+    "author": "王涯",
+    "paragraphs": [
+      "形影一朝別，煙波千里分。君看望君處，只是起行雲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閨人贈遠五首·其四",
+    "author": "王涯",
+    "paragraphs": [
+      "啼鶯綠樹深，語燕雕梁晚。不省出門行，沙場知近遠。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閨人贈遠五首·其五",
+    "author": "王涯",
+    "paragraphs": [
+      "洞房今夜月，如練複如霜。為照離人恨，亭亭到曉光。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍詞三首·其一",
+    "author": "王涯",
+    "paragraphs": [
+      "戈甲從軍久，風雲識陣難。今朝拜韓信，計日斬成安。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍詞三首·其二",
+    "author": "王涯",
+    "paragraphs": [
+      "燕頷多奇相，狼頭敢犯邊。寄言班定遠，正是立功年。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "從軍詞三首·其三",
+    "author": "王涯",
+    "paragraphs": [
       "旄頭夜落捷書飛，來奏金門著賜衣。",
       "白馬將軍頻破敵，黃龍戍卒幾時歸。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
-    "title": "塞下曲二首",
+    "title": "塞下曲二首·其一",
     "author": "王涯",
     "paragraphs": [
       "辛勤幾出黃花戍，迢遞初隨細柳營。",
-      "塞晚每愁殘月苦，邊愁更逐斷蓬驚。",
+      "塞晚每愁殘月苦，邊愁更逐斷蓬驚。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞下曲二首·其二",
+    "author": "王涯",
+    "paragraphs": [
       "年少辭家從冠軍，金妝寶劍去邀勳。",
       "不知馬骨傷寒水，唯見龍城起暮雲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -210,32 +309,54 @@
     }
   },
   {
-    "title": "遊春詞二首",
+    "title": "遊春詞二首·其一",
     "author": "王涯",
     "paragraphs": [
       "曲江綠柳變煙條，寒穀冰隨暖氣銷。",
-      "才見春光生綺陌，已聞清樂動雲韶。",
-      "經過柳陌與桃蹊，尋逐春光著處迷。",
-      "鳥度時時沖絮起，花繁袞袞壓枝低。"
+      "才見春光生綺陌，已聞清樂動雲韶。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "秋思二首",
+    "title": "遊春詞二首·其二",
+    "author": "王涯",
+    "paragraphs": [
+      "經過柳陌與桃蹊，尋逐春光著處迷。",
+      "鳥度時時沖絮起，花繁袞袞壓枝低。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "秋思二首·其一",
     "author": "王涯",
     "paragraphs": [
       "網軒涼吹動輕衣，夜聽更長玉漏稀。",
-      "月度天河光轉濕，鵲驚秋樹葉頻飛。",
+      "月度天河光轉濕，鵲驚秋樹葉頻飛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "秋思二首·其二",
+    "author": "王涯",
+    "paragraphs": [
       "宮連太液見滄波，暑氣微消秋意多。",
       "一夜清風蘋末起，露珠翻盡滿池荷。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -279,17 +400,28 @@
     }
   },
   {
-    "title": "秋思贈遠二首",
+    "title": "秋思贈遠二首·其一",
     "author": "王涯",
     "paragraphs": [
       "當年只自守空帷，夢裏關山覺別離。",
-      "不見鄉書傳雁足，唯看新月吐蛾眉。",
+      "不見鄉書傳雁足，唯看新月吐蛾眉。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "秋思贈遠二首·其二",
+    "author": "王涯",
+    "paragraphs": [
       "厭攀楊柳臨清閣，閑采芙蕖傍碧潭。",
       "走馬台邊人不見，拂雲堆畔戰初酣。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

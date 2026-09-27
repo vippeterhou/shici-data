@@ -13,17 +13,28 @@
     }
   },
   {
-    "title": "初月二首",
+    "title": "初月二首·其一",
     "author": "李群玉",
     "paragraphs": [
       "灩灩流光淺，娟娟泛露輕。雲間龍爪落，簾上玉鉤明。",
-      "桂樹枝猶小，仙人影未成。欲為千里別，倚幌獨含情。",
+      "桂樹枝猶小，仙人影未成。欲為千里別，倚幌獨含情。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "初月二首·其二",
+    "author": "李群玉",
+    "paragraphs": [
       "凝顰立戶前，細魄向娟娟。破鏡徒相問，刀頭恐來年。",
       "輕輕搖遠水，脈脈下春煙。別後春江上，隨人何處圓。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -119,19 +130,41 @@
     }
   },
   {
-    "title": "登蒲澗寺後二岩三首",
+    "title": "登蒲澗寺後二岩三首·其一",
     "author": "李群玉",
     "paragraphs": [
       "五仙騎五羊，何代降茲鄉。澗有堯年韭，山餘禹日糧。",
-      "樓臺籠海色，草樹發天香。浩嘯波光裏，浮溟興甚長。",
+      "樓臺籠海色，草樹發天香。浩嘯波光裏，浮溟興甚長。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "登蒲澗寺後二岩三首·其二",
+    "author": "李群玉",
+    "paragraphs": [
       "行盡崎嶇路，驚從汗漫遊。青天豁眼快，碧海醒心秋。",
-      "便欲尋河漢，因之犯鬥牛。九霄身自致，何必遇浮丘。",
+      "便欲尋河漢，因之犯鬥牛。九霄身自致，何必遇浮丘。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "登蒲澗寺後二岩三首·其三",
+    "author": "李群玉",
+    "paragraphs": [
       "南溟吞越絕，極望碧鴻蒙。龍渡潮聲裏，雷喧雨氣中。",
       "趙佗丘壟滅，馬援鼓鼙空。遐想魚鵬化，開襟九萬風。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -396,17 +429,28 @@
     }
   },
   {
-    "title": "洞庭風雨二首",
+    "title": "洞庭風雨二首·其一",
     "author": "李群玉",
     "paragraphs": [
       "面南一片黑，俄起北風顛。浪潑巴陵樹，雷燒鹿角田。",
-      "魚龍方簸蕩，雲雨正喧闐。想赭君山日，秦皇怒赫然。",
+      "魚龍方簸蕩，雲雨正喧闐。想赭君山日，秦皇怒赫然。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "洞庭風雨二首·其二",
+    "author": "李群玉",
+    "paragraphs": [
       "巨浸吞湘澧，西風忽怒號。水將天共黑，雲與浪爭高。",
       "羽化思乘鯉，山漂欲抃鼇。陽烏猶曝翅，真恐濕蟠桃。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -424,17 +468,28 @@
     }
   },
   {
-    "title": "中秋維舟君山看月二首",
+    "title": "中秋維舟君山看月二首·其一",
     "author": "李群玉",
     "paragraphs": [
       "汗漫鋪澄碧，朦朧吐玉盤。雨師清滓穢，川後掃波瀾。",
-      "氣射繁星滅，光籠八表寒。來從雲漲迥，路上碧霄寬。",
+      "氣射繁星滅，光籠八表寒。來從雲漲迥，路上碧霄寬。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "中秋維舟君山看月二首·其二",
+    "author": "李群玉",
+    "paragraphs": [
       "熠耀遊何處，蟾蜍食漸殘。棹翻銀浪急，林映白虹攢。",
       "練彩連河曉，冰暉壓樹幹。夜深高不動，天下仰頭看。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -543,32 +598,54 @@
     }
   },
   {
-    "title": "東湖二首",
+    "title": "東湖二首·其一",
     "author": "李群玉",
     "paragraphs": [
       "晚景微雨歇，逍遙湖上亭。波閑魚弄餌，樹靜鳥遺翎。",
-      "性野難依俗，詩玄自入冥。何繇遂瀟灑，高枕對雲汀。",
-      "雨氣消殘暑，蒼蒼月欲升。林間風卷簟，欄下水搖燈。",
-      "迥野垂銀鏡，層巒掛玉繩。重期浮小楫，來摘半湖菱。"
+      "性野難依俗，詩玄自入冥。何繇遂瀟灑，高枕對雲汀。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "湖閣曉晴寄呈從翁二首",
+    "title": "東湖二首·其二",
+    "author": "李群玉",
+    "paragraphs": [
+      "雨氣消殘暑，蒼蒼月欲升。林間風卷簟，欄下水搖燈。",
+      "迥野垂銀鏡，層巒掛玉繩。重期浮小楫，來摘半湖菱。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "湖閣曉晴寄呈從翁二首·其一",
     "author": "李群玉",
     "paragraphs": [
       "嶺日開寒霧，湖光蕩霽華。風烏搖徑柳，水蝶戀幽花。",
-      "蜀國地西極，吳門天一涯。輕舟欄下去，點點入湘霞。",
+      "蜀國地西極，吳門天一涯。輕舟欄下去，點點入湘霞。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "湖閣曉晴寄呈從翁二首·其二",
+    "author": "李群玉",
+    "paragraphs": [
       "高秋憑遠檻，萬里看新晴。重霧披天急，千雲觸石輕。",
       "湖山四五點，湘雁兩三聲。遙想潘園裏，琴尊興轉清。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

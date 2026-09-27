@@ -12,17 +12,28 @@
     }
   },
   {
-    "title": "宛轉歌二首",
+    "title": "宛轉歌二首·其一",
     "author": "郎大家宋氏",
     "paragraphs": [
       "風已清，月朗琴複鳴。掩抑非千態，殷勤是一聲。",
-      "歌宛轉，宛轉和且長。願為雙鴻鵠，比翼共翱翔。",
+      "歌宛轉，宛轉和且長。願為雙鴻鵠，比翼共翱翔。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [3, 5, 5, 5, 3, 5, 5, 5],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "宛轉歌二首·其二",
+    "author": "郎大家宋氏",
+    "paragraphs": [
       "日已暮，長簷鳥聲度。此時望君君不來，此時思君君不顧。",
       "歌宛轉，宛轉那能異棲宿。願為形與影，出入恒相逐。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [3, 5, 5, 5, 3, 5, 5, 5, 3, 5, 7, 7, 3, 7, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [3, 5, 7, 7, 3, 7, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -285,17 +296,28 @@
     }
   },
   {
-    "title": "春詞二首",
+    "title": "春詞二首·其一",
     "author": "張琰",
     "paragraphs": [
       "垂柳鳴黃鸝，關關若求友。春情不可耐，愁殺閨中婦。",
-      "日暮登高樓，誰憐小垂手。",
+      "日暮登高樓，誰憐小垂手。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春詞二首·其二",
+    "author": "張琰",
+    "paragraphs": [
       "昨日桃花飛，今朝梨花吐。春色能幾時，那堪此愁緒。",
       "蕩子遊不歸，春來淚如雨。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -325,17 +347,28 @@
     }
   },
   {
-    "title": "哭夫二首",
+    "title": "哭夫二首·其一",
     "author": "裴羽仙",
     "paragraphs": [
       "風卷平沙日欲曛，狼煙遙認犬羊群。",
-      "李陵一戰無歸日，望斷胡天哭塞雲。",
+      "李陵一戰無歸日，望斷胡天哭塞雲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "哭夫二首·其二",
+    "author": "裴羽仙",
+    "paragraphs": [
       "良人平昔逐蕃渾，力戰輕行出塞門。",
       "從此不歸成萬古，空留賤妾怨黃昏。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

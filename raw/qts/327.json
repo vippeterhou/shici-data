@@ -1,35 +1,79 @@
 [
   {
-    "title": "德宗神武孝文皇帝挽歌詞三首",
+    "title": "德宗神武孝文皇帝挽歌詞三首·其一",
     "author": "權德輿",
     "paragraphs": [
       "覆露雍熙運，澄清教化源。賡歌凝庶績，羽舞被深恩。",
-      "纂業光文祖，貽謀屬孝孫。恭聞留末命，猶是愛元元。",
-      "梯航來萬國，玉帛慶三朝。湛露恩方浹，熏風曲正調。",
-      "晏車悲鹵簿，廣樂遏簫韶。最愴號弓處，龍髯上紫霄。",
-      "常時柏梁宴，今日谷林歸。玉斝恩波遍，靈轀煙雨霏。",
-      "喬山森羽騎，渭水擁旌旗。仙馭何由見，耘田鳥自飛。"
+      "纂業光文祖，貽謀屬孝孫。恭聞留末命，猶是愛元元。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "順宗至德大安孝皇帝挽歌三首",
+    "title": "德宗神武孝文皇帝挽歌詞三首·其二",
+    "author": "權德輿",
+    "paragraphs": [
+      "梯航來萬國，玉帛慶三朝。湛露恩方浹，熏風曲正調。",
+      "晏車悲鹵簿，廣樂遏簫韶。最愴號弓處，龍髯上紫霄。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "德宗神武孝文皇帝挽歌詞三首·其三",
+    "author": "權德輿",
+    "paragraphs": [
+      "常時柏梁宴，今日谷林歸。玉斝恩波遍，靈轀煙雨霏。",
+      "喬山森羽騎，渭水擁旌旗。仙馭何由見，耘田鳥自飛。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "順宗至德大安孝皇帝挽歌三首·其一",
     "author": "權德輿",
     "paragraphs": [
       "十葉開昌運，三辰麗德音。薦功期瘞玉，昭儉每捐金。",
-      "解澤皇風遍，虞泉白日沈。仍聞起居注，焚奏感人心。",
+      "解澤皇風遍，虞泉白日沈。仍聞起居注，焚奏感人心。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "順宗至德大安孝皇帝挽歌三首·其二",
+    "author": "權德輿",
+    "paragraphs": [
       "孝理本憂勤，玄功在嗇神。睿圖傳上嗣，壽酒比家人。",
-      "仙馭三清遠，行宮萬象新。小臣司吉從，還扈屬車塵。",
+      "仙馭三清遠，行宮萬象新。小臣司吉從，還扈屬車塵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "順宗至德大安孝皇帝挽歌三首·其三",
+    "author": "權德輿",
+    "paragraphs": [
       "候曉傳清蹕，迎風引彩旒。共瞻宮輅出，遙想望陵愁。",
       "弓劍隨雲氣，衣冠奉月遊。空餘駕龍處，搖落鼎湖秋。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -47,94 +91,171 @@
     }
   },
   {
-    "title": "大行皇太后挽歌詞三首",
+    "title": "大行皇太后挽歌詞三首·其一",
     "author": "權德輿",
     "paragraphs": [
       "筮水靈源浚，因山祔禮崇。從龍開ek路，合璧向方中。",
-      "殿帳金根出，廞衣玉座空。唯餘文母化，陰德滿公宮。",
-      "配禮歸清廟，靈儀出直城。九虞寧厚載，一惠易尊名。",
-      "曉漏銅壺澀，秋風羽翣輕。容車攀望處，孺慕切皇情。",
-      "哀笳出長信，寶劍入延津。嗚咽宮車進，淒涼祠殿新。",
-      "青烏靈兆久，白燕瑞書頻。從此山園夕，金波照玉塵。"
+      "殿帳金根出，廞衣玉座空。唯餘文母化，陰德滿公宮。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 4, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },
   {
-    "title": "惠昭皇太子挽歌詞二首",
+    "title": "大行皇太后挽歌詞三首·其二",
+    "author": "權德輿",
+    "paragraphs": [
+      "配禮歸清廟，靈儀出直城。九虞寧厚載，一惠易尊名。",
+      "曉漏銅壺澀，秋風羽翣輕。容車攀望處，孺慕切皇情。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "大行皇太后挽歌詞三首·其三",
+    "author": "權德輿",
+    "paragraphs": [
+      "哀笳出長信，寶劍入延津。嗚咽宮車進，淒涼祠殿新。",
+      "青烏靈兆久，白燕瑞書頻。從此山園夕，金波照玉塵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "惠昭皇太子挽歌詞二首·其一",
     "author": "權德輿",
     "paragraphs": [
       "前星落慶霄，薤露逐晨飆。宮仗黃麾出，仙遊紫府遙。",
-      "空嗟鳳吹去，無複雞鳴朝。今夜西園月，重輪更寂寥。",
+      "空嗟鳳吹去，無複雞鳴朝。今夜西園月，重輪更寂寥。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "惠昭皇太子挽歌詞二首·其二",
+    "author": "權德輿",
+    "paragraphs": [
       "東朝聞楚挽，羽翿依稀轉。天歸京兆新，日與長安遠。",
       "蘭芳落故殿，桂影銷空苑。騎吹咽不前，風悲九旗卷。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "贈文敬太子挽歌詞二首",
+    "title": "贈文敬太子挽歌詞二首·其一",
     "author": "權德輿",
     "paragraphs": [
       "磐石公封重，瑤山贈禮尊。歸全榮備物，樂善積深恩。",
-      "雁沼寒波咽，鸞旌夕吹翻。唯餘西靡樹，千古霸陵原。",
+      "雁沼寒波咽，鸞旌夕吹翻。唯餘西靡樹，千古霸陵原。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "贈文敬太子挽歌詞二首·其二",
+    "author": "權德輿",
+    "paragraphs": [
       "銅壺曉漏初，羽翣擁塗車。方外留鴻寶，人間得善書。",
       "清笳悲畫綬，朱邸散長裾。還似緱山駕，飄飄向碧虛。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "贈鄭國莊穆公主挽歌二首",
+    "title": "贈鄭國莊穆公主挽歌二首·其一",
     "author": "權德輿",
     "paragraphs": [
       "追飾崇湯沐，遺芳藹禁闈。秋原森羽衛，夜壑掩容輝。",
-      "睿藻悲難盡，公宮望不歸。笳簫向煙霧，疑是彩鸞飛。",
+      "睿藻悲難盡，公宮望不歸。笳簫向煙霧，疑是彩鸞飛。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "贈鄭國莊穆公主挽歌二首·其二",
+    "author": "權德輿",
+    "paragraphs": [
       "舊館閉平陽，容車啟壽堂。霜凝蕣英落，風度薤歌長。",
       "淑德圖書在，皇慈禮命彰。淒涼霸川曲，壟樹已成行。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "贈魏國憲穆公主挽歌詞二首",
+    "title": "贈魏國憲穆公主挽歌詞二首·其一",
     "author": "權德輿",
     "paragraphs": [
       "漢制榮車服，周詩美肅雍。禮尊同姓主，恩錫大名封。",
-      "外館留圖史，陰堂閉德容。睿詞悲薤露，千古仰芳蹤。",
+      "外館留圖史，陰堂閉德容。睿詞悲薤露，千古仰芳蹤。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "贈魏國憲穆公主挽歌詞二首·其二",
+    "author": "權德輿",
+    "paragraphs": [
       "秦樓曉月殘，鹵簿列材官。紅綬蘭桂歇，粉田風露寒。",
       "凝笳悲駟馬，清鏡掩孤鸞。湣冊徽音在，都人雪涕看。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "贈梁國惠康公主挽歌詞二首",
+    "title": "贈梁國惠康公主挽歌詞二首·其一",
     "author": "權德輿",
     "paragraphs": [
       "外館嬪儀貴，中參睿渥深。初笄橫白玉，盛服鏤黃金。",
-      "風度簫聲遠，河低婺彩沈。夜台留冊諡，悽愴即徽音。",
+      "風度簫聲遠，河低婺彩沈。夜台留冊諡，悽愴即徽音。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "贈梁國惠康公主挽歌詞二首·其二",
+    "author": "權德輿",
+    "paragraphs": [
       "杳靄異湘川，飄颻駕紫煙。鳳樓人已去，鸞鏡月空懸。",
       "霧濕湯沐地，霜凝脂粉田。音容無處所，應在玉皇前。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

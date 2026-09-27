@@ -1,14 +1,25 @@
 [
   {
-    "title": "荊州歌二首",
+    "title": "荊州歌二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
-      "渚宮楊柳暗，麥城朝雉飛。可憐踏青伴，乘暖著輕衣。",
+      "渚宮楊柳暗，麥城朝雉飛。可憐踏青伴，乘暖著輕衣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "荊州歌二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "今日好南風，商旅相催發。沙頭檣竿上，始見春江闊。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -37,46 +48,134 @@
     }
   },
   {
-    "title": "三閣辭四首",
+    "title": "三閣辭四首·其一",
     "author": "劉禹錫",
     "paragraphs": [
-      "貴人三閣上，日晏未梳頭。不應有恨事，嬌甚卻成愁。",
-      "珠箔曲瓊鉤，仔細見揚州。北兵那得度，浪話判悠悠。",
-      "沉香帖閣柱，金縷畫門楣。回首降幡下，已見黍離離。",
+      "貴人三閣上，日晏未梳頭。不應有恨事，嬌甚卻成愁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "三閣辭四首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
+      "珠箔曲瓊鉤，仔細見揚州。北兵那得度，浪話判悠悠。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "三閣辭四首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
+      "沉香帖閣柱，金縷畫門楣。回首降幡下，已見黍離離。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "三閣辭四首·其四",
+    "author": "劉禹錫",
+    "paragraphs": [
       "三人出眢井，一身登檻車。朱門漫臨水，不可見鱸魚。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "紇那曲二首",
+    "title": "紇那曲二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
-      "楊柳鬱青青，竹枝無限情。周郎一回顧，聽唱紇那聲。",
+      "楊柳鬱青青，竹枝無限情。周郎一回顧，聽唱紇那聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "紇那曲二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "踏曲興無窮，調同詞不同。願郎千萬壽，長作主人翁。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "淮陰行五首",
+    "title": "淮陰行五首·其一",
     "author": "劉禹錫",
     "paragraphs": [
-      "簇簇淮陰市，竹樓緣岸上。好日起檣竿，烏飛驚五兩。",
-      "今日轉船頭，金烏指西北。煙波與春草，千里同一色。",
-      "船頭大銅鐶，摩挲光陣陣。早早使風來，沙頭一眼認。",
-      "何物令儂羨，羨郎船尾燕。銜泥趁檣竿，宿食長相見。",
+      "簇簇淮陰市，竹樓緣岸上。好日起檣竿，烏飛驚五兩。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "淮陰行五首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
+      "今日轉船頭，金烏指西北。煙波與春草，千里同一色。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "淮陰行五首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
+      "船頭大銅鐶，摩挲光陣陣。早早使風來，沙頭一眼認。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "淮陰行五首·其四",
+    "author": "劉禹錫",
+    "paragraphs": [
+      "何物令儂羨，羨郎船尾燕。銜泥趁檣竿，宿食長相見。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "淮陰行五首·其五",
+    "author": "劉禹錫",
+    "paragraphs": [
       "隔浦望行船，頭昂尾幰幰。無奈晚來時，清淮春浪軟。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -129,16 +228,38 @@
     }
   },
   {
-    "title": "柳花詞三首",
+    "title": "柳花詞三首·其一",
     "author": "劉禹錫",
     "paragraphs": [
-      "開從綠條上，散逐香風遠。故取花落時，悠揚占春晚。",
-      "輕飛不假風，輕落不委地。撩亂舞晴空，發人無限思。",
+      "開從綠條上，散逐香風遠。故取花落時，悠揚占春晚。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "柳花詞三首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
+      "輕飛不假風，輕落不委地。撩亂舞晴空，發人無限思。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "柳花詞三首·其三",
+    "author": "劉禹錫",
+    "paragraphs": [
       "晴天闇闇雪，來送青春暮。無意似多情，千家萬家去。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -191,54 +312,98 @@
     }
   },
   {
-    "title": "題壽安甘棠館二首",
+    "title": "題壽安甘棠館二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
-      "公館似仙家，池清竹徑斜。山禽忽驚起，沖落半岩花。",
+      "公館似仙家，池清竹徑斜。山禽忽驚起，沖落半岩花。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "題壽安甘棠館二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "門前洛陽道，門裏桃花路。塵土與煙霞，其間十餘步。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "古詞二首",
+    "title": "古詞二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
-      "軒後初冠冕，前旒為蔽明。安知從複道，然後見人情。",
+      "軒後初冠冕，前旒為蔽明。安知從複道，然後見人情。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古詞二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "簿領乃俗士，清談信古風。吾觀蘇令綽，朱墨一何工。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "寓興二首",
+    "title": "寓興二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
-      "常談即至理，安事非常情。寄語何平叔，無為輕老生。",
+      "常談即至理，安事非常情。寄語何平叔，無為輕老生。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "寓興二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "世途多禮數，鵬鷃各逍遙。何事陶彭澤，拋官為折腰。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "詠史二首",
+    "title": "詠史二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
-      "驃騎非無勢，少卿終不去。世道劇頹波，我心如砥柱。",
+      "驃騎非無勢，少卿終不去。世道劇頹波，我心如砥柱。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "詠史二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "賈生明王道，衛綰工車戲。同遇漢文時，何人居貴位。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -291,15 +456,26 @@
     }
   },
   {
-    "title": "敬酬微公見寄二首",
+    "title": "敬酬微公見寄二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
-      "淒涼沃州僧，憔悴柴桑宰。別來二十年，唯餘兩心在。",
+      "淒涼沃州僧，憔悴柴桑宰。別來二十年，唯餘兩心在。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "敬酬微公見寄二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "越江千里鏡，越嶺四時雪。中有逍遙人，夜深觀水月。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -316,41 +492,74 @@
     }
   },
   {
-    "title": "答表臣贈別二首",
+    "title": "答表臣贈別二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
-      "昔為瑤池侶，飛舞集蓬萊。今作江漢別，風雪一徘徊。",
+      "昔為瑤池侶，飛舞集蓬萊。今作江漢別，風雪一徘徊。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "答表臣贈別二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "嘶馬立未還，行舟路將轉。江頭暝色深，揮袖依稀見。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "始發鄂渚寄表臣二首",
+    "title": "始發鄂渚寄表臣二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
-      "祖帳管弦絕，客帆西風生。回車已不見，猶聽馬嘶聲。",
+      "祖帳管弦絕，客帆西風生。回車已不見，猶聽馬嘶聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "始發鄂渚寄表臣二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "曉發柳林戍，遙城聞五鼓。憶與故人眠，此時猶晤語。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "出鄂州界懷錶臣二首",
+    "title": "出鄂州界懷錶臣二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
-      "離席一揮杯，別愁今尚醉。遲遲有情處，卻恨江帆駛。",
+      "離席一揮杯，別愁今尚醉。遲遲有情處，卻恨江帆駛。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "出鄂州界懷錶臣二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "夢覺疑連榻，舟行忽千里。不見黃鶴樓，寒沙雪相似。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -367,28 +576,50 @@
     }
   },
   {
-    "title": "西州李尚書知愚與元武昌有舊遠示二篇吟之泫然因以繼和二首",
+    "title": "西州李尚書知愚與元武昌有舊遠示二篇吟之泫然因以繼和二首·其一",
     "author": "劉禹錫",
     "paragraphs": [
-      "如何贈琴日，已是絕弦時。無複雙金報，空餘掛劍悲。",
-      "寶匣從此閑，朱弦誰複調。只應隨玉樹，同向土中銷。"
+      "如何贈琴日，已是絕弦時。無複雙金報，空餘掛劍悲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "別蘇州二首",
+    "title": "西州李尚書知愚與元武昌有舊遠示二篇吟之泫然因以繼和二首·其二",
     "author": "劉禹錫",
     "paragraphs": [
-      "三載為吳郡，臨岐祖帳開。雖非謝桀黠，且為一裴回。",
+      "寶匣從此閑，朱弦誰複調。只應隨玉樹，同向土中銷。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "別蘇州二首·其一",
+    "author": "劉禹錫",
+    "paragraphs": [
+      "三載為吳郡，臨岐祖帳開。雖非謝桀黠，且為一裴回。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "別蘇州二首·其二",
+    "author": "劉禹錫",
+    "paragraphs": [
       "流水閶門外，秋風吹柳條。從來送客處，今日自魂銷。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

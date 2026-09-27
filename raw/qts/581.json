@@ -90,17 +90,28 @@
     }
   },
   {
-    "title": "題豐安裏王相林亭二首",
+    "title": "題豐安裏王相林亭二首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "花竹有薄埃，嘉遊集上才。白蘋安石渚，紅葉子雲台。",
-      "朱戶雀羅設，黃門馭騎來。不知淮水濁，丹藕為誰開。",
+      "朱戶雀羅設，黃門馭騎來。不知淮水濁，丹藕為誰開。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "題豐安裏王相林亭二首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
       "偶到烏衣巷，含情更惘然。西州曲堤柳，東府舊池蓮。",
       "星坼悲元老，雲歸送墨仙。誰知濟川楫，今作野人船。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -221,17 +232,28 @@
     }
   },
   {
-    "title": "贈越僧嶽雲二首",
+    "title": "贈越僧嶽雲二首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "世機消已盡，巾屨亦飄然。一室故山月，滿瓶秋澗泉。",
-      "禪庵過微雪，鄉寺隔寒煙。應共白蓮客，相期松桂前。",
+      "禪庵過微雪，鄉寺隔寒煙。應共白蓮客，相期松桂前。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "贈越僧嶽雲二首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
       "蘭亭舊都講，今日意如何。有樹關深院，無塵到淺莎。",
       "僧居隨處好，人事出門多。不及新春雁，年年鏡水波。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -327,17 +349,28 @@
     }
   },
   {
-    "title": "題僧泰恭院二首",
+    "title": "題僧泰恭院二首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "昔歲東林下，深公識姓名。爾來辭半偈，空複歎勞生。",
-      "憂患慕禪味，寂寥遺世情。所歸心自得，何事倦塵纓。",
+      "憂患慕禪味，寂寥遺世情。所歸心自得，何事倦塵纓。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "題僧泰恭院二首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
       "微生竟勞止，晤言猶是非。出門還有淚，看竹暫忘機。",
       "爽氣三秋近，浮生一笑稀。故山松菊在，終欲掩荊扉。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -420,17 +453,28 @@
     }
   },
   {
-    "title": "春日寄岳州從事李員外二首",
+    "title": "春日寄岳州從事李員外二首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "苒弱樓前柳，輕空花外窗。蝶高飛有伴，鶯早語無雙。",
-      "剪勝裁春字，開屏見曉江。從來共情戰，今日欲歸降。",
+      "剪勝裁春字，開屏見曉江。從來共情戰，今日欲歸降。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日寄岳州從事李員外二首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
       "從小識賓卿，恩深若弟兄。相逢在何日，此別不勝情。",
       "紅粉座中客，彩斿江上城。尚平婚嫁累，無路逐雙旌。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

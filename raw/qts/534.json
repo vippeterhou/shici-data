@@ -104,17 +104,28 @@
     }
   },
   {
-    "title": "村舍二首",
+    "title": "村舍二首·其一",
     "author": "許渾",
     "paragraphs": [
       "自翦青莎織雨衣，南峰煙火是柴扉。萊妻早報蒸藜熟，",
-      "花時未免人來往，欲買嚴光舊釣磯。",
+      "花時未免人來往，欲買嚴光舊釣磯。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "村舍二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "尚平多累自歸難，一日身閑一日安。山徑曉雲收獵網，",
       "三頃水田秋更熟，北窗誰拂舊塵冠。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

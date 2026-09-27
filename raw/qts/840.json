@@ -177,17 +177,28 @@
     }
   },
   {
-    "title": "渚宮自勉二首",
+    "title": "渚宮自勉二首·其一",
     "author": "齊己",
     "paragraphs": [
       "晨午殊豐足，伊何撓肺腸。形容侵老病，山水憶韜藏。",
-      "必謝金台去，還攜鐵錫將。東林露壇畔，舊對白蓮房。",
+      "必謝金台去，還攜鐵錫將。東林露壇畔，舊對白蓮房。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "渚宮自勉二首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "畢竟擬何求，隨緣去住休。天涯遊勝境，海上宿仙洲。",
       "夢好尋無跡，詩成旋不留。從他笑輕事，獨自憶莊周。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -506,17 +517,28 @@
     }
   },
   {
-    "title": "鷺鷥二首",
+    "title": "鷺鷥二首·其一",
     "author": "齊己",
     "paragraphs": [
       "日日滄江去，時時得意歸。自能終潔白，何處誤翻飛。",
-      "晚立銀塘闊，秋棲玉露微。殘陽葦花畔，雙下釣魚磯。",
+      "晚立銀塘闊，秋棲玉露微。殘陽葦花畔，雙下釣魚磯。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "鷺鷥二首·其二",
+    "author": "齊己",
+    "paragraphs": [
       "雪裏曾迷我，籠中舊養君。忽從紅蓼岸，飛出白鷗群。",
       "影照翹灘浪，翎濡宿島雲。鴛鴻解相憶，天上列紛紛。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

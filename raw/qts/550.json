@@ -266,17 +266,28 @@
     }
   },
   {
-    "title": "悼亡二首",
+    "title": "悼亡二首·其一",
     "author": "趙嘏",
     "paragraphs": [
       "一燭從風到奈何，二年衾枕逐流波。",
-      "雖知不得公然淚，時泣闌幹恨更多。",
+      "雖知不得公然淚，時泣闌幹恨更多。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "悼亡二首·其二",
+    "author": "趙嘏",
+    "paragraphs": [
       "明月蕭蕭海上風，君歸泉路我飄蓬。",
       "門前雖有如花貌，爭奈如花心不同。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -333,17 +344,28 @@
     }
   },
   {
-    "title": "下第後歸永樂裏自題二首",
+    "title": "下第後歸永樂裏自題二首·其一",
     "author": "趙嘏",
     "paragraphs": [
       "無地無媒只一身，歸來空拂滿床塵。",
-      "尊前盡日誰相對，唯有南山似故人。",
+      "尊前盡日誰相對，唯有南山似故人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "下第後歸永樂裏自題二首·其二",
+    "author": "趙嘏",
+    "paragraphs": [
       "玄發侵愁忽似翁，暖塵寒袖共東風。",
       "公卿門戶不知處，立馬九衢春影中。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -530,17 +552,28 @@
     }
   },
   {
-    "title": "發新安後途中寄盧中丞二首",
+    "title": "發新安後途中寄盧中丞二首·其一",
     "author": "趙嘏",
     "paragraphs": [
       "樓上風流庾使君，笙歌曾醉此中聞。",
-      "目前已是陵陽路，回首叢山滿眼雲。",
+      "目前已是陵陽路，回首叢山滿眼雲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "發新安後途中寄盧中丞二首·其二",
+    "author": "趙嘏",
+    "paragraphs": [
       "晚樹蕭蕭促織愁，風簾似水滿床秋。",
       "千山不礙笙歌月，誰伴羊公上夜樓。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -714,17 +747,28 @@
     }
   },
   {
-    "title": "尋僧二首",
+    "title": "尋僧二首·其一",
     "author": "趙嘏",
     "paragraphs": [
       "台殿參差日墮塵，塢西歸去一庵雲。",
-      "寒泉何處夜深落，聲隔半岩疏葉聞。",
+      "寒泉何處夜深落，聲隔半岩疏葉聞。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "尋僧二首·其二",
+    "author": "趙嘏",
+    "paragraphs": [
       "溪戶無人穀鳥飛，石橋橫木掛禪衣。",
       "看雲日暮倚松立，野水亂鳴僧未歸。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -872,25 +916,80 @@
     }
   },
   {
-    "title": "送從翁中丞奉使黠戛斯六首",
+    "title": "送從翁中丞奉使黠戛斯六首·其一",
     "author": "趙嘏",
     "paragraphs": [
       "揚雄詞賦舉天聞，萬里油幢照塞雲。",
-      "僕射峰西幾千騎，一時迎著漢將軍。",
+      "僕射峰西幾千騎，一時迎著漢將軍。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送從翁中丞奉使黠戛斯六首·其二",
+    "author": "趙嘏",
+    "paragraphs": [
       "旌旗杳杳雁蕭蕭，春盡窮沙雪未消。",
-      "料得堅昆受宣後，始知公主已歸朝。",
+      "料得堅昆受宣後，始知公主已歸朝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送從翁中丞奉使黠戛斯六首·其三",
+    "author": "趙嘏",
+    "paragraphs": [
       "雖言窮北海雲中，屬國當時事不同。",
-      "九姓如今盡臣妾，歸期那肯待秋風。",
+      "九姓如今盡臣妾，歸期那肯待秋風。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送從翁中丞奉使黠戛斯六首·其四",
+    "author": "趙嘏",
+    "paragraphs": [
       "牢山望斷絕塵氛，灩灩河西拂地雲。",
-      "誰見魯儒持漢節，玉關降盡可汗軍。",
+      "誰見魯儒持漢節，玉關降盡可汗軍。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送從翁中丞奉使黠戛斯六首·其五",
+    "author": "趙嘏",
+    "paragraphs": [
       "山川險易接胡塵，秦漢圖來或未真。",
-      "自此盡知邊塞事，河湟更欲托何人。",
+      "自此盡知邊塞事，河湟更欲托何人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送從翁中丞奉使黠戛斯六首·其六",
+    "author": "趙嘏",
+    "paragraphs": [
       "秦皇無策建長城，劉氏仍窮北路兵。",
       "若遇單于舊牙帳，卻應傷歎漢公卿。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -908,17 +1007,28 @@
     }
   },
   {
-    "title": "僧舍二首",
+    "title": "僧舍二首·其一",
     "author": "趙嘏",
     "paragraphs": [
       "只言雙鬢未蹉跎，獨奈牛羊送日何。",
-      "禪客不歸車馬去，晚簷山色為誰多。",
+      "禪客不歸車馬去，晚簷山色為誰多。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "僧舍二首·其二",
+    "author": "趙嘏",
+    "paragraphs": [
       "溪上禪關水木間，水南山色與僧閑。",
       "春風盡日無來客，幽磬一聲高鳥還。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1040,17 +1150,28 @@
     }
   },
   {
-    "title": "代人聽琴二首",
+    "title": "代人聽琴二首·其一",
     "author": "趙嘏",
     "paragraphs": [
       "抱琴花夜不勝春，獨奏相思淚滿巾。",
-      "第五指中心最恨，數聲嗚咽為何人。",
+      "第五指中心最恨，數聲嗚咽為何人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "代人聽琴二首·其二",
+    "author": "趙嘏",
+    "paragraphs": [
       "湘娥不葬九疑雲，楚水連天坐憶君。",
       "惟有啼烏舊名在，忍教嗚咽夜長聞。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1081,17 +1202,28 @@
     }
   },
   {
-    "title": "遣興二首",
+    "title": "遣興二首·其一",
     "author": "趙嘏",
     "paragraphs": [
       "溪花入夏漸稀疏，雨氣如秋麥熟初。",
-      "終日苦吟人不會，海邊兄弟久無書。",
+      "終日苦吟人不會，海邊兄弟久無書。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "遣興二首·其二",
+    "author": "趙嘏",
+    "paragraphs": [
       "讀徹殘書弄水回，暮天何處笛聲哀。",
       "花前獨立無人會，依舊去年雙燕來。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1226,19 +1358,41 @@
     }
   },
   {
-    "title": "敘事獻同州侍禦三首",
+    "title": "敘事獻同州侍禦三首·其一",
     "author": "趙嘏",
     "paragraphs": [
       "青雲席中羅襪塵，白首江上吟詩人。",
-      "登龍不及三千士，虛度膺門二十春。",
+      "登龍不及三千士，虛度膺門二十春。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "敘事獻同州侍禦三首·其二",
+    "author": "趙嘏",
+    "paragraphs": [
       "平生望斷雲層層，紫府杳是他人登。",
-      "卻應歸訪溪邊寺，說向當時同社僧。",
+      "卻應歸訪溪邊寺，說向當時同社僧。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "敘事獻同州侍禦三首·其三",
+    "author": "趙嘏",
+    "paragraphs": [
       "尊前誰伴謝公游，蓮嶽晴來翠滿樓。",
       "坐見一方金變化，獨吟紅藥對殘秋。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

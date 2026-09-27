@@ -76,17 +76,28 @@
     }
   },
   {
-    "title": "雲安公主出降雜詠催妝二首",
+    "title": "雲安公主出降雜詠催妝二首·其一",
     "author": "陸暢",
     "paragraphs": [
       "天上瓊花不避秋，今宵織女嫁牽牛。",
-      "萬人惟待乘鸞出，乞巧齊登明月樓。",
+      "萬人惟待乘鸞出，乞巧齊登明月樓。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "雲安公主出降雜詠催妝二首·其二",
+    "author": "陸暢",
+    "paragraphs": [
       "少妝銀粉飾金鈿，端正天花貴自然。",
       "聞道禁中時節異，九秋香滿鏡臺前。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -247,17 +258,28 @@
     }
   },
   {
-    "title": "宿陝府北樓奉酬崔大夫二首",
+    "title": "宿陝府北樓奉酬崔大夫二首·其一",
     "author": "陸暢",
     "paragraphs": [
       "樓壓黃河山滿坐，風清水涼誰忍臥。",
-      "人定軍州禁漏傳，不妨秋月城頭過。",
+      "人定軍州禁漏傳，不妨秋月城頭過。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "宿陝府北樓奉酬崔大夫二首·其二",
+    "author": "陸暢",
+    "paragraphs": [
       "一別朱門三四春，再來應笑尚風塵。",
       "昨宵唯有樓前月，識是謝公詩酒人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

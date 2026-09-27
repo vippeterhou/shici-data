@@ -103,17 +103,28 @@
     }
   },
   {
-    "title": "過象耳山二首",
+    "title": "過象耳山二首·其一",
     "author": "薛能",
     "paragraphs": [
       "一色青松幾萬栽，異香熏路帶花開。",
-      "山門欲別心潛願，更到蜀中還到來。",
+      "山門欲別心潛願，更到蜀中還到來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "過象耳山二首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "到處逢山便欲登，自疑身作住來僧。",
       "徒行至此三千里，不是有緣應不能。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -235,17 +246,28 @@
     }
   },
   {
-    "title": "符亭二首",
+    "title": "符亭二首·其一",
     "author": "薛能",
     "paragraphs": [
       "符亭之地雅離群，萬古懸泉一旦新。",
-      "若念農桑也如此，縣人應得似行人。",
+      "若念農桑也如此，縣人應得似行人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "符亭二首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "山如巫峽煙雲好，路似嘉祥水木清。",
       "大抵遊人總應愛，就中難說是詩情。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -354,17 +376,28 @@
     }
   },
   {
-    "title": "西縣道中有短亭，岩穴飛泉隔江灑至，因成二首",
+    "title": "西縣道中有短亭，岩穴飛泉隔江灑至，因成二首·其一",
     "author": "薛能",
     "paragraphs": [
       "風涼津濕共微微，隔岸泉沖石竅飛。",
-      "爭得巨靈從野性，舊鄉無此擘將歸。",
+      "爭得巨靈從野性，舊鄉無此擘將歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "西縣道中有短亭，岩穴飛泉隔江灑至，因成二首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "一瀑三峰赤日天，路人才見便翛然。",
       "誰能夜向山根宿，涼月初生的有仙。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -707,17 +740,28 @@
     }
   },
   {
-    "title": "贈韋氏歌人二首",
+    "title": "贈韋氏歌人二首·其一",
     "author": "薛能",
     "paragraphs": [
       "弦管聲凝發唱高，幾人心地暗傷刀。",
-      "思量更有何堪比，王母新開一樹桃。",
+      "思量更有何堪比，王母新開一樹桃。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "贈韋氏歌人二首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "一曲新聲慘畫堂，可能心事憶周郎。",
       "朝來為客頻開口，綻盡桃花幾許香。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -800,16 +844,27 @@
     }
   },
   {
-    "title": "影燈夜二首",
+    "title": "影燈夜二首·其一",
     "author": "薛能",
     "paragraphs": [
       "偃王燈塔古徐州，二十年來樂事休。",
-      "此日將軍心似海，四更身領萬人遊。",
+      "此日將軍心似海，四更身領萬人遊。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "影燈夜二首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "十萬軍城百萬燈，酥油香暖夜如烝。紅妝滿地煙光好，只恐笙歌引上升。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -866,104 +921,379 @@
     }
   },
   {
-    "title": "折楊柳十首",
+    "title": "折楊柳十首·其一",
     "author": "薛能",
     "paragraphs": [
       "華清高樹出離宮，南陌柔條帶暖風。",
-      "誰見輕陰是良夜，瀑泉聲畔月明中。",
+      "誰見輕陰是良夜，瀑泉聲畔月明中。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳十首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "洛橋晴影覆江船，羌笛秋聲濕塞煙。",
-      "閑想習池公宴罷，水蒲風絮夕陽天。",
+      "閑想習池公宴罷，水蒲風絮夕陽天。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳十首·其三",
+    "author": "薛能",
+    "paragraphs": [
       "嫩綠輕懸似綴旒，路人遙見隔宮樓。",
-      "誰能更近丹墀種，解播皇風入九州。",
+      "誰能更近丹墀種，解播皇風入九州。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳十首·其四",
+    "author": "薛能",
+    "paragraphs": [
       "暖風晴日斷浮埃，廢路新條發釣台。",
-      "處處輕陰可惆悵，後人攀處古人栽。",
+      "處處輕陰可惆悵，後人攀處古人栽。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳十首·其五",
+    "author": "薛能",
+    "paragraphs": [
       "潭上江邊嫋嫋垂，日高風靜絮相隨。",
-      "青樓一樹無人見，正是女郎眠覺時。",
+      "青樓一樹無人見，正是女郎眠覺時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳十首·其六",
+    "author": "薛能",
+    "paragraphs": [
       "汴水高懸百萬條，風清兩岸一時搖。",
-      "隋家力盡虛栽得，無限春風屬聖朝。",
+      "隋家力盡虛栽得，無限春風屬聖朝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳十首·其七",
+    "author": "薛能",
+    "paragraphs": [
       "和風煙樹九重城，夾路春陰十萬營。",
-      "唯向邊頭不堪望，一株憔悴少人行。",
+      "唯向邊頭不堪望，一株憔悴少人行。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳十首·其八",
+    "author": "薛能",
+    "paragraphs": [
       "窗外齊垂旭日初，樓邊輕暖好風徐。",
-      "遊人莫道栽無益，桃李清陰卻不如。",
+      "遊人莫道栽無益，桃李清陰卻不如。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳十首·其九",
+    "author": "薛能",
+    "paragraphs": [
       "眾木猶寒獨早青，禦溝橋畔曲江亭。",
-      "陶家舊日應如此，一院春條綠繞廳。",
+      "陶家舊日應如此，一院春條綠繞廳。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳十首·其十",
+    "author": "薛能",
+    "paragraphs": [
       "帳偃纓垂細複繁，令人心想石家園。",
       "風條月影皆堪重，何事侯門愛樹萱。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "柳枝四首",
+    "title": "柳枝四首·其一",
     "author": "薛能",
     "paragraphs": [
       "數首新詩帶恨成，柳絲牽我我傷情。",
-      "柔娥幸有腰支穩，試踏吹聲作唱聲。",
+      "柔娥幸有腰支穩，試踏吹聲作唱聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝四首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "高出軍營遠映橋，賊兵曾斫火曾燒。",
-      "風流性在終難改，依舊春來萬萬條。",
+      "風流性在終難改，依舊春來萬萬條。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝四首·其三",
+    "author": "薛能",
+    "paragraphs": [
       "縣依陶令想嫌迂，營畔將軍即大粗。",
-      "此日與君除萬恨，數篇風調更應無。",
+      "此日與君除萬恨，數篇風調更應無。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝四首·其四",
+    "author": "薛能",
+    "paragraphs": [
       "狂似纖腰嫩勝綿，自多情態竟誰憐。",
       "遊人不折還堪恨，拋向橋邊與路邊。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "柳枝詞五首",
+    "title": "柳枝詞五首·其一",
     "author": "薛能",
     "paragraphs": [
       "朝陽晴照綠楊煙，一別通波十七年。",
-      "應有舊枝無處覓，萬株風裏卓旌旃。",
+      "應有舊枝無處覓，萬株風裏卓旌旃。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝詞五首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "晴垂芳態吐牙新，雨擺輕條濕面春。",
-      "別有出牆高數尺，不知搖動是何人。",
+      "別有出牆高數尺，不知搖動是何人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝詞五首·其三",
+    "author": "薛能",
+    "paragraphs": [
       "暖梳簪朵事登樓，因掛垂楊立地愁。",
-      "牽斷綠絲攀不得，半空懸著玉搔頭。",
+      "牽斷綠絲攀不得，半空懸著玉搔頭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝詞五首·其四",
+    "author": "薛能",
+    "paragraphs": [
       "西園高樹後庭根，處處尋芳有折痕。",
-      "終憶舊游桃葉舍，一株斜映竹籬門。",
+      "終憶舊游桃葉舍，一株斜映竹籬門。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柳枝詞五首·其五",
+    "author": "薛能",
+    "paragraphs": [
       "劉白蘇台總近時，當初章句是誰推。",
       "纖腰舞盡春楊柳，未有儂家一首詩。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "吳姬十首",
+    "title": "吳姬十首·其一",
     "author": "薛能",
     "paragraphs": [
       "夜鎖重門晝亦監，眼波嬌利瘦岩岩。",
-      "偏憐不怕傍人笑，自把春羅等舞衫。",
+      "偏憐不怕傍人笑，自把春羅等舞衫。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "吳姬十首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "龍麝熏多骨亦香，因經寒食好風光。",
-      "何人畫得天生態，枕破施朱隔宿妝。",
+      "何人畫得天生態，枕破施朱隔宿妝。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "吳姬十首·其三",
+    "author": "薛能",
+    "paragraphs": [
       "滴滴春霖透荔枝，筆題箋動手中垂。",
-      "天陰不得君王召，嚬著青蛾作小詩。",
+      "天陰不得君王召，嚬著青蛾作小詩。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "吳姬十首·其四",
+    "author": "薛能",
+    "paragraphs": [
       "鈿合重盛繡結深，昭陽初幸賜同心。",
-      "君知一夜恩多少，明日宣教放德音。",
+      "君知一夜恩多少，明日宣教放德音。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "吳姬十首·其五",
+    "author": "薛能",
+    "paragraphs": [
       "退紅香汗濕輕紗，高卷蚊廚獨臥斜。",
-      "嬌淚半垂珠不破，恨君瞋折後庭花。",
+      "嬌淚半垂珠不破，恨君瞋折後庭花。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "吳姬十首·其六",
+    "author": "薛能",
+    "paragraphs": [
       "取次衣裳盡帶珠，別添龍腦裛羅襦。",
-      "年來寄與鄉中伴，殺盡春蠶稅亦無。",
+      "年來寄與鄉中伴，殺盡春蠶稅亦無。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "吳姬十首·其七",
+    "author": "薛能",
+    "paragraphs": [
       "畫燭燒蘭暖複迷，殿幃深密下銀泥。",
-      "開門欲作侵晨散，已是明朝日向西。",
+      "開門欲作侵晨散，已是明朝日向西。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "吳姬十首·其八",
+    "author": "薛能",
+    "paragraphs": [
       "樓臺重疊滿天雲，殷殷鳴鼉世上聞。",
-      "此日楊花初似雪，女兒弦管弄參軍。",
+      "此日楊花初似雪，女兒弦管弄參軍。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "吳姬十首·其九",
+    "author": "薛能",
+    "paragraphs": [
       "冠剪黃綃帔紫羅，薄施鉛粉畫青娥。",
-      "因將素手誇纖巧，從此椒房寵更多。",
+      "因將素手誇纖巧，從此椒房寵更多。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "吳姬十首·其十",
+    "author": "薛能",
+    "paragraphs": [
       "身是三千第一名，內家叢裏獨分明。",
       "芙蓉殿上中元日，水拍銀台弄化生。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -286,17 +286,28 @@
     }
   },
   {
-    "title": "鏡中別業二首",
+    "title": "鏡中別業二首·其一",
     "author": "方幹",
     "paragraphs": [
       "寒山壓鏡心，此處是家林。梁燕窺春醉，岩猿學夜吟。",
-      "雲連平地起，月向白波沈。猶自聞鐘角，棲身可在深。",
+      "雲連平地起，月向白波沈。猶自聞鐘角，棲身可在深。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "鏡中別業二首·其二",
+    "author": "方幹",
+    "paragraphs": [
       "世人如不容，吾自縱天慵。落葉憑風掃，香粳倩水舂。",
       "花期連郭霧，雪夜隔湖鐘。身外無能事，頭宜白此峰。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

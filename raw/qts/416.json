@@ -188,17 +188,28 @@
     }
   },
   {
-    "title": "黃草峽聽柔之琴二首",
+    "title": "黃草峽聽柔之琴二首·其一",
     "author": "元稹",
     "paragraphs": [
       "胡笳夜奏塞聲寒，是我鄉音聽漸難。",
-      "料得小來辛苦學，又因知向峽中彈。",
+      "料得小來辛苦學，又因知向峽中彈。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "黃草峽聽柔之琴二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "別鶴淒清覺露寒，離聲漸咽命雛難。",
       "憐君伴我涪州宿，猶有心情徹夜彈。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -322,17 +333,28 @@
     }
   },
   {
-    "title": "寄樂天二首",
+    "title": "寄樂天二首·其一",
     "author": "元稹",
     "paragraphs": [
       "榮辱升沉影與身，世情誰是舊雷陳。唯應鮑叔猶憐我，",
-      "老逢佳景唯惆悵，兩地各傷何限神。",
+      "老逢佳景唯惆悵，兩地各傷何限神。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄樂天二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "論才賦命不相干，鳳有文章雉有冠。羸骨欲銷猶被刻，",
       "休學州前羅刹石，一生身敵海波瀾。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

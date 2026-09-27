@@ -290,17 +290,28 @@
     }
   },
   {
-    "title": "劉、阮妻二首",
+    "title": "劉、阮妻二首·其一",
     "author": "元稹",
     "paragraphs": [
       "仙洞千年一度閑，等閒偷入又偷回。",
-      "桃花飛盡東風起，何處消沉去不來。",
+      "桃花飛盡東風起，何處消沉去不來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "劉、阮妻二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "芙蓉脂肉綠雲鬟，罨畫樓臺青黛山。",
       "千樹桃花萬年藥，不知何事憶人間。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -356,17 +367,28 @@
     }
   },
   {
-    "title": "白衣裳二首",
+    "title": "白衣裳二首·其一",
     "author": "元稹",
     "paragraphs": [
       "雨濕輕塵隔院香，玉人初著白衣裳。",
-      "半含惆悵閑看繡，一朵梨花壓象床。",
+      "半含惆悵閑看繡，一朵梨花壓象床。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "白衣裳二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "藕絲衫子柳花裙，空著沈香慢火熏。",
       "閑倚屏風笑周昉，枉拋心力畫朝雲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -462,17 +484,28 @@
     }
   },
   {
-    "title": "所思二首",
+    "title": "所思二首·其一",
     "author": "元稹",
     "paragraphs": [
       "庾亮樓中初見時，武昌春柳似腰肢。",
-      "相逢相失還如夢，為雨為雲今不知。",
+      "相逢相失還如夢，為雨為雲今不知。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "所思二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "鄂渚濛濛煙雨微，女郎魂逐暮雲歸。",
       "只應長在漢陽渡，化作鴛鴦一隻飛。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -490,44 +523,132 @@
     }
   },
   {
-    "title": "離思五首",
+    "title": "離思五首·其一",
     "author": "元稹",
     "paragraphs": [
       "自愛殘妝曉鏡中，環釵謾篸綠絲叢。",
-      "須臾日射燕脂頰，一朵紅蘇旋欲融。",
-      "山泉散漫繞階流，萬樹桃花映小樓。",
-      "閑讀道書慵未起，水晶簾下看梳頭。",
-      "紅羅著壓逐時新，吉了花紗嫩麹塵。",
-      "第一莫嫌材地弱，些些紕縵最宜人。",
-      "曾經滄海難為水，除卻巫山不是雲。",
-      "取次花叢懶回顧，半緣修道半緣君。",
-      "尋常百種花齊發，偏摘梨花與白人。",
-      "今日江頭兩三樹，可憐和葉度殘春。"
+      "須臾日射燕脂頰，一朵紅蘇旋欲融。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "雜憶五首",
+    "title": "離思五首·其二",
+    "author": "元稹",
+    "paragraphs": [
+      "山泉散漫繞階流，萬樹桃花映小樓。",
+      "閑讀道書慵未起，水晶簾下看梳頭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "離思五首·其三",
+    "author": "元稹",
+    "paragraphs": [
+      "紅羅著壓逐時新，吉了花紗嫩麹塵。",
+      "第一莫嫌材地弱，些些紕縵最宜人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "離思五首·其四",
+    "author": "元稹",
+    "paragraphs": [
+      "曾經滄海難為水，除卻巫山不是雲。",
+      "取次花叢懶回顧，半緣修道半緣君。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "離思五首·其五",
+    "author": "元稹",
+    "paragraphs": [
+      "尋常百種花齊發，偏摘梨花與白人。",
+      "今日江頭兩三樹，可憐和葉度殘春。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "雜憶五首·其一",
     "author": "元稹",
     "paragraphs": [
       "今年寒食月無光，夜色才侵已上床。",
-      "憶得雙文通內裏，玉櫳深處暗聞香。",
+      "憶得雙文通內裏，玉櫳深處暗聞香。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "雜憶五首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "花籠微月竹籠煙，百尺絲繩拂地懸。",
-      "憶得雙文人靜後，潛教桃葉送秋千。",
+      "憶得雙文人靜後，潛教桃葉送秋千。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "雜憶五首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "寒輕夜淺繞回廊，不辨花叢暗辨香。",
-      "憶得雙文朧月下，小樓前後捉迷藏。",
+      "憶得雙文朧月下，小樓前後捉迷藏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "雜憶五首·其四",
+    "author": "元稹",
+    "paragraphs": [
       "山榴似火葉相兼，亞拂磚階半拂簷。",
-      "憶得雙文獨披掩，滿頭花草倚新簾。",
+      "憶得雙文獨披掩，滿頭花草倚新簾。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "雜憶五首·其五",
+    "author": "元稹",
+    "paragraphs": [
       "春冰消盡碧波湖，漾影殘霞似有無。",
       "憶得雙文衫子薄，鈿頭雲映褪紅酥。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -592,17 +713,28 @@
     }
   },
   {
-    "title": "古豔詩二首",
+    "title": "古豔詩二首·其一",
     "author": "元稹",
     "paragraphs": [
       "春來頻到宋家東，垂袖開懷待好風。",
-      "鶯藏柳暗無人語，惟有牆花滿樹紅。",
+      "鶯藏柳暗無人語，惟有牆花滿樹紅。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "古豔詩二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "深院無人草樹光，嬌鶯不語趁陰藏。",
       "等閒弄水浮花片，流出門前賺阮郎。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

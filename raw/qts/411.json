@@ -338,17 +338,28 @@
     }
   },
   {
-    "title": "智度師二首",
+    "title": "智度師二首·其一",
     "author": "元稹",
     "paragraphs": [
       "四十年前馬上飛，功名藏盡擁禪衣。",
-      "石榴園下擒生處，獨自閑行獨自歸。",
+      "石榴園下擒生處，獨自閑行獨自歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "智度師二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "三陷思明三突圍，鐵衣拋盡衲禪衣。",
       "天津橋上無人識，閑憑欄幹望落暉。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

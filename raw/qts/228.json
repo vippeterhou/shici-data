@@ -1,27 +1,71 @@
 [
   {
-    "title": "傷春五首",
+    "title": "傷春五首·其一",
     "author": "杜甫",
     "paragraphs": [
       "天下兵雖滿，春光日自濃。西京疲百戰，北闕任群凶。",
       "關塞三千里，煙花一萬重。蒙塵清路急，禦宿且誰供。",
-      "殷複前王道，周遷舊國容。蓬萊足雲氣，應合總從龍。",
+      "殷複前王道，周遷舊國容。蓬萊足雲氣，應合總從龍。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "傷春五首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "鶯入新年語，花開滿故枝。天青風卷幔，草碧水通池。",
       "牢落官軍速，蕭條萬事危。鬢毛元自白，淚點向來垂。",
-      "不是無兄弟，其如有別離。巴山春色靜，北望轉逶迤。",
+      "不是無兄弟，其如有別離。巴山春色靜，北望轉逶迤。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "傷春五首·其三",
+    "author": "杜甫",
+    "paragraphs": [
       "日月還相鬥，星辰屢合圍。不成誅執法，焉得變危機。",
       "大角纏兵氣，鉤陳出帝畿。煙塵昏禦道，耆舊把天衣。",
-      "行在諸軍闕，來朝大將稀。賢多隱屠釣，王肯載同歸。",
+      "行在諸軍闕，來朝大將稀。賢多隱屠釣，王肯載同歸。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "傷春五首·其四",
+    "author": "杜甫",
+    "paragraphs": [
       "再有朝廷亂，難知消息真。近傳王在洛，複道使歸秦。",
       "奪馬悲公主，登車泣貴嬪。蕭關迷北上，滄海欲東巡。",
-      "敢料安危體，猶多老大臣。豈無嵇紹血，沾灑屬車塵。",
+      "敢料安危體，猶多老大臣。豈無嵇紹血，沾灑屬車塵。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "傷春五首·其五",
+    "author": "杜甫",
+    "paragraphs": [
       "聞說初東幸，孤兒卻走多。難分太倉粟，競棄魯陽戈。",
       "胡虜登前殿，王公出禦河。得無中夜舞，誰憶大風歌。",
       "春色生烽燧，幽人泣薜蘿。君臣重修德，猶足見時和。"
     ],
     "format": {
-      "sentence_count": 60,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -131,17 +175,28 @@
     }
   },
   {
-    "title": "陪王使君晦日泛江就黃家亭子二首",
+    "title": "陪王使君晦日泛江就黃家亭子二首·其一",
     "author": "杜甫",
     "paragraphs": [
       "山豁何時斷，江平不肯流。稍知花改岸，始驗鳥隨舟。",
-      "結束多紅粉，歡娛恨白頭。非君愛人客，晦日更添愁。",
+      "結束多紅粉，歡娛恨白頭。非君愛人客，晦日更添愁。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "陪王使君晦日泛江就黃家亭子二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "有徑金沙軟，無人碧草芳。野畦連蛺蝶，江檻俯鴛鴦。",
       "日晚煙花亂，風生錦繡香。不須吹急管，衰老易悲傷。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -276,15 +331,26 @@
     }
   },
   {
-    "title": "絕句二首",
+    "title": "絕句二首·其一",
     "author": "杜甫",
     "paragraphs": [
-      "遲日江山麗，春風花草香。泥融飛燕子，沙暖睡鴛鴦。",
+      "遲日江山麗，春風花草香。泥融飛燕子，沙暖睡鴛鴦。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "絕句二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "江碧鳥逾白，山青花欲燃。今春看又過，何日是歸年。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -414,19 +480,41 @@
     }
   },
   {
-    "title": "自閬州領妻子卻赴蜀山行三首",
+    "title": "自閬州領妻子卻赴蜀山行三首·其一",
     "author": "杜甫",
     "paragraphs": [
       "汩汩避群盜，悠悠經十年。不成向南國，複作遊西川。",
-      "物役水虛照，魂傷山寂然。我生無倚著，盡室畏途邊。",
+      "物役水虛照，魂傷山寂然。我生無倚著，盡室畏途邊。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "自閬州領妻子卻赴蜀山行三首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "長林偃風色，回復意猶迷。衫裛翠微潤，馬銜青草嘶。",
-      "棧懸斜避石，橋斷卻尋溪。何日干戈盡，飄飄愧老妻。",
+      "棧懸斜避石，橋斷卻尋溪。何日干戈盡，飄飄愧老妻。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "自閬州領妻子卻赴蜀山行三首·其三",
+    "author": "杜甫",
+    "paragraphs": [
       "行色遞隱見，人煙時有無。僕夫穿竹語，稚子入雲呼。",
       "轉石驚魑魅，抨弓落狖鼯。真供一笑樂，似欲慰窮途。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -625,17 +713,28 @@
     }
   },
   {
-    "title": "黃河二首",
+    "title": "黃河二首·其一",
     "author": "杜甫",
     "paragraphs": [
       "黃河北岸海西軍，椎鼓鳴鐘天下聞。",
-      "鐵馬長鳴不知數，胡人高鼻動成群。",
+      "鐵馬長鳴不知數，胡人高鼻動成群。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "黃河二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "黃河西岸是吾蜀，欲須供給家無粟。",
       "願驅眾庶戴君王，混一車書棄金玉。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -695,17 +794,28 @@
     }
   },
   {
-    "title": "過故斛斯校書莊二首",
+    "title": "過故斛斯校書莊二首·其一",
     "author": "杜甫",
     "paragraphs": [
       "此老已雲歿，鄰人嗟亦休。竟無宣室召，徒有茂陵求。",
-      "妻子寄他食，園林非昔遊。空餘繐帷在，淅淅野風秋。",
+      "妻子寄他食，園林非昔遊。空餘繐帷在，淅淅野風秋。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "過故斛斯校書莊二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "燕入非旁舍，鷗歸只故池。斷橋無複板，臥柳自生枝。",
       "遂有山陽作，多慚鮑叔知。素交零落盡，白首淚雙垂。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -799,19 +909,41 @@
     }
   },
   {
-    "title": "送舍弟頻赴齊州三首",
+    "title": "送舍弟頻赴齊州三首·其一",
     "author": "杜甫",
     "paragraphs": [
       "岷嶺南蠻北，徐關東海西。此行何日到，送汝萬行啼。",
-      "絕域惟高枕，清風獨杖藜。危時暫相見，衰白意都迷。",
+      "絕域惟高枕，清風獨杖藜。危時暫相見，衰白意都迷。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送舍弟頻赴齊州三首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "風塵暗不開，汝去幾時來。兄弟分離苦，形容老病催。",
-      "江通一柱觀，日落望鄉台。客意長東北，齊州安在哉。",
+      "江通一柱觀，日落望鄉台。客意長東北，齊州安在哉。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送舍弟頻赴齊州三首·其三",
+    "author": "杜甫",
+    "paragraphs": [
       "諸姑今海畔，兩弟亦山東。去傍干戈覓，來看道路通。",
       "短衣防戰地，匹馬逐秋風。莫作俱流落，長瞻碣石鴻。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -924,59 +1056,191 @@
     }
   },
   {
-    "title": "春日江村五首",
+    "title": "春日江村五首·其一",
     "author": "杜甫",
     "paragraphs": [
       "農務村村急，春流岸岸深。乾坤萬里眼，時序百年心。",
-      "茅屋還堪賦，桃源自可尋。艱難賤生理，飄泊到如今。",
+      "茅屋還堪賦，桃源自可尋。艱難賤生理，飄泊到如今。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日江村五首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "迢遞來三蜀，蹉跎有六年。客身逢故舊，發興自林泉。",
-      "過懶從衣結，頻游任履穿。藩籬無限景，恣意買江天。",
+      "過懶從衣結，頻游任履穿。藩籬無限景，恣意買江天。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日江村五首·其三",
+    "author": "杜甫",
+    "paragraphs": [
       "種竹交加翠，栽桃爛熳紅。經心石鏡月，到面雪山風。",
-      "赤管隨王命，銀章付老翁。豈知牙齒落，名玷薦賢中。",
+      "赤管隨王命，銀章付老翁。豈知牙齒落，名玷薦賢中。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日江村五首·其四",
+    "author": "杜甫",
+    "paragraphs": [
       "扶病垂朱紱，歸休步紫苔。郊扉存晚計，幕府愧群材。",
-      "燕外晴絲卷，鷗邊水葉開。鄰家送魚鱉，問我數能來。",
+      "燕外晴絲卷，鷗邊水葉開。鄰家送魚鱉，問我數能來。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春日江村五首·其五",
+    "author": "杜甫",
+    "paragraphs": [
       "群盜哀王粲，中年召賈生。登樓初有作，前席竟為榮。",
       "宅入先賢傳，才高處士名。異時懷二子，春日複含情。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "絕句六首",
+    "title": "絕句六首·其一",
     "author": "杜甫",
     "paragraphs": [
-      "日出籬東水，雲生舍北泥。竹高鳴翡翠，沙僻舞鶤雞。",
-      "藹藹花蕊亂，飛飛蜂蝶多。幽棲身懶動，客至欲如何。",
-      "鑿井交棕葉，開渠斷竹根。扁舟輕褭纜，小徑曲通村。",
-      "急雨捎溪足，斜暉轉樹腰。隔巢黃鳥並，翻藻白魚跳。",
-      "捨下筍穿壁，庭中藤刺簷。地晴絲冉冉，江白草纖纖。",
+      "日出籬東水，雲生舍北泥。竹高鳴翡翠，沙僻舞鶤雞。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "絕句六首·其二",
+    "author": "杜甫",
+    "paragraphs": [
+      "藹藹花蕊亂，飛飛蜂蝶多。幽棲身懶動，客至欲如何。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "絕句六首·其三",
+    "author": "杜甫",
+    "paragraphs": [
+      "鑿井交棕葉，開渠斷竹根。扁舟輕褭纜，小徑曲通村。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "絕句六首·其四",
+    "author": "杜甫",
+    "paragraphs": [
+      "急雨捎溪足，斜暉轉樹腰。隔巢黃鳥並，翻藻白魚跳。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "絕句六首·其五",
+    "author": "杜甫",
+    "paragraphs": [
+      "捨下筍穿壁，庭中藤刺簷。地晴絲冉冉，江白草纖纖。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "絕句六首·其六",
+    "author": "杜甫",
+    "paragraphs": [
       "江動月移石，溪虛雲傍花。鳥棲知故道，帆過宿誰家。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "絕句四首",
+    "title": "絕句四首·其一",
     "author": "杜甫",
     "paragraphs": [
       "堂西長筍別開門，塹北行椒卻背村。",
-      "梅熟許同朱老吃，松高擬對阮生論。",
+      "梅熟許同朱老吃，松高擬對阮生論。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "絕句四首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "欲作魚梁雲複湍，因驚四月雨聲寒。",
-      "青溪先有蛟龍窟，竹石如山不敢安。",
+      "青溪先有蛟龍窟，竹石如山不敢安。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "絕句四首·其三",
+    "author": "杜甫",
+    "paragraphs": [
       "兩個黃鸝鳴翠柳，一行白鷺上青天。",
-      "窗含西嶺千秋雪，門泊東吳萬里船。",
+      "窗含西嶺千秋雪，門泊東吳萬里船。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "絕句四首·其四",
+    "author": "杜甫",
+    "paragraphs": [
       "藥條藥甲潤青青，色過棕亭入草亭。",
       "苗滿空山慚取譽，根居隙地怯成形。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

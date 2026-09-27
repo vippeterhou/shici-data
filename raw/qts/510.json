@@ -678,17 +678,28 @@
     }
   },
   {
-    "title": "題王右丞山水障二首",
+    "title": "題王右丞山水障二首·其一",
     "author": "張祜",
     "paragraphs": [
       "精華在筆端，咫尺匠心難。日月中堂見，江湖滿座看。",
-      "夜凝嵐氣濕，秋浸壁光寒。料得昔人意，平生詩思殘。",
+      "夜凝嵐氣濕，秋浸壁光寒。料得昔人意，平生詩思殘。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "題王右丞山水障二首·其二",
+    "author": "張祜",
+    "paragraphs": [
       "右丞今已歿，遺畫世間稀。咫尺江湖盡，尋常鷗鳥飛。",
       "山光全在掌，雲氣欲生衣。以此常為玩，平生滄海機。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1135,19 +1146,41 @@
     }
   },
   {
-    "title": "江西道中作三首",
+    "title": "江西道中作三首·其一",
     "author": "張祜",
     "paragraphs": [
       "日落江村遠，煙雲度幾重。問人孤驛路，驅馬亂山峰。",
-      "夜入霜林火，寒生水寺鐘。淒涼哭途意，行處又饑凶。",
+      "夜入霜林火，寒生水寺鐘。淒涼哭途意，行處又饑凶。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江西道中作三首·其二",
+    "author": "張祜",
+    "paragraphs": [
       "西江江上月，遠遠照征衣。夜色草中網，秋聲林外機。",
-      "渚田牛路熟，石岸客船稀。無複是鄉井，鷓鴣聊自飛。",
+      "渚田牛路熟，石岸客船稀。無複是鄉井，鷓鴣聊自飛。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "江西道中作三首·其三",
+    "author": "張祜",
+    "paragraphs": [
       "秋灘一望平，遠遠見山城。落日啼烏桕，空林露寄生。",
       "燒畬殘火色，蕩槳夜溪聲。況是會游處，桑田小變更。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1438,17 +1471,28 @@
     }
   },
   {
-    "title": "詠史二首",
+    "title": "詠史二首·其一",
     "author": "張祜",
     "paragraphs": [
       "漢代非良計，西戎世世塵。無何求善馬，不算苦生民。",
-      "外國讎虛結，中華憤莫伸。卻教為後恥，昭帝遠和親。",
+      "外國讎虛結，中華憤莫伸。卻教為後恥，昭帝遠和親。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "詠史二首·其二",
+    "author": "張祜",
+    "paragraphs": [
       "留名魯連去，於世絕遺音。盡愛聊城下，寧知滄海深。",
       "偶然飛一箭，無事在千金。回望淩煙閣，何人是此心。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

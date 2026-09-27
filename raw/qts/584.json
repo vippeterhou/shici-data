@@ -161,19 +161,41 @@
     }
   },
   {
-    "title": "題谷隱蘭若三首",
+    "title": "題谷隱蘭若三首·其一",
     "author": "段成式",
     "paragraphs": [
       "風惹閑雲半谷陰，岩西隱者醉相尋。",
-      "草衰乍覺徑增險，葉盡卻疑溪不深。",
+      "草衰乍覺徑增險，葉盡卻疑溪不深。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題谷隱蘭若三首·其二",
+    "author": "段成式",
+    "paragraphs": [
       "鳥啄靈雛戀落暉，村情山趣頓忘機。",
-      "丹成道士過門數，葉盡寒猿下嶺稀。",
+      "丹成道士過門數，葉盡寒猿下嶺稀。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題谷隱蘭若三首·其三",
+    "author": "段成式",
+    "paragraphs": [
       "風帶巢熊拗樹聲，老僧相引入雲行。",
       "半陂新路畬才了，一穀寒煙燒不成。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -217,84 +239,249 @@
     }
   },
   {
-    "title": "嘲飛卿七首",
+    "title": "嘲飛卿七首·其一",
     "author": "段成式",
     "paragraphs": [
       "曾見當壚一個人，入時裝束好腰身。",
-      "少年花蒂多芳思，只向詩中寫取真。",
+      "少年花蒂多芳思，只向詩中寫取真。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "嘲飛卿七首·其二",
+    "author": "段成式",
+    "paragraphs": [
       "醉袂幾侵魚子纈，飄纓長罥鳳凰釵。",
-      "知君欲作閒情賦，應願將身作錦鞋。",
+      "知君欲作閒情賦，應願將身作錦鞋。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "嘲飛卿七首·其三",
+    "author": "段成式",
+    "paragraphs": [
       "翠蝶密偎金叉首，青蟲危泊玉釵梁。",
-      "愁生半額不開靨，只為多情團扇郎。",
+      "愁生半額不開靨，只為多情團扇郎。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "嘲飛卿七首·其四",
+    "author": "段成式",
+    "paragraphs": [
       "柳煙梅雪隱青樓，殘日黃鸝語未休。",
-      "見說自能裁袙腹，不知誰更著帩頭。",
+      "見說自能裁袙腹，不知誰更著帩頭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "嘲飛卿七首·其五",
+    "author": "段成式",
+    "paragraphs": [
       "愁機懶織同心苣，悶繡先描連理枝。",
-      "多少風流詞句裏，愁中空詠早環詩。",
+      "多少風流詞句裏，愁中空詠早環詩。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "嘲飛卿七首·其六",
+    "author": "段成式",
+    "paragraphs": [
       "燕支山色重能輕，南陽水澤鬥分明。",
-      "不煩射雉先張翳，自有琴中威鳳聲。",
+      "不煩射雉先張翳，自有琴中威鳳聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "嘲飛卿七首·其七",
+    "author": "段成式",
+    "paragraphs": [
       "半歲愁中鏡似荷，牽環撩鬢卻須磨。",
       "花前不復抱瓶渴，月底還應琢刺歌。"
     ],
     "format": {
-      "sentence_count": 28,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "柔卿解籍戲呈飛卿三首",
+    "title": "柔卿解籍戲呈飛卿三首·其一",
     "author": "段成式",
     "paragraphs": [
       "長擔犢車初入門，金牙新醞盈深樽。",
-      "良人為漬木瓜粉，遮卻紅腮交午痕。",
+      "良人為漬木瓜粉，遮卻紅腮交午痕。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柔卿解籍戲呈飛卿三首·其二",
+    "author": "段成式",
+    "paragraphs": [
       "最宜全幅碧鮫綃，自襞春羅等舞腰。",
-      "未有長錢求鄴錦，且令裁取一團嬌。",
+      "未有長錢求鄴錦，且令裁取一團嬌。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "柔卿解籍戲呈飛卿三首·其三",
+    "author": "段成式",
+    "paragraphs": [
       "出意挑鬟一尺長，金為鈿鳥簇釵梁。",
       "郁金種得花茸細，添入春衫領裏香。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "戲高侍禦七首",
+    "title": "戲高侍禦七首·其一",
     "author": "段成式",
     "paragraphs": [
       "百媚城中一個人，紫羅垂手見精神。",
-      "青琴仙子長教示，自小來來號阿真。",
+      "青琴仙子長教示，自小來來號阿真。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "戲高侍禦七首·其二",
+    "author": "段成式",
+    "paragraphs": [
       "七尺發猶三角梳，玳牛獨駕長簷車。",
-      "曾城自有三青鳥，不要蓮東雙鯉魚。",
+      "曾城自有三青鳥，不要蓮東雙鯉魚。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "戲高侍禦七首·其三",
+    "author": "段成式",
+    "paragraphs": [
       "花恨紅腰柳妒眉，東鄰牆短不曾窺。",
-      "猶憐最小分瓜日，奈許迎春得藕時。",
+      "猶憐最小分瓜日，奈許迎春得藕時。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "戲高侍禦七首·其四",
+    "author": "段成式",
+    "paragraphs": [
       "自等腰身尺六強，兩重危鬢盡釵長。",
-      "欲熏羅薦嫌龍腦，須為尋求石葉香。",
+      "欲熏羅薦嫌龍腦，須為尋求石葉香。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "戲高侍禦七首·其五",
+    "author": "段成式",
+    "paragraphs": [
       "別起青樓作幾層，斜陽幔卷鹿盧繩。",
-      "厭裁魚子深紅纈，泥覓蜻蜓淺碧綾。",
+      "厭裁魚子深紅纈，泥覓蜻蜓淺碧綾。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "戲高侍禦七首·其六",
+    "author": "段成式",
+    "paragraphs": [
       "詐嫌嚼貝磨衣鈍，私帶男錢壓鬢低。",
-      "不獨邯鄲新嫁女，四枝鬟上插通犀。",
+      "不獨邯鄲新嫁女，四枝鬟上插通犀。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "戲高侍禦七首·其七",
+    "author": "段成式",
+    "paragraphs": [
       "可羨羅敷自有夫，愁中漫捋白髭須。",
       "豹錢驄子能擎舉，兼著連幹許換無。"
     ],
     "format": {
-      "sentence_count": 28,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "送僧二首",
+    "title": "送僧二首·其一",
     "author": "段成式",
     "paragraphs": [
       "形神不滅論初成，愛馬乘閑入帝京。",
-      "四十三年虛過了，方知僧裏有唐生。",
+      "四十三年虛過了，方知僧裏有唐生。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送僧二首·其二",
+    "author": "段成式",
+    "paragraphs": [
       "想到頭陀最上方，桂陰猶認惠宗房。",
       "因行戀燒歸來晚，窗下猶殘一字香。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -338,27 +525,93 @@
     }
   },
   {
-    "title": "折楊柳七首",
+    "title": "折楊柳七首·其一",
     "author": "段成式",
     "paragraphs": [
       "枝枝交影鎖長門，嫩色曾沾雨露恩。",
-      "鳳輦不來春欲盡，空留鶯語到黃昏。",
+      "鳳輦不來春欲盡，空留鶯語到黃昏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳七首·其二",
+    "author": "段成式",
+    "paragraphs": [
       "水殿年年占早芳，柔條偏惹禦爐香。",
-      "而今萬乘多巡狩，輦路無陰綠草長。",
+      "而今萬乘多巡狩，輦路無陰綠草長。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳七首·其三",
+    "author": "段成式",
+    "paragraphs": [
       "玉樓煙薄不勝芳，金屋寒輕翠帶長。",
-      "公子驊騮往何處，綠陰堪系紫遊韁。",
+      "公子驊騮往何處，綠陰堪系紫遊韁。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳七首·其四",
+    "author": "段成式",
+    "paragraphs": [
       "嫩葉初齊不耐寒，風和時拂玉欄幹。",
-      "君王去日曾攀折，泣雨傷春翠黛殘。",
+      "君王去日曾攀折，泣雨傷春翠黛殘。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳七首·其五",
+    "author": "段成式",
+    "paragraphs": [
       "微黃才綻未成陰，繡戶珠簾相映深。",
-      "長恨早梅無賴極，先將春色出前林。",
+      "長恨早梅無賴極，先將春色出前林。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳七首·其六",
+    "author": "段成式",
+    "paragraphs": [
       "隋家堤上已成塵，漢將營邊不復春。",
-      "只向江南並塞北，酒旗相伴惹行人。",
+      "只向江南並塞北，酒旗相伴惹行人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳七首·其七",
+    "author": "段成式",
+    "paragraphs": [
       "陌上河邊千萬枝，怕寒愁雨盡低垂。",
       "黃金穟短人多折，已恨東風不展眉。"
     ],
     "format": {
-      "sentence_count": 28,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -376,17 +629,28 @@
     }
   },
   {
-    "title": "漢宮詞二首",
+    "title": "漢宮詞二首·其一",
     "author": "段成式",
     "paragraphs": [
       "歌舞初承恩寵時，六宮學妾畫蛾眉。",
-      "君王厭世妾頭白，聞唱歌聲卻淚垂。",
+      "君王厭世妾頭白，聞唱歌聲卻淚垂。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "漢宮詞二首·其二",
+    "author": "段成式",
+    "paragraphs": [
       "二人能歌得進名，人言選入便光榮。",
       "豈知妃後多嬌妒，不許君前唱一聲。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

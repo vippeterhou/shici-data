@@ -39,17 +39,28 @@
     }
   },
   {
-    "title": "花栽二首",
+    "title": "花栽二首·其一",
     "author": "元稹",
     "paragraphs": [
       "買得山花一兩栽，離鄉別土易摧頹。",
-      "欲知北客居南意，看取南花北地來。",
+      "欲知北客居南意，看取南花北地來。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "花栽二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "南花北地種應難，且向船中盡日看。",
       "縱使將來眼前死，猶勝拋擲在空欄。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -215,37 +226,158 @@
     }
   },
   {
-    "title": "西歸絕句十二首",
+    "title": "西歸絕句十二首·其一",
     "author": "元稹",
     "paragraphs": [
       "雙堠頻頻減去程，漸知身得近京城。",
-      "春來愛有歸鄉夢，一半猶疑夢裏行。",
+      "春來愛有歸鄉夢，一半猶疑夢裏行。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "西歸絕句十二首·其二",
+    "author": "元稹",
+    "paragraphs": [
       "五年江上損容顏，今日春風到武關。",
-      "兩紙京書臨水讀，小桃花樹滿商山。",
+      "兩紙京書臨水讀，小桃花樹滿商山。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "西歸絕句十二首·其三",
+    "author": "元稹",
+    "paragraphs": [
       "同歸諫院韋丞相，共貶河南亞大夫。",
-      "今日還鄉獨憔悴，幾人憐見白髭須。",
+      "今日還鄉獨憔悴，幾人憐見白髭須。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "西歸絕句十二首·其四",
+    "author": "元稹",
+    "paragraphs": [
       "只去長安六日期，多應及得杏花時。",
-      "春明門外誰相待，不夢閒人夢酒卮。",
+      "春明門外誰相待，不夢閒人夢酒卮。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "西歸絕句十二首·其五",
+    "author": "元稹",
+    "paragraphs": [
       "白頭歸舍意如何，賀處無窮吊亦多。",
-      "左降去時裴相宅，舊來車馬幾人過。",
+      "左降去時裴相宅，舊來車馬幾人過。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "西歸絕句十二首·其六",
+    "author": "元稹",
+    "paragraphs": [
       "還鄉何用淚沾襟，一半雲霄一半沉。",
-      "世事漸多饒悵望，舊曾行處便傷心。",
+      "世事漸多饒悵望，舊曾行處便傷心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "西歸絕句十二首·其七",
+    "author": "元稹",
+    "paragraphs": [
       "閒遊寺觀從容到，遍問親知次第尋。",
-      "腸斷裴家光德宅，無人掃地戟門深。",
+      "腸斷裴家光德宅，無人掃地戟門深。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "西歸絕句十二首·其八",
+    "author": "元稹",
+    "paragraphs": [
       "一世營營死是休，生前無事定無由。",
-      "不知山下東流水，何事長須日夜流。",
+      "不知山下東流水，何事長須日夜流。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "西歸絕句十二首·其九",
+    "author": "元稹",
+    "paragraphs": [
       "今朝西渡丹河水，心寄丹河無限愁。",
-      "若到莊前竹園下，殷勤為繞故山流。",
+      "若到莊前竹園下，殷勤為繞故山流。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "西歸絕句十二首·其十",
+    "author": "元稹",
+    "paragraphs": [
       "寒窗風雪擁深爐，彼此相傷指白須。",
-      "一夜思量十年事，幾人強健幾人無。",
+      "一夜思量十年事，幾人強健幾人無。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "西歸絕句十二首·其十一",
+    "author": "元稹",
+    "paragraphs": [
       "雲覆藍橋雪滿溪，須臾便與碧峰齊。",
-      "風回面市連天合，凍壓花枝著水低。",
+      "風回面市連天合，凍壓花枝著水低。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "西歸絕句十二首·其十二",
+    "author": "元稹",
+    "paragraphs": [
       "寒花帶雪滿山腰，著柳冰珠滿碧條。",
       "天色漸明回一望，玉塵隨馬度藍橋。"
     ],
     "format": {
-      "sentence_count": 48,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

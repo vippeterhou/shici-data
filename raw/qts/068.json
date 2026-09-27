@@ -144,17 +144,28 @@
     }
   },
   {
-    "title": "則天皇後挽歌二首",
+    "title": "則天皇後挽歌二首·其一",
     "author": "崔融1",
     "paragraphs": [
       "宵陳虛禁夜，夕臨空山陰。日月昏尺景，天地慘何心。",
-      "紫殿金鋪澀，黃陵玉座深。鏡奩長不啟，聖主淚沾巾。",
+      "紫殿金鋪澀，黃陵玉座深。鏡奩長不啟，聖主淚沾巾。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "則天皇後挽歌二首·其二",
+    "author": "崔融1",
+    "paragraphs": [
       "前殿臨朝罷，長陵合葬歸。山川不可望，文物盡成非。",
       "陰月霾中道，軒星落太微。空餘天子孝，松上景雲飛。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

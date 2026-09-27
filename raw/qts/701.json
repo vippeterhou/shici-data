@@ -72,17 +72,28 @@
     }
   },
   {
-    "title": "長門怨二首",
+    "title": "長門怨二首·其一",
     "author": "王貞白",
     "paragraphs": [
       "寂寞故宮春，殘燈曉尚存。從來非妾過，偶爾失君恩。",
-      "花落傷容鬢，鶯啼驚夢魂。翠華如可待，應免老長門。",
+      "花落傷容鬢，鶯啼驚夢魂。翠華如可待，應免老長門。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "長門怨二首·其二",
+    "author": "王貞白",
+    "paragraphs": [
       "葉落長門靜，苔生永巷幽。相思對明月，獨坐向空樓。",
       "鑾駕迷終轉，蛾眉老自愁。昭陽歌舞伴，此夕未知秋。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -126,17 +137,28 @@
     }
   },
   {
-    "title": "少年行二首",
+    "title": "少年行二首·其一",
     "author": "王貞白",
     "paragraphs": [
       "遊宴不知厭，杜陵狂少年。花時輕暖酒，春服薄裝綿。",
-      "戲馬上林苑，鬥雞寒食天。魯儒甘被笑，對策鬢皤然。",
+      "戲馬上林苑，鬥雞寒食天。魯儒甘被笑，對策鬢皤然。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "少年行二首·其二",
+    "author": "王貞白",
+    "paragraphs": [
       "弱冠投邊急，驅兵夜渡河。追奔鐵馬走，殺虜寶刀訛。",
       "威靜黑山路，氣含清海波。常聞為突騎，天子賜長戈。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -583,34 +605,67 @@
     }
   },
   {
-    "title": "折楊柳三首",
+    "title": "折楊柳三首·其一",
     "author": "王貞白",
     "paragraphs": [
       "枝枝交影鎖長門，嫩色曾沾雨露恩。",
-      "鳳輦不來春欲盡，空留鶯語到黃昏。",
-      "水殿年年占早芳，柔條風裏禦爐香。",
-      "如今萬乘多巡狩，輦路無陰綠草長。",
-      "嫩葉初齊不耐寒，風和時拂玉欄幹。",
-      "征人去日曾攀折，泣雨傷春翠黛殘。"
+      "鳳輦不來春欲盡，空留鶯語到黃昏。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "遠聞本郡行春到舊山二首",
+    "title": "折楊柳三首·其二",
+    "author": "王貞白",
+    "paragraphs": [
+      "水殿年年占早芳，柔條風裏禦爐香。",
+      "如今萬乘多巡狩，輦路無陰綠草長。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "折楊柳三首·其三",
+    "author": "王貞白",
+    "paragraphs": [
+      "嫩葉初齊不耐寒，風和時拂玉欄幹。",
+      "征人去日曾攀折，泣雨傷春翠黛殘。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "遠聞本郡行春到舊山二首·其一",
     "author": "王貞白",
     "paragraphs": [
       "一身從宦留京邑，五馬遙聞到舊山。",
-      "已領煙霞光野徑，深慚老幼候柴關。",
+      "已領煙霞光野徑，深慚老幼候柴關。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "遠聞本郡行春到舊山二首·其二",
+    "author": "王貞白",
+    "paragraphs": [
       "清風借響松筠外，畫隼停暉水石間。",
       "定掩溪名在圖傳，共知軒蓋此登攀。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -628,17 +683,28 @@
     }
   },
   {
-    "title": "仙岩二首",
+    "title": "仙岩二首·其一",
     "author": "王貞白",
     "paragraphs": [
       "白煙晝起丹灶，紅葉秋書篆文。",
-      "二十四岩天上，一雞啼破晴雲。",
+      "二十四岩天上，一雞啼破晴雲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
+    }
+  },
+  {
+    "title": "仙岩二首·其二",
+    "author": "王貞白",
+    "paragraphs": [
       "風呼山鬼服役，月照衡薇結花。",
       "江暖客尋瑤草，洞深人咽丹霞。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6],
+      "sentence_count": 4,
+      "sentence_lengths": [6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },

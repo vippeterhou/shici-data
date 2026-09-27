@@ -221,38 +221,93 @@
     }
   },
   {
-    "title": "再游東林寺作五首",
+    "title": "再游東林寺作五首·其一",
     "author": "貫休",
     "paragraphs": [
       "台殿參差聳瑞煙，桂花飄雪水潺潺。",
-      "莫疑遠去無消息，七萬餘年始半年。",
-      "桓玄舊輦殘雲濕，耶舍孤墳落照遲。",
-      "有個山僧倚松睡，恐人來取白猿兒。",
-      "玉像珠龕香陣橫，錦霞多傍石牆生。",
-      "辟蛇行者今何在，花裏唯聞鳩鳥聲。",
-      "愛陶長官醉兀兀，送陸道士行遲遲。",
-      "買酒過溪皆破戒，斯何人斯師如斯。",
-      "白薝蔔花露滴滴，紅苾芻草香濛濛。",
-      "田地更無塵一點，是何人合住其中。"
+      "莫疑遠去無消息，七萬餘年始半年。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "題蘭江言上人院二首",
+    "title": "再游東林寺作五首·其二",
+    "author": "貫休",
+    "paragraphs": [
+      "桓玄舊輦殘雲濕，耶舍孤墳落照遲。",
+      "有個山僧倚松睡，恐人來取白猿兒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "再游東林寺作五首·其三",
+    "author": "貫休",
+    "paragraphs": [
+      "玉像珠龕香陣橫，錦霞多傍石牆生。",
+      "辟蛇行者今何在，花裏唯聞鳩鳥聲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "再游東林寺作五首·其四",
+    "author": "貫休",
+    "paragraphs": [
+      "愛陶長官醉兀兀，送陸道士行遲遲。",
+      "買酒過溪皆破戒，斯何人斯師如斯。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "再游東林寺作五首·其五",
+    "author": "貫休",
+    "paragraphs": [
+      "白薝蔔花露滴滴，紅苾芻草香濛濛。",
+      "田地更無塵一點，是何人合住其中。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題蘭江言上人院二首·其一",
     "author": "貫休",
     "paragraphs": [
       "一生只著一麻衣，道業還欺習彥威。",
-      "手把新詩說山夢，石橋天柱雪霏霏。",
+      "手把新詩說山夢，石橋天柱雪霏霏。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題蘭江言上人院二首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "只是危吟坐翠層，門前岐路自崩騰。",
       "青雲名士時相訪，茶煮西峰瀑布冰。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -317,19 +372,41 @@
     }
   },
   {
-    "title": "避地毗陵，寒月上孫徽使君兼寄東陽王使君三首",
+    "title": "避地毗陵，寒月上孫徽使君兼寄東陽王使君三首·其一",
     "author": "貫休",
     "paragraphs": [
       "一到毗陵心更勞，冷吟閒步擁雲袍。豈緣思妙塵埃少，",
-      "終須愚谷中安致，不是人間好羽毛。",
+      "終須愚谷中安致，不是人間好羽毛。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "避地毗陵，寒月上孫徽使君兼寄東陽王使君三首·其二",
+    "author": "貫休",
+    "paragraphs": [
       "常憶雙溪八詠前，講詩論道接清賢。文欺白鳳真難及，",
-      "自憐不是悠悠者，吟嚼真風二十年。",
+      "自憐不是悠悠者，吟嚼真風二十年。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "避地毗陵，寒月上孫徽使君兼寄東陽王使君三首·其三",
+    "author": "貫休",
+    "paragraphs": [
       "□雷車雨滴階聲，寂寞焚香獨閉扃。錦繡文章無路達，",
       "唯有孤高江太守，不忘病客在禪靈。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [6, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

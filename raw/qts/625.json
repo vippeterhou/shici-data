@@ -221,34 +221,67 @@
     }
   },
   {
-    "title": "奉和襲美題達上人藥圃二首",
+    "title": "奉和襲美題達上人藥圃二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "藥味多從遠客齎，旋添花圃旋成畦。三椏舊種根應異，",
-      "從今直到清秋日，又有香苗幾番齊。",
-      "淨名無語示清羸，藥草搜來喻更微。一雨一風皆遂性，",
-      "莫怪獨親幽圃坐，病容銷盡欲依歸。"
+      "從今直到清秋日，又有香苗幾番齊。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "奉和襲美懷華陽潤卿博士三首",
+    "title": "奉和襲美題達上人藥圃二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
+      "淨名無語示清羸，藥草搜來喻更微。一雨一風皆遂性，",
+      "莫怪獨親幽圃坐，病容銷盡欲依歸。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "奉和襲美懷華陽潤卿博士三首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "幾降真官授隱書，洛公曾到夢中無。眉間入靜三辰影，",
-      "金墟福地能容否，願作岡前蔣負芻。",
+      "金墟福地能容否，願作岡前蔣負芻。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "奉和襲美懷華陽潤卿博士三首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "火景應難到洞宮，蕭閑堂冷任天風。談玄麈尾拋雲底，",
-      "奇編早晚教傳授，免以神仙問葛洪。",
+      "奇編早晚教傳授，免以神仙問葛洪。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "奉和襲美懷華陽潤卿博士三首·其三",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "終日焚香禮洞雲，更思琪樹轉勞神。曾尋下泊常經月，",
       "清齋若見茅司命，乞取朱兒十二斤。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -311,17 +344,28 @@
     }
   },
   {
-    "title": "奉和襲美夏景沖澹偶作次韻二首",
+    "title": "奉和襲美夏景沖澹偶作次韻二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "蟬雀參差在扇紗，竹襟輕利籜冠斜。壚中有酒文園會，",
-      "閑思兩地忘名者，不信人間發解華。",
+      "閑思兩地忘名者，不信人間發解華。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "奉和襲美夏景沖澹偶作次韻二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "只于池曲象山幽，便是瀟湘浸石樓。斜拂芡盤輕鶩下，",
       "莫道仙家無好爵，方諸還拜碧琳侯。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -495,17 +539,28 @@
     }
   },
   {
-    "title": "寄茅山何威儀二首",
+    "title": "寄茅山何威儀二首·其一",
     "author": "陸龜蒙",
     "paragraphs": [
       "大小三峰次九華，靈蹤今盡屬何家。漢時仙上雲巔鶴，",
-      "年來已奉黃庭教，夕煉腥魂曉吸霞。",
+      "年來已奉黃庭教，夕煉腥魂曉吸霞。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄茅山何威儀二首·其二",
+    "author": "陸龜蒙",
+    "paragraphs": [
       "曾向人間拜節旄，乍疑因夢到仙曹。身輕曳羽霞襟狹，",
       "從聞此日搜奇話，轉覺魂飛夜夜勞。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

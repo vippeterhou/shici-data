@@ -312,17 +312,28 @@
     }
   },
   {
-    "title": "回文詩二首",
+    "title": "回文詩二首·其一",
     "author": "徐夤",
     "paragraphs": [
       "飛書一幅錦文回，恨寫深情寄雁來。機上月殘香閣掩，",
-      "歸日幾人行問卜，徽音想望倚高臺。",
+      "歸日幾人行問卜，徽音想望倚高臺。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "回文詩二首·其二",
+    "author": "徐夤",
+    "paragraphs": [
       "輕帆數點千峰碧，水接雲山四望遙。晴日海霞紅靄靄，",
       "明月釣舟漁浦遠，傾山雪浪暗隨潮。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -691,17 +702,28 @@
     }
   },
   {
-    "title": "龍蟄二首",
+    "title": "龍蟄二首·其一",
     "author": "徐夤",
     "paragraphs": [
       "龍蟄蛇蟠卻待伸，和光何惜且同塵。伍員豈是吹簫者，",
-      "穰侯休忌關東客，張祿先生竟相秦。",
+      "穰侯休忌關東客，張祿先生竟相秦。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "龍蟄二首·其二",
+    "author": "徐夤",
+    "paragraphs": [
       "休說雄才間代生，到頭難與運相爭。時通有詔征枚乘，",
       "中林且作煙霞侶，塵滿關河未可行。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -719,17 +741,28 @@
     }
   },
   {
-    "title": "牡丹花二首",
+    "title": "牡丹花二首·其一",
     "author": "徐夤",
     "paragraphs": [
       "看遍花無勝此花，剪雲披雪蘸丹砂。開當青律二三月，",
-      "不隨寒令同時放，倍種雙松與辟邪。",
+      "不隨寒令同時放，倍種雙松與辟邪。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "牡丹花二首·其二",
+    "author": "徐夤",
+    "paragraphs": [
       "萬萬花中第一流，淺霞輕染嫩銀甌。能狂綺陌千金子，",
       "詩書滿架塵埃撲，盡日無人略舉頭。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -851,17 +884,28 @@
     }
   },
   {
-    "title": "荔枝二首",
+    "title": "荔枝二首·其一",
     "author": "徐夤",
     "paragraphs": [
       "朱彈星丸粲日光，綠瓊枝散小香囊。龍綃殼綻紅紋粟，",
-      "蠻山蹋曉和煙摘，拜捧金盤奉越王。",
+      "蠻山蹋曉和煙摘，拜捧金盤奉越王。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "荔枝二首·其二",
+    "author": "徐夤",
+    "paragraphs": [
       "日日熏風卷瘴煙，南園珍果荔枝先。靈鴉啄破瓊津滴，",
       "何人刺出猩猩血，深染羅紋遍殼鮮。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

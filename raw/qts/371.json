@@ -50,15 +50,26 @@
     }
   },
   {
-    "title": "題梁宣帝陵二首",
+    "title": "題梁宣帝陵二首·其一",
     "author": "呂溫",
     "paragraphs": [
-      "即讎終自翦，覆國豈為雄。假號孤城裏，何殊在甬東。",
+      "即讎終自翦，覆國豈為雄。假號孤城裏，何殊在甬東。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "題梁宣帝陵二首·其二",
+    "author": "呂溫",
+    "paragraphs": [
       "祀夏功何薄，尊周義不成。淒涼庾信賦，千載共傷情。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -183,17 +194,28 @@
     }
   },
   {
-    "title": "題石勒城二首",
+    "title": "題石勒城二首·其一",
     "author": "呂溫",
     "paragraphs": [
       "長驅到處積人頭，大旆連營壓上游。",
-      "建業烏棲何足問，慨然歸去王中州。",
+      "建業烏棲何足問，慨然歸去王中州。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題石勒城二首·其二",
+    "author": "呂溫",
+    "paragraphs": [
       "天生傑異固難馴，應變摧枯若有神。",
       "夷甫自能疑倚嘯，忍將虛誕誤時人。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -471,19 +493,41 @@
     }
   },
   {
-    "title": "順宗至德大聖大安孝皇帝挽歌詞三首",
+    "title": "順宗至德大聖大安孝皇帝挽歌詞三首·其一",
     "author": "呂溫",
     "paragraphs": [
       "遐視輕神寶，傳歸屬聖猷。堯功終有待，文德本無憂。",
-      "坐受朝汾水，行看告岱丘。那知鼎成後，龍馭弗淹留。",
+      "坐受朝汾水，行看告岱丘。那知鼎成後，龍馭弗淹留。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "順宗至德大聖大安孝皇帝挽歌詞三首·其二",
+    "author": "呂溫",
+    "paragraphs": [
       "監撫垂三紀，聲徽洽萬方。禮因馳道著，明自墾田彰。",
-      "積漸承鴻業，從容守太康。更留園寢詔，恭聽有餘芳。",
+      "積漸承鴻業，從容守太康。更留園寢詔，恭聽有餘芳。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "順宗至德大聖大安孝皇帝挽歌詞三首·其三",
+    "author": "呂溫",
+    "paragraphs": [
       "早秋同軌至，晨旆露華滋。挽度千夫咽，笳凝六馬遲。",
       "劍悲長閉日，衣望出遊時。風起西陵樹，淒涼滿孝思。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -566,17 +610,28 @@
     }
   },
   {
-    "title": "蕃中答退渾詞二首",
+    "title": "蕃中答退渾詞二首·其一",
     "author": "呂溫",
     "paragraphs": [
       "退渾兒，退渾兒，朔風長在氣何衰。",
-      "萬群鐵馬從奴虜，強弱由人莫歎時。",
+      "萬群鐵馬從奴虜，強弱由人莫歎時。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [3, 3, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "蕃中答退渾詞二首·其二",
+    "author": "呂溫",
+    "paragraphs": [
       "退渾兒，退渾兒，冰消青海草如絲。",
       "明堂天子朝萬國，神島龍駒將與誰。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [3, 3, 7, 7, 7, 3, 3, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [3, 3, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -704,15 +759,26 @@
     }
   },
   {
-    "title": "衡州早春二首",
+    "title": "衡州早春二首·其一",
     "author": "呂溫",
     "paragraphs": [
-      "碧水何逶迤，東風吹沙草。煙波千萬曲，不辨嵩陽道。",
+      "碧水何逶迤，東風吹沙草。煙波千萬曲，不辨嵩陽道。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "衡州早春二首·其二",
+    "author": "呂溫",
+    "paragraphs": [
       "病肺不飲酒，傷心不看花。惟驚望鄉處，猶自隔長沙。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -729,15 +795,26 @@
     }
   },
   {
-    "title": "偶然作二首",
+    "title": "偶然作二首·其一",
     "author": "呂溫",
     "paragraphs": [
-      "棲棲複汲汲，忽覺年四十。今朝滿衣淚，不是傷春泣。",
+      "棲棲複汲汲，忽覺年四十。今朝滿衣淚，不是傷春泣。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "偶然作二首·其二",
+    "author": "呂溫",
+    "paragraphs": [
       "中夜兀然坐，無言空涕洟。丈夫志氣事，兒女安得知。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

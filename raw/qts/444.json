@@ -280,23 +280,67 @@
     }
   },
   {
-    "title": "自詠五首",
+    "title": "自詠五首·其一",
     "author": "白居易",
     "paragraphs": [
       "朝亦隨群動，暮亦隨群動。榮華瞬息間，求得將何用。",
-      "形骸與冠蓋，假合相戲弄。但異睡著人，不知夢是夢。",
+      "形骸與冠蓋，假合相戲弄。但異睡著人，不知夢是夢。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "自詠五首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "一家五十口，一郡十萬戶。出為差科頭，入為衣食主。",
-      "水旱合心憂，饑寒須手撫。何異食蓼蟲，不知苦是苦。",
+      "水旱合心憂，饑寒須手撫。何異食蓼蟲，不知苦是苦。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "自詠五首·其三",
+    "author": "白居易",
+    "paragraphs": [
       "公私頗多事，衰憊殊少歡。迎送賓客懶，鞭笞黎庶難。",
-      "老耳倦聲樂，病口厭杯盤。既無可戀者，何以不休官。",
+      "老耳倦聲樂，病口厭杯盤。既無可戀者，何以不休官。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "自詠五首·其四",
+    "author": "白居易",
+    "paragraphs": [
       "一日復一日，自問何留滯。為貪逐日俸，擬作歸田計。",
-      "亦須隨豐約，可得無限劑。若待足始休，休官在何歲。",
+      "亦須隨豐約，可得無限劑。若待足始休，休官在何歲。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "自詠五首·其五",
+    "author": "白居易",
+    "paragraphs": [
       "官舍非我廬，官園非我樹。洛中有小宅，渭上有別墅。",
       "既無婚嫁累，幸有歸休處。歸去誠已遲，猶勝不歸去。"
     ],
     "format": {
-      "sentence_count": 40,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -319,15 +363,26 @@
     }
   },
   {
-    "title": "題故元少尹集後二首",
+    "title": "題故元少尹集後二首·其一",
     "author": "白居易",
     "paragraphs": [
-      "黃壤詎知我，白頭徒憶君。唯將老年淚，一灑故人文。",
+      "黃壤詎知我，白頭徒憶君。唯將老年淚，一灑故人文。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "題故元少尹集後二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "遺文三十軸，軸軸金玉聲。龍門原上土，埋骨不埋名。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -347,19 +402,30 @@
     }
   },
   {
-    "title": "吳中好風景二首",
+    "title": "吳中好風景二首·其一",
     "author": "白居易",
     "paragraphs": [
       "吳中好風景，八月如三月。水荇葉仍香，木蓮花未歇。",
       "海天微雨散，江郭纖埃滅。暑退衣服幹，潮生船舫活。",
-      "兩衙漸多暇，亭午初無熱。騎吏語使君，正是遊時節。",
+      "兩衙漸多暇，亭午初無熱。騎吏語使君，正是遊時節。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "吳中好風景二首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "吳中好風景，風景無朝暮。曉色萬家煙，秋聲八月樹。",
       "舟移管弦動，橋擁旌旗駐。改號齊雲樓，重開武丘路。",
       "況當豐歲熟，好是歡遊處。州民勸使君，且莫拋官去。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -458,25 +524,47 @@
     }
   },
   {
-    "title": "有感三首",
+    "title": "有感三首·其一",
     "author": "白居易",
     "paragraphs": [
       "鬢髮已斑白，衣綬方朱紫。窮賤當壯年，富榮臨暮齒。",
       "車輿紅塵合，第宅青煙起。彼來此須去，品物之常理。",
       "第宅非吾廬，逆旅暫留止。子孫非我有，委蛻而已矣。",
       "有如蠶造繭，又似花生子。子結花暗凋，繭成蠶老死。",
-      "悲哉可奈何，舉世皆如此。",
+      "悲哉可奈何，舉世皆如此。"
+    ],
+    "format": {
+      "sentence_count": 18,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "有感三首·其二",
+    "author": "白居易",
+    "paragraphs": [
       "莫養瘦馬駒，莫教小妓女。後事在目前，不信君看取。",
       "馬肥快行走，妓長能歌舞。三年五歲間，已聞換一主。",
-      "借問新舊主，誰樂誰辛苦。請君大帶上，把筆書此語。",
+      "借問新舊主，誰樂誰辛苦。請君大帶上，把筆書此語。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "有感三首·其三",
+    "author": "白居易",
+    "paragraphs": [
       "往事勿追思，追思多悲愴。來事勿相迎，相迎已惆悵。",
       "不如兀然坐，不如塌然臥。食來即開口，睡來即合眼。",
       "二事最關身，安寢加餐飯。忘懷任行止，委命隨修短。",
       "更若有興來，狂歌酒一醆。"
     ],
     "format": {
-      "sentence_count": 44,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

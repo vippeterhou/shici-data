@@ -197,19 +197,41 @@
     }
   },
   {
-    "title": "漁父歌三首",
+    "title": "漁父歌三首·其一",
     "author": "李珣",
     "paragraphs": [
       "水接衡門十裏餘，信船歸去臥看書。",
-      "輕爵祿，慕玄虛，莫道漁人只為魚。",
+      "輕爵祿，慕玄虛，莫道漁人只為魚。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 3, 3, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "漁父歌三首·其二",
+    "author": "李珣",
+    "paragraphs": [
       "避世垂綸不記年，官高爭得似君閑。",
-      "傾白酒，對青山，笑指柴門待月還。",
+      "傾白酒，對青山，笑指柴門待月還。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 3, 3, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "漁父歌三首·其三",
+    "author": "李珣",
+    "paragraphs": [
       "棹警鷗飛水濺袍，影侵潭面柳垂絛。",
       "終日醉，絕塵勞，曾見錢塘八月濤。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 3, 3, 7, 7, 7, 3, 3, 7, 7, 7, 3, 3, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 3, 3, 7],
       "uniform_sentence_length": null
     }
   },

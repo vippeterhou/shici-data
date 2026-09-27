@@ -26,23 +26,67 @@
     }
   },
   {
-    "title": "楊柳枝詞五首",
+    "title": "楊柳枝詞五首·其一",
     "author": "孫魴",
     "paragraphs": [
       "靈和風暖太昌春，舞線搖絲向昔人。",
-      "何似曉來江雨後，一行如畫隔遙津。",
+      "何似曉來江雨後，一行如畫隔遙津。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞五首·其二",
+    "author": "孫魴",
+    "paragraphs": [
       "彭澤初栽五樹時，只應閑看一枝垂。",
-      "不知天意風流處，要與佳人學畫眉。",
+      "不知天意風流處，要與佳人學畫眉。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞五首·其三",
+    "author": "孫魴",
+    "paragraphs": [
       "暖傍離亭靜拂橋，入流穿檻綠陰搖。",
-      "不知落日誰相送，魂斷千條與萬條。",
+      "不知落日誰相送，魂斷千條與萬條。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞五首·其四",
+    "author": "孫魴",
+    "paragraphs": [
       "春來綠樹遍天涯，未見垂楊未可誇。",
-      "晴日萬株煙一陣，閑坊兼是莫愁家。",
+      "晴日萬株煙一陣，閑坊兼是莫愁家。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "楊柳枝詞五首·其五",
+    "author": "孫魴",
+    "paragraphs": [
       "十首當年有舊詞，唱青歌翠幾無遺。",
       "未曾得向行人道，不謂離情莫折伊。"
     ],
     "format": {
-      "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -63,34 +107,67 @@
     }
   },
   {
-    "title": "入塞二首",
+    "title": "入塞二首·其一",
     "author": "沈彬",
     "paragraphs": [
       "欲為皇王服遠戎，萬人金甲鼓鼙中。陣雲黯塞三邊黑，",
-      "謗書未及明君爇，臥骨將軍已歿功。",
-      "苦戰沙門臥箭痕，戍樓閑上望星文。生希國澤分偏將，",
-      "功多地遠無人紀，漢閣笙歌日又曛。"
+      "謗書未及明君爇，臥骨將軍已歿功。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
   {
-    "title": "塞下三首",
+    "title": "入塞二首·其二",
+    "author": "沈彬",
+    "paragraphs": [
+      "苦戰沙門臥箭痕，戍樓閑上望星文。生希國澤分偏將，",
+      "功多地遠無人紀，漢閣笙歌日又曛。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞下三首·其一",
     "author": "沈彬",
     "paragraphs": [
       "塞葉聲悲秋欲霜，寒山數點下牛羊。映霞旅雁隨疏雨，",
-      "胡兒向化新成長，猶自千回問漢王。",
+      "胡兒向化新成長，猶自千回問漢王。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞下三首·其二",
+    "author": "沈彬",
+    "paragraphs": [
       "貴主和親殺氣沉，燕山閑獵鼓鼙音。旗分雪草偷邊馬，",
-      "金釵謾作封侯別，劈破佳人萬里心。",
+      "金釵謾作封侯別，劈破佳人萬里心。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞下三首·其三",
+    "author": "沈彬",
+    "paragraphs": [
       "月冷榆關過雁行，將軍寒笛老思鄉。貳師骨恨千夫壯，",
       "誰知漢武輕中國，閑奪天山草木荒。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -108,17 +185,28 @@
     }
   },
   {
-    "title": "金陵雜題二首",
+    "title": "金陵雜題二首·其一",
     "author": "沈彬",
     "paragraphs": [
       "王氣生秦四百年，晉元東渡浪花船。正慚海內皆塗地，",
-      "千征萬戰英雄盡，落日牛羊食野田。",
+      "千征萬戰英雄盡，落日牛羊食野田。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "金陵雜題二首·其二",
+    "author": "沈彬",
+    "paragraphs": [
       "暮潮聲落草光沉，賈客來帆宿岸陰。一笛月明何處酒，",
       "今日到來何物在，碧煙和雨鎖寒林。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

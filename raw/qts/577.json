@@ -380,62 +380,106 @@
     }
   },
   {
-    "title": "中書令裴公挽歌詞二首",
+    "title": "中書令裴公挽歌詞二首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "王儉風華首，蕭何社稷臣。丹陽布衣客，蓮渚白頭人。",
-      "銘勒燕山暮，碑沉漢水春。從今虛醉飽，無複汙車茵。",
+      "銘勒燕山暮，碑沉漢水春。從今虛醉飽，無複汙車茵。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "中書令裴公挽歌詞二首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
       "箭下妖星落，風前殺氣回。國香荀令去，樓月庾公來。",
       "玉璽終無慮，金縢意不開。空嗟薦賢路，芳草滿燕台。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "唐莊恪太子挽歌詞二首",
+    "title": "唐莊恪太子挽歌詞二首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "疊鼓辭宮殿，悲笳降杳冥。影離雲外日，光滅火前星。",
-      "鄴客瞻秦苑，商公下漢庭。依依陵樹色，空繞古原青。",
+      "鄴客瞻秦苑，商公下漢庭。依依陵樹色，空繞古原青。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "唐莊恪太子挽歌詞二首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
       "東府虛容衛，西園寄夢思。鳳懸吹曲夜，雞斷問安時。",
       "塵陌都人恨，霜郊賵馬悲。唯餘埋璧地，煙草近丹墀。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "秘書劉尚書挽歌詞二首",
+    "title": "秘書劉尚書挽歌詞二首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "王筆活鸞鳳，謝詩生芙蓉。學筵開絳帳，談柄發洪鐘。",
-      "粉署見飛鵩，玉山猜臥龍。遺風麗清韻，蕭散九原松。",
+      "粉署見飛鵩，玉山猜臥龍。遺風麗清韻，蕭散九原松。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "秘書劉尚書挽歌詞二首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
       "麈尾近良玉，鶴裘吹素絲。壞陵殷浩謫，春墅謝安棋。",
       "京口貴公子，襄陽諸女兒。折花兼踏月，多唱柳郎詞。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "太子西池二首",
+    "title": "太子西池二首·其一",
     "author": "溫庭筠",
     "paragraphs": [
       "梨花雪壓枝，鶯囀柳如絲。懶逐妝成曉，春融夢覺遲。",
-      "鬢輕全作影，嚬淺未成眉。莫信張公子，窗間斷暗期。",
+      "鬢輕全作影，嚬淺未成眉。莫信張公子，窗間斷暗期。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "太子西池二首·其二",
+    "author": "溫庭筠",
+    "paragraphs": [
       "花紅蘭紫莖，愁草雨新晴。柳占三春色，鶯偷百鳥聲。",
       "日長嫌輦重，風暖覺衣輕。薄暮香塵起，長楊落照明。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

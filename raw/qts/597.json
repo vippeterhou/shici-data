@@ -103,19 +103,41 @@
     }
   },
   {
-    "title": "憤惋詩三首",
+    "title": "憤惋詩三首·其一",
     "author": "劉損",
     "paragraphs": [
       "寶釵分股合無緣，魚在深淵日在天。得意紫鸞休舞鏡，",
-      "從此蘼蕪山下過，只應將淚比黃泉。",
+      "從此蘼蕪山下過，只應將淚比黃泉。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "憤惋詩三首·其二",
+    "author": "劉損",
+    "paragraphs": [
       "鸞辭舊伴知何止，鳳得新梧想稱心。紅粉尚存香幕幕，",
-      "願作山頭似人石，丈夫衣上淚痕深。",
+      "願作山頭似人石，丈夫衣上淚痕深。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "憤惋詩三首·其三",
+    "author": "劉損",
+    "paragraphs": [
       "舊嘗遊處遍尋看，睹物傷情死一般。買笑樓前花已謝，",
       "莫道詩成無淚下，淚如泉滴亦須幹。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -1,18 +1,40 @@
 [
   {
-    "title": "懷華陽潤卿博士三首",
+    "title": "懷華陽潤卿博士三首·其一",
     "author": "皮日休",
     "paragraphs": [
       "先生一向事虛皇，天市壇西與世忘。環堵養龜看氣訣，",
-      "聞道征賢須有詔，不知何日到良常。",
+      "聞道征賢須有詔，不知何日到良常。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "懷華陽潤卿博士三首·其二",
+    "author": "皮日休",
+    "paragraphs": [
       "冥心唯事白英君，不問人間爵與勳。林下醉眠仙鹿見，",
-      "料得虛皇新詔樣，青瓊板上綠為文。",
+      "料得虛皇新詔樣，青瓊板上綠為文。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "懷華陽潤卿博士三首·其三",
+    "author": "皮日休",
+    "paragraphs": [
       "鳳骨輕來稱瘦容，華陽館主未成翁。數行玉劄存心久，",
       "他年欲事先生去，十賚須加陸逸沖。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -30,17 +52,28 @@
     }
   },
   {
-    "title": "夏景無事因懷章來二上人二首",
+    "title": "夏景無事因懷章來二上人二首·其一",
     "author": "皮日休",
     "paragraphs": [
       "澹景微陰正送梅，幽人逃暑癭楠杯。水花移得和魚子，",
-      "更無一事唯留客，卻被高僧怕不來。",
+      "更無一事唯留客，卻被高僧怕不來。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "夏景無事因懷章來二上人二首·其二",
+    "author": "皮日休",
+    "paragraphs": [
       "佳樹盤珊枕草堂，此中隨分亦閑忙。平鋪風簟尋琴譜，",
       "從今有計消閒日，更為支公置一床。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -88,17 +121,28 @@
     }
   },
   {
-    "title": "夏景沖澹偶然作二首",
+    "title": "夏景沖澹偶然作二首·其一",
     "author": "皮日休",
     "paragraphs": [
       "祗隈蒲褥岸烏紗，味道澄懷景便斜。紅印寄泉慚郡守，",
-      "園吏暫棲君莫笑，不妨猶更著南華。",
+      "園吏暫棲君莫笑，不妨猶更著南華。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "夏景沖澹偶然作二首·其二",
+    "author": "皮日休",
+    "paragraphs": [
       "一室無喧事事幽，還如貞白在高樓。天臺畫得千回看，",
       "他年謁帝言何事，請贈劉伶作醉侯。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -285,19 +329,41 @@
     }
   },
   {
-    "title": "新秋即事三首",
+    "title": "新秋即事三首·其一",
     "author": "皮日休",
     "paragraphs": [
       "癡號多於顧愷之，更無餘事可從知。酒坊吏到常先見，",
-      "共君無事堪相賀，又到金齏玉鱠時。",
+      "共君無事堪相賀，又到金齏玉鱠時。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "新秋即事三首·其二",
+    "author": "皮日休",
+    "paragraphs": [
       "堪笑高陽病酒徒，幅巾瀟灑在東吳。秋期淨掃雲根瘦，",
-      "乞求待得西風起，盡挽煙帆入太湖。",
+      "乞求待得西風起，盡挽煙帆入太湖。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "新秋即事三首·其三",
+    "author": "皮日休",
+    "paragraphs": [
       "露槿風杉滿曲除，高秋無事似雲廬。醉多已任家人厭，",
       "君卿唇舌非吾事，且向江南問鰒魚。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -457,19 +523,41 @@
     }
   },
   {
-    "title": "寒日書齋即事三首",
+    "title": "寒日書齋即事三首·其一",
     "author": "皮日休",
     "paragraphs": [
       "參佐三間似草堂，恬然無事可成忙。移時寂曆燒松子，",
-      "空庭好待中宵月，獨禮星辰學步罡。",
+      "空庭好待中宵月，獨禮星辰學步罡。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寒日書齋即事三首·其二",
+    "author": "皮日休",
+    "paragraphs": [
       "不知何事有生涯，皮褐親裁學道家。深夜數甌唯柏葉，",
-      "江漢欲歸應未得，夜來頻夢赤城霞。",
+      "江漢欲歸應未得，夜來頻夢赤城霞。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寒日書齋即事三首·其三",
+    "author": "皮日休",
+    "paragraphs": [
       "方朔家貧未有車，肯從榮利舍樵漁。從公未怪多侵酒，",
       "如鉤得貴非吾事，合向煙波為五魚。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -734,17 +822,28 @@
     }
   },
   {
-    "title": "鴛鴦二首",
+    "title": "鴛鴦二首·其一",
     "author": "皮日休",
     "paragraphs": [
       "雙絲絹上為新樣，連理枝頭是故園。翠浪萬回同過影，",
-      "應念孤飛爭別宿，蘆花蕭瑟雨黃昏。",
+      "應念孤飛爭別宿，蘆花蕭瑟雨黃昏。"
+    ],
+    "format": {
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "鴛鴦二首·其二",
+    "author": "皮日休",
+    "paragraphs": [
       "鈿鎞雕鏤費深功，舞妓衣邊繡莫窮。無日不來湘渚上，",
       "應笑豪家鸚鵡伴，年年徒被鎖金籠。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

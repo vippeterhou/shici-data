@@ -507,19 +507,41 @@
     }
   },
   {
-    "title": "使青夷軍入居庸三首",
+    "title": "使青夷軍入居庸三首·其一",
     "author": "高適",
     "paragraphs": [
       "匹馬行將久，征途去轉難。不知邊地別，只訝客衣單。",
-      "溪冷泉聲苦，山空木葉幹。莫言關塞極，雲雪尚漫漫。",
+      "溪冷泉聲苦，山空木葉幹。莫言關塞極，雲雪尚漫漫。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "使青夷軍入居庸三首·其二",
+    "author": "高適",
+    "paragraphs": [
       "古鎮青山口，寒風落日時。岩巒鳥不過，冰雪馬堪遲。",
-      "出塞應無策，還家賴有期。東山足松桂，歸去結茅茨。",
+      "出塞應無策，還家賴有期。東山足松桂，歸去結茅茨。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "使青夷軍入居庸三首·其三",
+    "author": "高適",
+    "paragraphs": [
       "登頓驅征騎，棲遲愧寶刀。遠行今若此，微祿果徒勞。",
       "絕阪水連下，群峰雲共高。自堪成白首，何事一青袍。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -1093,19 +1115,41 @@
     }
   },
   {
-    "title": "九曲詞三首",
+    "title": "九曲詞三首·其一",
     "author": "高適",
     "paragraphs": [
       "許國從來徹廟堂，連年不為在疆場。",
-      "將軍天上封侯印，禦史臺上異姓王。",
+      "將軍天上封侯印，禦史臺上異姓王。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "九曲詞三首·其二",
+    "author": "高適",
+    "paragraphs": [
       "萬騎爭歌楊柳春，千場對舞繡騏驎。",
-      "到處盡逢歡洽事，相看總是太平人。",
+      "到處盡逢歡洽事，相看總是太平人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "九曲詞三首·其三",
+    "author": "高適",
+    "paragraphs": [
       "鐵騎橫行鐵嶺頭，西看邏逤取封侯。",
       "青海只今將飲馬，黃河不用更防秋。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1151,17 +1195,28 @@
     }
   },
   {
-    "title": "別董大二首",
+    "title": "別董大二首·其一",
     "author": "高適",
     "paragraphs": [
       "十裏黃雲白日曛，北風吹雁雪紛紛。",
-      "莫愁前路無知己，天下誰人不識君。",
+      "莫愁前路無知己，天下誰人不識君。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "別董大二首·其二",
+    "author": "高適",
+    "paragraphs": [
       "六翮飄颻私自憐，一離京洛十餘年。",
       "丈夫貧踐應未足，今日相逢無酒錢。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

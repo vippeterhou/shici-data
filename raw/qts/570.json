@@ -48,28 +48,50 @@
     }
   },
   {
-    "title": "客愁二首",
+    "title": "客愁二首·其一",
     "author": "李群玉",
     "paragraphs": [
-      "客愁看柳色，日日逐春深。蕩漾春風起，誰知曆亂心。",
-      "客愁看柳色，日日逐春長。憑送湘流水，綿綿入帝鄉。"
+      "客愁看柳色，日日逐春深。蕩漾春風起，誰知曆亂心。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "洞庭幹二首",
+    "title": "客愁二首·其二",
     "author": "李群玉",
     "paragraphs": [
-      "借問蓬萊水，誰逢清淺年。傷心雲夢澤，歲歲作桑田。",
+      "客愁看柳色，日日逐春長。憑送湘流水，綿綿入帝鄉。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "洞庭幹二首·其一",
+    "author": "李群玉",
+    "paragraphs": [
+      "借問蓬萊水，誰逢清淺年。傷心雲夢澤，歲歲作桑田。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "洞庭幹二首·其二",
+    "author": "李群玉",
+    "paragraphs": [
       "朱宮紫貝闕，一旦作沙洲。八月還平在，魚蝦不用愁。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -254,21 +276,98 @@
     }
   },
   {
-    "title": "龍安寺佳人阿最歌八首",
+    "title": "龍安寺佳人阿最歌八首·其一",
     "author": "李群玉",
     "paragraphs": [
-      "團團明月面，冉冉柳枝腰。未入鴛鴦被，心長似火燒。",
-      "見面知何益，聞名憶轉深。拳攣荷葉子，未得展蓮心。",
-      "欲摘不得摘，如看波上花。若教親玉樹，情願作蒹葭。",
-      "門路穿茶焙，房門映竹煙。會須隨鹿女，乞火到窗前。",
-      "不是求心印，都緣愛綠珠。何須同泰寺，然後始為奴。",
-      "既為金界客，任改淨人名。願掃琉璃地，燒香過一生。",
-      "素腕撩金索，輕紅約翠紗。不如欄下水，終日見桃花。",
+      "團團明月面，冉冉柳枝腰。未入鴛鴦被，心長似火燒。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "龍安寺佳人阿最歌八首·其二",
+    "author": "李群玉",
+    "paragraphs": [
+      "見面知何益，聞名憶轉深。拳攣荷葉子，未得展蓮心。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "龍安寺佳人阿最歌八首·其三",
+    "author": "李群玉",
+    "paragraphs": [
+      "欲摘不得摘，如看波上花。若教親玉樹，情願作蒹葭。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "龍安寺佳人阿最歌八首·其四",
+    "author": "李群玉",
+    "paragraphs": [
+      "門路穿茶焙，房門映竹煙。會須隨鹿女，乞火到窗前。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "龍安寺佳人阿最歌八首·其五",
+    "author": "李群玉",
+    "paragraphs": [
+      "不是求心印，都緣愛綠珠。何須同泰寺，然後始為奴。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "龍安寺佳人阿最歌八首·其六",
+    "author": "李群玉",
+    "paragraphs": [
+      "既為金界客，任改淨人名。願掃琉璃地，燒香過一生。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "龍安寺佳人阿最歌八首·其七",
+    "author": "李群玉",
+    "paragraphs": [
+      "素腕撩金索，輕紅約翠紗。不如欄下水，終日見桃花。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "龍安寺佳人阿最歌八首·其八",
+    "author": "李群玉",
+    "paragraphs": [
       "第一龍宮女，相憐是阿誰。好魚輸獺盡，白鷺鎮長饑。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -298,17 +397,28 @@
     }
   },
   {
-    "title": "寄友二首",
+    "title": "寄友二首·其一",
     "author": "李群玉",
     "paragraphs": [
       "野水晴山雪後時，獨行村落更相思。",
-      "無因一向溪頭醉，處處寒梅映酒旗。",
+      "無因一向溪頭醉，處處寒梅映酒旗。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "寄友二首·其二",
+    "author": "李群玉",
+    "paragraphs": [
       "花落輕寒酒熟遲，醉眠不及落花期。",
       "愁人相憶春山暮，煙樹蒼蒼播谷時。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -599,17 +709,28 @@
     }
   },
   {
-    "title": "秋登涔陽城二首",
+    "title": "秋登涔陽城二首·其一",
     "author": "李群玉",
     "paragraphs": [
       "萬戶砧聲水國秋，涼風吹起故鄉愁。",
-      "行人望遠偏傷思，白浪青楓滿北樓。",
+      "行人望遠偏傷思，白浪青楓滿北樓。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "秋登涔陽城二首·其二",
+    "author": "李群玉",
+    "paragraphs": [
       "穿針樓上閉秋煙，織女佳期又來年。",
       "斜笛夜深吹不落，一條銀漢掛秋天。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -772,17 +893,28 @@
     }
   },
   {
-    "title": "宿巫山廟二首",
+    "title": "宿巫山廟二首·其一",
     "author": "李群玉",
     "paragraphs": [
       "寂寞高堂別楚君，玉人天上逐行雲。",
-      "停舟十二峰巒下，幽佩仙香半夜聞。",
+      "停舟十二峰巒下，幽佩仙香半夜聞。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "宿巫山廟二首·其二",
+    "author": "李群玉",
+    "paragraphs": [
       "廟閉春山曉月光，波聲回合樹蒼蒼。",
       "自從一別襄王夢，雲雨空飛巫峽長。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1073,17 +1205,28 @@
     }
   },
   {
-    "title": "南莊春晚二首",
+    "title": "南莊春晚二首·其一",
     "author": "李群玉",
     "paragraphs": [
       "連雲草映一條陂，鸂鶒雙雙帶水飛。",
-      "南村小路桃花落，細雨斜風獨自歸。",
+      "南村小路桃花落，細雨斜風獨自歸。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "南莊春晚二首·其二",
+    "author": "李群玉",
+    "paragraphs": [
       "草暖沙長望去舟，微茫煙浪向巴丘。",
       "沅江寂寂春歸盡，水綠蘋香人自愁。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

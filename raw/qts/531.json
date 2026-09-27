@@ -481,17 +481,28 @@
     }
   },
   {
-    "title": "重傷楊攀處士二首",
+    "title": "重傷楊攀處士二首·其一",
     "author": "許渾",
     "paragraphs": [
       "綠雲多學術，黃發竟無成。酒縱山中性，詩留海上名。",
-      "讀書新樹老，垂釣舊磯平。今日悲前事，西風聞哭聲。",
+      "讀書新樹老，垂釣舊磯平。今日悲前事，西風聞哭聲。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "重傷楊攀處士二首·其二",
+    "author": "許渾",
+    "paragraphs": [
       "從官任直道，幾處脫長裾。歿後兒猶小，葬來人漸疏。",
       "新鄰占池館，長史覓圖書。身賤難相報，平生恨有餘。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

@@ -115,17 +115,28 @@
     }
   },
   {
-    "title": "閑齋臥病行藥至山館稍次湖亭二首",
+    "title": "閑齋臥病行藥至山館稍次湖亭二首·其一",
     "author": "常建",
     "paragraphs": [
       "旬時結陰霖，簾外初白日。齋沐清病容，心魂畏虛室。",
-      "閑梅照前戶，明鏡悲舊質。同袍四五人，何不來問疾。",
+      "閑梅照前戶，明鏡悲舊質。同袍四五人，何不來問疾。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "閑齋臥病行藥至山館稍次湖亭二首·其二",
+    "author": "常建",
+    "paragraphs": [
       "行藥至石壁，東風變萌芽。主人門外綠，小隱湖中花。",
       "時物堪獨往，春帆宜別家。辭君向滄海，爛熳從天涯。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -192,17 +203,28 @@
     }
   },
   {
-    "title": "春詞二首",
+    "title": "春詞二首·其一",
     "author": "常建",
     "paragraphs": [
       "菀菀黃柳絲，濛濛雜花垂。日高紅妝臥，倚對春光遲。",
-      "甯知傍淇水，騕褭黃金羈。",
+      "甯知傍淇水，騕褭黃金羈。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春詞二首·其二",
+    "author": "常建",
+    "paragraphs": [
       "翳翳陌上桑，南枝交北堂。美人金梯出，素手自提筐。",
       "非但畏蠶饑，盈盈嬌路傍。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -389,24 +411,46 @@
     }
   },
   {
-    "title": "古意三首",
+    "title": "古意三首·其一",
     "author": "常建",
     "paragraphs": [
       "二妃方訪舜，萬里南方懸。遠道隔江漢，孤舟無歲年。",
       "不知蒼梧處，氣盡呼青天。愁淚變楚竹，蛾眉喪湘川。",
       "後人立為廟，累世稱其賢。過客設祠祭，狐狸來坐邊。",
-      "懷古未忍還，猿吟徹空山。",
+      "懷古未忍還，猿吟徹空山。"
+    ],
+    "format": {
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古意三首·其二",
+    "author": "常建",
+    "paragraphs": [
       "明月照高閣，彩女褰羅幕。歌舞臨碧雲，簫聲沸珠箔。",
       "青鸞臨南海，天上雙白鶴。萬里齊翼飛，意求君門樂。",
       "玉霄九重閉，金鎖夜不開。兩翅自無力，愁鳴雲外來。",
-      "態深入空貴，世屈無良媒。俯仰顧中禁，東飛白玉台。",
+      "態深入空貴，世屈無良媒。俯仰顧中禁，東飛白玉台。"
+    ],
+    "format": {
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "古意三首·其三",
+    "author": "常建",
+    "paragraphs": [
       "楚王竟何去，獨自留巫山。偏使世人見，迢迢江漢間。",
       "駐舟春溪裏，皆願拜靈顏。寤寐見神女，金沙鳴佩環。",
       "閑豔絕世姿，令人氣力微。含笑竟不語，化作朝雲飛。"
     ],
     "format": {
-      "sentence_count": 42,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -694,21 +738,54 @@
     }
   },
   {
-    "title": "塞下曲四首",
+    "title": "塞下曲四首·其一",
     "author": "常建",
     "paragraphs": [
       "玉帛朝回望帝鄉，烏孫歸去不稱王。",
-      "天涯靜處無征戰，兵氣銷為日月光。",
+      "天涯靜處無征戰，兵氣銷為日月光。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞下曲四首·其二",
+    "author": "常建",
+    "paragraphs": [
       "北海陰風動地來，明君祠上望龍堆。",
-      "髑髏皆是長城卒，日暮沙場飛作灰。",
+      "髑髏皆是長城卒，日暮沙場飛作灰。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞下曲四首·其三",
+    "author": "常建",
+    "paragraphs": [
       "龍鬥雌雄勢已分，山崩鬼哭恨將軍。",
-      "黃河直北千餘裏，冤氣蒼茫成黑雲。",
+      "黃河直北千餘裏，冤氣蒼茫成黑雲。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "塞下曲四首·其四",
+    "author": "常建",
+    "paragraphs": [
       "因嫁單于怨在邊，蛾眉萬古葬胡天。",
       "漢家此去三千里，青塚常無草木煙。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -29,33 +29,132 @@
     }
   },
   {
-    "title": "升平詞十首",
+    "title": "升平詞十首·其一",
     "author": "薛能",
     "paragraphs": [
       "瑞氣繞宮樓，皇居信上游。遠岡連聖祚，平地載神州。",
-      "會合皆重譯，潺湲近八流。中興豈假問，據此自千秋。",
+      "會合皆重譯，潺湲近八流。中興豈假問，據此自千秋。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "升平詞十首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "寥泬敞延英，朝班立位橫。宣傳無草動，拜舞有衣聲。",
-      "鴛瓦霜消濕，蟲絲日照明。辛勤自不到，遙見似前程。",
+      "鴛瓦霜消濕，蟲絲日照明。辛勤自不到，遙見似前程。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "升平詞十首·其三",
+    "author": "薛能",
+    "paragraphs": [
       "處處是歡心，時康歲已深。不同三尺劍，應似五弦琴。",
-      "壽笑山猶盡，明嫌日有陰。何當憐一物，亦遣斷愁吟。",
+      "壽笑山猶盡，明嫌日有陰。何當憐一物，亦遣斷愁吟。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "升平詞十首·其四",
+    "author": "薛能",
+    "paragraphs": [
       "曙質絕埃氛，彤庭列禁軍。聖顏初對日，龍尾競緣雲。",
-      "佩響交成韻，簾陰暖帶紋。逍遙豈有事，于此詠南熏。",
+      "佩響交成韻，簾陰暖帶紋。逍遙豈有事，于此詠南熏。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "升平詞十首·其五",
+    "author": "薛能",
+    "paragraphs": [
       "一物至周天，洪纖盡晏然。車書無異俗，甲子並豐年。",
-      "奇技皆歸樸，征夫亦服田。君王故不有，台鼎合韋弦。",
+      "奇技皆歸樸，征夫亦服田。君王故不有，台鼎合韋弦。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "升平詞十首·其六",
+    "author": "薛能",
+    "paragraphs": [
       "日日聽歌謠，區中盡祝堯。蟲蝗初不害，夷狄近全銷。",
-      "史筆惟書瑞，天臺絕見妖。因令匹夫志，轉欲事清朝。",
+      "史筆惟書瑞，天臺絕見妖。因令匹夫志，轉欲事清朝。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "升平詞十首·其七",
+    "author": "薛能",
+    "paragraphs": [
       "品物盡昭蘇，神功複帝謨。他時應有壽，當代且無虞。",
-      "賜曆通遐俗，移關入半胡。鷦鷯一何幸，於此寄微軀。",
+      "賜曆通遐俗，移關入半胡。鷦鷯一何幸，於此寄微軀。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "升平詞十首·其八",
+    "author": "薛能",
+    "paragraphs": [
       "無戰複無私，堯時即此時。焚香臨極早，待月捲簾遲。",
-      "端拱乾坤內，何言黈纊垂。君看聖明驗，只此是神龜。",
+      "端拱乾坤內，何言黈纊垂。君看聖明驗，只此是神龜。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "升平詞十首·其九",
+    "author": "薛能",
+    "paragraphs": [
       "旭日上清穹，明堂坐聖聰。衣裳承瑞氣，冠冕蓋重瞳。",
-      "花木經宵露，旌旗入仗風。何期於此地，見說是神工。",
+      "花木經宵露，旌旗入仗風。何期於此地，見說是神工。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "升平詞十首·其十",
+    "author": "薛能",
+    "paragraphs": [
       "五帝三皇主，蕭曹魏邴臣。文章惟返朴，戈甲盡生塵。",
       "諫紙應無用，朝綱自有倫。升平不可記，所見是閒人。"
     ],
     "format": {
-      "sentence_count": 80,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -281,19 +380,41 @@
     }
   },
   {
-    "title": "恭禧皇太后挽歌詞三首",
+    "title": "恭禧皇太后挽歌詞三首·其一",
     "author": "薛能",
     "paragraphs": [
       "八月曾殊選，三星固異儀。袝陵經灞滻，歸賵雜華夷。",
-      "旌去題新諡，宮存鎖素幃。重泉應不恨，生見太平時。",
+      "旌去題新諡，宮存鎖素幃。重泉應不恨，生見太平時。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "恭禧皇太后挽歌詞三首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "月落娥兼隱，宮空後豈還。銜哀窮地界，親蒞泣天顏。",
-      "舊住留丹藥，新陵在碧山。國人傷莫及，應只詠關關。",
+      "舊住留丹藥，新陵在碧山。國人傷莫及，應只詠關關。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "恭禧皇太后挽歌詞三首·其三",
+    "author": "薛能",
+    "paragraphs": [
       "配聖三朝隔，靈儀萬姓哀。多年好黃老，舊日薦賢才。",
       "道著標彤管，宮閑閉綠苔。平生六衣在，曾著祀高禖。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -363,34 +484,67 @@
     }
   },
   {
-    "title": "下第後春日長安寓居三首",
+    "title": "下第後春日長安寓居三首·其一",
     "author": "薛能",
     "paragraphs": [
       "一榜盡精選，此身猶陸沉。自無功讜分，敢抱怨尤心。",
-      "暖陌開花氣，春居閉日陰。相知豈不有，知淺未知深。",
-      "暫屈固何恨，所憂無此時。來年空仰望，臨日又參差。",
-      "勞力且成病，壯心能不衰。猶將琢磨意，更欲候宗師。",
-      "關東歸不得，豈是愛他鄉。草碧餘花落，春閑白日長。",
-      "全家期聖澤，半路敢農桑。獨立應無侶，浮生欲自傷。"
+      "暖陌開花氣，春居閉日陰。相知豈不有，知淺未知深。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
   {
-    "title": "春早選寓長安二首",
+    "title": "下第後春日長安寓居三首·其二",
+    "author": "薛能",
+    "paragraphs": [
+      "暫屈固何恨，所憂無此時。來年空仰望，臨日又參差。",
+      "勞力且成病，壯心能不衰。猶將琢磨意，更欲候宗師。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "下第後春日長安寓居三首·其三",
+    "author": "薛能",
+    "paragraphs": [
+      "關東歸不得，豈是愛他鄉。草碧餘花落，春閑白日長。",
+      "全家期聖澤，半路敢農桑。獨立應無侶，浮生欲自傷。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春早選寓長安二首·其一",
     "author": "薛能",
     "paragraphs": [
       "疏拙自沉昏，長安豈是村。春非閑客事，花在五侯門。",
-      "道僻惟憂禍，詩深不敢論。揚雄若有薦，君聖合承恩。",
+      "道僻惟憂禍，詩深不敢論。揚雄若有薦，君聖合承恩。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "春早選寓長安二首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "舊論已浮海，此心猶滯秦。上僚如報國，公道豈無人。",
       "岩隱懸溪瀑，城居入榻塵。漁舟即擬去，不待晚年身。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -514,19 +668,41 @@
     }
   },
   {
-    "title": "柘枝詞三首",
+    "title": "柘枝詞三首·其一",
     "author": "薛能",
     "paragraphs": [
       "同營三十萬，震鼓伐西羌。戰血粘秋草，征塵攪夕陽。",
-      "歸來人不識，帝裏獨戎裝。",
+      "歸來人不識，帝裏獨戎裝。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "柘枝詞三首·其二",
+    "author": "薛能",
+    "paragraphs": [
       "懸軍征拓羯，內地隔蕭關。日色昆侖上，風聲朔漠間。",
-      "何當千萬騎，颯颯貳師還。",
+      "何當千萬騎，颯颯貳師還。"
+    ],
+    "format": {
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "柘枝詞三首·其三",
+    "author": "薛能",
+    "paragraphs": [
       "意氣成功日，春風起絮天。樓臺新邸第，歌舞小嬋娟。",
       "急破催搖曳，羅衫半脫肩。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -751,13 +927,12 @@
     "author": "薛能",
     "paragraphs": [
       "盡日行方到，何年獨此林。客歸惟鶴伴，人少似師心。",
-      "坐石落松子，禪床搖竹陰。山靈怕驚定，不遣夜猿吟。",
-      "知古齋主精校"
+      "坐石落松子，禪床搖竹陰。山靈怕驚定，不遣夜猿吟。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 6],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   }
 ]
