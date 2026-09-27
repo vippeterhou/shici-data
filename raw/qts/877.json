@@ -316,12 +316,12 @@
     "title": "益陽諺",
     "author": "不詳",
     "paragraphs": [
-      "長沙益陽，一時相b3。"
+      "長沙益陽，一時相卬。"
     ],
     "format": {
       "sentence_count": 2,
-      "sentence_lengths": [4, 3],
-      "uniform_sentence_length": null
+      "sentence_lengths": [4, 4],
+      "uniform_sentence_length": 4
     }
   },
   {

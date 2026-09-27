@@ -808,12 +808,12 @@
     "title": "游長寧公主流杯池二十五首·其三",
     "author": "上官昭容",
     "paragraphs": [
-      "檀欒竹影，飆f2松聲。不煩歌吹，自足娛情。"
+      "檀欒竹影，飆䫻松聲。不煩歌吹，自足娛情。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [4, 3, 4, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [4, 4, 4, 4],
+      "uniform_sentence_length": 4
     }
   },
   {

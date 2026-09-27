@@ -1461,13 +1461,13 @@
     "title": "秋日後",
     "author": "王建",
     "paragraphs": [
-      "住處近山常足雨，聞晴z4曝舊芳茵。",
+      "住處近山常足雨，聞晴曬曝舊芳茵。",
       "立秋日後無多熱，漸覺生衣不著身。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [7, 6, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

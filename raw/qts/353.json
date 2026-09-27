@@ -19,7 +19,7 @@
     }
   },
   {
-    "title": "《種仙靈毗",
+    "title": "種仙靈毗",
     "author": "柳宗元",
     "paragraphs": [
       "窮陋闕自養，癘氣劇囂煩。隆冬乏霜霰，日夕南風溫。",
@@ -529,13 +529,13 @@
     "title": "感遇二首·其二",
     "author": "柳宗元",
     "paragraphs": [
-      "旭日照寒野，pL斯起蒿萊。啁啾有餘樂，飛舞西陵隈。",
+      "旭日照寒野，鸒斯起蒿萊。啁啾有餘樂，飛舞西陵隈。",
       "回風旦夕至，零葉委陳荄。所棲不足恃，鷹隼縱橫來。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 4, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

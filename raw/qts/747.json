@@ -664,12 +664,12 @@
     "author": "李中",
     "paragraphs": [
       "太皞禦氣，勾芒肇功。蒼龍青旗，爰候祥風。",
-      "律以和應，□以感通。鼎俎修蚃，時惟禮崇。"
+      "律以和應，神以感通。鼎俎修蚃，時惟禮崇。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [4, 4, 4, 4, 4, 3, 4, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
+      "uniform_sentence_length": 4
     }
   },
   {

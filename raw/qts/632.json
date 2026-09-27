@@ -1273,12 +1273,12 @@
     "title": "雜題九首·其四",
     "author": "司空圖",
     "paragraphs": [
-      "樓帶猿吟迥，庭容鶴舞寬。z4書因閱畫，封藥偶和丹。"
+      "樓帶猿吟迥，庭容鶴舞寬。曬書因閱畫，封藥偶和丹。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [5, 5, 4, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

@@ -315,7 +315,7 @@
     }
   },
   {
-    "title": "暫如臨邑，至gh山湖亭奉懷李員外率爾成興",
+    "title": "暫如臨邑，至㟙山湖亭奉懷李員外率爾成興",
     "author": "杜甫",
     "paragraphs": [
       "野亭逼湖水，歇馬高林間。鼉吼風奔浪，魚跳日映山。",
@@ -652,13 +652,13 @@
     "title": "陪鄭廣文游何將軍山林十首·其八",
     "author": "杜甫",
     "paragraphs": [
-      "憶過楊柳渚，走馬定昆池。醉把青荷葉，狂遺白接z5。",
+      "憶過楊柳渚，走馬定昆池。醉把青荷葉，狂遺白接䍦。",
       "刺船思郢客，解水乞吳兒。坐對秦山晚，江湖興頗隨。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 4, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

@@ -354,13 +354,13 @@
     "title": "宮詞百首·其二十八",
     "author": "和凝",
     "paragraphs": [
-      "貢橘香勻x0oh容，星光初滿小金籠。",
+      "貢橘香勻䩋𩉙容，星光初滿小金籠。",
       "近臣押賜諸王宅，拜了方開敕字封。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [5, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

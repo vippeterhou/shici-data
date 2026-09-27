@@ -854,13 +854,13 @@
     "title": "翻著葛巾呈趙尹",
     "author": "張說",
     "paragraphs": [
-      "昔日接z5倒，今我葛巾翻。宿酒何時醒，形骸不復存。",
+      "昔日接㒿倒，今我葛巾翻。宿酒何時醒，形骸不復存。",
       "忽聞有嘉客，躧步出閑門。桃花春徑滿，誤識武陵源。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [4, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

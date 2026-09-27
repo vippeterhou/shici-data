@@ -253,12 +253,12 @@
     "title": "雉將雛",
     "author": "王建",
     "paragraphs": [
-      "雉咿喔，雛出ob。毛斑斑，觜啄啄。學飛未得一尺高，",
+      "雉咿喔，雛出㲉。毛斑斑，觜啄啄。學飛未得一尺高，",
       "時時土中鼓兩翅，引雛拾蟲不相離。"
     ],
     "format": {
       "sentence_count": 7,
-      "sentence_lengths": [3, 2, 3, 3, 7, 7, 7],
+      "sentence_lengths": [3, 3, 3, 3, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -737,12 +737,12 @@
     "author": "王建",
     "paragraphs": [
       "重重摩挲嫁時鏡，夫婿遠行憑鏡聽。回身不遣別人知，",
-      "嗟嗟eP々下堂階，獨自灶前來跪拜。出門願不聞悲哀，",
+      "嗟嗟㗫々下堂階，獨自灶前來跪拜。出門願不聞悲哀，",
       "卷帷上床喜不定。與郎裁衣失翻正。可中三日得相見，"
     ],
     "format": {
       "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 5, 7, 7, 7, 7, 7],
+      "sentence_lengths": [7, 7, 7, 6, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

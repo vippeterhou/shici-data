@@ -796,12 +796,12 @@
     "title": "池畔二首·其二",
     "author": "白居易",
     "paragraphs": [
-      "持刀gN密竹，竹少風來多。此意人不會，欲令池有波。"
+      "持刀𠜴密竹，竹少風來多。此意人不會，欲令池有波。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [4, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

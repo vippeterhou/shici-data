@@ -156,7 +156,7 @@
     }
   },
   {
-    "title": "《傷盧獻秀才",
+    "title": "傷盧獻秀才",
     "author": "皮日休",
     "paragraphs": [
       "湣征新價欲淩空，一首堪欺左太沖。只為白衣聲過重，",
@@ -289,13 +289,13 @@
     "title": "江南道中懷茅山廣文南陽博士三首·其一",
     "author": "皮日休",
     "paragraphs": [
-      "寒嵐依約認華陽，遙想高人臥草堂。半日始齋青z3飯，",
+      "寒嵐依約認華陽，遙想高人臥草堂。半日始齋青䭀飯，",
       "誰道夫君無伴侶，不離窗下見羲皇。"
     ],
     "format": {
       "sentence_count": 5,
-      "sentence_lengths": [7, 7, 6, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -589,12 +589,12 @@
     "author": "皮日休",
     "paragraphs": [
       "杖擿春煙暖向陽，煩君為我致盈筐。深挑乍見牛唇液，",
-      "雕胡飯熟bu餬軟，不是高人不合嘗。"
+      "雕胡飯熟𩝊餬軟，不是高人不合嘗。"
     ],
     "format": {
       "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 6, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

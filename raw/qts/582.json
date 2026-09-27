@@ -17,12 +17,12 @@
     "author": "溫庭筠",
     "paragraphs": [
       "隋堤楊柳煙，孤棹正悠然。蕭寺通淮戍，蕪城枕楚壖。",
-      "魚鹽橋上市，燈火雨中船。故老青葭岸，先知i7子賢。"
+      "魚鹽橋上市，燈火雨中船。故老青葭岸，先知虙子賢。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

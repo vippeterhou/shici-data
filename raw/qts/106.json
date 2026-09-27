@@ -16,13 +16,13 @@
     "title": "採蓮曲",
     "author": "鄭愔",
     "paragraphs": [
-      "錦dh沙棠艦，羅帶石榴裙。綠潭采荷芰，清江日稍曛。",
+      "錦䋏沙棠艦，羅帶石榴裙。綠潭采荷芰，清江日稍曛。",
       "魚鳥爭唼喋，花葉相芬氳。不覺芳洲暮，菱歌處處聞。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [4, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

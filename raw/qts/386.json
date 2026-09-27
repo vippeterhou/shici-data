@@ -1584,12 +1584,12 @@
     "author": "張籍",
     "paragraphs": [
       "綠楊枝上五絲繩，枝弱春多欲不勝。",
-      "唯有一年寒食日，女郎相喚擺階o3。"
+      "唯有一年寒食日，女郎相喚擺階𤺩。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [7, 7, 7, 6],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

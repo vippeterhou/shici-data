@@ -50,12 +50,12 @@
     "title": "魯中都東樓醉起作",
     "author": "李白",
     "paragraphs": [
-      "昨日東樓醉，還應倒接z5。阿誰扶上馬，不省下樓時。"
+      "昨日東樓醉，還應倒接䍦。阿誰扶上馬，不省下樓時。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [5, 4, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

@@ -95,12 +95,12 @@
     "author": "許渾",
     "paragraphs": [
       "澗梅寒正發，莫信笛中吹。素豔雪凝樹，清香風滿枝。",
-      "折驚山鳥散，攜任野蜂隨。今日從公醉，何人倒接z5。"
+      "折驚山鳥散，攜任野蜂隨。今日從公醉，何人倒接䍦。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

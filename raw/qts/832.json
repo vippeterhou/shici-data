@@ -159,13 +159,13 @@
     "title": "送廬山衲僧",
     "author": "貫休",
     "paragraphs": [
-      "飛錫下崆gk，清高世少雙。凍天方篩雪，別我去何邦。",
+      "飛錫下崆㟅，清高世少雙。凍天方篩雪，別我去何邦。",
       "燒繞赤烏亥，雲漫白蚌江。路人爭得識，空仰鬢眉龐。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [4, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -720,12 +720,12 @@
     "author": "貫休",
     "paragraphs": [
       "蠻木葉不落，微吟漳水濱。二毛空有雪，萬事不如人。",
-      "df水準芳草，山花落淨巾。天童好真伴，何日更相親。"
+      "壍水準芳草，山花落淨巾。天童好真伴，何日更相親。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 4, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

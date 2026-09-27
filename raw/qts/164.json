@@ -250,12 +250,12 @@
     "title": "襄陽曲四首·其二",
     "author": "李白",
     "paragraphs": [
-      "山公醉酒時，酩酊高陽下。頭上白接z5，倒著還騎馬。"
+      "山公醉酒時，酩酊高陽下。頭上白接䍦，倒著還騎馬。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [5, 5, 4, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

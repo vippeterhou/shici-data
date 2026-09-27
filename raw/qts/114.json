@@ -89,12 +89,12 @@
     "author": "包融",
     "paragraphs": [
       "笑笑傍溪花，叢叢逐岸斜。朝開川上日，夜發浦中霞。",
-      "照灼如臨鏡，zv茸勝浣紗。春來武陵道，幾樹落仙家。"
+      "照灼如臨鏡，䒠茸勝浣紗。春來武陵道，幾樹落仙家。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 4, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

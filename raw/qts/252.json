@@ -164,7 +164,7 @@
   },
   {
     "title": "東峰亭各賦一物得棲煙鳥",
-    "author": "李岑1",
+    "author": "李岑",
     "paragraphs": [
       "從來養毛羽，昔日曾飛遷。變轉對朝陽，差池棲夕煙。",
       "遇此枝葉覆，夙舉冀沖天。"
@@ -179,13 +179,13 @@
     "title": "東峰亭各賦一物得寒溪草",
     "author": "蘇",
     "paragraphs": [
-      "冪zx溪邊草，遊人不厭看。餘芳幽處老，深色望中寒。",
+      "冪䍥溪邊草，遊人不厭看。餘芳幽處老，深色望中寒。",
       "幸得陪情興，青青賞未闌。"
     ],
     "format": {
       "sentence_count": 6,
-      "sentence_lengths": [4, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

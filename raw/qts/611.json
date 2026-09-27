@@ -29,13 +29,13 @@
     "title": "奉和魯望漁具十五詠：罱",
     "author": "皮日休",
     "paragraphs": [
-      "煙雨晚來好，東塘下罱去。網小正星bI，舟輕欲騰翥。",
+      "煙雨晚來好，東塘下罱去。網小正星𣞷，舟輕欲騰翥。",
       "誰知荇深後，恰值魚多處。浦口更有人，停橈一延佇。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 4, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -120,13 +120,13 @@
     "title": "奉和魯望漁具十五詠：滬",
     "author": "皮日休",
     "paragraphs": [
-      "波中植甚固，磔磔如蝦須。濤頭倏爾過，數頃跳鯆cr。",
+      "波中植甚固，磔磔如蝦須。濤頭倏爾過，數頃跳鯆䱐。",
       "不是細羅密，自為朝夕驅。空憐指魚命，遣出海邊租。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 4, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -225,12 +225,12 @@
     "author": "皮日休",
     "paragraphs": [
       "一領蓑正新，著來沙塢中。隔溪遙望見，疑是綠毛翁。",
-      "襟色裛xU靄，袖香褵褷風。前頭不施袞，何以為三公。"
+      "襟色裛䐑靄，袖香褵褷風。前頭不施袞，何以為三公。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 4, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -251,12 +251,12 @@
     "author": "皮日休",
     "paragraphs": [
       "儂家背篷樣，似個大龜甲。雨中局蹐時，一向聽霎霎。",
-      "甘從魚不見，亦任鷗相狎。深擁竟無言，空成睡齁qf。"
+      "甘從魚不見，亦任鷗相狎。深擁竟無言，空成睡齁䶎。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -536,13 +536,13 @@
     "title": "奉和添酒中六詠：酒龍",
     "author": "皮日休",
     "paragraphs": [
-      "銅為蚴蟉鱗，鑄作鱙qT角。吐處百里雷，瀉時千丈壑。",
+      "銅為蚴蟉鱗，鑄作鱙𬵩角。吐處百里雷，瀉時千丈壑。",
       "初疑潛苑囿，忽似拏寥廓。遂使銅雀台，香消野花落。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 4, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -615,12 +615,12 @@
     "author": "皮日休",
     "paragraphs": [
       "生於顧渚山，老在漫石塢。語氣為茶荈，衣香是煙霧。",
-      "庭從dx子遮，果任獳師虜。日晚相笑歸，腰間佩輕簍。"
+      "庭從𣟤子遮，果任獳師虜。日晚相笑歸，腰間佩輕簍。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 4, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

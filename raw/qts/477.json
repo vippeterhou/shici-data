@@ -121,13 +121,13 @@
     "author": "李涉",
     "paragraphs": [
       "我有神劍異人與，暗中往往精靈語。識者知從東海來，",
-      "昨夜大樑城下宿，不借eZ跌光顏看。刃邊颯颯塵沙缺，",
+      "昨夜大樑城下宿，不借𨁂跌光顏看。刃邊颯颯塵沙缺，",
       "我有愛弟都九江，一條直氣今無雙。青光好去莫惆悵，"
     ],
     "format": {
       "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 7, 6, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

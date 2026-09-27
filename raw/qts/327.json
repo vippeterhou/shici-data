@@ -94,13 +94,13 @@
     "title": "大行皇太后挽歌詞三首·其一",
     "author": "權德輿",
     "paragraphs": [
-      "筮水靈源浚，因山祔禮崇。從龍開ek路，合璧向方中。",
+      "筮水靈源浚，因山祔禮崇。從龍開隧路，合璧向方中。",
       "殿帳金根出，廞衣玉座空。唯餘文母化，陰德滿公宮。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 4, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

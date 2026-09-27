@@ -796,13 +796,13 @@
     "title": "稱心寺",
     "author": "駱賓王",
     "paragraphs": [
-      "征帆恣遠尋，逶迤過稱心。凝滯蘅vK岸，沿洄楂柚林。",
+      "征帆恣遠尋，逶迤過稱心。凝滯蘅𦶜岸，沿洄楂柚林。",
       "穿漵不厭曲，艤潭惟愛深。為樂凡幾許，聽取舟中琴。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 4, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

@@ -1,6 +1,6 @@
 [
   {
-    "title": "《幽窗",
+    "title": "幽窗",
     "author": "韓偓",
     "paragraphs": [
       "刺繡非無暇，幽窗自鮮歡。手香江橘嫩，齒軟越梅酸。",
@@ -29,13 +29,13 @@
     "title": "江樓二首·其二",
     "author": "韓偓",
     "paragraphs": [
-      "ok魚苦筍香味新，楊柳酒旗三月春。",
+      "鳀魚苦筍香味新，楊柳酒旗三月春。",
       "風光百計牽人老，爭奈多情是病身。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [6, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -1213,13 +1213,13 @@
     "title": "日高",
     "author": "韓偓",
     "paragraphs": [
-      "朦朧猶記管弦聲，噤z9餘寒酒半醒。",
+      "朦朧猶記管弦聲，噤㾕餘寒酒半醒。",
       "春暮日高簾半卷，落花和雨滿中庭。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [7, 6, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

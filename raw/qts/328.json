@@ -43,12 +43,12 @@
     "author": "權德輿",
     "paragraphs": [
       "碧樹泛鮮飆，玉琴含妙曲。佳人掩鸞鏡，婉婉凝相矚。",
-      "文袿映束素，香黛宜fT綠。寂寞遠懷春，何時來比目。"
+      "文袿映束素，香黛宜𥊑綠。寂寞遠懷春，何時來比目。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 4, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -90,12 +90,12 @@
       "明月照我房，庭柯振秋聲。空庭白露下，枕席涼風生。",
       "所思萬里餘，水闊山縱橫。佳期憑夢想，未曉愁雞鳴。",
       "願將一心人，當年歡樂平。長筵映玉俎，素手彈秦箏。",
-      "fT睇呈巧笑，惠音激淒清。此願良未果，永懷空如酲。"
+      "𥊑睇呈巧笑，惠音激淒清。此願良未果，永懷空如酲。"
     ],
     "format": {
       "sentence_count": 20,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

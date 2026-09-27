@@ -247,13 +247,13 @@
     "title": "答朝士",
     "author": "賀知章",
     "paragraphs": [
-      "fk鏤銀盤盛蛤蜊，鏡湖蓴菜亂如絲。",
+      "鈒鏤銀盤盛蛤蜊，鏡湖蓴菜亂如絲。",
       "鄉曲近來佳此味，遮渠不道是吳兒。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [6, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

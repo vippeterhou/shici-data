@@ -239,13 +239,13 @@
     "title": "春日偶成",
     "author": "唐彥謙",
     "paragraphs": [
-      "dG箏簫管和琵琶，興滿金尊酒量賒。",
+      "𥱧箏簫管和琵琶，興滿金尊酒量賒。",
       "歌舞留春春似海，美人顏色正如花。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [6, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -600,7 +600,7 @@
     }
   },
   {
-    "title": "宿趙gj別業",
+    "title": "宿趙𡸯別業",
     "author": "唐彥謙",
     "paragraphs": [
       "溪山兵後縣，風雪旅中人。迫夜愁嚴鼓，沖寒托軟巾。",

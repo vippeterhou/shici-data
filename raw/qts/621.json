@@ -4,12 +4,12 @@
     "author": "陸龜蒙",
     "paragraphs": [
       "落塵花片排香痕，闌珊醉露棲愁魂。洞庭波色惜不得，",
-      "安知寂寞西海頭，青pF未垂孤鳳餓。"
+      "安知寂寞西海頭，青𥳇未垂孤鳳餓。"
     ],
     "format": {
       "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 6],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -206,12 +206,12 @@
     "author": "陸龜蒙",
     "paragraphs": [
       "手盤風，頭背分，電光戰扇，欲刺敲心留半線。",
-      "纏肩繞脰，dl合眩旋，卓植赴列，奪避中節。",
+      "纏肩繞脰，𧞔合眩旋，卓植赴列，奪避中節。",
       "前沖函禮穴，上指孛彗滅，與君一用來有截。"
     ],
     "format": {
       "sentence_count": 11,
-      "sentence_lengths": [3, 3, 4, 7, 4, 3, 4, 4, 5, 5, 7],
+      "sentence_lengths": [3, 3, 4, 7, 4, 4, 4, 4, 5, 5, 7],
       "uniform_sentence_length": null
     }
   },

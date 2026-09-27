@@ -1092,12 +1092,12 @@
     "author": "李群玉",
     "paragraphs": [
       "金波西傾銀漢落，綠樹含煙倚朱閣。",
-      "曉華朧xz聞調笙，一點殘燈隔羅幕。"
+      "曉華朧𦝰聞調笙，一點殘燈隔羅幕。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [7, 7, 6, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

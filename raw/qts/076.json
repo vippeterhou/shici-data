@@ -30,14 +30,14 @@
     "author": "徐彥伯",
     "paragraphs": [
       "遙裔煙嶼鴻，雙影旦夕同。交翰倚沙月，和鳴弄江風。",
-      "vK若茂芳序，君子從遠戎。雲生陰海沒，花落春潭空。",
+      "𦶜若茂芳序，君子從遠戎。雲生陰海沒，花落春潭空。",
       "紅淚掩促柱，錦衾羅熏籠。自傷瓊草綠，詎惜鉛粉紅。",
       "裂帛附雙燕，為予向遼東。"
     ],
     "format": {
       "sentence_count": 14,
-      "sentence_lengths": [5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

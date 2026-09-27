@@ -1032,12 +1032,12 @@
     "author": "白居易",
     "paragraphs": [
       "官橋晴雪曉峨峨，老尹行吟獨一過。紫綬相輝應不惡，",
-      "猶賴洛中饒醉客，時時bZ我喚笙歌。"
+      "猶賴洛中饒醉客，時時䛏我喚笙歌。"
     ],
     "format": {
       "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 6],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

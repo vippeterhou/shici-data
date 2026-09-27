@@ -4,12 +4,12 @@
     "author": "白居易",
     "paragraphs": [
       "瞿唐天下險，夜上信難哉。岸似雙屏合，天如匹帛開。",
-      "逆風驚浪起，拔zB暗船來。欲識愁多少，高於灩澦堆。"
+      "逆風驚浪起，拔𥮘暗船來。欲識愁多少，高於灩澦堆。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 4, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

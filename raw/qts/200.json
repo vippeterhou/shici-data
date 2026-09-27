@@ -1316,13 +1316,13 @@
     "title": "陪封大夫宴瀚海亭納涼",
     "author": "岑參",
     "paragraphs": [
-      "細管雜青絲，千杯倒接z5。軍中乘興出，海上納涼時。",
+      "細管雜青絲，千杯倒接䍦。軍中乘興出，海上納涼時。",
       "日沒鳥飛急，山高雲過遲。吾從大夫後，歸路擁旌旗。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 4, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

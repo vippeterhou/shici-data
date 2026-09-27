@@ -505,7 +505,7 @@
     }
   },
   {
-    "title": "《急樂世辭",
+    "title": "急樂世辭",
     "author": "白居易",
     "paragraphs": [
       "正抽碧線繡紅羅，忽聽黃鶯斂翠蛾。",
@@ -1126,20 +1126,20 @@
     }
   },
   {
-    "title": "泛小fq二首·其一",
+    "title": "泛小䑳二首·其一",
     "author": "白居易",
     "paragraphs": [
-      "水一塘，fq一隻。fq頭漾漾知風起，fq背蕭蕭聞雨滴。",
+      "水一塘，䑳一隻。䑳頭漾漾知風起，䑳背蕭蕭聞雨滴。",
       "醉臥船中欲醒時，忽疑身是江南客。"
     ],
     "format": {
       "sentence_count": 6,
-      "sentence_lengths": [3, 2, 6, 6, 7, 7],
+      "sentence_lengths": [3, 3, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
   {
-    "title": "泛小fq二首·其二",
+    "title": "泛小䑳二首·其二",
     "author": "白居易",
     "paragraphs": [
       "船緩進，水準流。一莖竹篙剔船尾，兩幅青幕覆船頭。",

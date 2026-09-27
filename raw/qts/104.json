@@ -306,13 +306,13 @@
     "title": "從宴桃花園詠桃花應制",
     "author": "趙彥伯",
     "paragraphs": [
-      "紅萼競燃春苑曙，zv茸新吐禦筵開。",
+      "紅萼競燃春苑曙，䒠茸新吐禦筵開。",
       "長年願奉西王宴，近侍慚無東朔才。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [7, 6, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
