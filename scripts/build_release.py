@@ -29,12 +29,12 @@ class Corpus:
 CORPORA = (
     Corpus("shijing", RAW_DIRECTORY / "shijing" / "shijing.json"),
     Corpus("qinhan", RAW_DIRECTORY / "qinhan"),
-    Corpus("weijinnanbeichao", RAW_DIRECTORY / "weijinnanbeichao"),
+    Corpus("wjnbc", RAW_DIRECTORY / "wjnbc"),
     Corpus("ts300", RAW_DIRECTORY / "ts300" / "ts300.json"),
     Corpus("qts", RAW_DIRECTORY / "qts"),
     Corpus("sc300", RAW_DIRECTORY / "sc300" / "sc300.json"),
-    Corpus("quansongci", RAW_DIRECTORY / "quansongci"),
-    Corpus("quansongshi", RAW_DIRECTORY / "quansongshi"),
+    Corpus("qsc", RAW_DIRECTORY / "qsc"),
+    Corpus("qss", RAW_DIRECTORY / "qss"),
 )
 
 
