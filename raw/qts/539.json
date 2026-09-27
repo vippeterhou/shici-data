@@ -1444,17 +1444,30 @@
     }
   },
   {
-    "title": "無題二首",
+    "title": "無題二首·其一",
     "author": "李商隱",
     "paragraphs": [
-      "昨夜星辰昨夜風，畫樓西畔桂堂東。身無彩鳳雙飛翼，",
-      "嗟余聽鼓應官去，走馬蘭台類斷蓬。",
+      "昨夜星辰昨夜風，畫樓西畔桂堂東。",
+      "身無彩鳳雙飛翼，心有靈犀一點通。",
+      "隔座送鉤春酒暖，分曹射覆蠟燈紅。",
+      "嗟余聽鼓應官去，走馬蘭台類斷蓬。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "無題二首·其二",
+    "author": "李商隱",
+    "paragraphs": [
       "聞道閶門萼綠華，昔年相望抵天涯。",
       "豈知一夜秦樓客，偷看吳王苑內花。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1472,22 +1485,61 @@
     }
   },
   {
-    "title": "無題四首",
+    "title": "無題四首·其一",
     "author": "李商隱",
     "paragraphs": [
-      "來是空言去絕蹤，月斜樓上五更鐘。夢為遠別啼難喚，",
-      "劉郎已恨蓬山遠，更隔蓬山一萬重。",
-      "颯颯東風細雨來，芙蓉塘外有輕雷。金蟾齧鎖燒香入，",
-      "春心莫共花爭發，一寸相思一寸灰。",
+      "來是空言去絕蹤，月斜樓上五更鐘。",
+      "夢為遠別啼難喚，書被催成墨未濃。",
+      "蠟照半籠金翡翠，麝熏微度繡芙蓉。",
+      "劉郎已恨蓬山遠，更隔蓬山一萬重。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "無題四首·其二",
+    "author": "李商隱",
+    "paragraphs": [
+      "颯颯東風細雨來，芙蓉塘外有輕雷。",
+      "金蟾齧鎖燒香入，玉虎牽絲汲井迴。",
+      "賈氏窺簾韓掾少，宓妃留枕魏王才。",
+      "春心莫共花爭發，一寸相思一寸灰。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "無題四首·其三",
+    "author": "李商隱",
+    "paragraphs": [
       "含情春晼晚，暫見夜闌幹。樓響將登怯，簾烘欲過難。",
-      "多羞釵上燕，真愧鏡中鸞。歸去橫塘曉，華星送寶鞍。",
-      "何處哀箏隨急管，櫻花永巷垂楊岸。東家老女嫁不售，",
+      "多羞釵上燕，真愧鏡中鸞。歸去橫塘曉，華星送寶鞍。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "無題四首·其四",
+    "author": "李商隱",
+    "paragraphs": [
+      "何處哀箏隨急管，櫻花永巷垂楊岸。",
+      "東家老女嫁不售，白日當天三月半。",
+      "溧陽公主年十四，清明暖後同墻看。",
       "歸來輾轉到五更，梁間燕子聞長歎。"
     ],
     "format": {
-      "sentence_count": 23,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

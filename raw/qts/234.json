@@ -79,15 +79,26 @@
     }
   },
   {
-    "title": "李鹽鐵二首",
+    "title": "李鹽鐵二首·其一",
     "author": "杜甫",
     "paragraphs": [
-      "落葉春風起，高城煙霧開。雜花分戶映，嬌燕入簷回。",
+      "落葉春風起，高城煙霧開。雜花分戶映，嬌燕入簷回。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "李鹽鐵二首·其二",
+    "author": "杜甫",
+    "paragraphs": [
       "一見能傾產，虛懷只愛才。鹽官雖絆驥，名是漢庭來。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -105,16 +116,38 @@
     }
   },
   {
-    "title": "絕句九首",
+    "title": "絕句九首·其七",
     "author": "杜甫",
     "paragraphs": [
-      "聞道巴山裏，春船正好行。都將百年興，一望九江城。",
-      "水檻溫江口，茅堂石筍西。移船先主廟，洗藥浣沙溪。",
+      "聞道巴山裏，春船正好行。都將百年興，一望九江城。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "絕句九首·其八",
+    "author": "杜甫",
+    "paragraphs": [
+      "水檻溫江口，茅堂石筍西。移船先主廟，洗藥浣沙溪。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "絕句九首·其九",
+    "author": "杜甫",
+    "paragraphs": [
       "設道春來好，狂風大放顛。吹花隨水去，翻卻釣魚船。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

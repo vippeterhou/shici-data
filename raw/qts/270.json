@@ -422,19 +422,32 @@
     }
   },
   {
-    "title": "送吉州閻使君入道二首",
+    "title": "送吉州閻使君入道二首·其一",
     "author": "戎昱",
     "paragraphs": [
       "聞道桃源去，塵心忽自悲。餘當從宦日，君是棄官時。",
       "金汞封仙骨，靈津咽玉池。受傳三籙備，起坐五雲隨。",
-      "洞裏花常發，人間鬢易衰。他年會相訪，莫作爛柯棋。",
-      "廬陵太守近隳官，霞帔初朝五帝壇。風過鬼神延受籙，",
+      "洞裏花常發，人間鬢易衰。他年會相訪，莫作爛柯棋。"
+    ],
+    "format": {
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "送吉州閻使君入道二首·其二",
+    "author": "戎昱",
+    "paragraphs": [
+      "廬陵太守近隳官，霞帔初朝五帝壇。",
+      "風過鬼神延受籙，夜深龍虎衛燒丹。",
+      "冰容入鏡纖埃靜，玉液添缾漱齒寒。",
       "莫遣桃花迷客路，千山萬水訪君難。"
     ],
     "format": {
-      "sentence_count": 17,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

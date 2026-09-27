@@ -471,14 +471,25 @@
     "author": "不詳",
     "paragraphs": [
       "朏晨爭舉，天宗禮辟。夜典涼秋，陰明湛夕。",
-      "有𨣧斯旨，有牲斯碩。穆穆其暉，穰穰是積。卷11_3《郊廟歌辭。夕月樂章。舒和》",
+      "有𨣧斯旨，有牲斯碩。穆穆其暉，穰穰是積。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
+      "uniform_sentence_length": 4
+    }
+  },
+  {
+    "title": "郊廟歌辭：夕月樂章：舒和",
+    "author": "不詳",
+    "paragraphs": [
       "合吹八風金奏動，分容萬舞玉鞘驚。",
       "詞昭茂典光前列，夕曜乘功表盛明。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 5, 4, 2, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

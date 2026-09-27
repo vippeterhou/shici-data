@@ -325,17 +325,28 @@
     }
   },
   {
-    "title": "餞駱四二首",
+    "title": "餞駱四二首·其一",
     "author": "李嶠",
     "paragraphs": [
       "平生何以樂，鬥酒夜相逢。曲中驚別緒，醉裏失愁容。",
-      "星月懸秋漢，風霜入曙鐘。明日臨溝水，青山幾萬重。",
+      "星月懸秋漢，風霜入曙鐘。明日臨溝水，青山幾萬重。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "餞駱四二首·其二",
+    "author": "李嶠",
+    "paragraphs": [
       "甲第驅車入，良宵秉燭遊。人追竹林會，酒獻菊花秋。",
       "霜吹飄無已，星河漫不流。重嗟歡賞地，翻召別離憂。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

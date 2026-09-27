@@ -66,23 +66,73 @@
     }
   },
   {
-    "title": "行路難五首",
+    "title": "行路難五首·其一",
     "author": "賀蘭進明",
     "paragraphs": [
       "君不見岩下井，百尺不及泉。君不見山上苗，",
+      "數寸凌雲煙，人生賦命亦如此。何苦太息自憂煎，",
       "但願親友長含笑，相逢不乏杖頭錢。寒夜邀歡須秉燭，",
+      "豈得常思花柳年。"
+    ],
+    "format": {
+      "sentence_count": 10,
+      "sentence_lengths": [6, 5, 6, 5, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "行路難五首·其二",
+    "author": "賀蘭進明",
+    "paragraphs": [
       "君不見門前柳，榮耀暫時蕭索久。君不見陌上花，",
-      "盛年夫婿長別離，歲暮相逢色已換。",
+      "狂風吹去落誰家，鄰家思婦見之歎。蓬首不梳心歷亂，",
+      "盛年夫婿長別離，歲暮相逢色已換。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [6, 7, 6, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "行路難五首·其三",
+    "author": "賀蘭進明",
+    "paragraphs": [
       "君不見芳樹枝，春花落盡蜂不窺。君不見梁上泥，",
-      "獨宿自然堪下淚，況複時聞烏夜啼。",
+      "秋風始高燕不棲，蕩子從軍事征戰。蛾眉嬋娟守空閨，",
+      "獨宿自然堪下淚，況複時聞烏夜啼。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [6, 7, 6, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "行路難五首·其四",
+    "author": "賀蘭進明",
+    "paragraphs": [
       "君不見雲中月，暫盈還複缺。君不見林下風，",
-      "歎息青青陵上柏，歲寒能有幾人同。",
+      "聲遠意難窮，親故平生或聚散。歡娛未盡尊酒空，",
+      "歎息青青陵上柏，歲寒能有幾人同。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [6, 5, 6, 5, 7, 7, 7, 7],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "行路難五首·其五",
+    "author": "賀蘭進明",
+    "paragraphs": [
       "君不見東流水，一去無窮已。君不見西郊雲，",
+      "日夕空氛氳，羣鴈裴回不能去。一鴈悲鳴復失羣，",
       "人生結交在終始，莫以升沈中路分。"
     ],
     "format": {
-      "sentence_count": 26,
-      "sentence_lengths": [6, 5, 6, 7, 7, 7, 6, 7, 6, 7, 7, 6, 7, 6, 7, 7, 6, 5, 6, 7, 7, 6, 5, 6, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [6, 5, 6, 5, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

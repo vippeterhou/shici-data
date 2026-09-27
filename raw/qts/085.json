@@ -427,17 +427,45 @@
     }
   },
   {
-    "title": "唐享太廟樂章：凱安三首",
+    "title": "唐享太廟樂章：凱安三首·其一",
     "author": "張說",
     "paragraphs": [
-      "瑟彼瑤爵，亞維上公。室如屏氣，門不容躬。禮殷其本，",
-      "禮匝三獻，樂遍九成。降循軒陛，仰欷皇情。福與仁合，",
+      "瑟彼瑤爵，亞維上公。",
+      "室如屏氣，門不容躬。",
+      "禮殷其本，樂執其中。",
+      "聖皇永慕，天地幽通。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
+      "uniform_sentence_length": 4
+    }
+  },
+  {
+    "title": "唐享太廟樂章：凱安三首·其二",
+    "author": "張說",
+    "paragraphs": [
+      "禮匝三獻，樂遍九成。",
+      "降循軒陛，仰欷皇情。",
+      "福與仁合，德因孝明。",
+      "百年神畏，四海風行。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
+      "uniform_sentence_length": 4
+    }
+  },
+  {
+    "title": "唐享太廟樂章：凱安三首·其三",
+    "author": "張說",
+    "paragraphs": [
       "總總幹戚，填填鼓鐘。奮揚增氣，坐作為容。",
       "離若鷙鳥，合如戰龍。萬方觀德，肅肅邕邕。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+      "sentence_count": 8,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     }
   },

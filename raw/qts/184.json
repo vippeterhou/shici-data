@@ -1031,20 +1031,53 @@
     }
   },
   {
-    "title": "出妓金陵子呈盧六四首",
+    "title": "出妓金陵子呈盧六四首·其一",
     "author": "李白",
     "paragraphs": [
       "安石東山三十春，傲然攜妓出風塵。",
-      "樓中見我金陵子，何似陽臺雲雨人。",
-      "南國新豐酒，東山小妓歌。對君君不樂，花月奈愁何。",
-      "東道煙霞主，西江詩酒筵。相逢不覺醉，日墮曆陽川。",
+      "樓中見我金陵子，何似陽臺雲雨人。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "出妓金陵子呈盧六四首·其二",
+    "author": "李白",
+    "paragraphs": [
+      "南國新豐酒，東山小妓歌。對君君不樂，花月奈愁何。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "出妓金陵子呈盧六四首·其三",
+    "author": "李白",
+    "paragraphs": [
+      "東道煙霞主，西江詩酒筵。相逢不覺醉，日墮曆陽川。"
+    ],
+    "format": {
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
+    }
+  },
+  {
+    "title": "出妓金陵子呈盧六四首·其四",
+    "author": "李白",
+    "paragraphs": [
       "小妓金陵歌楚聲，家僮丹砂學鳳鳴。",
       "我亦為君飲清酒，君心不肯向人傾。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
