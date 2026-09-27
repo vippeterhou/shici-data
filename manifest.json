@@ -2,55 +2,55 @@
   "corpora": {
     "qinhan": {
       "asset": "qinhan.jsonl.gz",
-      "compressed_bytes": 91290,
-      "poem_count": 369,
-      "sha256": "dc56796fb7a644ae298b98b959dba5af7ca07df184b392182dbdcef1af4443de"
+      "compressed_bytes": 87891,
+      "poem_count": 379,
+      "sha256": "ae5b25bd4df03aac1197a34af1d643e84aaa1c60b02f3354a9c0e5693ed031d9"
+    },
+    "qsc": {
+      "asset": "qsc.jsonl.gz",
+      "compressed_bytes": 3560635,
+      "poem_count": 21032,
+      "sha256": "21438c287a3926ed7eb13e659a88b2869bb2be483a511469640950560f0f3fb3"
+    },
+    "qss": {
+      "asset": "qss.jsonl.gz",
+      "compressed_bytes": 35799180,
+      "poem_count": 254223,
+      "sha256": "780a5f6e5e7baefe74ed90ff28f166e69ea74e66788f65bf4e4be40fe7388d34"
     },
     "qts": {
       "asset": "qts.jsonl.gz",
-      "compressed_bytes": 5824400,
-      "poem_count": 43103,
-      "sha256": "d19f77dc084bfe2299971c329c0e5bf308972ead87df6c977d9aada5f123eea6"
-    },
-    "quansongci": {
-      "asset": "quansongci.jsonl.gz",
-      "compressed_bytes": 3347196,
-      "poem_count": 21053,
-      "sha256": "a6752f75ac10845a9b03443f0667b38667c5ab1dc303db474c75ca0ab1c71168"
-    },
-    "quansongshi": {
-      "asset": "quansongshi.jsonl.gz",
-      "compressed_bytes": 39777185,
-      "poem_count": 254223,
-      "sha256": "a4d91afa47eb395016722d96deb52ea18e81c6b7283a900b906e7653242e67d9"
+      "compressed_bytes": 6368921,
+      "poem_count": 47605,
+      "sha256": "9f544f4bd70b1b01a10e934fb2d9e874baf778f8f58f83dc57e5b1dca3e52eb0"
     },
     "sc300": {
       "asset": "sc300.jsonl.gz",
-      "compressed_bytes": 58398,
-      "poem_count": 280,
-      "sha256": "b6bf1c879fb32602ecf984bcac035afe2a59d570450d6490673a27695531000f"
+      "compressed_bytes": 61315,
+      "poem_count": 283,
+      "sha256": "66cf9ea5a570ed511c954463ea0ba3a5b8c4163235c9cb2be0af3ae9929fddde"
     },
     "shijing": {
       "asset": "shijing.jsonl.gz",
-      "compressed_bytes": 54414,
+      "compressed_bytes": 58844,
       "poem_count": 305,
-      "sha256": "1c8b804076e522fbd9329edf6737721c232e7db59a55ca9fb489334362c52bee"
+      "sha256": "8a9e6fe044ea3f949a621e3126aa57d108bcc8f93fc9f5ab4f0055f6c012add5"
     },
     "ts300": {
       "asset": "ts300.jsonl.gz",
-      "compressed_bytes": 68658,
-      "poem_count": 366,
-      "sha256": "6c924ea309cfa720eda6d280673a78e3fe530392e314e84ea8f91ef4f31e3ad1"
+      "compressed_bytes": 52152,
+      "poem_count": 320,
+      "sha256": "5839cab36110730ea5fc1796be5a63e0effcd6debd438301e08554cf6686694d"
     },
-    "weijinnanbeichao": {
-      "asset": "weijinnanbeichao.jsonl.gz",
-      "compressed_bytes": 209523,
-      "poem_count": 840,
-      "sha256": "5e2706e1d7e4a0865d1000e34b70eff715dee7b40b1e3f0ddcb60c6c55412897"
+    "wjnbc": {
+      "asset": "wjnbc.jsonl.gz",
+      "compressed_bytes": 213383,
+      "poem_count": 1196,
+      "sha256": "7fdb5ce92f585b91e8cc99ddfc00536c71fd9f3f28337cb8448541c877ab6e46"
     }
   },
-  "generated_at": "2026-09-10T13:09:33.831750+00:00",
-  "schema_version": 2,
-  "total_poems": 320539,
-  "version": "v1.1.0"
+  "generated_at": "2026-09-27T14:24:45.325655+00:00",
+  "schema_version": 3,
+  "total_poems": 325343,
+  "version": "v2.0.0"
 }
