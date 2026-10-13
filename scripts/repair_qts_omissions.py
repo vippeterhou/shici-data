@@ -14,7 +14,7 @@ from scripts.build_release import calculate_poem_format
 
 ROOT = Path(__file__).parents[1]
 QTS_DIRECTORY = ROOT / "raw" / "qts"
-SENTENCE_CHUNK = re.compile(r".*?[，。！？；]|.+$")
+SENTENCE_CHUNK = re.compile(r".*?[，。！？；：:;]|.+$")
 NON_HAN_CHARACTER = re.compile(
     r"[^\u3400-\u9fff\U00020000-\U000323af〇□]"
 )

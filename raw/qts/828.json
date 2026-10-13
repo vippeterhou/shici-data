@@ -436,8 +436,8 @@
       "乳女啼兮，蒸黍馨兮。炙背捫虱兮，複何經營兮。"
     ],
     "format": {
-      "sentence_count": 32,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 7, 3, 3, 4, 4, 4, 4, 5, 4, 4, 4, 4, 6, 10, 8, 8, 5, 4, 4, 4, 4, 4, 4, 4, 5, 5],
+      "sentence_count": 33,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 7, 3, 3, 4, 4, 4, 4, 5, 4, 4, 4, 4, 6, 2, 8, 8, 8, 5, 4, 4, 4, 4, 4, 4, 4, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -668,8 +668,8 @@
       "行行珍重寄斯言，斯言不是尋常曲。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [12, 7, 11, 7, 7, 8, 7, 7, 7, 7, 10, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 19,
+      "sentence_lengths": [2, 10, 7, 11, 7, 7, 8, 7, 7, 7, 7, 10, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

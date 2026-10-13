@@ -19,7 +19,7 @@ MANIFEST_PATH = ROOT / "manifest.json"
 SCHEMA_VERSION = 3
 COMMON_RAW_FIELDS = ("title", "author", "paragraphs", "format")
 SHIJING_RAW_FIELDS = COMMON_RAW_FIELDS + ("chapter", "section")
-SENTENCE_SEPARATOR = re.compile(r"[，。！？；]")
+SENTENCE_SEPARATOR = re.compile(r"[，。！？；：:;]")
 COUNTED_CHARACTER = re.compile(
     r"[\u3400-\u4dbf\u4e00-\u9fff\U00020000-\U000323af〇□]"
 )

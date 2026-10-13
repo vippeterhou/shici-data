@@ -168,3 +168,16 @@ def test_rejects_format_that_excludes_placeholder(tmp_path: Path) -> None:
 
     with pytest.raises(ValueError, match="format mismatch"):
         list(normalized_records(Corpus("qts", source)))
+
+
+@pytest.mark.parametrize("separator", ["：", ":", ";"])
+def test_colon_and_ascii_semicolon_separate_sentences(
+    separator: str,
+) -> None:
+    from scripts.build_release import calculate_poem_format
+
+    assert calculate_poem_format([f"乱曰{separator}天地玄黄。"]) == {
+        "sentence_count": 2,
+        "sentence_lengths": [2, 4],
+        "uniform_sentence_length": None,
+    }

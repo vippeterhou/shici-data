@@ -70,6 +70,14 @@ def test_attaches_punctuation_only_fragments_to_existing_sentence() -> None:
     ) == ["甲，。", "乙。"]
 
 
+def test_colon_and_ascii_semicolon_create_alignment_chunks() -> None:
+    assert aligned_chunks("乱曰：甲;乙。", lambda value: value) == [
+        "乱曰：",
+        "甲;",
+        "乙。",
+    ]
+
+
 def test_serializes_qts_layout() -> None:
     records = [
         {
