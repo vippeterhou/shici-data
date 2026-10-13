@@ -1030,12 +1030,12 @@
     "title": "餞中書侍郎來濟",
     "author": "宋之問",
     "paragraphs": [
-      "曖曖去塵昏灞岸，飛飛輕蓋指河梁。雲峰衣結千重葉，",
+      "曖曖去塵昏灞岸，飛飛輕蓋指河梁。雲峰衣結千重葉，深悲黃鶴孤舟遠，獨對青山別路長。",
       "卻將分手沾襟淚，還用持添離席觴。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1043,12 +1043,12 @@
     "title": "奉和春初幸太平公主南莊應制",
     "author": "宋之問",
     "paragraphs": [
-      "青門路接鳳凰台，素滻宸游龍騎來。澗草自迎香輦合，",
+      "青門路接鳳凰台，素滻宸游龍騎來。澗草自迎香輦合，岩花應待禦筵開。文移北斗成天象，酒遞南山作壽杯。",
       "此日侍臣將石去，共歡明主賜金回。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1056,12 +1056,12 @@
     "title": "三陽宮侍宴應制得幽字",
     "author": "宋之問",
     "paragraphs": [
-      "離宮秘苑勝瀛洲，別有仙人洞壑幽。岩邊樹色含風冷，",
+      "離宮秘苑勝瀛洲，別有仙人洞壑幽。岩邊樹色含風冷，石上泉聲帶雨秋。鳥向歌筵來度曲，雲依帳殿結為樓。",
       "微臣昔忝方明禦，今日還陪八駿遊。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

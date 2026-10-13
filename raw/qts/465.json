@@ -362,11 +362,11 @@
     "title": "烏啼曲",
     "author": "楊衡",
     "paragraphs": [
-      "可憐楊葉複楊花，雪淨煙深碧玉家。烏棲不定枝條弱，"
+      "可憐楊葉複楊花，雪淨煙深碧玉家。烏棲不定枝條弱，城頭夜半聲啞啞。浮萍流蕩門前水，任罥芙蓉莫浣紗。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -403,11 +403,11 @@
     "title": "長門怨",
     "author": "楊衡",
     "paragraphs": [
-      "絲聲繁兮管聲急，珠簾不卷風吹入。萬遍凝愁枕上聽，"
+      "絲聲繁兮管聲急，珠簾不卷風吹入。萬遍凝愁枕上聽，千回候命花間立。望望昭陽信不來。回眸獨掩紅巾泣。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -428,11 +428,11 @@
     "title": "哭李象",
     "author": "楊衡",
     "paragraphs": [
-      "白雞黃犬不將去，寂寞空餘葬時路。草死花開年複年，"
+      "白雞黃犬不將去，寂寞空餘葬時路。草死花開年複年，後人知是何人墓。憶君思君獨不眠，夜寒月照青楓樹。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -440,11 +440,11 @@
     "title": "宿雲溪觀，賦得秋燈引送客",
     "author": "楊衡",
     "paragraphs": [
-      "雲房寄宿秋夜客，一燈熒熒照虛壁。蟲聲呼客客未眠，"
+      "雲房寄宿秋夜客，一燈熒熒照虛壁。蟲聲呼客客未眠，幾人語話清景側。不可離別愁紛多，秋燈秋燈奈別何。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -634,12 +634,12 @@
     "title": "贈廬山道士",
     "author": "楊衡",
     "paragraphs": [
-      "寂寥高室古松寒，松下仙人字委鸞。頭垂白髮朝鳴磬，",
+      "寂寥高室古松寒，松下仙人字委鸞。頭垂白髮朝鳴磬，手把青芝夜繞壇。物像自隨塵外滅，真源長向性中看。",
       "悠悠萬古皆如此，秋比松枝春比蘭。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

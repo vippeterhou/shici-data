@@ -310,12 +310,12 @@
     "title": "七夕賦詠成篇",
     "author": "陸敬",
     "paragraphs": [
-      "夙駕鳴鸞啟閶闔，霓裳遙裔儼天津。五明霜紈開羽扇，",
+      "夙駕鳴鸞啟閶闔，霓裳遙裔儼天津。五明霜紈開羽扇，百和香車動畫輪。婉孌夜分能幾許，靚妝冶服為誰新。",
       "片時歡娛自有極，已複長望來年人。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -323,12 +323,12 @@
     "title": "七夕賦詠成篇",
     "author": "沈叔安",
     "paragraphs": [
-      "皎皎宵月麗秋光，耿耿天津橫複長。停梭且複留殘緯，",
+      "皎皎宵月麗秋光，耿耿天津橫複長。停梭且複留殘緯，拂鏡及早更新妝。彩鳳齊駕初成輦，雕鵲填河已作梁。",
       "雖喜得同今夜枕，還愁重空明日床。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -336,12 +336,12 @@
     "title": "七夕賦詠成篇",
     "author": "何仲宣",
     "paragraphs": [
-      "日日思歸勤理鬢，朝朝佇望懶調梭。淩風寶扇遙臨月，",
+      "日日思歸勤理鬢，朝朝佇望懶調梭。淩風寶扇遙臨月，映水仙車遠渡河。歷歷珠星疑拖佩，冉冉雲衣似曳羅。",
       "通宵道意終無盡，向曉離愁已複多。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

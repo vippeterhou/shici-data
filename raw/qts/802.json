@@ -192,12 +192,12 @@
     "author": "常浩",
     "paragraphs": [
       "年年二月時，十年期別期。春風不知信，軒蓋獨遲遲。",
-      "今日無端卷珠箔，始見庭花複零落。人心一往不復歸，",
+      "今日無端卷珠箔，始見庭花複零落。人心一往不復歸，歲月來時未嘗錯。可憐熒熒玉鏡臺，塵飛冪冪幾時開。",
       "卻念容華非昔好，畫眉猶自待君來。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -270,12 +270,12 @@
     "title": "和趙光遠題壁",
     "author": "楊萊兒",
     "paragraphs": [
-      "長者車塵每到門，長卿非慕卓王孫。定知羽翼難隨鳳，",
+      "長者車塵每到門，長卿非慕卓王孫。定知羽翼難隨鳳，卻喜波濤未化鯤。嬌別翠鈿黏去袂，醉歌金雀碎殘尊。",
       "多情多病年應促，早辦名香為返魂。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -283,12 +283,12 @@
     "title": "貽鄭昌圖",
     "author": "楚兒",
     "paragraphs": [
-      "應是前生有宿冤，不期今世惡因緣。蛾眉欲碎巨靈掌，",
+      "應是前生有宿冤，不期今世惡因緣。蛾眉欲碎巨靈掌，雞肋難勝子路拳。只擬嚇人傳鐵券，未應教我踏青蓮。",
       "曲江昨日君相遇，當下遭他數十鞭。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

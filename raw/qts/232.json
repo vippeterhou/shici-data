@@ -93,12 +93,12 @@
     "paragraphs": [
       "元日到人日，未有不陰時。冰雪鶯難至，春寒花較遲。",
       "雲隨白水落，風振紫山悲。蓬鬢稀疏久，無勞比素絲。",
-      "此日此時人共得，一談一笑俗相看。尊前柏葉休隨酒，",
+      "此日此時人共得，一談一笑俗相看。尊前柏葉休隨酒，勝裏金花巧耐寒。佩劍沖星聊暫拔，匣琴流水自須彈。",
       "早春重引江湖興，直道無憂行路難。"
     ],
     "format": {
-      "sentence_count": 13,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 7],
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -312,12 +312,12 @@
     "title": "奉送蜀州柏二別駕將中丞命赴江陵起居衛尚書太夫人因示從弟行軍司馬佐",
     "author": "杜甫",
     "paragraphs": [
-      "中丞問俗畫熊頻，愛弟傳書彩鷁新。遷轉五州防禦使，",
+      "中丞問俗畫熊頻，愛弟傳書彩鷁新。遷轉五州防禦使，起居八座太夫人。楚宮臘送荊門水，白帝雲偷碧海春。",
       "報與惠連詩不惜，知吾斑鬢總如銀。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -351,12 +351,12 @@
     "title": "宇文晁尚書之甥崔彧司業之孫尚書之子重泛鄭監前湖",
     "author": "杜甫",
     "paragraphs": [
-      "郊扉俗遠長幽寂，野水春來更接連。錦席淹留還出浦，",
+      "郊扉俗遠長幽寂，野水春來更接連。錦席淹留還出浦，葛巾欹側未回船。尊當霞綺輕初散，棹拂荷珠碎卻圓。",
       "不但習池歸酩酊，君看鄭穀去夤緣。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -364,12 +364,12 @@
     "title": "多病執熱奉懷李尚書",
     "author": "杜甫",
     "paragraphs": [
-      "衰年正苦病侵淩，首夏何須氣鬱蒸。大水淼茫炎海接，",
+      "衰年正苦病侵淩，首夏何須氣鬱蒸。大水淼茫炎海接，奇峰硉兀火雲升。思沾道暍黃梅雨，敢望宮恩玉井冰。",
       "不是尚書期不顧，山陰野雪興難乘。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -497,12 +497,12 @@
     "title": "江陵節度陽城郡王新樓成王請嚴侍禦判官賦七字句同作",
     "author": "杜甫",
     "paragraphs": [
-      "樓上炎天冰雪生，高盡燕雀賀新成。碧窗宿霧濛濛濕，",
+      "樓上炎天冰雪生，高盡燕雀賀新成。碧窗宿霧濛濛濕，朱栱浮雲細細輕。杖鉞褰帷瞻具美，投壺散帙有餘清。",
       "自公多暇延參佐，江漢風流萬古情。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -510,12 +510,12 @@
     "title": "又作此奉衛王",
     "author": "杜甫",
     "paragraphs": [
-      "西北樓成雄楚都，遠開山嶽散江湖。二儀清濁還高下，",
+      "西北樓成雄楚都，遠開山嶽散江湖。二儀清濁還高下，三伏炎蒸定有無。推轂幾年唯鎮靜，曳裾終日盛文儒。",
       "白頭授簡焉能賦，愧似相如為大夫。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -660,12 +660,12 @@
     "title": "暮歸",
     "author": "杜甫",
     "paragraphs": [
-      "霜黃碧梧白鶴棲，城上擊柝複烏啼。客子入門月皎皎，",
+      "霜黃碧梧白鶴棲，城上擊柝複烏啼。客子入門月皎皎，誰家搗練風淒淒。南渡桂水闕舟楫，北歸秦川多鼓鼙。",
       "年過半百不稱意，明日看雲還杖藜。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -689,12 +689,12 @@
     "title": "公安送韋二少府匡贊",
     "author": "杜甫",
     "paragraphs": [
-      "逍遙公後世多賢，送爾維舟惜此筵。念我能書數字至，",
+      "逍遙公後世多賢，送爾維舟惜此筵。念我能書數字至，將詩不必萬人傳。時危兵甲黃塵裏，日短江湖白髮前。",
       "古往今來皆涕淚，斷腸分手各風煙。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -770,12 +770,12 @@
     "title": "留別公安太易沙門",
     "author": "杜甫",
     "paragraphs": [
-      "隱居欲就廬山遠，麗藻初逢休上人。數問舟航留製作，",
+      "隱居欲就廬山遠，麗藻初逢休上人。數問舟航留製作，長開篋笥擬心神。沙村白雪仍含凍，江縣紅梅已放春。",
       "先蹋爐峰置蘭若，徐飛錫杖出風塵。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

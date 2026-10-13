@@ -220,11 +220,11 @@
     "title": "悼亡",
     "author": "孟郊",
     "paragraphs": [
-      "山頭明月夜增輝，增輝不照重泉下。泉下雙龍無再期，"
+      "山頭明月夜增輝，增輝不照重泉下。泉下雙龍無再期，金蠶玉燕空銷化。朝雲暮雨成古墟，蕭蕭野竹風吹亞。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

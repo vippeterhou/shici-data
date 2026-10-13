@@ -48,12 +48,12 @@
     "title": "春日即事",
     "author": "崔櫓",
     "paragraphs": [
-      "一百五日又欲來，梨花梅花參差開。行人自笑不歸去，",
+      "一百五日又欲來，梨花梅花參差開。行人自笑不歸去，瘦馬獨吟真可哀。杏酪漸香鄰舍粥，榆煙將變舊爐灰。",
       "畫橋春暖清歌夜，肯信愁腸日九回。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -87,12 +87,12 @@
     "title": "過蠻溪渡",
     "author": "崔櫓",
     "paragraphs": [
-      "綠楊如發雨如煙，立馬危橋獨喚船。山口斷雲迷舊路，",
+      "綠楊如發雨如煙，立馬危橋獨喚船。山口斷雲迷舊路，渡頭芳草憶前年。身隨遠道徒悲梗，詩賣明時不直錢。",
       "歸去楚台還有計，釣船春雨日高眠。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -100,12 +100,12 @@
     "title": "岸梅",
     "author": "崔櫓",
     "paragraphs": [
-      "含情含怨一枝枝，斜壓漁家短短籬。惹袖尚餘香半日，",
+      "含情含怨一枝枝，斜壓漁家短短籬。惹袖尚餘香半日，向人如訴雨多時。初開偏稱雕梁畫，未落先愁玉笛吹。",
       "行客見來無去意，解帆煙浦為題詩。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -113,12 +113,12 @@
     "title": "重陽日次荊南路經武甯驛",
     "author": "崔櫓",
     "paragraphs": [
-      "茱萸冷吹溪口香，菊花倒繞山腳黃。家山去此強百里，",
+      "茱萸冷吹溪口香，菊花倒繞山腳黃。家山去此強百里，弟妹待我醉重陽。風健早鴻高曉景，露清圓碧照秋光。",
       "莫看時節年年好，暗送搔頭逐手霜。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

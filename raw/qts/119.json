@@ -102,12 +102,12 @@
     "title": "對酒吟",
     "author": "崔國輔",
     "paragraphs": [
-      "行行日將夕，荒村古塚無人跡。蒙籠荊棘一鳥吟，",
+      "行行日將夕，荒村古塚無人跡。蒙籠荊棘一鳥吟，屢唱提壺沽酒吃。古人不達酒不足，遺恨精靈傳此曲。",
       "寄言世上諸少年，平生且盡杯中醁。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [5, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

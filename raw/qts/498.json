@@ -523,14 +523,14 @@
     "title": "罷武功縣將入城",
     "author": "姚合",
     "paragraphs": [
-      "乍拋衫笏覺身輕，依舊還稱學道名。欲泥山僧分屋住，",
+      "乍拋衫笏覺身輕，依舊還稱學道名。欲泥山僧分屋住，羞從野老借牛耕。妻兒盡怕為逋客，親故相邀遣到城。",
       "無奈同官珍重意，幾回臨路卻休行。",
-      "青衫脫下便狂歌，種薤栽莎劚古坡。野客相逢添酒病，",
+      "青衫脫下便狂歌，種薤栽莎劚古坡。野客相逢添酒病，春山暫上著詩魔。亦知官罷貧還甚，且喜閑來睡得多。",
       "欲與九衢親故別，明朝拄杖始經過。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 16,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -643,12 +643,12 @@
     "title": "莊居即事",
     "author": "姚合",
     "paragraphs": [
-      "休看小字大書名，向日持經眼卻明。時過無心求富貴，",
+      "休看小字大書名，向日持經眼卻明。時過無心求富貴，身閑不夢見公卿。因尋岳寺葷辛斷，自到王城禮數生。",
       "斜月照床新睡覺，西風半夜鶴來聲。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -656,12 +656,12 @@
     "title": "親仁裏居",
     "author": "姚合",
     "paragraphs": [
-      "三年賃舍親仁裏，寂寞何曾似在城。飲酒自緣防冷病，",
+      "三年賃舍親仁裏，寂寞何曾似在城。飲酒自緣防冷病，尋人多是為閑行。軒車無路通門巷，親友因詩道姓名。",
       "自別青山歸未得，羨君長聽石泉聲。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -698,12 +698,12 @@
     "title": "獨居",
     "author": "姚合",
     "paragraphs": [
-      "深閉柴門長不出，功夫自課少閒時。翻音免問他人字，",
+      "深閉柴門長不出，功夫自課少閒時。翻音免問他人字，覆局何勞對手棋。生計如雲無定所，窮愁似影每相隨。",
       "到頭歸向青山是，塵路茫茫欲告誰。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -737,12 +737,12 @@
     "title": "將歸山",
     "author": "姚合",
     "paragraphs": [
-      "野人慣去山中住，自到城來悶不勝。宮樹蟬聲多卻樂，",
+      "野人慣去山中住，自到城來悶不勝。宮樹蟬聲多卻樂，侯門月色少於燈。饑來唯擬重餐藥，歸去還應只別僧。",
       "聞道舊溪茆屋畔，春風新上數枝藤。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -763,12 +763,12 @@
     "title": "偶然書懷",
     "author": "姚合",
     "paragraphs": [
-      "十年通籍入金門，自愧名微枉搢紳。煉得丹砂疑不食，",
+      "十年通籍入金門，自愧名微枉搢紳。煉得丹砂疑不食，從茲白髮日相親。杯酒稀疏病到身。",
       "漢有馮唐唐有我，老為郎吏更何人。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -803,12 +803,12 @@
     "title": "偶題",
     "author": "姚合",
     "paragraphs": [
-      "年年九陌看春還，舊隱空勞夢寐間。遲日逍遙芸草長，",
+      "年年九陌看春還，舊隱空勞夢寐間。遲日逍遙芸草長，聖朝清淨諫臣閑。偶逢遊客同傾酒，自有前騶恥見山。",
       "道侶書來相責誚，朝朝欲報作何顏。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -856,12 +856,12 @@
     "title": "迎春",
     "author": "姚合",
     "paragraphs": [
-      "半年留醉待花開，曉去迎春夜始回。風暖慢行尋曲水，",
+      "半年留醉待花開，曉去迎春夜始回。風暖慢行尋曲水，天晴遠望立高臺。亦知無處將詩請，唯得終朝把酒催。",
       "今日柳條全弄色，遊人相伴看春來。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1025,12 +1025,12 @@
     "title": "賞春",
     "author": "姚合",
     "paragraphs": [
-      "閒人只是愛春光，迎得春來喜欲狂。買酒怕遲教走馬，",
+      "閒人只是愛春光，迎得春來喜欲狂。買酒怕遲教走馬，看花嫌遠自移床。嬌鶯語足方離樹，戲蝶飛高始過牆。",
       "顛倒醉眠三數日，人間百事不思量。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1168,12 +1168,12 @@
     "title": "別春",
     "author": "姚合",
     "paragraphs": [
-      "留春不得被春欺，春若無情遣泥誰。寂寞自疑生冷病，",
+      "留春不得被春欺，春若無情遣泥誰。寂寞自疑生冷病，淒涼還似別親知。隨風未辨歸何處，澆酒唯求住少時。",
       "一去近當三百日，從朝至夜是相思。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1333,12 +1333,12 @@
     "title": "詠雲",
     "author": "姚合",
     "paragraphs": [
-      "靄靄紛紛不可窮，戛笙歌處盡隨龍。來依銀漢一千里，",
+      "靄靄紛紛不可窮，戛笙歌處盡隨龍。來依銀漢一千里，歸傍巫山十二峰。呈瑞每聞開麗色，避風仍見掛喬松。",
       "憐君翠染雙蟬鬢，鏡裏朝朝近玉容。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1346,12 +1346,12 @@
     "title": "詠雪",
     "author": "姚合",
     "paragraphs": [
-      "愁雲殘臘下陽臺，混卻乾坤六出開。與月交光呈瑞色，",
+      "愁雲殘臘下陽臺，混卻乾坤六出開。與月交光呈瑞色，共花爭豔傍寒梅。飛隨郢客歌聲遠，散逐宮娥舞袖回。",
       "其那知音不相見，剡溪乘興為君來。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

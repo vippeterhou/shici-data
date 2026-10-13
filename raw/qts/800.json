@@ -3,11 +3,11 @@
     "title": "答韓翃",
     "author": "柳氏",
     "paragraphs": [
-      "楊柳枝，芳菲節，可恨年年贈離別。一葉隨風忽報秋，"
+      "楊柳枝，芳菲節，可恨年年贈離別。一葉隨風忽報秋，縱使君來豈堪折。"
     ],
     "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [3, 3, 7, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [3, 3, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -54,12 +54,12 @@
     "title": "秋日再寄",
     "author": "晁采",
     "paragraphs": [
-      "珍簟生涼夜漏餘，夢中恍惚覺來初。魂離不得空成病，",
+      "珍簟生涼夜漏餘，夢中恍惚覺來初。魂離不得空成病，面見無由浪寄書。窗外江村鐘響絕，枕邊梧葉雨聲疏。",
       "此時最是思君處，腸斷寒猿定不如。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -510,12 +510,12 @@
     "title": "寄情",
     "author": "趙氏",
     "paragraphs": [
-      "春風白馬紫絲韁，正值蠶娘未采桑。五夜有心隨暮雨，",
+      "春風白馬紫絲韁，正值蠶娘未采桑。五夜有心隨暮雨，百年無節抱秋霜。重尋繡帶朱藤合，卻忍羅裙碧草長。",
       "為報西遊減離恨，阮郎才去嫁劉郎。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

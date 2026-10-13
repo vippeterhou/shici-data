@@ -16,12 +16,12 @@
     "title": "江邊吟",
     "author": "韋莊",
     "paragraphs": [
-      "江邊烽燧幾時休，江上行人雪滿頭。誰信亂離花不見，",
+      "江邊烽燧幾時休，江上行人雪滿頭。誰信亂離花不見，只應惆悵水東流。陶潛政事千杯酒，張翰生涯一葉舟。",
       "若有片帆歸去好，可堪重倚仲宣樓。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -29,12 +29,12 @@
     "title": "江南送李明府入關",
     "author": "韋莊",
     "paragraphs": [
-      "雨花煙柳傍江村，流落天涯酒一樽。分首不辭多下淚，",
+      "雨花煙柳傍江村，流落天涯酒一樽。分首不辭多下淚，回頭唯恐更消魂。我為孟館三千客，君繼甯王五代孫。",
       "正是中興磐石重，莫將憔悴入都門。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -42,12 +42,12 @@
     "title": "送福州王先輩南歸",
     "author": "韋莊",
     "paragraphs": [
-      "豫章城下偶相逢，自說今方遇至公。八韻賦吟梁苑雪，",
+      "豫章城下偶相逢，自說今方遇至公。八韻賦吟梁苑雪，六銖衣惹杏園風。名標玉籍仙壇上，家寄閩山畫障中。",
       "明日一杯何處別，綠楊煙岸雨濛濛。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -55,12 +55,12 @@
     "title": "夜雪泛舟游南溪",
     "author": "韋莊",
     "paragraphs": [
-      "大江西面小溪斜，入竹穿松似若耶。兩岸嚴風吹玉樹，",
+      "大江西面小溪斜，入竹穿松似若耶。兩岸嚴風吹玉樹，一灘明月曬銀砂。因尋野渡逢漁舍，更泊前灣上酒家。",
       "去去不知歸路遠，棹聲煙裏獨嘔啞。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -81,12 +81,12 @@
     "title": "銅儀",
     "author": "韋莊",
     "paragraphs": [
-      "銅儀一夜變葭灰，暖律還吹嶺上梅。已喜漢官今再睹，",
+      "銅儀一夜變葭灰，暖律還吹嶺上梅。已喜漢官今再睹，更驚堯曆又重開。窗中遠岫青如黛，門外長江綠似苔。",
       "誰念閉關張仲蔚，滿庭春雨長蒿萊。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -94,12 +94,12 @@
     "title": "含香",
     "author": "韋莊",
     "paragraphs": [
-      "含香高步已難陪，鶴到清霄勢未回。遇物旋添芳草句，",
+      "含香高步已難陪，鶴到清霄勢未回。遇物旋添芳草句，逢春寧滯碧雲才。微紅幾處花心吐，嫩綠誰家柳眼開。",
       "卻去金鑾為近侍，便辭鷗鳥不歸來。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -107,12 +107,12 @@
     "title": "春雲",
     "author": "韋莊",
     "paragraphs": [
-      "春雲春水兩溶溶，倚郭樓臺晚翠濃。山好只因人化石，",
+      "春雲春水兩溶溶，倚郭樓臺晚翠濃。山好只因人化石，地靈曾有劍為龍。官辭鳳闕頻經歲，家住峨嵋第幾峰。",
       "王粲不知多少恨，夕陽吟斷一聲鐘。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -120,12 +120,12 @@
     "title": "雲散",
     "author": "韋莊",
     "paragraphs": [
-      "雲散天邊落照和，關關春樹鳥聲多。劉伶避世唯沈醉，",
+      "雲散天邊落照和，關關春樹鳥聲多。劉伶避世唯沈醉，甯戚傷時亦浩歌。已恨歲華添皎鏡，更悲人事逐頹波。",
       "青雲自有鵷鴻待，莫說他山好薜蘿。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -133,12 +133,12 @@
     "title": "袁州作",
     "author": "韋莊",
     "paragraphs": [
-      "家家生計只琴書，一郡清風似魯儒。山色東南連紫府，",
+      "家家生計只琴書，一郡清風似魯儒。山色東南連紫府，水聲西北屬洪都。煙霞盡入新詩卷，郭邑閑開古畫圖。",
       "正是江村春酒熟，更聞春鳥勸提壺。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -146,12 +146,12 @@
     "title": "題袁州謝秀才所居",
     "author": "韋莊",
     "paragraphs": [
-      "主人年少已能詩，更有松軒掛夕暉。芳草似袍連徑合，",
+      "主人年少已能詩，更有松軒掛夕暉。芳草似袍連徑合，白雲如鳥傍簷飛。但將竹葉消春恨，莫遣楊花上客衣。",
       "若有前山好煙雨，與君吟到暝鐘歸。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -159,12 +159,12 @@
     "title": "謁巫山廟",
     "author": "韋莊",
     "paragraphs": [
-      "亂猿啼處訪高唐，路入煙霞草木香。山色未能忘宋玉，",
+      "亂猿啼處訪高唐，路入煙霞草木香。山色未能忘宋玉，水聲猶似哭襄王。朝朝暮暮陽臺下，為雨為雲楚國亡。",
       "惆悵廟前無限柳，春來空鬥畫眉長。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -172,12 +172,12 @@
     "title": "鷓鴣",
     "author": "韋莊",
     "paragraphs": [
-      "南禽無侶似相依，錦翅雙雙傍馬飛。孤竹廟前啼暮雨，",
+      "南禽無侶似相依，錦翅雙雙傍馬飛。孤竹廟前啼暮雨，汨羅祠畔吊殘暉。秦人只解歌為曲，越女空能畫作衣。",
       "懊惱澤家非有恨，年年長憶鳳城歸。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -198,12 +198,12 @@
     "title": "送李秀才歸荊溪",
     "author": "韋莊",
     "paragraphs": [
-      "八月中秋月正圓，送君吟上木蘭船。人言格調勝玄度，",
+      "八月中秋月正圓，送君吟上木蘭船。人言格調勝玄度，我愛篇章敵浪仙。晚渡去時沖細雨，夜灘何處宿寒煙。",
       "楚王宮去陽臺近，莫倚風流滯少年。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -211,12 +211,12 @@
     "title": "洪州送西明寺省上人游福建",
     "author": "韋莊",
     "paragraphs": [
-      "記得初騎竹馬年，送師來往禦溝邊。荊榛已失當時路，",
+      "記得初騎竹馬年，送師來往禦溝邊。荊榛已失當時路，槐柳全無舊日煙。遠自嵇山游楚澤，又從廬嶽去閩川。",
       "新春闕下應相見，紅杏花中覓酒仙。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -279,12 +279,12 @@
     "title": "泛鄱陽湖",
     "author": "韋莊",
     "paragraphs": [
-      "四顧無邊鳥不飛，大波驚隔楚山微。紛紛雨外靈均過，",
+      "四顧無邊鳥不飛，大波驚隔楚山微。紛紛雨外靈均過，瑟瑟雲中帝子歸。迸鯉似棱投遠浪，小舟如葉傍斜暉。",
       "鴟夷去後何人到，愛者雖多見者稀。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -292,12 +292,12 @@
     "title": "黃藤山下聞猿",
     "author": "韋莊",
     "paragraphs": [
-      "黃藤山下駐歸程，一夜號猿吊旅情。入耳便能生百恨，",
+      "黃藤山下駐歸程，一夜號猿吊旅情。入耳便能生百恨，斷腸何必待三聲。穿雲宿處人難見，望月啼時兔正明。",
       "好笑五陵年少客，壯心無事也沾纓。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -305,12 +305,12 @@
     "title": "章江作",
     "author": "韋莊",
     "paragraphs": [
-      "杜陵歸客正裴回，玉笛誰家叫落梅。之子棹從天外去，",
+      "杜陵歸客正裴回，玉笛誰家叫落梅。之子棹從天外去，故人書自日邊來。楊花慢惹霏霏雨，竹葉閑傾滿滿杯。",
       "欲問維揚舊風月，一江紅樹亂猿哀。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -344,12 +344,12 @@
     "title": "九江逢盧員外",
     "author": "韋莊",
     "paragraphs": [
-      "前年風月宿琴堂，大媚仙山近帝鄉。別後幾沾新雨露，",
+      "前年風月宿琴堂，大媚仙山近帝鄉。別後幾沾新雨露，亂來猶記舊篇章。陶潛豈是銅符吏，田鳳終為錦帳郎。",
       "莫怪相逢倍惆悵，九江煙月似瀟湘。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -357,12 +357,12 @@
     "title": "南昌晚眺",
     "author": "韋莊",
     "paragraphs": [
-      "南昌城郭枕江煙，章水悠悠浪拍天。芳草綠遮仙尉宅，",
+      "南昌城郭枕江煙，章水悠悠浪拍天。芳草綠遮仙尉宅，落霞紅襯賈人船。霏霏閣上千山雨，嘒嘒雲中萬樹蟬。",
       "怪得地多章句客，庾家樓在鬥牛邊。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -383,12 +383,12 @@
     "title": "湘中作",
     "author": "韋莊",
     "paragraphs": [
-      "千重煙樹萬重波，因便何妨吊汨羅。楚地不知秦地亂，",
+      "千重煙樹萬重波，因便何妨吊汨羅。楚地不知秦地亂，南人空怪北人多。臣心未肯教遷鼎，天道還應欲止戈。",
       "否去泰來終可待，夜寒休唱飯牛歌。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -396,12 +396,12 @@
     "title": "桐廬縣作",
     "author": "韋莊",
     "paragraphs": [
-      "錢塘江盡到桐廬，水碧山青畫不如。白羽鳥飛嚴子瀨，",
+      "錢塘江盡到桐廬，水碧山青畫不如。白羽鳥飛嚴子瀨，綠蓑人釣季鷹魚。潭心倒影時開合，穀口閑雲自卷舒。",
       "此境只應詞客愛，投文空吊木玄虛。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -409,12 +409,12 @@
     "title": "東陽贈別",
     "author": "韋莊",
     "paragraphs": [
-      "繡袍公子出旌旗，送我搖鞭入翠微。大抵行人難訴酒，",
+      "繡袍公子出旌旗，送我搖鞭入翠微。大抵行人難訴酒，就中辭客易沾衣。去時此地題橋去，歸日何年佩印歸。",
       "無限別情言不得，回看溪柳恨依依。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -422,12 +422,12 @@
     "title": "寄湖州舍弟",
     "author": "韋莊",
     "paragraphs": [
-      "半年江上愴離襟，把得新詩喜又吟。多病似逢秦氏藥，",
+      "半年江上愴離襟，把得新詩喜又吟。多病似逢秦氏藥，久貧如得顧家金。雲煙但有穿楊志，塵土多無作吏心。",
       "何況別來詞轉麗，不愁明代少知音。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -516,12 +516,12 @@
     "title": "東林寺再遇僧益大德",
     "author": "韋莊",
     "paragraphs": [
-      "見師初事懿皇朝，三殿歸來白馬驕。上講每教傾國聽，",
+      "見師初事懿皇朝，三殿歸來白馬驕。上講每教傾國聽，承恩偏得內官饒。當時可愛人如畫，今日相逢鬢已凋。",
       "若向君門逢舊友，為傳音信到雲霄。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -529,12 +529,12 @@
     "title": "西塞山下作",
     "author": "韋莊",
     "paragraphs": [
-      "西塞山前水似藍，亂雲如絮滿澄潭。孤峰漸映湓城北，",
+      "西塞山前水似藍，亂雲如絮滿澄潭。孤峰漸映湓城北，片月斜生夢澤南。爨動曉煙烹紫蕨，露和香蒂摘黃柑。",
       "他年卻棹扁舟去，終傍蘆花結一庵。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -555,12 +555,12 @@
     "title": "夏口行寄婺州諸弟",
     "author": "韋莊",
     "paragraphs": [
-      "回頭煙樹各天涯，婺女星邊遠寄家。盡眼楚波連夢澤，",
+      "回頭煙樹各天涯，婺女星邊遠寄家。盡眼楚波連夢澤，滿衣春雪落江花。雙雙得伴爭如雁，一一歸巢卻羨鴉。",
       "誰道我隨張博望，悠悠空外泛仙槎。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -568,12 +568,12 @@
     "title": "南省伴直",
     "author": "韋莊",
     "paragraphs": [
-      "文昌二十四仙曹，盡倚紅簷種露桃。一洞煙霞人跡少，",
+      "文昌二十四仙曹，盡倚紅簷種露桃。一洞煙霞人跡少，六行槐柳鳥聲高。星分夜彩寒侵帳，蘭惹春香綠映袍。",
       "何事愛留詩客宿，滿庭風雨竹蕭騷。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -620,12 +620,12 @@
     "title": "投寄舊知",
     "author": "韋莊",
     "paragraphs": [
-      "卻將憔悴入都門，自喜青霄足故人。萬里有家留百越，",
+      "卻將憔悴入都門，自喜青霄足故人。萬里有家留百越，十年無路到三秦。摧殘不是當時貌，流落空餘舊日貧。",
       "多謝青雲好知己，莫教歸去重沾巾。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -633,12 +633,12 @@
     "title": "癸醜年下第獻新先輩",
     "author": "韋莊",
     "paragraphs": [
-      "五更殘月省牆邊，絳旆蜺旌卓曉煙。千炬火中鶯出穀，",
-      "對酒暫時情豁爾，見花依舊涕潸然。未酬闞澤傭書債，"
+      "五更殘月省牆邊，絳旆蜺旌卓曉煙。千炬火中鶯出穀，一聲鐘後鶴沖天。皆乘駿馬先歸去，獨被羸童笑晚眠。",
+      "對酒暫時情豁爾，見花依舊涕潸然。未酬闞澤傭書債，猶欠君平賣卜錢。何事欲休休不得，來年公道似今年。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -646,12 +646,12 @@
     "title": "題汧陽縣馬跑泉李學士別業",
     "author": "韋莊",
     "paragraphs": [
-      "水滿寒塘菊滿籬，籬邊無限彩禽飛。西園夜雨紅櫻熟，",
+      "水滿寒塘菊滿籬，籬邊無限彩禽飛。西園夜雨紅櫻熟，南畝清風白稻肥。草色自留閑客住，泉聲如待主人歸。",
       "九霄岐路忙於火，肯戀斜陽守釣磯。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -659,12 +659,12 @@
     "title": "絳州過夏留獻鄭尚書",
     "author": "韋莊",
     "paragraphs": [
-      "朝朝沈醉引金船，不覺西風滿樹蟬。光景暗消銀燭下，",
+      "朝朝沈醉引金船，不覺西風滿樹蟬。光景暗消銀燭下，夢魂長寄玉輪邊。因循每被時流誚，奮發須由國士憐。",
       "明月客腸何處斷，綠槐風裏獨揚鞭。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -672,12 +672,12 @@
     "title": "綏州作",
     "author": "韋莊",
     "paragraphs": [
-      "雕陰無樹水難流，雉堞連雲古帝州。帶雨晚駝鳴遠戍，",
+      "雕陰無樹水難流，雉堞連雲古帝州。帶雨晚駝鳴遠戍，望鄉孤客倚高樓。明妃去日花應笑，蔡琰歸時鬢已秋。",
       "一曲單于暮烽起，扶蘇城上月如鉤。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

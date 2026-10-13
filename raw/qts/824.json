@@ -59,12 +59,12 @@
     "title": "秋日思舊山",
     "author": "子蘭",
     "paragraphs": [
-      "咸言上國繁華，豈謂帝城羈旅。十點五點殘螢，",
+      "咸言上國繁華，豈謂帝城羈旅。十點五點殘螢，千聲萬聲秋雨。白雲江上故鄉，月下風前吟處。",
       "欲去不去遲遲，未展平生所佇。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [6, 6, 6, 6, 6],
+      "sentence_count": 8,
+      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },
@@ -111,12 +111,12 @@
     "title": "與道侶同於水陸寺會宿",
     "author": "子蘭",
     "paragraphs": [
-      "論道窮心少有朋，此時清話昔年曾。柿凋紅葉鋪寒井，",
+      "論道窮心少有朋，此時清話昔年曾。柿凋紅葉鋪寒井，鵠墜霜毛著定僧。風遞遠聲秋澗水，竹穿深色夜房燈。",
       "出門儘是勞生者，只此長閑幾個能。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

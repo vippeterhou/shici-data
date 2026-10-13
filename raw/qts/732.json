@@ -80,12 +80,12 @@
     "title": "途中詩",
     "author": "楊奇鯤",
     "paragraphs": [
-      "□□□□□□□，□□□□□□□。風裏浪花吹更白，",
+      "□□□□□□□，□□□□□□□。風裏浪花吹更白，雨中山色洗還青。海鷗聚處窗前見，林狖啼時枕上聽。",
       "此際自然無限趣，王程不敢暫留停。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -93,12 +93,12 @@
     "title": "聽妓洞雲歌",
     "author": "布燮",
     "paragraphs": [
-      "嵇叔夜，鼓琴飲酒無閒暇。若使當時聞此歌，",
+      "嵇叔夜，鼓琴飲酒無閒暇。若使當時聞此歌，拋擲廣陵都不藉。劉伯倫，虛生浪死過青春。",
       "一飲一碩猶自醉，無人為爾蔔深塵。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [3, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [3, 7, 7, 7, 3, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

@@ -45,12 +45,12 @@
     "author": "耿湋",
     "paragraphs": [
       "蟬鳴兮夕曛，聲和兮夏雲。白日兮將短，秋意兮已滿。",
-      "乍悲鳴兮欲長。猶嘶澀兮多斷。風蕭蕭兮轉清，",
+      "乍悲鳴兮欲長。猶嘶澀兮多斷。風蕭蕭兮轉清，韻嘒嘒兮初成。依婆娑之古樹，思遼落之荒城。",
       "閑院支頤，深林倚策，猶惆悵而無語，鬢星星而已白。"
     ],
     "format": {
-      "sentence_count": 11,
-      "sentence_lengths": [5, 5, 5, 5, 6, 6, 6, 4, 4, 6, 6],
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 4, 4, 6, 6],
       "uniform_sentence_length": null
     }
   },
@@ -58,11 +58,11 @@
     "title": "蘆花動",
     "author": "耿湋",
     "paragraphs": [
-      "連素穗，翻秋氣，細節疏莖任長吹。共作月中聲，"
+      "連素穗，翻秋氣，細節疏莖任長吹。共作月中聲，孤舟發鄉思。"
     ],
     "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [3, 3, 7, 5],
+      "sentence_count": 5,
+      "sentence_lengths": [3, 3, 7, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -70,11 +70,11 @@
     "title": "賦得寒蛩",
     "author": "耿湋",
     "paragraphs": [
-      "爾誰造，鳴何早，趯趯連聲遍階草。複與夜雨和，"
+      "爾誰造，鳴何早，趯趯連聲遍階草。複與夜雨和，遊人聽堪老。"
     ],
     "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [3, 3, 7, 5],
+      "sentence_count": 5,
+      "sentence_lengths": [3, 3, 7, 5, 5],
       "uniform_sentence_length": null
     }
   },

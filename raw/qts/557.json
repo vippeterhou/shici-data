@@ -3,12 +3,12 @@
     "title": "寄宜陽兄弟",
     "author": "易重",
     "paragraphs": [
-      "六年雁序恨分離，詔下今朝遇已知。上國皇風初喜日，",
+      "六年雁序恨分離，詔下今朝遇已知。上國皇風初喜日，禦階恩渥屬身時。內庭再考稱文異，聖主宣名獎藝奇。",
       "故里仙才若相問，一春攀得兩重枝。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -16,12 +16,12 @@
     "title": "發蕙風館遇陰不見九華山有作",
     "author": "孟遲",
     "paragraphs": [
-      "我來淮陰城，千江萬山無不經。山青水碧千萬丈，",
-      "人家敲鏡救不得，光陰卻屬貪狼星。恨亦不能通，"
+      "我來淮陰城，千江萬山無不經。山青水碧千萬丈，奇峰急派何縱橫！又聞九華山，山頂連青冥。太白有逸韻，使我西南行。一步一攀策，前行正雞鳴。陰雲冉冉忽飛起，千里萬里危崢嶸。譬如天之有日蝕，使我昏沈猶不明。",
+      "人家敲鏡救不得，光陰卻屬貪狼星。恨亦不能通，言亦不足聽。長鞭揮馬出門去，是以九華為不平。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [5, 7, 7, 7, 7, 5],
+      "sentence_count": 20,
+      "sentence_lengths": [5, 7, 7, 7, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 7, 7, 5, 5, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -29,12 +29,12 @@
     "title": "寄浙右舊幕僚",
     "author": "孟遲",
     "paragraphs": [
-      "由來惡舌駟難追，自古無媒謗所歸。勾踐豈能容範蠡，",
+      "由來惡舌駟難追，自古無媒謗所歸。勾踐豈能容範蠡，李斯何暇救韓非。巨拳豈為雞揮肋，強弩那因鼠發機。",
       "慚愧故人同鮑叔，此心江柳尚依依。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -258,12 +258,12 @@
     "title": "謁梓潼張惡子廟",
     "author": "王鐸",
     "paragraphs": [
-      "盛唐聖主解青萍，欲振新封濟順名。夜雨龍拋三尺匣，",
+      "盛唐聖主解青萍，欲振新封濟順名。夜雨龍拋三尺匣，春雲鳳入九重城。劍門喜氣隨雷動，玉壘韶光待賊平。",
       "惟報關東諸將相，柱天功業賴陰兵。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -271,12 +271,12 @@
     "title": "罷都統守鎮滑州作",
     "author": "王鐸",
     "paragraphs": [
-      "用軍何事敢遷延，恩重才輕分使然。黜詔已聞來闕下，",
-      "正會星辰扶北極，卻驅戈甲鎮南燕。三塵上相逢明主，"
+      "用軍何事敢遷延，恩重才輕分使然。黜詔已聞來闕下，檄書猶未遍軍前。腰間盡解蘇秦印，波上虛迎範蠡船。",
+      "正會星辰扶北極，卻驅戈甲鎮南燕。三塵上相逢明主，九合諸侯愧昔賢。看卻中興扶大業，殺身無路好歸田。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -560,12 +560,12 @@
     "title": "望九華山",
     "author": "盧嗣立",
     "paragraphs": [
-      "九華深翠落軒楹，迥眺澄江氣象明。不遇陰霾孤岫隱，",
+      "九華深翠落軒楹，迥眺澄江氣象明。不遇陰霾孤岫隱，正當寒日眾峰呈。坐觀風雪銷煩思，惜別煙嵐駐曉行。",
       "得路歸山期早訣，夜來潛已告精誠。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

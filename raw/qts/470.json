@@ -209,12 +209,12 @@
     "title": "湘弦曲",
     "author": "莊南傑",
     "paragraphs": [
-      "楚雲錚錚戛秋露，巫雲峽雨飛朝暮。古磬高敲百尺樓，",
-      "鶯啼寂寞花枝雨，鬼嘯荒郊松柏風。滿堂怨咽悲相續，"
+      "楚雲錚錚戛秋露，巫雲峽雨飛朝暮。古磬高敲百尺樓，孤猿夜哭千丈樹。雲軒碾火聲瓏瓏，連山卷盡長江空。",
+      "鶯啼寂寞花枝雨，鬼嘯荒郊松柏風。滿堂怨咽悲相續，苦調中含古離曲。繁弦響絕楚魂遙，湘江水碧湘山綠。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -222,12 +222,12 @@
     "title": "黃雀行",
     "author": "莊南傑",
     "paragraphs": [
-      "穿屋穿牆不知止，爭樹爭巢入營死。林間公子挾彈弓，",
+      "穿屋穿牆不知止，爭樹爭巢入營死。林間公子挾彈弓，一丸致斃花叢裏。小口黃雛未有知，青天不解高高飛。",
       "虞人設網當要路，白日啾嘲禍萬機。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -235,12 +235,12 @@
     "title": "雁門太守行",
     "author": "莊南傑",
     "paragraphs": [
-      "旌旗閃閃搖天末，長笛橫吹虜塵闊。跨下嘶風白練獰，",
+      "旌旗閃閃搖天末，長笛橫吹虜塵闊。跨下嘶風白練獰，腰間切玉青蛇活。擊革摐金燧牛尾，犬羊兵敗如山死。",
       "九泉寂寞葬秋蟲，濕雲荒草啼秋思。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -248,12 +248,12 @@
     "title": "陽春曲",
     "author": "莊南傑",
     "paragraphs": [
-      "紫錦紅囊香滿風，金鸞玉軾搖丁冬。沙鷗白羽翦晴碧，",
+      "紫錦紅囊香滿風，金鸞玉軾搖丁冬。沙鷗白羽翦晴碧，野桃紅豔燒春空。芳草綿延鎖平地，壟蝶雙雙舞幽翠。",
       "鳳葉龍吟白日長，落花聲底仙娥醉。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -261,12 +261,12 @@
     "title": "傷歌行",
     "author": "莊南傑",
     "paragraphs": [
-      "兔走烏飛不相見，人事依稀速如電。王母夭桃一度開，",
-      "秋雨無情不惜花，芙蓉一一驚香倒。勸君莫謾栽荊棘，"
+      "兔走烏飛不相見，人事依稀速如電。王母夭桃一度開，玉樓紅粉千回變。車馳馬走咸陽道，石家舊宅空荒草。",
+      "秋雨無情不惜花，芙蓉一一驚香倒。勸君莫謾栽荊棘，秦皇虛費驅山力。英風一去更無言，白骨沉埋暮山碧。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

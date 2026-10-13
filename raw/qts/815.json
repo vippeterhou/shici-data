@@ -388,12 +388,12 @@
     "title": "寓興",
     "author": "皎然",
     "paragraphs": [
-      "天下生白榆，白榆直上連天根。高枝不知幾萬丈，",
-      "因問老仙求種法，老仙咍我愚不答。始知此道無所成，"
+      "天下生白榆，白榆直上連天根。高枝不知幾萬丈，世人仰望徒攀援。誰能上天采其子，種向人間笑桃李。",
+      "因問老仙求種法，老仙咍我愚不答。始知此道無所成，還如瞽夫學長生。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [5, 7, 7, 7, 7, 7],
+      "sentence_count": 10,
+      "sentence_lengths": [5, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -805,12 +805,12 @@
     "title": "兵後經永安法空寺寄悟禪師",
     "author": "皎然",
     "paragraphs": [
-      "常說人間法自空，何言出世法還同。微蹤舊是香林下，",
+      "常說人間法自空，何言出世法還同。微蹤舊是香林下，餘燼今成火宅中。後夜池心生素月，春天樹色起悲風。",
       "吾知世代相看盡，誰悟浮生似影公。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -818,12 +818,12 @@
     "title": "春日杼山寄贈李員外縱",
     "author": "皎然",
     "paragraphs": [
-      "南山唯與北山鄰，古樹連拳伴我身。黃鶴有心多不住，",
+      "南山唯與北山鄰，古樹連拳伴我身。黃鶴有心多不住，白雲無事獨相親。閑持竹錫深看水，懶系麻衣出見人。",
       "欲掇幽芳聊贈遠，郎官那賞石門春。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -857,12 +857,12 @@
     "title": "山居示靈澈上人",
     "author": "皎然",
     "paragraphs": [
-      "晴明路出山初暖，行踏春蕪看茗歸。乍削柳枝聊代劄，",
+      "晴明路出山初暖，行踏春蕪看茗歸。乍削柳枝聊代劄，時窺雲影學裁衣。身閑始覺隳名是，心了方知苦行非。",
       "外物寂中誰似我，松聲草色共無機。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -870,12 +870,12 @@
     "title": "遙和康錄事李侍禦萼小寒食夜重集康氏園林",
     "author": "皎然",
     "paragraphs": [
-      "習家寒食會何頻，應恐流芳不待人。已愛治書詩句逸，",
+      "習家寒食會何頻，應恐流芳不待人。已愛治書詩句逸，更聞從事酒名新。庭蕪暗積承雙履，林花雷飛灑幅巾。",
       "誰見柰園時節共，還持綠茗賞殘春。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -909,12 +909,12 @@
     "title": "勞山憶棲霞寺道素上人久期不至",
     "author": "皎然",
     "paragraphs": [
-      "遠寺蕭蕭獨坐心，山情自得趣何深。泉聲稍滴芙蓉漏，",
-      "貪閑不記前心偈，念別聊為出世吟。更待花開遍山雪，"
+      "遠寺蕭蕭獨坐心，山情自得趣何深。泉聲稍滴芙蓉漏，月影才分鸚鵡林。滿地雲輕長礙屣，繞松風近每吹襟。",
+      "貪閑不記前心偈，念別聊為出世吟。更待花開遍山雪，山山相似若為尋。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 10,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

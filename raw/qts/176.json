@@ -75,11 +75,11 @@
     "title": "灞陵行送別",
     "author": "李白",
     "paragraphs": [
-      "送君灞陵亭，灞水流浩浩。上有無花之古樹，"
+      "送君灞陵亭，灞水流浩浩。上有無花之古樹，下有傷心之春草。我向秦人問路歧，雲是王粲南登之古道。古道連綿走西京，紫闕落日浮雲生。正當今夕斷腸處，黃鸝愁絕不忍聽。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 7],
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 7, 7, 7, 9, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -87,12 +87,12 @@
     "title": "送賀監歸四明應制",
     "author": "李白",
     "paragraphs": [
-      "久辭榮祿遂初衣，曾向長生說息機。真訣自從茅氏得，",
+      "久辭榮祿遂初衣，曾向長生說息機。真訣自從茅氏得，恩波寧阻洞庭歸。瑤台含霧星辰滿，仙嶠浮空島嶼微。",
       "借問欲棲珠樹鶴，何年卻向帝城飛。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -114,11 +114,11 @@
     "title": "送羽林陶將軍",
     "author": "李白",
     "paragraphs": [
-      "將軍出使擁樓船，江上旌旗拂紫煙。萬里橫戈探虎穴，"
+      "將軍出使擁樓船，江上旌旗拂紫煙。萬里橫戈探虎穴，三杯拔劍舞龍泉。莫道詞人無膽氣，臨行將贈繞朝鞭。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -126,12 +126,12 @@
     "title": "送程、劉二侍郎兼獨孤判官赴安西幕府",
     "author": "李白",
     "paragraphs": [
-      "安西幕府多材雄，喧喧惟道三數公。繡衣貂裘明積雪，",
-      "天外飛霜下蔥海，火旗雲馬生光彩。胡塞清塵幾日歸，"
+      "安西幕府多材雄，喧喧惟道三數公。繡衣貂裘明積雪，飛書走檄如飄風。朝辭明主出紫宮，銀鞍送別金城空。",
+      "天外飛霜下蔥海，火旗雲馬生光彩。胡塞清塵幾日歸，漢家草綠遙相待。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 10,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -292,12 +292,12 @@
     "title": "送別",
     "author": "李白",
     "paragraphs": [
-      "尋陽五溪水，沿洄直入巫山裏。勝境由來人共傳，",
+      "尋陽五溪水，沿洄直入巫山裏。勝境由來人共傳，君到南中自稱美。送君別有八月秋，颯颯蘆花複益愁。",
       "雲帆望遠不相見，日暮長江空自流。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [5, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -305,12 +305,12 @@
     "title": "送族弟綰從軍安西",
     "author": "李白",
     "paragraphs": [
-      "漢家兵馬乘北風，鼓行而西破犬戎。爾隨漢將出門去，",
+      "漢家兵馬乘北風，鼓行而西破犬戎。爾隨漢將出門去，剪虜若草收奇功。君王按劍望邊色，旄頭已落胡天空。",
       "匈奴系頸數應盡，明年應入蒲萄宮。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -375,12 +375,12 @@
     "title": "送祝八之江東，賦得浣紗石",
     "author": "李白",
     "paragraphs": [
-      "西施越溪女，明豔光雲海。未入吳王宮殿時，",
-      "昔時紅粉照流水，今日青苔覆落花。君去西秦適東越，"
+      "西施越溪女，明豔光雲海。未入吳王宮殿時，浣紗古石今猶在。桃李新開映古查，菖蒲猶短出平沙。",
+      "昔時紅粉照流水，今日青苔覆落花。君去西秦適東越，碧山青江幾超忽。若到天涯思故人，浣紗石上窺明月。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [5, 5, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -512,12 +512,12 @@
     "title": "送蕭三十一之魯中，兼問稚子伯禽",
     "author": "李白",
     "paragraphs": [
-      "六月南風吹白沙，吳牛喘月氣成霞。水國鬱蒸不可處，",
-      "高堂倚門望伯魚，魯中正是趨庭處。我家寄在沙丘傍，"
+      "六月南風吹白沙，吳牛喘月氣成霞。水國鬱蒸不可處，時炎道遠無行車。夫子如何涉江路，雲帆嫋嫋金陵去。",
+      "高堂倚門望伯魚，魯中正是趨庭處。我家寄在沙丘傍，三年不歸空斷腸。君行既識伯禽子，應駕小車騎白羊。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

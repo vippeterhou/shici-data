@@ -225,12 +225,12 @@
     "title": "陸勝宅秋暮雨中探韻同作",
     "author": "張南史",
     "paragraphs": [
-      "同人永日自相將，深竹閑園偶辟疆。已被秋風教憶鱠，",
+      "同人永日自相將，深竹閑園偶辟疆。已被秋風教憶鱠，更聞寒雨勸飛觴。歸心莫問三江水，旅服徒沾九日霜。",
       "醉裏欲尋騎馬路，蕭條幾處有垂楊。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -238,12 +238,12 @@
     "title": "春日道中寄孟侍禦",
     "author": "張南史",
     "paragraphs": [
-      "春來遊子傍歸路，時有白雲遮獨行。水流亂赴石潭響，",
+      "春來遊子傍歸路，時有白雲遮獨行。水流亂赴石潭響，花開不知山樹名。誰家魚網求鮮食，幾處人煙事火耕。",
       "昨日已嘗村酒熟，一杯思與孟嘉傾。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -251,12 +251,12 @@
     "title": "江北春望贈皇甫補闕",
     "author": "張南史",
     "paragraphs": [
-      "閑園柳綠井桃紅，野徑荒墟左右通。清迥獨連江水北，",
+      "閑園柳綠井桃紅，野徑荒墟左右通。清迥獨連江水北，芳菲更似洛城東。時看雨歇人歸岫，每覺潮來樹起風。",
       "聞道金門堪避世，何須身與海鷗同。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -264,12 +264,12 @@
     "title": "酬張二倉曹楊子閒居見寄兼呈韓郎中左補闕皇甫冉",
     "author": "張南史",
     "paragraphs": [
-      "孤雲獨鶴自悠悠，別後經年尚泊舟。漁父致詞相借問，",
+      "孤雲獨鶴自悠悠，別後經年尚泊舟。漁父致詞相借問，仙郎能賦許依投。折芳遠計三春草，乘興閑看萬里流。",
       "莫怪杜門頻乞假，不堪扶病拜龍樓。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -290,11 +290,11 @@
     "title": "雪",
     "author": "張南史",
     "paragraphs": [
-      "雪，雪。花片，玉屑。結陰風，凝暮節。高嶺虛晶，"
+      "雪，雪。花片，玉屑。結陰風，凝暮節。高嶺虛晶，平原廣潔。初從雲外飄，還向空中噎。千門萬戶皆靜，獸炭皮裘自熱。此時雙舞洛陽人，誰悟郢中歌斷絕。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [1, 1, 2, 2, 3, 3, 4],
+      "sentence_count": 14,
+      "sentence_lengths": [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -302,11 +302,11 @@
     "title": "月",
     "author": "張南史",
     "paragraphs": [
-      "月，月。暫盈，還缺。上虛空，生溟渤。散彩無際，"
+      "月，月。暫盈，還缺。上虛空，生溟渤。散彩無際，移輪不歇。桂殿入西秦，菱歌映南越。正看雲霧秋卷，莫待關山曉沒。天涯地角不可尋，清光永夜何超忽。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [1, 1, 2, 2, 3, 3, 4],
+      "sentence_count": 14,
+      "sentence_lengths": [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -314,11 +314,11 @@
     "title": "泉",
     "author": "張南史",
     "paragraphs": [
-      "泉，泉。色淨，苔鮮。石上激，雲中懸。津流竹樹，"
+      "泉，泉。色淨，苔鮮。石上激，雲中懸。津流竹樹，脈亂山川。扣玉千聲應，含風百道連。太液並歸池上，雲陽舊出宮邊。北陵井深鑿不到，我欲添淚作潺湲。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [1, 1, 2, 2, 3, 3, 4],
+      "sentence_count": 14,
+      "sentence_lengths": [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -326,11 +326,11 @@
     "title": "竹",
     "author": "張南史",
     "paragraphs": [
-      "竹，竹。披山，連穀。出東南，殊草木。葉細枝勁，"
+      "竹，竹。披山，連穀。出東南，殊草木。葉細枝勁，霜停露宿。成林處處雲，抽筍年年玉。天風乍起爭韻，池水相涵更綠。卻尋庾信小園中，閑對數竿心自足。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [1, 1, 2, 2, 3, 3, 4],
+      "sentence_count": 14,
+      "sentence_lengths": [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -338,11 +338,11 @@
     "title": "花",
     "author": "張南史",
     "paragraphs": [
-      "花，花。深淺，芬葩。凝為雪，錯為霞。鶯和蝶到，"
+      "花，花。深淺，芬葩。凝為雪，錯為霞。鶯和蝶到，苑占宮遮。已迷金谷路，頻駐玉人車。芳草欲陵芳樹，東家半落西家。願得春風相伴去，一攀一折向天涯。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [1, 1, 2, 2, 3, 3, 4],
+      "sentence_count": 14,
+      "sentence_lengths": [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -350,11 +350,11 @@
     "title": "草",
     "author": "張南史",
     "paragraphs": [
-      "草，草。折宜，看好。滿地生，催人老。金殿玉砌，"
+      "草，草。折宜，看好。滿地生，催人老。金殿玉砌，荒城古道。青青千里遙，悵悵三春早。每逢南北離別，乍逐東西傾倒。一身本是山中人，聊與王孫慰懷抱。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [1, 1, 2, 2, 3, 3, 4],
+      "sentence_count": 14,
+      "sentence_lengths": [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7],
       "uniform_sentence_length": null
     }
   }

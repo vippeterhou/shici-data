@@ -16,12 +16,12 @@
     "title": "病中詩十五首：枕上作",
     "author": "白居易",
     "paragraphs": [
-      "風疾侵淩臨老頭，血凝筋滯不調柔。甘從此後支離臥，",
-      "浩氣自能充靜室，驚飆何必蕩虛舟。腹空先進松花酒，"
+      "風疾侵淩臨老頭，血凝筋滯不調柔。甘從此後支離臥，賴是從前爛漫遊。回思往事紛如夢，轉覺餘生杳若浮。",
+      "浩氣自能充靜室，驚飆何必蕩虛舟。腹空先進松花酒，膝冷重裝桂布裘。若問樂天憂病否，樂天知命了無憂。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -115,12 +115,12 @@
     "title": "病中詩十五首：就暖偶酌戲諸詩酒舊侶",
     "author": "白居易",
     "paragraphs": [
-      "低屏軟褥臥藤床，舁向前軒就日陽。一足任他為外物，",
+      "低屏軟褥臥藤床，舁向前軒就日陽。一足任他為外物，三杯自要沃中腸。頭風若見詩應愈，齒折仍誇笑不妨。",
       "細酌徐吟猶得在，舊遊未必便相忘。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -141,11 +141,11 @@
     "title": "病中詩十五首：自解",
     "author": "白居易",
     "paragraphs": [
-      "房傳往世為禪客，王道前生應畫師。我亦定中觀宿命，"
+      "房傳往世為禪客，王道前生應畫師。我亦定中觀宿命，多生債負是歌詩。不然何故狂吟詠，病後多於未病時。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -153,12 +153,12 @@
     "title": "歲暮病懷贈夢得",
     "author": "白居易",
     "paragraphs": [
-      "十年四海故交親，零落唯殘兩病身。共遣數奇從是命，",
+      "十年四海故交親，零落唯殘兩病身。共遣數奇從是命，同教步蹇有何因。眼隨老減嫌長夜，體待陽舒望早春。",
       "新樂堂前舊池上，相過亦不要他人。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -179,12 +179,12 @@
     "title": "酬夢得貧居詠懷見贈",
     "author": "白居易",
     "paragraphs": [
-      "歲陰生計兩蹉跎，相顧悠悠醉且歌。廚冷難留烏止屋，",
+      "歲陰生計兩蹉跎，相顧悠悠醉且歌。廚冷難留烏止屋，門閑可與雀張羅。病添莊舄吟聲苦，貧欠韓康藥債多。",
       "日望揮金賀新命，俸錢依舊又如何。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -257,12 +257,12 @@
     "title": "齋戒",
     "author": "白居易",
     "paragraphs": [
-      "每因齋戒斷葷腥，漸覺塵勞染愛輕。六賊定知無氣色，",
+      "每因齋戒斷葷腥，漸覺塵勞染愛輕。六賊定知無氣色，三屍應恨少恩情。酒魔降伏終須盡，詩債填還亦欲平。",
       "從此始堪為弟子，竺幹師是古先生。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -283,12 +283,12 @@
     "title": "近見慕巢尚書詩中屢有歎老思退之意又於洛下新置郊居然寵寄方深歸心大速因以長句戲而諭之",
     "author": "白居易",
     "paragraphs": [
-      "近見詩中歎白髮，遙知閫外憶東都。煙霞偷眼窺來久，",
+      "近見詩中歎白髮，遙知閫外憶東都。煙霞偷眼窺來久，新置林園猶濩落，未終婚嫁且踟躕。",
       "應須待到懸車歲，然後東歸伴老夫。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -296,12 +296,12 @@
     "title": "對鏡偶吟，贈張道士抱元",
     "author": "白居易",
     "paragraphs": [
-      "閑來對鏡自思量，年貌衰殘分所當。白髮萬莖何所怪，",
+      "閑來對鏡自思量，年貌衰殘分所當。白髮萬莖何所怪，丹砂一粒不曾嘗。眼昏久被書料理，肺渴多因酒損傷。",
       "今日逢師雖已晚，枕中治老有何方。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -361,12 +361,12 @@
     "title": "病後寒食",
     "author": "白居易",
     "paragraphs": [
-      "故紗絳帳舊青氈，藥酒醺醺引醉眠。鬥擻弊袍春晚後，",
+      "故紗絳帳舊青氈，藥酒醺醺引醉眠。鬥擻弊袍春晚後，摩挲病腳日陽前。行無筋力尋山水，坐少精神聽管弦。",
       "拋擲風光負寒食，曾來未省似今年。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -374,12 +374,12 @@
     "title": "老病相仍以詩自解",
     "author": "白居易",
     "paragraphs": [
-      "榮枯憂喜與彭殤，都是人間戲一場。蟲臂鼠肝猶不怪，",
+      "榮枯憂喜與彭殤，都是人間戲一場。蟲臂鼠肝猶不怪，雞膚鶴發複何傷。昨因風發甘長往，今遇陽和又小康。",
       "還似遠行裝束了，遲回且住亦何妨。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -387,12 +387,12 @@
     "title": "皇甫郎中親家翁赴任絳州，宴送出城贈別",
     "author": "白居易",
     "paragraphs": [
-      "慕賢入室交先定，結援通家好複成。新婦不嫌貧活計，",
+      "慕賢入室交先定，結援通家好複成。新婦不嫌貧活計，嬌孫同慰老心情。洛橋歌酒今朝散，絳路風煙幾日行。",
       "欲識離群相戀意，為君扶病出都城。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -413,12 +413,12 @@
     "title": "殘春晚起，伴客笑談",
     "author": "白居易",
     "paragraphs": [
-      "掩戶下簾朝睡足，一聲黃鳥報殘春。披衣岸幘日高起，",
+      "掩戶下簾朝睡足，一聲黃鳥報殘春。披衣岸幘日高起，兩角青衣扶老身。策杖強行過裏巷，引杯閑酌伴親賓。",
       "莫言病後妨談笑，猶恐多於不病人。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -426,12 +426,12 @@
     "title": "送唐州崔使君侍親赴任",
     "author": "白居易",
     "paragraphs": [
-      "連持使節曆專城，獨賀崔侯最慶榮。烏府一拋霜簡去，",
+      "連持使節曆專城，獨賀崔侯最慶榮。烏府一拋霜簡去，朱輪四從板輿行。發時止許沙鷗送，到日方乘竹馬迎。",
       "唯慮郡齋賓友少，數杯春酒共誰傾。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -439,12 +439,12 @@
     "title": "春晚詠懷贈皇甫朗之",
     "author": "白居易",
     "paragraphs": [
-      "豔陽時節又蹉跎，遲暮光陰複若何。一歲平分春日少，",
+      "豔陽時節又蹉跎，遲暮光陰複若何。一歲平分春日少，百年通計老時多。多中更被愁牽引，少處兼遭病折磨。",
       "賴有銷憂治悶藥，君家濃酎我狂歌。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -452,12 +452,12 @@
     "title": "春盡日宴罷，感事獨吟",
     "author": "白居易",
     "paragraphs": [
-      "五年三月今朝盡，客散筵空獨掩扉。病共樂天相伴住，",
+      "五年三月今朝盡，客散筵空獨掩扉。病共樂天相伴住，春隨樊子一時歸。閑聽鶯語移時立，思逐楊花觸處飛。",
       "金帶縋腰衫委地，年年衰瘦不勝衣。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -465,12 +465,12 @@
     "title": "病中辱崔宣城長句見寄兼有觥綺之贈因以四韻總而酬之",
     "author": "白居易",
     "paragraphs": [
-      "劉楨病發經春臥，謝脁詩來盡日吟。三道舊誇收片玉，",
+      "劉楨病發經春臥，謝脁詩來盡日吟。三道舊誇收片玉，一章新喜獲雙金。信題霞綺緘情重，酒試銀觥表分深。",
       "科第門生滿霄漢，歲寒少得似君心。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -504,12 +504,12 @@
     "title": "談氏外孫生三日喜是男偶吟成篇兼戲呈夢得",
     "author": "白居易",
     "paragraphs": [
-      "玉芽珠顆小男兒，羅薦蘭湯浴罷時。芣苡春來盈女手，",
+      "玉芽珠顆小男兒，羅薦蘭湯浴罷時。芣苡春來盈女手，梧桐老去長孫枝。慶傳媒氏燕先賀，喜報談家烏預知。",
       "明日貧翁具雞黍，應須酬賽引雛詩。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -523,12 +523,12 @@
       "蓂晚餘堯曆，龜新啟夏圖。三朝聯棣萼，從古帝王無。",
       "嚴恭七月禮，哀慟萬人心。地感勝秋氣，天愁結夕陰。",
       "鼎湖龍漸遠，蒙汜日初沈。唯有雲韶樂，長留治世音。",
-      "化成同軌表清平，恩結連枝感聖明。帝與九齡雖吉夢，",
+      "化成同軌表清平，恩結連枝感聖明。帝與九齡雖吉夢，山呼萬歲是虛聲。月低儀仗辭蘭路，風引笳簫入柏城。",
       "老病龍髯攀不及，東周退傅最傷情。"
     ],
     "format": {
-      "sentence_count": 29,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 7],
+      "sentence_count": 32,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -550,12 +550,12 @@
     "title": "宣州崔大夫閤老忽以近詩數十首見示吟諷之下竊有所喜因成長句寄題郡齋",
     "author": "白居易",
     "paragraphs": [
-      "謝玄暉歿吟聲寢，郡閣寥寥筆硯閑。無複新詩題壁上，",
+      "謝玄暉歿吟聲寢，郡閣寥寥筆硯閑。無複新詩題壁上，虛教遠岫列窗間。忽驚歌雪今朝至，必恐文星昨夜還。",
       "再喜宣城章句動，飛觴遙賀敬亭山。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -563,12 +563,12 @@
     "title": "足疾",
     "author": "白居易",
     "paragraphs": [
-      "足疾無加亦不瘳，綿春曆夏複經秋。開顏且酌尊中酒，",
+      "足疾無加亦不瘳，綿春曆夏複經秋。開顏且酌尊中酒，代步多乘池上舟。幸有眼前衣食在，兼無身後子孫憂。",
       "應須學取陶彭澤，但委心形任去留。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -576,12 +576,12 @@
     "title": "晚池泛舟，遇景成詠，贈呂處士",
     "author": "白居易",
     "paragraphs": [
-      "岸淺橋平池面寬，飄然輕棹泛澄瀾。風宜扇引開懷入，",
+      "岸淺橋平池面寬，飄然輕棹泛澄瀾。風宜扇引開懷入，樹愛舟行仰臥看。別境客稀知不易，能詩人少詠應難。",
       "唯憐呂叟時相伴，同把磻溪舊釣竿。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -589,12 +589,12 @@
     "title": "夢微之",
     "author": "白居易",
     "paragraphs": [
-      "夜來攜手夢同遊，晨起盈巾淚莫收。漳浦老身三度病，",
+      "夜來攜手夢同遊，晨起盈巾淚莫收。漳浦老身三度病，咸陽草樹八回秋。君埋泉下泥銷骨，我寄人間雪滿頭。",
       "阿衛韓郎相次去，夜台茫昧得知不。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -602,12 +602,12 @@
     "title": "感秋詠意",
     "author": "白居易",
     "paragraphs": [
-      "炎涼遷次速如飛，又脫生衣著熟衣。繞壁暗蛩無限思，",
+      "炎涼遷次速如飛，又脫生衣著熟衣。繞壁暗蛩無限思，戀巢寒燕未能歸。須知流輩年年失，莫歎衰容日日非。",
       "舊語相傳聊自慰，世間七十老人稀。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -615,12 +615,12 @@
     "title": "老病幽獨，偶吟所懷",
     "author": "白居易",
     "paragraphs": [
-      "眼漸昏昏耳漸聾，滿頭霜雪半身風。已將身出浮雲外，",
+      "眼漸昏昏耳漸聾，滿頭霜雪半身風。已將身出浮雲外，猶寄形於逆旅中。觴詠罷來賓閣閉，笙歌散後妓房空。",
       "世緣俗念消除盡，別是人間清淨翁。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -628,12 +628,12 @@
     "title": "和楊尚書罷相後夏日游永安水亭兼招本曹楊侍郎同行",
     "author": "白居易",
     "paragraphs": [
-      "道行無喜退無憂，舒卷如雲得自由。良冶動時為哲匠，",
+      "道行無喜退無憂，舒卷如雲得自由。良冶動時為哲匠，巨川濟了作虛舟。竹亭陰合偏宜夏，水檻風涼不待秋。",
       "遙愛翩翩雙紫鳳，入同官署出同遊。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -641,12 +641,12 @@
     "title": "在家出家",
     "author": "白居易",
     "paragraphs": [
-      "衣食支吾婚嫁畢，從今家事不相仍。夜眠身是投林鳥，",
+      "衣食支吾婚嫁畢，從今家事不相仍。夜眠身是投林鳥，朝飯心同乞食僧。清唳數聲松下鶴，寒光一點竹間燈。",
       "中宵入定跏趺坐，女喚妻呼多不應。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -667,12 +667,12 @@
     "title": "繼之尚書自余病來寄遺非一又蒙覽醉吟先生傳題詩以美之今以此篇用伸酬謝",
     "author": "白居易",
     "paragraphs": [
-      "衰殘與世日相疏，惠好唯君分有餘。茶藥贈多因病久，",
+      "衰殘與世日相疏，惠好唯君分有餘。茶藥贈多因病久，衣裳寄早及寒初。交情鄭重金相似，詩韻清鏘玉不如。",
       "醉傅狂言人盡笑，獨知我者是尚書。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -710,12 +710,12 @@
     "title": "偶題鄧公",
     "author": "白居易",
     "paragraphs": [
-      "偶因攜酒尋村客，聊複回車訪薜蘿。且值雪寒相慰問，",
+      "偶因攜酒尋村客，聊複回車訪薜蘿。且值雪寒相慰問，不妨春暖更經過。翁居山下年空老，我得人間事校多。",
       "一種共翁頭似雪，翁無衣食自如何。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -736,12 +736,12 @@
     "title": "寄題廬山舊草堂，兼呈二林寺道侶",
     "author": "白居易",
     "paragraphs": [
-      "三十年前草堂主，而今雖在鬢如絲。登山尋水應無力，",
+      "三十年前草堂主，而今雖在鬢如絲。登山尋水應無力，不似江州司馬時。漸伏酒魔休放醉，猶殘口業未拋詩。",
       "君行過到爐峰下，為報東林長老知。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -749,12 +749,12 @@
     "title": "改業",
     "author": "白居易",
     "paragraphs": [
-      "先生老去飲無興，居士病來閑有餘。猶覺醉吟多放逸，",
+      "先生老去飲無興，居士病來閑有餘。猶覺醉吟多放逸，不如禪定更清虛。柘枝紫袖教丸藥，羯鼓蒼頭遣種蔬。",
       "卻被山僧戲相問，一時改業意何如。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -959,12 +959,12 @@
     "title": "百日假滿，少傅官停，自喜言懷",
     "author": "白居易",
     "paragraphs": [
-      "長告今朝滿十旬，從茲蕭灑便終身。老嫌手重拋牙笏，",
+      "長告今朝滿十旬，從茲蕭灑便終身。老嫌手重拋牙笏，病喜頭輕換角巾。疏傅不朝懸組綬，尚平無累畢婚姻。",
       "人言世事何時了，我是人間事了人。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -985,12 +985,12 @@
     "title": "題崔少尹上林坊新居",
     "author": "白居易",
     "paragraphs": [
-      "坊靜居新深且幽，忽疑縮地到滄洲。宅東籬缺嵩峰出，",
+      "坊靜居新深且幽，忽疑縮地到滄洲。宅東籬缺嵩峰出，堂後池開洛水流。高下三層盤野徑，沿洄十裏泛漁舟。",
       "若能為客烹雞黍，願伴田蘇日日遊。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1011,11 +1011,11 @@
     "title": "對酒有懷寄李十九郎中",
     "author": "白居易",
     "paragraphs": [
-      "往年江外拋桃葉，去歲樓中別柳枝。寂寞春來一杯酒，"
+      "往年江外拋桃葉，去歲樓中別柳枝。寂寞春來一杯酒，此情唯有李君知。吟君舊句情難忘，風月何時是盡時。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1023,12 +1023,12 @@
     "title": "楊六尚書頻寄新詩詩中多有思閒相就之志因書鄙意報而諭之",
     "author": "白居易",
     "paragraphs": [
-      "君年殊未及懸車，未合將閑逐老夫。身健正宜金印綬，",
+      "君年殊未及懸車，未合將閑逐老夫。身健正宜金印綬，位高方稱白髭須。若論塵事何由了，但問雲心自在無。",
       "進退是非俱是夢，丘中闕下亦何殊。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1036,12 +1036,12 @@
     "title": "偶吟自慰兼呈夢得",
     "author": "白居易",
     "paragraphs": [
-      "且喜同年滿七旬，莫嫌衰病莫嫌貧。已為海內有名客，",
+      "且喜同年滿七旬，莫嫌衰病莫嫌貧。已為海內有名客，又占世間長命人。耳裏聲聞新將相，眼前失盡故交親。",
       "尊榮富壽難兼得，閑坐思量最要身。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1180,11 +1180,11 @@
     "title": "閑樂",
     "author": "白居易",
     "paragraphs": [
-      "坐安臥穩輿平肩，倚杖披衫繞四邊。空腹三杯卯後酒，"
+      "坐安臥穩輿平肩，倚杖披衫繞四邊。空腹三杯卯後酒，曲肱一覺醉中眠。更無忙苦吟閑樂，恐是人間自在天。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

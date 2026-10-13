@@ -520,12 +520,12 @@
     "paragraphs": [
       "太湖三山口，吳王在時道。寂寞千載心，無人見春草。",
       "誰識緘怨者，持此傷懷抱。孤舟畏狂風，一點宿煙島。",
-      "望所思兮若何，月蕩漾兮空波。雲離離兮北斷，",
+      "望所思兮若何，月蕩漾兮空波。雲離離兮北斷，鴻眇眇兮南多。身去兮天畔，心折兮湖岸。",
       "春風胡為兮塞路，使我歸夢兮撩亂。"
     ],
     "format": {
-      "sentence_count": 13,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 7, 7],
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 5, 5, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -753,11 +753,11 @@
     "author": "皎然",
     "paragraphs": [
       "江風西複東，飄暴忽何窮。初生虛無際，稍起蕩漾中。",
-      "應吹夏口檣竿折，定蹙湓城浪花咽。今朝莫怪沙岸明，"
+      "應吹夏口檣竿折，定蹙湓城浪花咽。今朝莫怪沙岸明，昨夜聲狂卷成雪。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -766,11 +766,11 @@
     "author": "皎然",
     "paragraphs": [
       "一片雨，山半晴。長風吹落西山上，滿樹蕭蕭心耳清。",
-      "雲鶴驚亂下，水香凝不然。風回雨定芭蕉濕，"
+      "雲鶴驚亂下，水香凝不然。風回雨定芭蕉濕，一滴時時入晝禪。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [3, 3, 7, 7, 5, 5, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [3, 3, 7, 7, 5, 5, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -779,12 +779,12 @@
     "author": "皎然",
     "paragraphs": [
       "天與松子壽，獨飲日月精。複令顏子賢，胡為夭其生。",
-      "吾將尋河源，上天問天何不平？吾將詰仙老，",
+      "吾將尋河源，上天問天何不平？吾將詰仙老，大道無私誰強名？仙老難逢天不近，世人何人解應盡。",
       "明朝欲向翅頭山，問取禪公此義還。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [5, 5, 5, 5, 5, 7, 5, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 7, 5, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -807,11 +807,11 @@
     "title": "支公詩",
     "author": "皎然",
     "paragraphs": [
-      "支公養馬複養鶴，率性無機多脫略。天生支公與凡異，"
+      "支公養馬複養鶴，率性無機多脫略。天生支公與凡異，凡情不到支公地。得道由來天上仙，為僧卻下人間寺，道家諸子論自然，此公唯許逍遙篇。山陰詩友喧四座，佳句縱橫不廢禪。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 10,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -819,11 +819,11 @@
     "title": "述夢",
     "author": "皎然",
     "paragraphs": [
-      "夢中歸見西陵雪，渺渺茫茫行路絕。覺來還在剡東峰，"
+      "夢中歸見西陵雪，渺渺茫茫行路絕。覺來還在剡東峰，鄉心繚繞愁夜鐘。寺北禪岡猶記得，夢歸長見山重重。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

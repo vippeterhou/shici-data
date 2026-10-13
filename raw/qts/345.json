@@ -132,12 +132,12 @@
     "title": "苦寒歌",
     "author": "韓愈",
     "paragraphs": [
-      "黃昏苦寒歌，夜半不能休。豈不有陽春，節歲聿其周，",
+      "黃昏苦寒歌，夜半不能休。豈不有陽春，節歲聿其周，君何愛重裘。兼味養大賢，冰食葛制神所憐。",
       "填窗塞戶慎勿出，暄風暖景明年日。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [5, 5, 5, 5, 7, 7],
+      "sentence_count": 9,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -145,13 +145,13 @@
     "title": "芍藥歌",
     "author": "韓愈",
     "paragraphs": [
-      "丈人庭中開好花，更無凡木爭春華。翠莖紅蕊天力與，",
+      "丈人庭中開好花，更無凡木爭春華。翠莖紅蕊天力與，此恩不屬黃鐘家。溫馨熟美鮮香起，似笑無言習君子。",
       "霜刀翦汝天女勞，何事低頭學桃李。嬌癡婢子無靈性，",
-      "一尊春酒甘若飴，丈人此樂無人知。花前醉倒歌者誰，"
+      "一尊春酒甘若飴，丈人此樂無人知。花前醉倒歌者誰，楚狂小子韓退之。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 13,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -201,11 +201,11 @@
     "title": "晝月",
     "author": "韓愈",
     "paragraphs": [
-      "玉碗不磨著泥土，青天孔出白石補。兔入臼藏蛙縮肚，"
+      "玉碗不磨著泥土，青天孔出白石補。兔入臼藏蛙縮肚，桂樹枯株女閉戶。陰為陽羞固自古，嗟汝下民或敢侮，戲嘲盜視汝目瞽。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -214,11 +214,11 @@
     "author": "韓愈",
     "paragraphs": [
       "莫辭酒，此會固難同。請看女工機上帛，半作軍人旗上紅。",
-      "莫辭酒，誰為君王之爪牙？春雷三月不作響，"
+      "莫辭酒，誰為君王之爪牙？春雷三月不作響，戰士豈得來還家。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [3, 5, 7, 7, 3, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [3, 5, 7, 7, 3, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

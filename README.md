@@ -44,6 +44,25 @@ release manifest before parsing an asset.
 Edit, add, or remove records under `raw/`. Do not edit generated release
 assets directly.
 
+To audit and repair inherited QTS omissions against aligned independent
+witnesses, place `poetry-source` and `chinese-poetry` beside this repository.
+The command requires a Python environment that provides the `opencc` module.
+It performs a dry run unless `--write` is supplied:
+
+```bash
+python3 -m scripts.repair_qts_omissions \
+  --ctext-directory ../poetry-source/全唐诗/CText_JSON_cht \
+  --zzu-directory ../poetry-source/全唐诗/ZZU_JSON_chs \
+  --split-directory ../chinese-poetry/全唐诗
+
+# Apply only independently corroborated insertions.
+python3 -m scripts.repair_qts_omissions \
+  --ctext-directory ../poetry-source/全唐诗/CText_JSON_cht \
+  --zzu-directory ../poetry-source/全唐诗/ZZU_JSON_chs \
+  --split-directory ../chinese-poetry/全唐诗 \
+  --write
+```
+
 ### 2. Build and validate a new version
 
 Choose a version that has not been published before:

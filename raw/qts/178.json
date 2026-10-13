@@ -17,11 +17,11 @@
     "title": "酬宇文少府見贈桃竹書筒",
     "author": "李白",
     "paragraphs": [
-      "桃竹書筒綺繡文，良工巧妙稱絕群。靈心圓映三江月，"
+      "桃竹書筒綺繡文，良工巧妙稱絕群。靈心圓映三江月，彩質疊成五色雲。中藏寶訣峨眉去，千里提攜長憶君。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -46,12 +46,12 @@
     "author": "李白",
     "paragraphs": [
       "白露見日滅，紅顏隨霜凋。別君若俯仰，春芳辭秋條。",
-      "泰山嵯峨夏雲在，疑是白波漲東海。散為飛雨川上來，",
-      "我閉南樓看道書，幽簾清寂在仙居。曾無好事來相訪，"
+      "泰山嵯峨夏雲在，疑是白波漲東海。散為飛雨川上來，遙帷卻卷清浮埃。知君獨坐青軒下，此時結念同所懷。",
+      "我閉南樓看道書，幽簾清寂在仙居。曾無好事來相訪，賴爾高文一起予。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -85,11 +85,11 @@
     "author": "李白",
     "paragraphs": [
       "上黨碧松煙，夷陵丹砂末。蘭麝凝珍墨，精光乃堪掇。",
-      "黃頭奴子雙鴉鬟，錦囊養之懷袖間。今日贈予蘭亭去，"
+      "黃頭奴子雙鴉鬟，錦囊養之懷袖間。今日贈予蘭亭去，興來灑筆會稽山。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -202,12 +202,12 @@
     "title": "酬中都小吏攜鬥酒雙魚於逆旅見贈",
     "author": "李白",
     "paragraphs": [
-      "魯酒若琥珀，汶魚紫錦鱗。山東豪吏有俊氣，",
-      "雙鰓呀呷鰭鬣張，蹳剌銀盤欲飛去。呼兒拂幾霜刃揮，"
+      "魯酒若琥珀，汶魚紫錦鱗。山東豪吏有俊氣，手攜此物贈遠人。意氣相傾兩相顧，鬥酒雙魚表情素。",
+      "雙鰓呀呷鰭鬣張，蹳剌銀盤欲飛去。呼兒拂幾霜刃揮，紅肌花落白雪霏。為君下箸一餐飽，醉著金鞍上馬歸。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [5, 5, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

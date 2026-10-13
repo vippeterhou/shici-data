@@ -341,12 +341,12 @@
     "title": "百丈山",
     "author": "李忱",
     "paragraphs": [
-      "大雄真跡枕危巒，梵宇層樓聳萬般。日月每從肩上過，",
+      "大雄真跡枕危巒，梵宇層樓聳萬般。日月每從肩上過，山河長在掌中看。仙峰不間三春秀，靈境何時六月寒。",
       "更有上方人罕到，暮鐘朝磬碧雲端。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -354,12 +354,12 @@
     "title": "吊白居易",
     "author": "李忱",
     "paragraphs": [
-      "綴玉聯珠六十年，誰教冥路作詩仙。浮雲不系名居易，",
+      "綴玉聯珠六十年，誰教冥路作詩仙。浮雲不系名居易，造化無為字樂天。童子解吟長恨曲，胡兒能唱琵琶篇。",
       "文章已滿行人耳，一度思卿一愴然。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -367,12 +367,12 @@
     "title": "幸華嚴寺",
     "author": "李忱",
     "paragraphs": [
-      "雲散晴山幾萬重，煙收春色更沖融。帳殿出空登碧漢，",
+      "雲散晴山幾萬重，煙收春色更沖融。帳殿出空登碧漢，遐川俯望色藍籠。林光入戶低韶景，嶺氣通宵展霽風。",
       "今日追游何所似，莫慚漢武賞汾中。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

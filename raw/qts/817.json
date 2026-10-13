@@ -778,12 +778,12 @@
     "title": "尋天目徐君",
     "author": "皎然",
     "paragraphs": [
-      "常見仙翁變姓名，豈知松子號初平。逢人不道往來處，",
+      "常見仙翁變姓名，豈知松子號初平。逢人不道往來處，賣藥還將雞犬行。獨鶴天邊俱得性，浮雲世上共無情。",
       "三花落地君猶在，笑撫安期昨日生。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -791,12 +791,12 @@
     "title": "同李著作縱題塵外上人院",
     "author": "皎然",
     "paragraphs": [
-      "百緣唯有什公瓶，萬法但看一字經。從遣鳥喧心不動，",
+      "百緣唯有什公瓶，萬法但看一字經。從遣鳥喧心不動，任教香醉境常冥。蓮花天晝浮雲卷，貝葉宮春好月停。",
       "禪伴欲邀何著作，空音宜向夜中聽。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -804,12 +804,12 @@
     "title": "題周諫別業",
     "author": "皎然",
     "paragraphs": [
-      "隱身苕上欲如何，不著青袍愛綠蘿。柳巷任疏容馬入，",
+      "隱身苕上欲如何，不著青袍愛綠蘿。柳巷任疏容馬入，水籬從破許船過。昂藏獨鶴閒心遠，寂曆秋花野意多。",
       "若訪禪齋遙可見，竹窗書幌共煙波。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -896,13 +896,13 @@
     "title": "往丹陽尋陸處士不遇",
     "author": "皎然",
     "paragraphs": [
-      "遠客殊未歸，我來幾惆悵。叩關一日不見人，",
-      "行人無數不相識，獨立雲陽古驛邊。鳳翅山中思本寺，",
+      "遠客殊未歸，我來幾惆悵。叩關一日不見人，繞屋寒花笑相向。寒花寂寂遍荒阡，柳色蕭蕭愁暮蟬。",
+      "行人無數不相識，獨立雲陽古驛邊。鳳翅山中思本寺，魚竿村口望歸船。歸船不見見寒煙，離心遠水共悠然。",
       "他日相期那可定，閑僧著處即經年。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -987,12 +987,12 @@
     "title": "晚春尋桃源觀",
     "author": "皎然",
     "paragraphs": [
-      "武陵何處訪仙鄉，古觀雲根路已荒。細草擁壇人跡絕，",
+      "武陵何處訪仙鄉，古觀雲根路已荒。細草擁壇人跡絕，落花沈澗水流香。山深有雨寒猶在，松老無風韻亦長。",
       "全覺此身離俗境，玄機亦可照迷方。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

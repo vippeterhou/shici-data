@@ -51,13 +51,13 @@
     "title": "代北州老翁答",
     "author": "張謂",
     "paragraphs": [
-      "負薪老翁往北州，北望鄉關生客愁。自言老翁有三子，",
-      "定知此別必零落，不及相隨同死生。盡將田宅借鄰伍，",
-      "近傳天子尊武臣，強兵直欲靜胡塵。安邊自合有長策，"
+      "負薪老翁往北州，北望鄉關生客愁。自言老翁有三子，兩人已向黃沙死。如今小兒新長成，明年聞道又徵兵。",
+      "定知此別必零落，不及相隨同死生。盡將田宅借鄰伍，且複伶俜去鄉土。在生本求多子孫，及有誰知更辛苦。",
+      "近傳天子尊武臣，強兵直欲靜胡塵。安邊自合有長策，何必流離中國人。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 16,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -65,12 +65,12 @@
     "title": "湖上對酒行",
     "author": "張謂",
     "paragraphs": [
-      "夜坐不厭湖上月，晝行不厭湖上山。眼前一尊又長滿，",
-      "即今相對不盡歡，別後相思複何益。茱萸灣頭歸路賒，"
+      "夜坐不厭湖上月，晝行不厭湖上山。眼前一尊又長滿，心中萬事如等閒。主人有黍百餘石，濁醪數鬥應不惜。",
+      "即今相對不盡歡，別後相思複何益。茱萸灣頭歸路賒，願君且宿黃公家。風光若此人不醉，參差辜負東園花。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -78,12 +78,12 @@
     "title": "贈喬琳",
     "author": "張謂",
     "paragraphs": [
-      "去年上策不見收，今年寄食仍淹留。羨君有酒能便醉，",
-      "如今七貴方自尊，羨君不過七貴門。丈夫會應有知己，"
+      "去年上策不見收，今年寄食仍淹留。羨君有酒能便醉，羨君無錢能不憂。如今五侯不愛客，羨君不問五侯宅。",
+      "如今七貴方自尊，羨君不過七貴門。丈夫會應有知己，世上悠悠何足論。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 10,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -91,12 +91,12 @@
     "title": "邵陵作",
     "author": "張謂",
     "paragraphs": [
-      "嘗聞虞帝苦憂人，只為蒼生不為身。已道一朝辭北闕，",
-      "斑竹年來筍自生，白蘋春盡花空落。遙望零陵見舊丘，"
+      "嘗聞虞帝苦憂人，只為蒼生不為身。已道一朝辭北闕，何須五月更南巡。昔時文武皆銷鑠，今日精靈常寂寞。",
+      "斑竹年來筍自生，白蘋春盡花空落。遙望零陵見舊丘，蒼梧雲起至今愁。惟餘帝子千行淚，添作瀟湘萬里流。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -351,12 +351,12 @@
     "title": "別韋郎中",
     "author": "張謂",
     "paragraphs": [
-      "星軺計日赴岷峨，雲樹連天阻笑歌。南入洞庭隨雁去，",
+      "星軺計日赴岷峨，雲樹連天阻笑歌。南入洞庭隨雁去，西過巫峽聽猿多。崢嶸洲上飛黃蝶，灩澦堆邊起白波。",
       "不醉郎中桑落酒，教人無奈別離何。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -364,12 +364,12 @@
     "title": "送皇甫齡宰交河",
     "author": "張謂",
     "paragraphs": [
-      "將軍帳下來從客，小邑彈琴不易逢。樓上胡笳傳別怨，",
+      "將軍帳下來從客，小邑彈琴不易逢。樓上胡笳傳別怨，尊中臘酒為誰濃。行人醉出雙門道，少婦愁看七裏烽。",
       "今日相如輕武騎，多應朝暮客臨邛。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -377,12 +377,12 @@
     "title": "杜侍禦送貢物戲贈",
     "author": "張謂",
     "paragraphs": [
-      "銅柱朱崖道路難，伏波橫海舊登壇。越人自貢珊瑚樹，",
+      "銅柱朱崖道路難，伏波橫海舊登壇。越人自貢珊瑚樹，漢使何勞獬豸冠。疲馬山中愁日晚，孤舟江上畏春寒。",
       "由來此貨稱難得，多恐君王不忍看。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -390,12 +390,12 @@
     "title": "春園家宴",
     "author": "張謂",
     "paragraphs": [
-      "南園春色正相宜，大婦同行少婦隨。竹裏登樓人不見，",
+      "南園春色正相宜，大婦同行少婦隨。竹裏登樓人不見，花間覓路鳥先知。櫻桃解結垂簷子，楊柳能低入戶枝。",
       "山簡醉來歌一曲，參差笑殺郢中兒。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -403,12 +403,12 @@
     "title": "西亭子言懷",
     "author": "張謂",
     "paragraphs": [
-      "數叢芳草在堂陰，幾處閑花映竹林。攀樹玄猿呼郡吏，",
+      "數叢芳草在堂陰，幾處閑花映竹林。攀樹玄猿呼郡吏，青山看景知高下，流水聞聲覺淺深。",
       "官屬不令拘禮數，時時緩步一相尋。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -416,12 +416,12 @@
     "title": "辰陽即事",
     "author": "張謂",
     "paragraphs": [
-      "青楓落葉正堪悲，黃菊殘花欲待誰。水近偏逢寒氣早，",
+      "青楓落葉正堪悲，黃菊殘花欲待誰。水近偏逢寒氣早，山深常見日光遲。愁中卜命看周易，病裏招魂讀楚詞。",
       "自恨不如湘浦雁，春來即是北歸時。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

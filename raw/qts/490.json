@@ -3,12 +3,12 @@
     "title": "登長安慈恩寺塔",
     "author": "盧宗回",
     "paragraphs": [
-      "東方曉日上翔鸞，西轉蒼龍拂露盤。渭水寒光搖藻井，",
+      "東方曉日上翔鸞，西轉蒼龍拂露盤。渭水寒光搖藻井，玉峰晴色上朱闌。九重宮闕參差見，百二山河表裏觀。",
       "暫輟去蓬悲不定，一憑金界望長安。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -16,12 +16,12 @@
     "title": "古鏡歌",
     "author": "周匡物",
     "paragraphs": [
-      "軒轅鑄鏡誰將去，曾被良工瀉金取。明月中心桂不生，",
+      "軒轅鑄鏡誰將去，曾被良工瀉金取。明月中心桂不生，輕冰面上菱初吐。蛟龍久無雷雨聲，鸞鳳空踏莓苔舞。",
       "欲向高臺對曉開，不知誰是孤光主。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -29,12 +29,12 @@
     "title": "及第謠",
     "author": "周匡物",
     "paragraphs": [
-      "水國寒消春日長，燕鶯催促花枝忙。風吹金榜落凡世，",
-      "驊騮一百三十蹄，踏破蓬萊五雲地。物經千載出塵埃，"
+      "水國寒消春日長，燕鶯催促花枝忙。風吹金榜落凡世，三十三人名字香。遙望龍墀新得意，九天敕下多狂醉。",
+      "驊騮一百三十蹄，踏破蓬萊五雲地。物經千載出塵埃，從此便為天下瑞。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 10,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -42,12 +42,12 @@
     "title": "及第後謝座主",
     "author": "周匡物",
     "paragraphs": [
-      "一從東越入西秦，十度聞鶯不見春。試向昆山投瓦礫，",
+      "一從東越入西秦，十度聞鶯不見春。試向昆山投瓦礫，便容靈沼濯埃塵。悲歡暗負風雲力，感激潛生草木身。",
       "中夜自將形影語，古來吞炭是何人。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -94,12 +94,12 @@
     "title": "立春日呈宮傅侍郎",
     "author": "皇甫曙",
     "paragraphs": [
-      "朝旦微風吹曉霞，散為和氣滿家家。不知容貌潛消落，",
+      "朝旦微風吹曉霞，散為和氣滿家家。不知容貌潛消落，且喜春光動物華。出問池冰猶塞岸，歸尋園柳未生芽。",
       "摩娑酒甕重封閉，待入新年共賞花。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -149,12 +149,12 @@
     "title": "元夕京城和歐陽袞",
     "author": "陳去疾",
     "paragraphs": [
-      "蘭焰芳芬徹曉開，珠光新靄映人來。歌迎甲夜催銀管，",
+      "蘭焰芳芬徹曉開，珠光新靄映人來。歌迎甲夜催銀管，影動繁星綴玉台。別有朱門春澹蕩，不妨芝火翠崔嵬。",
       "此時月色同沾醉，何處遊輪陌上回。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -162,12 +162,12 @@
     "title": "送韓將軍之雁門",
     "author": "陳去疾",
     "paragraphs": [
-      "荒塞峰煙百道馳，雁門風色暗旌旗。破圍鐵騎長驅疾，",
+      "荒塞峰煙百道馳，雁門風色暗旌旗。破圍鐵騎長驅疾，飲血將軍轉戰危。畫角吹開邊月靜，縵纓不信虜塵窺。",
       "歸來長揖功成後，黃石當年故有期。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

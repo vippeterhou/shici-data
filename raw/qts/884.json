@@ -3,12 +3,12 @@
     "title": "渡吳江",
     "author": "杜牧",
     "paragraphs": [
-      "堠館人稀夜更長，姑蘇城遠樹蒼蒼。江湖潮落高樓迥，",
+      "堠館人稀夜更長，姑蘇城遠樹蒼蒼。江湖潮落高樓迥，河漢秋歸廣殿涼。月轉碧梧移鵲影，露低紅草濕螢光。",
       "文園詩侶應多思，莫醉笙歌掩華堂。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -107,12 +107,12 @@
     "title": "題新栽小松",
     "author": "劉得仁",
     "paragraphs": [
-      "滿庭蕭颯皆凡木，豈得颼飀似石溪。雪夜枝柯疑畫出，",
+      "滿庭蕭颯皆凡木，豈得颼飀似石溪。雪夜枝柯疑畫出，月中長短共人齊。未知何日幹天及，恐到秋來被鶴棲。",
       "卻向舊山尋得處，白雲根蕟覓應迷。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -159,12 +159,12 @@
     "title": "紅薔薇",
     "author": "莊南傑",
     "paragraphs": [
-      "九天碎霞明澤國，造化工夫潛剪刻。翠葉長眉約細枝，",
+      "九天碎霞明澤國，造化工夫潛剪刻。翠葉長眉約細枝，殷紅短刺鉤春色。明日當樓晚香歇，金帶盤空已成結。",
       "謝豹聲催麥隴秋，熏風吹落猩猩血。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -172,12 +172,12 @@
     "title": "曉歌",
     "author": "莊南傑",
     "paragraphs": [
-      "鶤雞哭樹星河轉，海上金烏翅如電。嫦娥斂發綰雲頭，",
+      "鶤雞哭樹星河轉，海上金烏翅如電。嫦娥斂發綰雲頭，玉女舒霞織天面。九土廚煙滿城邑，商洛隴頭車馬急。",
       "魏宮鐘動繡窗明，夢娥驚對殘燈立。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -185,12 +185,12 @@
     "title": "春草歌",
     "author": "莊南傑",
     "paragraphs": [
-      "漠漠綿綿幾多思，無言領得春風意。花裁小錦繡晴空，",
+      "漠漠綿綿幾多思，無言領得春風意。花裁小錦繡晴空，葉抽碧簟鋪平地。含芳吊影爭芬敷，繞雲恨起山蘼蕪。",
       "離人不忍到此處，淚娥滴盡雙真珠。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -198,12 +198,12 @@
     "title": "古松歌",
     "author": "莊南傑",
     "paragraphs": [
-      "山上山下松，森沈翠蓋煙。龜鱗犀甲鎖支體，",
-      "拏天攫地數千尺，恐作雲雨歸維嵩。維嵩成大廈，"
+      "山上山下松，森沈翠蓋煙。龜鱗犀甲鎖支體，泉聲雨腳洗春風。深碧麈尾掃冥蒙，淺黃龍腹盤穹崇。",
+      "拏天攫地數千尺，恐作雲雨歸維嵩。維嵩成大廈，莫遣邂逅逢樵者。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [5, 5, 7, 7, 7, 5],
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 7, 7, 7, 7, 7, 7, 5, 7],
       "uniform_sentence_length": null
     }
   },
@@ -226,12 +226,12 @@
     "title": "新雪",
     "author": "薛能",
     "paragraphs": [
-      "細落粗和忽複繁，頓清朝市不聞喧。天迷皓色風何亂，",
+      "細落粗和忽複繁，頓清朝市不聞喧。天迷皓色風何亂，地濕春泥土半翻。香暖會中懷嶽寺，樵鳴村外想家園。",
       "閑吟只愛煎茶澹，斡破平光向近軒。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -239,12 +239,12 @@
     "title": "送判官赴京",
     "author": "薛能",
     "paragraphs": [
-      "闕下情偏已絕稀，天涯身遠複相依。庭花每對從容落，",
+      "闕下情偏已絕稀，天涯身遠複相依。庭花每對從容落，夜燭多同笑語歸。君子是行應柏署，鄙人何望即柴扉。",
       "青雲若遇交親話，白璧無心待發揮。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -344,12 +344,12 @@
     "title": "寄友人乞菊栽",
     "author": "李郢",
     "paragraphs": [
-      "藥闌經雨正堪鋤，白菊煩君乞數株。潘嶽賦中芳思在，",
+      "藥闌經雨正堪鋤，白菊煩君乞數株。潘嶽賦中芳思在，陶潛籬下綠英無。移來稍及蟬鳴樹，種罷長教酒滿壺。",
       "□子成仙縱難學，九秋思看集鳩雛。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -370,12 +370,12 @@
     "title": "鵝兒",
     "author": "李郢",
     "paragraphs": [
-      "臘後閑行村舍邊，黃鵝清水真可憐。何窮散亂隨新草，",
+      "臘後閑行村舍邊，黃鵝清水真可憐。何窮散亂隨新草，永日淹留在野田。無事群鳴遮水際，爭來引頸逼人前。",
       "風吹楚澤蒹葭暮，看下寒溪逐去船。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -383,12 +383,12 @@
     "title": "酬友人春暮寄枳花茶",
     "author": "李郢",
     "paragraphs": [
-      "昨日東風吹枳花，酒醒春晚一甌茶。如雲正護幽人塹，",
+      "昨日東風吹枳花，酒醒春晚一甌茶。如雲正護幽人塹，似雪才分野老家。金餅拍成和雨露，玉塵煎出照煙霞。",
       "相如病渴今全校，不羨生台白頸鴉。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -396,12 +396,12 @@
     "title": "郢自街西醉歸馬鞭墜失崔員外、起秘書…抒短章仰酬珍錫",
     "author": "李郢",
     "paragraphs": [
-      "蜀岩陰面冷冥冥，偃雪欺霜半露青。銛刃剪裁多鵲媚，",
+      "蜀岩陰面冷冥冥，偃雪欺霜半露青。銛刃剪裁多鵲媚，細鞘揮拂帶龍腥。崖垂萬仞知無影，蘚漬千年合有靈。",
       "蘭省貴寮蓬閣吏，一時緘贈到雲亭。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -450,16 +450,16 @@
     "title": "過南城縣麻姑山",
     "author": "崔櫓",
     "paragraphs": [
-      "似前如卻玉堆堆，薄帶輕煙翠好裁。斜倚兔鉤孤影伴，",
+      "似前如卻玉堆堆，薄帶輕煙翠好裁。斜倚兔鉤孤影伴，校低仙掌一頭來。盤疑虎伏形難寫，展認龍拏勢未回。",
       "驚訝昔人曾羽化，此中爭不接瑤台。",
-      "詩手難題畫手慚，淺青濃碧疊東南。塵愁世界忙心在，",
+      "詩手難題畫手慚，淺青濃碧疊東南。塵愁世界忙心在，霞伴神仙穩夢酣。雨涕自悲看雪鬢，星冠無計整雲篸。",
       "家風負荷須名宦，可惜千峰綠似藍。",
-      "差煙危碧半斜暉，何代仙人此羽飛。高袖鎮長寒柏暗，",
+      "差煙危碧半斜暉，何代仙人此羽飛。高袖鎮長寒柏暗，古祠時複彩雲歸。紅塵鞭馬顏將換，碧落驂鸞意有違。",
       "聲利系身家繫念，今生辜負六銖衣。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 24,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -506,12 +506,12 @@
     "title": "春晚泊船江村",
     "author": "崔櫓",
     "paragraphs": [
-      "芳草青青古渡頭，漁家住處暫維舟。殘花半樹悄無語，",
+      "芳草青青古渡頭，漁家住處暫維舟。殘花半樹悄無語，細雨滿天風似愁。家信不來春又晚，客程難盡水空流。",
       "自憐愛失心期約，看取花時更遠遊。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -532,12 +532,12 @@
     "title": "蓮花",
     "author": "崔櫓",
     "paragraphs": [
-      "影欹晴浪勢欹煙，恨態緘言日抵年。輕霧曉和香積飯，",
+      "影欹晴浪勢欹煙，恨態緘言日抵年。輕霧曉和香積飯，片紅時墮化人船。人間有筆應難畫，雨後無塵更好憐。",
       "何限斷腸名不得，倚風嬌怯醉腰偏。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -560,12 +560,12 @@
     "title": "惜蓮花",
     "author": "崔櫓",
     "paragraphs": [
-      "半塘前日染來紅，瘦盡金方昨夜風。留樣最嗟無巧筆，",
+      "半塘前日染來紅，瘦盡金方昨夜風。留樣最嗟無巧筆，護香誰為惜熏籠。緣停翠棹沈吟看，忍使良波積漸空。",
       "魂斷舊溪憔悴態，冷煙殘粉楚台東。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -573,12 +573,12 @@
     "title": "岳陽雲夢亭看蓮花",
     "author": "崔櫓",
     "paragraphs": [
-      "似醉如慵一水心，斜陽欲暝彩雲深。清明月照羞無語，",
+      "似醉如慵一水心，斜陽欲暝彩雲深。清明月照羞無語，涼冷風吹勢不禁。曾向楚台和雨看，只于吳苑弄船尋。",
       "當時為汝題詩遍，此地依前泥苦吟。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -599,12 +599,12 @@
     "title": "題山驛新桐花",
     "author": "崔櫓",
     "paragraphs": [
-      "雨餘煙膩暖香浮，影暗斜陽古驛樓。丹鳳總巢阿閣去，",
+      "雨餘煙膩暖香浮，影暗斜陽古驛樓。丹鳳總巢阿閣去，紫花空映楚雲愁。堪憐翠蓋奇於畫，更惜芳庭冷似秋。",
       "長日老春看落盡，野禽閑哢碧悠悠。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -612,12 +612,12 @@
     "title": "山路木芙蓉",
     "author": "崔櫓",
     "paragraphs": [
-      "不向橫塘泥裏栽，兩株晴笑碧岩隈。枉教絕世深紅色，",
+      "不向橫塘泥裏栽，兩株晴笑碧岩隈。枉教絕世深紅色，只向深山僻處開。萬里王孫應有恨，三年賈傅惜無才。",
       "緣花更歎人間事，半日江邊悵望回。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -638,12 +638,12 @@
     "title": "臨川見新柳",
     "author": "崔櫓",
     "paragraphs": [
-      "不見江頭三四日，橋邊楊柳老金絲。岸南岸北往來渡，",
+      "不見江頭三四日，橋邊楊柳老金絲。岸南岸北往來渡，帶雨帶煙深淺枝。何處故鄉牽夢想，兩回他國見榮衰。",
       "汀洲草色亦如此，愁殺遠人人不知。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -651,12 +651,12 @@
     "title": "南陽見柳",
     "author": "崔櫓",
     "paragraphs": [
-      "夜來風入最高枝，罥斷愁腸幾尺絲。楚塞曾吟煙午處，",
+      "夜來風入最高枝，罥斷愁腸幾尺絲。楚塞曾吟煙午處，曲江長憶雪晴時。金銜細轂縈回岸，戍笛牛歌遠近陂。",
       "還把舊年惆悵意，武安城下一吟詩。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -677,12 +677,12 @@
     "title": "宿壽安山陰館聞泉",
     "author": "崔櫓",
     "paragraphs": [
-      "一支清急萬山來，穿竹喧飛破石苔。夢在故鄉臨欲到，",
+      "一支清急萬山來，穿竹喧飛破石苔。夢在故鄉臨欲到，聲聞孤枕卻驚回。多愁鬢髮余甘老，有限年光爾莫催。",
       "緣憶舊遊相似處，月明山響子陵台。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

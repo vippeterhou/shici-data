@@ -44,12 +44,12 @@
     "title": "湘江",
     "author": "黃文",
     "paragraphs": [
-      "瀟湘江頭三月春，柳條弄日搖黃金。鷓鴣一聲在何許，",
+      "瀟湘江頭三月春，柳條弄日搖黃金。鷓鴣一聲在何許，黃陵廟前煙靄深。丹青欲畫無好手，穩提玉勒沈吟久。",
       "馬蹄不為行客留，心掛長林屢回首。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -83,12 +83,12 @@
     "title": "題吉州龍溪",
     "author": "何敬",
     "paragraphs": [
-      "龍溪之山秀而峙，龍溪之水清無底。狂風激烈翻春濤，",
+      "龍溪之山秀而峙，龍溪之水清無底。狂風激烈翻春濤，薄霧冥蒙溢清泚。奔流百折銀河通，落花滾滾浮霞紅。",
       "四時佳境不可窮，仿佛直與桃源通。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -135,12 +135,12 @@
     "title": "登岳陽樓",
     "author": "麻溫其",
     "paragraphs": [
-      "湖邊景物屬秋天，樓上風光似去年。仙侶緱生留福地，",
+      "湖邊景物屬秋天，樓上風光似去年。仙侶緱生留福地，湘娥帝子寄哀弦。雲門自統軒台外，木葉偏飛楚客前。",
       "極目江山何處是，一帆萬里信歸船。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -179,12 +179,12 @@
     "title": "君山祠",
     "author": "周岳秀",
     "paragraphs": [
-      "萬頃湖波浸碧天，旌封香火幾千年。風濤澎湃魚龍舞，",
+      "萬頃湖波浸碧天，旌封香火幾千年。風濤澎湃魚龍舞，棟宇崢嶸燕雀遷。遠岫光中濃淡樹，斜陽影裏往來船。",
       "江河願借吹噓便，應有神功在目前。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

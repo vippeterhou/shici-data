@@ -82,11 +82,11 @@
     "title": "西江懷古",
     "author": "杜牧",
     "paragraphs": [
-      "上吞巴漢控瀟湘，怒似連山淨鏡光。魏帝縫囊真戲劇，"
+      "上吞巴漢控瀟湘，怒似連山淨鏡光。魏帝縫囊真戲劇，千秋釣艇歌明月，萬里沙鷗弄夕陽，範蠡清塵何寂寞，好風唯屬往來商。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -133,12 +133,12 @@
     "title": "題宣州開元寺水閣閣下宛溪夾溪居人",
     "author": "杜牧",
     "paragraphs": [
-      "六朝文物草連空，天淡雲閑今古同。鳥去鳥來山色裏，",
+      "六朝文物草連空，天淡雲閑今古同。鳥去鳥來山色裏，人歌人哭水聲中。深秋簾幕千家雨，落日樓臺一笛風。",
       "惆悵無因見範蠡，參差煙樹五湖東。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -146,12 +146,12 @@
     "title": "宣州送裴坦判官往舒州，時牧欲赴官歸京",
     "author": "杜牧",
     "paragraphs": [
-      "日暖泥融雪半銷，行人芳草馬聲驕。九華山路雲遮寺，",
+      "日暖泥融雪半銷，行人芳草馬聲驕。九華山路雲遮寺，清弋江村柳拂橋。君意如鴻高的的，我心懸旆正搖搖。",
       "同來不得同歸去，故國逢春一寂寥。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -172,12 +172,12 @@
     "title": "自宣城赴官上京",
     "author": "杜牧",
     "paragraphs": [
-      "瀟灑江湖十過秋，酒杯無日不淹留。謝公城畔溪驚夢，",
+      "瀟灑江湖十過秋，酒杯無日不淹留。謝公城畔溪驚夢，蘇小門前柳拂頭。千里雲山何處好，幾人襟韻一生休。",
       "塵冠掛卻知閒事，終擬蹉跎訪舊遊。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -200,12 +200,12 @@
     "title": "登池州九峰樓寄張祜",
     "author": "杜牧",
     "paragraphs": [
-      "百感中來不自由，角聲孤起夕陽樓。碧山終日思無盡，",
+      "百感中來不自由，角聲孤起夕陽樓。碧山終日思無盡，芳草何年恨即休。睫在眼前長不見，道非身外更何求。",
       "誰人得似張公子，千首詩輕萬戶侯。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -213,12 +213,12 @@
     "title": "齊安郡晚秋",
     "author": "杜牧",
     "paragraphs": [
-      "柳岸風來影漸疏，使君家似野人居。雲容水態還堪賞，",
+      "柳岸風來影漸疏，使君家似野人居。雲容水態還堪賞，嘯志歌懷亦自如。雨暗殘燈棋散後，酒醒孤枕雁來初。",
       "可憐赤壁爭雄渡，唯有蓑翁坐釣魚。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -226,12 +226,12 @@
     "title": "九日齊安登高",
     "author": "杜牧",
     "paragraphs": [
-      "江涵秋影雁初飛，與客攜壺上翠微。塵世難逢開口笑，",
+      "江涵秋影雁初飛，與客攜壺上翠微。塵世難逢開口笑，菊花須插滿頭歸。但將酩酊酬佳節，不用登臨歎落暉。",
       "古往今來只如此，牛山何必淚沾衣。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -304,12 +304,12 @@
     "title": "池州李使君沒後十一日處州新命始到後見歸妓感而成詩",
     "author": "杜牧",
     "paragraphs": [
-      "縉雲新命詔初行，才是孤魂壽器成。黃壤不知新雨露，",
+      "縉雲新命詔初行，才是孤魂壽器成。黃壤不知新雨露，粉書空換舊銘旌。巨卿哭處雲空斷，阿鶩歸來月正明。",
       "多少四年遺愛事，鄉閭生子李為名。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -317,12 +317,12 @@
     "title": "見劉秀才與池州妓別",
     "author": "杜牧",
     "paragraphs": [
-      "遠風南浦萬重波，未似生離別恨多。楚管能吹柳花怨，",
+      "遠風南浦萬重波，未似生離別恨多。楚管能吹柳花怨，吳姬爭唱竹枝歌。金釵橫處綠雲墮，玉箸凝時紅粉和。",
       "待得枚皋相見日，自應妝鏡笑蹉跎。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -382,12 +382,12 @@
     "title": "即事",
     "author": "杜牧",
     "paragraphs": [
-      "因思上党三年戰，閑詠周公七月詩。竹帛未聞書死節，",
+      "因思上党三年戰，閑詠周公七月詩。竹帛未聞書死節，丹青空見畫靈旗。蕭條井邑如魚尾，早晚干戈識虎皮。",
       "莫笑一麾東下計，滿江秋浪碧參差。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -408,12 +408,12 @@
     "title": "寄李起居四韻",
     "author": "杜牧",
     "paragraphs": [
-      "楚女梅簪白雪姿，前溪碧水凍醪時。雲罍心凸知難捧，",
+      "楚女梅簪白雪姿，前溪碧水凍醪時。雲罍心凸知難捧，鳳管簧寒不受吹。南國劍眸能盼眄，侍臣香袖愛僛垂。",
       "自憐窮律窮途客，正怯孤燈一局棋。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -626,12 +626,12 @@
     "title": "八月十二日得替後移居霅溪館，因題長句四韻",
     "author": "杜牧",
     "paragraphs": [
-      "萬家相慶喜秋成，處處樓臺歌板聲。千歲鶴歸猶有恨，",
+      "萬家相慶喜秋成，處處樓臺歌板聲。千歲鶴歸猶有恨，一年人住豈無情。夜涼溪館留僧話，風定蘇潭看月生。",
       "景物登臨閑始見，願為閑客此閑行。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -691,12 +691,12 @@
     "title": "柳長句",
     "author": "杜牧",
     "paragraphs": [
-      "日落水流西複東，春光不盡柳何窮。巫娥廟裏低含雨，",
+      "日落水流西複東，春光不盡柳何窮。巫娥廟裏低含雨，宋玉宅前斜帶風。不嫌榆莢共爭翠，深與桃花相映紅。",
       "灞上漢南千萬樹，幾人遊宦別離中。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -742,12 +742,12 @@
     "title": "早雁",
     "author": "杜牧",
     "paragraphs": [
-      "金河秋半虜弦開，雲外驚飛四散哀。仙掌月明孤影過，",
+      "金河秋半虜弦開，雲外驚飛四散哀。仙掌月明孤影過，長門燈暗數聲來。須知胡騎紛紛在，豈逐春風一一回。",
       "莫厭瀟湘少人處，水多菰米岸莓苔。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -984,12 +984,12 @@
     "title": "送劉秀才歸江陵",
     "author": "杜牧",
     "paragraphs": [
-      "彩服鮮華覲渚宮，鱸魚新熟別江東。劉郎浦夜侵船月，",
+      "彩服鮮華覲渚宮，鱸魚新熟別江東。劉郎浦夜侵船月，宋玉亭春弄袖風。落落精神終有立，飄飄才思杳無窮。",
       "誰人世上為金口，借取明時一薦雄。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1010,12 +1010,12 @@
     "title": "湖南正初招李郢秀才",
     "author": "杜牧",
     "paragraphs": [
-      "行樂及時時已晚，對酒當歌歌不成。千里暮山重疊翠，",
+      "行樂及時時已晚，對酒當歌歌不成。千里暮山重疊翠，一溪寒水淺深清。高人以飲為忙事，浮世除詩盡強名。",
       "看著白蘋芽欲吐，雪舟相訪勝閑行。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

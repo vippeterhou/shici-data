@@ -475,12 +475,12 @@
     "title": "聞人說海北事有感",
     "author": "聶夷中",
     "paragraphs": [
-      "故鄉歸路隔高雷，見說年來事可哀。村落日中眠虎豹，",
+      "故鄉歸路隔高雷，見說年來事可哀。村落日中眠虎豹，田園雨後長蒿萊。海隅久已無春色，地底真成有劫灰。",
       "荊棘滿山行不得，不知當日是誰栽。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

@@ -3,11 +3,11 @@
     "title": "耕田鼓詩",
     "author": "可朋",
     "paragraphs": [
-      "農舍田頭鼓，王孫筵上鼓。擊鼓兮皆為鼓，"
+      "農舍田頭鼓，王孫筵上鼓。擊鼓兮皆為鼓，一何樂兮一何苦。上有烈日，下有焦土。願我天翁，降之以雨。令桑麻熟，倉箱富。不饑不寒，上下一般。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 6],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 6, 7, 4, 4, 4, 4, 4, 3, 4, 4],
       "uniform_sentence_length": null
     }
   },
@@ -28,12 +28,12 @@
     "title": "贈方幹",
     "author": "可朋",
     "paragraphs": [
-      "盛名傳出自皇州，一舉參差便縮頭。月裏豈無攀桂分，",
+      "盛名傳出自皇州，一舉參差便縮頭。月裏豈無攀桂分，湖中剛愛釣魚休。客乞書題謁郡侯。",
       "獨泛短舟何限景，波濤西接洞庭秋。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -84,12 +84,12 @@
     "title": "懷齊己",
     "author": "曇域",
     "paragraphs": [
-      "鬢髯秋景兩蒼蒼，靜對茅齋一炷香。病後身心俱澹泊，",
+      "鬢髯秋景兩蒼蒼，靜對茅齋一炷香。病後身心俱澹泊，老來朋友半凋傷。峨眉山色侵雲直，巫峽灘聲入夜長。",
       "猶喜深交有支遁，時時音信到松房。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -110,12 +110,12 @@
     "title": "垓下懷古",
     "author": "棲一",
     "paragraphs": [
-      "緬想咸陽事可嗟，楚歌哀怨思無涯。八千子弟歸何處，",
+      "緬想咸陽事可嗟，楚歌哀怨思無涯。八千子弟歸何處，萬里鴻溝屬漢家。弓指陣前爭日月，血流垓下定龍蛇。",
       "拔山力盡烏江水，今古悠悠空浪花。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -123,12 +123,12 @@
     "title": "武昌懷古",
     "author": "棲一",
     "paragraphs": [
-      "戰國城池盡悄然，昔人遺跡遍山川。笙歌罷吹幾多日，",
+      "戰國城池盡悄然，昔人遺跡遍山川。笙歌罷吹幾多日，台榭荒涼七百年。蟬響夕陽風滿樹，雁橫秋島雨漫天。",
       "堪嗟世事如流水，空見蘆花一釣船。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -188,12 +188,12 @@
     "title": "憶廬山舊居",
     "author": "處默",
     "paragraphs": [
-      "粗衣糲食老煙霞，勉把衰顏惜歲華。獨鶴只為山客伴，",
+      "粗衣糲食老煙霞，勉把衰顏惜歲華。獨鶴只為山客伴，閑雲常在野僧家。叢生嫩蕨粘松粉，自落乾薪帶蘚花。",
       "明月清風舊相得，十年歸恨可能賒。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -201,12 +201,12 @@
     "title": "題棲霞寺僧房",
     "author": "處默",
     "paragraphs": [
-      "名山不取買山錢，任構花宮近碧巔。松檜老依雲裏寺，",
+      "名山不取買山錢，任構花宮近碧巔。松檜老依雲裏寺，樓臺深鎖洞中天。風經絕嶂回疏雨，石倚危屏掛落泉。",
       "欲結茅庵共師住，肯饒多少薜蘿煙。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -395,12 +395,12 @@
     "title": "簡寂觀",
     "author": "修睦",
     "paragraphs": [
-      "正同高士坐煙霞，思著閑忙又是嗟。碧岫觀中人似鶴，",
+      "正同高士坐煙霞，思著閑忙又是嗟。碧岫觀中人似鶴，紅塵路上事如麻。石肥滯雨添蒼蘚，松老涵風落翠花。",
       "莫道此間無我分，遺民長在惠持家。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

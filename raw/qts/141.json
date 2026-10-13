@@ -444,23 +444,23 @@
     "title": "烏棲曲",
     "author": "王昌齡",
     "paragraphs": [
-      "白馬逐朱車，黃昏入狹邪。柳樹烏爭宿，"
+      "白馬逐朱車，黃昏入狹邪。柳樹烏爭宿，爭枝未得飛上屋。東房少婦婿從軍，每聽烏啼知夜分。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 5],
-      "uniform_sentence_length": 5
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 7, 7, 7],
+      "uniform_sentence_length": null
     }
   },
   {
     "title": "城傍曲",
     "author": "王昌齡",
     "paragraphs": [
-      "秋風鳴桑條，草白狐兔驕。邯鄲飲來酒未消，"
+      "秋風鳴桑條，草白狐兔驕。邯鄲飲來酒未消，城北原平掣皂雕。射殺空營兩騰虎，回身卻月佩弓弰。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -468,14 +468,14 @@
     "title": "行路難",
     "author": "王昌齡",
     "paragraphs": [
-      "雙絲作綆系銀瓶，百尺寒泉轆轤上。懸絲一絕不可望，",
-      "宴罷調箏奏離鶴，回嬌轉盼泣君前。君不見，眼前事，",
-      "但願莫忘前者言，銼骨黃塵亦無愧。行路難，勸君酒，",
+      "雙絲作綆系銀瓶，百尺寒泉轆轤上。懸絲一絕不可望，似妾傾心在君掌。人生意氣好遷捐，只重狂花不重賢。",
+      "宴罷調箏奏離鶴，回嬌轉盼泣君前。君不見，眼前事，豈保須臾心勿異。西山日下雨足稀，側有浮雲無所寄。",
+      "但願莫忘前者言，銼骨黃塵亦無愧。行路難，勸君酒，莫辭煩，美酒千鐘猶可盡，心中片愧何可論。",
       "一聞漢主思故劍，使妾長嗟萬古魂。"
     ],
     "format": {
-      "sentence_count": 13,
-      "sentence_lengths": [7, 7, 7, 7, 7, 3, 3, 7, 7, 3, 3, 7, 7],
+      "sentence_count": 22,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 3, 3, 7, 7, 7, 7, 7, 3, 3, 3, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -483,12 +483,12 @@
     "title": "奉贈張荊州",
     "author": "王昌齡",
     "paragraphs": [
-      "祝融之峰紫雲銜，翠如何其雪嶄岩。邑西有路緣石壁，",
+      "祝融之峰紫雲銜，翠如何其雪嶄岩。邑西有路緣石壁，我欲從之臥穹嵌。魚有心兮脫網罟，江無人兮鳴楓杉。",
       "王君飛舄仍未去，蘇耽宅中意遙緘。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

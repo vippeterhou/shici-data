@@ -374,11 +374,11 @@
     "title": "釋奠武成王樂章：迎神",
     "author": "于邵",
     "paragraphs": [
-      "蔔畋不從，兆發非熊。乃傾荒政，爰佐一戎。盛烈載垂，"
+      "蔔畋不從，兆發非熊。乃傾荒政，爰佐一戎。盛烈載垂，命祀維崇。日練上戊，宿嚴閟宮。迎奏嘉至，感而遂通。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [4, 4, 4, 4, 4],
+      "sentence_count": 10,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     }
   },
@@ -412,11 +412,11 @@
     "title": "釋奠武成王樂章：亞獻終獻",
     "author": "于邵",
     "paragraphs": [
-      "貳觴以獻，三變其終。顧此非馨，尚達斯衷。茅縮可致，"
+      "貳觴以獻，三變其終。顧此非馨，尚達斯衷。茅縮可致，神歆載融。始神翊周，拯溺除凶。永絕興戎。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [4, 4, 4, 4, 4],
+      "sentence_count": 9,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     }
   },

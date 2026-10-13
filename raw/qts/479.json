@@ -529,12 +529,12 @@
     "title": "奉和白敏中聖道和平致茲休運歲終功就合詠盛明呈上",
     "author": "馬植",
     "paragraphs": [
-      "舜德堯仁化犬戎，許提河隴款皇風。指揮貙武皆神算，",
+      "舜德堯仁化犬戎，許提河隴款皇風。指揮貙武皆神算，恢拓乾坤是聖功。四帥有征無汗馬，七關雖戍已弢弓。",
       "天留此事還英主，不在他年在大中。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -586,12 +586,12 @@
     "title": "雞鳴曲",
     "author": "李廓",
     "paragraphs": [
-      "星稀月沒入五更，膠膠角角雞初鳴。征人牽馬出門立，",
-      "才分曙色第二鳴，旌旆紅塵已出城。婦人上城亂招手，"
+      "星稀月沒入五更，膠膠角角雞初鳴。征人牽馬出門立，辭妾欲向安西行。再鳴引頸簷頭下，樓中角聲催上馬。",
+      "才分曙色第二鳴，旌旆紅塵已出城。婦人上城亂招手，夫婿不聞遙哭聲。長恨雞鳴別時苦，不遣雞棲近窗戶。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -599,24 +599,24 @@
     "title": "鏡聽詞",
     "author": "李廓",
     "paragraphs": [
-      "匣中取鏡辭灶王，羅衣掩盡明月光。昔時長著照容色，",
-      "更深弱體冷如鐵，繡帶菱花懷裏熱。銅片銅片如有靈，"
+      "匣中取鏡辭灶王，羅衣掩盡明月光。昔時長著照容色，今夜潛將聽消息。門前地黑人來稀，無人錯道朝夕歸。",
+      "更深弱體冷如鐵，繡帶菱花懷裏熱。銅片銅片如有靈，願照得見行人千里形。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": 7
+      "sentence_count": 10,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 9],
+      "uniform_sentence_length": null
     }
   },
   {
     "title": "猛士行",
     "author": "李廓",
     "paragraphs": [
-      "戰鼓驚沙惡天色，猛士虯髯眼前黑。單于衣錦日行兵，"
+      "戰鼓驚沙惡天色，猛士虯髯眼前黑。單于衣錦日行兵，陣頭走馬生擒得。幽並少年不敢輕，虎狼窟裏空手行。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

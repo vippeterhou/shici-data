@@ -145,13 +145,13 @@
     "title": "大堤曲",
     "author": "楊巨源",
     "paragraphs": [
-      "二八嬋娟大堤女，開壚相對依江渚。待客登樓向水看，",
-      "自傳芳酒涴紅袖，誰調妍妝回翠娥。珍簟華燈夕陽後，",
-      "歲歲逢迎沙岸間，北人多識綠雲鬟。無端嫁與五陵少，"
+      "二八嬋娟大堤女，開壚相對依江渚。待客登樓向水看，邀郎卷幔臨花語。細雨濛濛濕芰荷，巴東商侶掛帆多。",
+      "自傳芳酒涴紅袖，誰調妍妝回翠娥。珍簟華燈夕陽後，當壚理瑟矜纖手。月落星微五鼓聲，春風搖盪窗前柳。",
+      "歲歲逢迎沙岸間，北人多識綠雲鬟。無端嫁與五陵少，離別煙波傷玉顏。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 16,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -159,13 +159,13 @@
     "title": "楊花落",
     "author": "楊巨源",
     "paragraphs": [
-      "北斗南回春物老，紅英落盡綠尚早。韶風澹蕩無所依，",
-      "人家女兒出羅幕，靜掃玉庭待花落。寶環纖手捧更飛，",
+      "北斗南回春物老，紅英落盡綠尚早。韶風澹蕩無所依，偏惜垂楊作春好。此時可憐楊柳花，滎盈豔曳滿人家。",
+      "人家女兒出羅幕，靜掃玉庭待花落。寶環纖手捧更飛，翠羽輕裾承不著。歷歷瑤琴舞金陳，菲紅拂黛憐玉人。",
       "東園桃李芳已歇，獨有楊花嬌暮春。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 14,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -173,14 +173,14 @@
     "title": "月宮詞",
     "author": "楊巨源",
     "paragraphs": [
-      "宮中月明何所似，如積如流滿田地。迥過前殿曾學眉，",
-      "藻井浮花共陵亂，玉階零露相裴回。稍映明河泛仙馭，",
-      "皎皎蒼蒼千里同，穿煙飄葉九門通。珠簾欲卷畏成水，",
-      "飛蓋愁看素暈低，稱觴願踏清輝遍。江上無雲夜可憐，"
+      "宮中月明何所似，如積如流滿田地。迥過前殿曾學眉，回照長門慣催淚。昭陽昨夜秋風來。綺閣金鋪情影開。",
+      "藻井浮花共陵亂，玉階零露相裴回。稍映明河泛仙馭，滿窗猶在更衣處。管弦回燭無限情。",
+      "皎皎蒼蒼千里同，穿煙飄葉九門通。珠簾欲卷畏成水，瑤席初陳驚似空。複值君王事歡宴，宮女三千一時見。",
+      "飛蓋愁看素暈低，稱觴願踏清輝遍。江上無雲夜可憐，冒沙披浪自嬋娟。若共心賞風流夜，那比高高太液前。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 23,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -188,12 +188,12 @@
     "title": "贈從弟茂卿",
     "author": "楊巨源",
     "paragraphs": [
-      "吾從驥足楊茂卿，性靈且奇才甚清。海內方微風雅道，",
-      "王維證時符水月，杜甫狂處遺天地。流水東西岐路分，"
+      "吾從驥足楊茂卿，性靈且奇才甚清。海內方微風雅道，鄴中更有文章盟。扣寂由來在淵思，搜奇本自通禪智。",
+      "王維證時符水月，杜甫狂處遺天地。流水東西岐路分，若為向北驅疲馬，山似寒空塞似雲。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 11,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -201,11 +201,11 @@
     "title": "烏啼曲贈張評事",
     "author": "楊巨源",
     "paragraphs": [
-      "可憐楊葉複楊花，雪淨煙深碧玉家。烏棲不定枝條弱，"
+      "可憐楊葉複楊花，雪淨煙深碧玉家。烏棲不定枝條弱，城頭夜半聲啞啞。浮萍流蕩門前水，任罥芙蓉莫墮沙。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -525,12 +525,12 @@
     "title": "長安春遊",
     "author": "楊巨源",
     "paragraphs": [
-      "鳳城春報曲江頭，上客年年是勝遊。日暖雲山當廣陌，",
+      "鳳城春報曲江頭，上客年年是勝遊。日暖雲山當廣陌，天清絲管在高樓。蘢蔥樹色分仙閣，縹緲花香泛禦溝。",
       "桂壁朱門新邸第，漢家恩澤問酂侯。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -538,12 +538,12 @@
     "title": "送定法師歸蜀，法師即紅樓院供奉廣宣上人兄弟",
     "author": "楊巨源",
     "paragraphs": [
-      "鳳城初日照紅樓，禁寺公卿識惠休。詩引棣華沾一雨，",
+      "鳳城初日照紅樓，禁寺公卿識惠休。詩引棣華沾一雨，經分貝葉向雙流。孤猿學定前山夕，遠雁傷離幾地秋。",
       "空性碧雲無處所，約公曾許剡溪遊。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -551,12 +551,12 @@
     "title": "早朝",
     "author": "楊巨源",
     "paragraphs": [
-      "鐘聲清禁才應徹，漏報仙闈儼已開。雙闕薄煙籠菡萏，",
+      "鐘聲清禁才應徹，漏報仙闈儼已開。雙闕薄煙籠菡萏，九成初日照蓬萊。朝時但向丹墀拜，仗下方從碧殿回。",
       "聖道逍遙更何事，願將巴曲贊康哉。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -564,12 +564,12 @@
     "title": "贈張將軍",
     "author": "楊巨源",
     "paragraphs": [
-      "關西諸將揖容光，獨立營門劍有霜。知愛魯連歸海上，",
+      "關西諸將揖容光，獨立營門劍有霜。知愛魯連歸海上，肯令王翦在頻陽。天晴紅幟當山滿，日暮清笳入塞長。",
       "年少功高人最羨，漢家壇樹月蒼蒼。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -577,12 +577,12 @@
     "title": "和侯大夫秋原山觀征人回",
     "author": "楊巨源",
     "paragraphs": [
-      "兩河戰罷萬方清，原上軍回識舊營。立馬望雲秋塞靜，",
+      "兩河戰罷萬方清，原上軍回識舊營。立馬望雲秋塞靜，射雕臨水晚天晴。戍閑部伍分岐路，地遠家鄉寄旆旌。",
       "聖代止戈資廟略，諸侯不復更長征。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -590,12 +590,12 @@
     "title": "送人過衛州",
     "author": "楊巨源",
     "paragraphs": [
-      "憶昔征南府內遊，君家東合最淹留。縱橫聯句長侵曉，",
+      "憶昔征南府內遊，君家東合最淹留。縱橫聯句長侵曉，次第看花直到秋。論舊舉杯先下淚，傷離臨水更登樓。",
       "相思前路幾回首，滿眼青山過衛州。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -603,12 +603,12 @@
     "title": "寄中書同年舍人",
     "author": "楊巨源",
     "paragraphs": [
-      "晴明紫閣最高峰，仙掖開簾范彥龍。五色天書詞煥爛，",
+      "晴明紫閣最高峰，仙掖開簾范彥龍。五色天書詞煥爛，九華春殿語從容。彩毫應染爐煙細，",
       "二十年前同日喜，碧霄何路得相逢。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -642,12 +642,12 @@
     "title": "將歸東都寄令狐舍人",
     "author": "楊巨源",
     "paragraphs": [
-      "綠楊紅杏滿城春，一騎悠悠萬井塵。岐路未關今日事，",
+      "綠楊紅杏滿城春，一騎悠悠萬井塵。岐路未關今日事，風光欲醉長年人。閑過綺陌尋高寺，強對朱門謁近臣。",
       "多病晚來還有策，雒陽山色舊相親。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -655,12 +655,12 @@
     "title": "寄江州白司馬",
     "author": "楊巨源",
     "paragraphs": [
-      "江州司馬平安否，惠遠東林住得無。湓浦曾聞似衣帶，",
+      "江州司馬平安否，惠遠東林住得無。湓浦曾聞似衣帶，廬峰見說勝香爐。題詩歲晏離鴻斷，望闕天遙病鶴孤。",
       "莫謾拘牽雨花社，青雲依舊是前途。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -668,12 +668,12 @@
     "title": "薛司空自青州歸朝",
     "author": "楊巨源",
     "paragraphs": [
-      "天眷君陳久在東，歸朝人看大司空。黃河岸畔長無事，",
+      "天眷君陳久在東，歸朝人看大司空。黃河岸畔長無事，滄海東邊獨有功。已變畏途成雅俗，仍過舊裏揖秋風。",
       "一門累葉淩煙閣，次第儀形漢上公。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -681,12 +681,12 @@
     "title": "送章孝標校書歸杭州因寄白舍人",
     "author": "楊巨源",
     "paragraphs": [
-      "曾過靈隱江邊寺，獨宿東樓看海門。潮色銀河鋪碧落，",
+      "曾過靈隱江邊寺，獨宿東樓看海門。潮色銀河鋪碧落，日光金柱出紅盆。不妨公事資高臥，無限詩情要細論。",
       "若訪郡人徐孺子，應須騎馬到沙村。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -720,12 +720,12 @@
     "title": "酬盧員外",
     "author": "楊巨源",
     "paragraphs": [
-      "謝傅旌旗控上游，盧郎樽俎借前籌。舜城風土臨清廟，",
+      "謝傅旌旗控上游，盧郎樽俎借前籌。舜城風土臨清廟，魏國山川在白樓。雲寺當時接高步，水亭今日又同遊。",
       "滿筵舊府笙歌在，獨有羊曇最淚流。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -747,12 +747,12 @@
     "title": "送裴中丞出使",
     "author": "楊巨源",
     "paragraphs": [
-      "一清淮甸假朝綱，金印初迎細柳黃。辭闕天威和雨露，",
+      "一清淮甸假朝綱，金印初迎細柳黃。辭闕天威和雨露，出關春色避風霜。龍韜何必陳三略，虎旅由來肅萬方。",
       "宣諭生靈真重任，回軒應問石渠郎。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -760,12 +760,12 @@
     "title": "送絳州盧使君",
     "author": "楊巨源",
     "paragraphs": [
-      "應將清淨結心期，又共陽和到郡時。絳老問年須算字，",
+      "應將清淨結心期，又共陽和到郡時。絳老問年須算字，庾公逢月要題詩。朱欄迢遞因高勝，粉堞清明欲下遲。",
       "他日征還作霖雨，不須求賽敬亭祠。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -773,11 +773,11 @@
     "title": "贈李傅",
     "author": "楊巨源",
     "paragraphs": [
-      "知因公望掩能文，誓激明誠在致君。曾罷雙旌瞻白日，"
+      "知因公望掩能文，誓激明誠在致君。曾罷雙旌瞻白日，猶將一劍許黃雲。搖窗竹色留僧語，入院松聲共鶴聞，莫被此心生晚計，鎮南人憶杜將軍。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -785,12 +785,12 @@
     "title": "上裴中丞",
     "author": "楊巨源",
     "paragraphs": [
-      "六年西掖弘湯誥，三捷東堂總漢科。政引風霜成物色，",
+      "六年西掖弘湯誥，三捷東堂總漢科。政引風霜成物色，語回天地到陽和。清威更助朝端重，聖澤曾隨筆下多。",
       "應笑白須揚執戟，可憐春日老如何。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -798,12 +798,12 @@
     "title": "和人與人分惠賜冰",
     "author": "楊巨源",
     "paragraphs": [
-      "天水藏來玉墮空，先頒密署幾人同。映盤皎潔非資月，",
+      "天水藏來玉墮空，先頒密署幾人同。映盤皎潔非資月，披扇清涼不在風。瑩質方從綸閣內，凝輝更向畫堂中。",
       "麗詞珍貺難雙有，迢遞金輿殿角東。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -811,12 +811,12 @@
     "title": "觀打球有作",
     "author": "楊巨源",
     "paragraphs": [
-      "親掃球場如砥平，龍驤驟馬曉光晴。入門百拜瞻雄勢，",
+      "親掃球場如砥平，龍驤驟馬曉光晴。入門百拜瞻雄勢，動地三軍唱好聲。玉勒回時沾赤汗，",
       "欲令四海氛煙靜，杖底纖塵不敢生。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -824,12 +824,12 @@
     "title": "早春即事呈劉員外",
     "author": "楊巨源",
     "paragraphs": [
-      "明朝晴暖即相隨，肯信春光被雨欺。且任文書堆案上，",
+      "明朝晴暖即相隨，肯信春光被雨欺。且任文書堆案上，免令杯酒負花時。馬蹄經歷須應遍，鶯語叮嚀已怪遲。",
       "更待雜芳成豔錦，鄴中爭唱仲宣詩。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -837,12 +837,12 @@
     "title": "送司徒童子",
     "author": "楊巨源",
     "paragraphs": [
-      "衛多君子魯多儒，七歲聞天笑舞雩。光彩春風初轉蕙，",
+      "衛多君子魯多儒，七歲聞天笑舞雩。光彩春風初轉蕙，性靈秋水不藏珠。兩經在口知名小，百拜垂髫稟氣殊。",
       "況複元侯旌爾善，桂林枝上得鵷雛。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -850,12 +850,12 @@
     "title": "寄昭應王丞",
     "author": "楊巨源",
     "paragraphs": [
-      "武皇金輅輾香塵，每歲朝元及此辰。光動泉心初浴日，",
+      "武皇金輅輾香塵，每歲朝元及此辰。光動泉心初浴日，氣蒸山腹總成春。謳歌已入雲韶曲，詞賦方歸侍從臣。",
       "瑞靄朝朝猶望幸，天教赤縣有詩人。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -863,12 +863,12 @@
     "title": "酬崔博士",
     "author": "楊巨源",
     "paragraphs": [
-      "自知頑叟更何能，唯學雕蟲謬見稱。長被有情邀唱和，",
+      "自知頑叟更何能，唯學雕蟲謬見稱。長被有情邀唱和，近來無力更祗承。青松樹杪三千鶴，白玉壺中一片冰。",
       "今日為君書壁右，孤城莫怕世人憎。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -876,12 +876,12 @@
     "title": "酬裴舍人見寄",
     "author": "楊巨源",
     "paragraphs": [
-      "誰道重遷是舊班，自將霄漢比鄉關。二妃樓下宜臨水，",
+      "誰道重遷是舊班，自將霄漢比鄉關。二妃樓下宜臨水，五老祠西好看山。再葺吾廬心已足，每來公府路常閑。",
       "詩陪亞相逾三紀，石笥煙霞不共攀。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -889,12 +889,12 @@
     "title": "和劉員外陪韓僕射野亭公宴",
     "author": "楊巨源",
     "paragraphs": [
-      "好客風流玳瑁簪，重簷高幕曉沉沉。綺筵霜重旌旗滿，",
+      "好客風流玳瑁簪，重簷高幕曉沉沉。綺筵霜重旌旗滿，玉帳天清絲管聲。繁戲徒過魯儒目，眾歡方集漢郎心。",
       "寒笳一曲嚴城暮，雲騎連嘶香外林。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -902,12 +902,12 @@
     "title": "酬崔駙馬惠箋百張兼貽四韻",
     "author": "楊巨源",
     "paragraphs": [
-      "百張雲樣亂花開，七字文頭豔錦回。浮碧空從天上得，",
+      "百張雲樣亂花開，七字文頭豔錦回。浮碧空從天上得，殷紅應自日邊來。捧持價重淩雲葉，封裹香深笑海苔。",
       "滿篋清光應照眼，欲題凡韻輒裴回。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -915,12 +915,12 @@
     "title": "贈史開封",
     "author": "楊巨源",
     "paragraphs": [
-      "天低荒草誓師壇，鄧艾心知戰地寬。鼓角迥臨霜野曙，",
+      "天低荒草誓師壇，鄧艾心知戰地寬。鼓角迥臨霜野曙，旌旗高對雪峰寒。五營向水紅塵起，一劍當風白日看。",
       "曾從伏波征絕域，磧西蕃部怯金鞍。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -928,12 +928,12 @@
     "title": "奉寄通州元九侍禦",
     "author": "楊巨源",
     "paragraphs": [
-      "大明宮殿鬱蒼蒼，紫禁龍樓直署香。九陌華軒爭道路，",
+      "大明宮殿鬱蒼蒼，紫禁龍樓直署香。九陌華軒爭道路，一枝寒玉任煙霜。須聽瑞雪傳心語，莫被啼猿續淚行。",
       "共說聖朝容直氣，期君新歲奉恩光。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -941,12 +941,12 @@
     "title": "贈渾鉅中允",
     "author": "楊巨源",
     "paragraphs": [
-      "公子髫年四海聞，城南侍獵雪雰雰。馬盤曠野弦開月，",
+      "公子髫年四海聞，城南侍獵雪雰雰。馬盤曠野弦開月，曾向天西穿虜陣，慣遊花下領儒群。",
       "一枝瓊萼朝光好，彩服飄飄從冠軍。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -954,12 +954,12 @@
     "title": "重送胡大夫赴振武",
     "author": "楊巨源",
     "paragraphs": [
-      "向年擢桂儒生業，今日分茅聖主恩。旌旆仍將過鄉路，",
+      "向年擢桂儒生業，今日分茅聖主恩。旌旆仍將過鄉路，軒車爭看出都門。人間文武能雙捷，天下安危待一論。",
       "布惠宣威大夫事，不妨詩思許琴尊。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -967,12 +967,12 @@
     "title": "送陳判官罷舉赴江外",
     "author": "楊巨源",
     "paragraphs": [
-      "練思多時冰雪清，拂衣無語別書生。莫將甲乙為前累，",
+      "練思多時冰雪清，拂衣無語別書生。莫將甲乙為前累，不廢煙霄是此行。定愛紅雲燃楚色，應看白雨打江聲。",
       "心期玉帳親台位，魏勃因君說姓名。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -980,12 +980,12 @@
     "title": "奉和裴相公",
     "author": "楊巨源",
     "paragraphs": [
-      "竹寺題名一半空，衰榮三十六人中。在生本要求知己，",
+      "竹寺題名一半空，衰榮三十六人中。在生本要求知己，垂老應憐值相公。敢望燮和回舊律，任應時節到春風。",
       "若為問得蒼蒼意，造化無言自是功。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -993,12 +993,12 @@
     "title": "和大夫邊春呈長安親故",
     "author": "楊巨源",
     "paragraphs": [
-      "嚴城吹笛思寒梅，二月冰河一半開。紫陌詩情依舊在，",
+      "嚴城吹笛思寒梅，二月冰河一半開。紫陌詩情依舊在，黑山弓力畏春來。遊人曲岸看花發，走馬平沙獵雪回。",
       "旌旆朝天不知晚，將星高處近三台。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1006,12 +1006,12 @@
     "title": "張郎中段員外初直翰林報寄長句",
     "author": "楊巨源",
     "paragraphs": [
-      "秋空如練瑞雲明，天上人間莫問程。丹鳳詞頭供二妙，",
+      "秋空如練瑞雲明，天上人間莫問程。丹鳳詞頭供二妙，金鑾殿角直三清。方瞻北極臨星月，猶向南班滯姓名。",
       "啟沃朝朝深禁裏，香爐煙外是公卿。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1019,12 +1019,12 @@
     "title": "奉酬端公春雪見寄",
     "author": "楊巨源",
     "paragraphs": [
-      "造化多情狀物親，剪花鋪玉萬重新。閑飄上路呈豐歲，",
+      "造化多情狀物親，剪花鋪玉萬重新。閑飄上路呈豐歲，狂舞中庭學醉春。興逸何妨尋剡客，唱高還肯寄巴人。",
       "遙知獨立芝蘭閣，滿眼清光壓俗塵。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1032,12 +1032,12 @@
     "title": "盧郎中拜陵遇雪蒙見召因寄",
     "author": "楊巨源",
     "paragraphs": [
-      "南宮使者有光輝，欲拜諸陵瑞雪飛。蘋葉已修青玉薦，",
+      "南宮使者有光輝，欲拜諸陵瑞雪飛。蘋葉已修青玉薦，柳花仍拂赤車衣。應同穀口尋春去，定似山陰帶月歸。",
       "寒冷出郊猶未得，羨公將事看芳菲。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1045,12 +1045,12 @@
     "title": "冬夜陪丘侍禦先輩聽崔校書彈琴",
     "author": "楊巨源",
     "paragraphs": [
-      "雪滿中庭月映林，謝家幽賞在瑤琴。楚妃波浪天南遠，",
+      "雪滿中庭月映林，謝家幽賞在瑤琴。楚妃波浪天南遠，蔡女煙沙漠北深。顧盼何曾因誤曲，殷勤終是感知音。",
       "若將雅調開詩興，未抵丘遲一片心。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1084,12 +1084,12 @@
     "title": "元日觀朝",
     "author": "楊巨源",
     "paragraphs": [
-      "北極長尊報聖期，周家何用問元龜。天顏入曙千官拜，",
+      "北極長尊報聖期，周家何用問元龜。天顏入曙千官拜，元日迎春萬物知。閶闔回臨黃道正，衣裳高對碧山垂。",
       "微臣願獻堯人祝，壽酒年年太液池。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1097,12 +1097,12 @@
     "title": "題賈巡官林亭",
     "author": "楊巨源",
     "paragraphs": [
-      "白鳥閑棲亭樹枝，綠樽仍對菊花籬。許詢本愛交禪侶，",
+      "白鳥閑棲亭樹枝，綠樽仍對菊花籬。許詢本愛交禪侶，陳寔由來是好兒。明月出雲秋館思，遠泉經雨夜窗知。",
       "門前長者無虛轍，一片寒光動水池。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1110,12 +1110,12 @@
     "title": "和元員外題升平裏新齋",
     "author": "楊巨源",
     "paragraphs": [
-      "自知休沐諸幽勝，遂肯高齋枕廣衢。舊地已開新玉圃，",
+      "自知休沐諸幽勝，遂肯高齋枕廣衢。舊地已開新玉圃，春山仍展綠雲圖。心源邀得閒詩證，肺氣宜將慢酒扶。",
       "此外唯應任真宰，同塵敢是道門樞。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1123,12 +1123,12 @@
     "title": "送澹公歸嵩山龍潭寺葬本師",
     "author": "楊巨源",
     "paragraphs": [
-      "野煙秋水蒼茫遠，禪境真機去住閑。雙樹為家思舊壑，",
+      "野煙秋水蒼茫遠，禪境真機去住閑。雙樹為家思舊壑，千花成塔禮寒山。洞宮曾向龍邊宿，雲徑應從鳥外還。",
       "莫戀本師金骨地，空門無處複無關。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1136,12 +1136,12 @@
     "title": "邵州陪王郎中宴",
     "author": "楊巨源",
     "paragraphs": [
-      "西塞無塵多玉筵，貔貅鴛鷺儼相連。紅茵照水開樽俎，",
+      "西塞無塵多玉筵，貔貅鴛鷺儼相連。紅茵照水開樽俎，翠幕當雲發管弦。歌態曉臨團扇靜，舞容春映薄衫妍。",
       "魯儒縱使他時有，不似歡娛及少年。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1149,12 +1149,12 @@
     "title": "和令狐舍人酬峰上人題山欄孤竹",
     "author": "楊巨源",
     "paragraphs": [
-      "滿院冰姿粉籜殘，一莖青翠近簾端。離叢自欲親香火，",
+      "滿院冰姿粉籜殘，一莖青翠近簾端。離叢自欲親香火，抱節何妨共歲寒。能讓繁聲任真籟，解將孤影對芳蘭。",
       "范雲許訪西林寺，枝葉須和彩鳳看。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1964,12 +1964,12 @@
     "title": "春日題龍門香山寺",
     "author": "楊巨源",
     "paragraphs": [
-      "眾香天上梵王宮，鐘磬寥寥半碧空。清景乍開松嶺月，",
+      "眾香天上梵王宮，鐘磬寥寥半碧空。清景乍開松嶺月，亂流長響石樓風。山河杳映春雲外，城闕參差曉樹中。",
       "欲盡出尋那可得，三千世界本無窮。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -2006,12 +2006,12 @@
     "title": "聖恩洗雪鎮州寄獻裴相公",
     "author": "楊巨源",
     "paragraphs": [
-      "天借春光洗綠林，戰塵收盡見花陰。好生本是君王德，",
+      "天借春光洗綠林，戰塵收盡見花陰。好生本是君王德，忍死何妨壯士心。曾賀截雲翻柵遠，仍聞劚凍下營深。",
       "井陘昨日雙旗入，蕭相無言淚濕襟。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -2032,12 +2032,12 @@
     "title": "和裴舍人觀田尚書出獵",
     "author": "楊巨源",
     "paragraphs": [
-      "聖代司空比玉清，雄藩觀獵見皇情。雲禽已覺高無益，",
+      "聖代司空比玉清，雄藩觀獵見皇情。雲禽已覺高無益，霜兔應知狡不成。飛鞚擁塵寒草盡，彎弓開月朔風生。",
       "今朝始賀將軍貴，紫禁詩人看旆旌。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -2045,12 +2045,12 @@
     "title": "送李舍人歸蘭陵裏",
     "author": "楊巨源",
     "paragraphs": [
-      "清詞舉世皆藏篋，美酒當山為滿樽。三畝嫩蔬臨綺陌，",
+      "清詞舉世皆藏篋，美酒當山為滿樽。三畝嫩蔬臨綺陌，四行高樹擁朱門。家貧境勝心無累，名重官閑口不論。",
       "惟有道情常自足，啟期天地易知恩。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -2058,12 +2058,12 @@
     "title": "同太常尉遲博士闕下待漏",
     "author": "楊巨源",
     "paragraphs": [
-      "沉沉延閣抱丹墀，松色苔花顥露滋。爽氣曉來青玉甃，",
+      "沉沉延閣抱丹墀，松色苔花顥露滋。爽氣曉來青玉甃，方瞻禦陌三條廣，猶覺仙門一刻遲。",
       "此地含香從白首，馮唐何事怨明時。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -2085,12 +2085,12 @@
     "title": "胡二十拜戶部兼判度支",
     "author": "楊巨源",
     "paragraphs": [
-      "清機果被公材撓，雄拜知承聖主恩。廟略已調天府實，",
+      "清機果被公材撓，雄拜知承聖主恩。廟略已調天府實，國征方覺地官尊。徒言玉節將分閫，定是沙堤欲到門。",
       "為愛山前新蔔第，不妨風月事琴樽。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -2098,12 +2098,12 @@
     "title": "元日呈李逢吉舍人",
     "author": "楊巨源",
     "paragraphs": [
-      "華夷文物賀新年，霜仗遙排鳳闕前。一片彩霞迎曙日，",
+      "華夷文物賀新年，霜仗遙排鳳闕前。一片彩霞迎曙日，萬條紅燭動春天。稱觴山色和元氣，端冕爐香疊瑞煙。",
       "共說正初當聖澤，試過西掖問群賢。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -2111,13 +2111,13 @@
     "title": "和杜中丞西禪院看花",
     "author": "楊巨源",
     "paragraphs": [
-      "一林堆錦映千燈，照眼牽情欲不勝。知倚晴明嬌自足，",
-      "深處最憐鶯蹂踐，懶時先被蝶侵淩。對持真境應無取，",
-      "幽含晚態憐丹桂，盛續春光識紫藤。每到花枝獨惆悵，"
+      "一林堆錦映千燈，照眼牽情欲不勝。知倚晴明嬌自足，解將顏色醉相仍。好風輕引香煙入，甘露才和粉豔凝。",
+      "深處最憐鶯蹂踐，懶時先被蝶侵淩。對持真境應無取，分付空門又未能。迎日似翻紅燒斷，臨流疑映綺霞層。",
+      "幽含晚態憐丹桂，盛續春光識紫藤。每到花枝獨惆悵，山東惟有杜中丞。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 16,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

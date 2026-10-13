@@ -44,11 +44,11 @@
     "title": "和薔薇花歌",
     "author": "孟郊",
     "paragraphs": [
-      "仙機劄劄織鳳凰，花開七十有二行。天霞落地攢紅光，"
+      "仙機劄劄織鳳凰，花開七十有二行。天霞落地攢紅光，風枝嫋嫋時一颺，飛散葩馥繞空王。忽驚錦浪洗新色，又似宮娃逞妝飾。終當一使移花根，還比蒲桃天上植。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -308,11 +308,11 @@
     "title": "答友人贈炭",
     "author": "孟郊",
     "paragraphs": [
-      "青山白屋有仁人，贈炭價重雙烏銀。驅卻坐上千重寒，"
+      "青山白屋有仁人，贈炭價重雙烏銀。驅卻坐上千重寒，燒出爐中一片春。吹霞弄日光不定，暖得曲身成直身。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

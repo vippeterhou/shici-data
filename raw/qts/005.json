@@ -3,12 +3,12 @@
     "title": "春遊曲",
     "author": "長孫氏",
     "paragraphs": [
-      "上苑桃花朝日明，蘭閨豔妾動春情。井上新桃偷面色，",
+      "上苑桃花朝日明，蘭閨豔妾動春情。井上新桃偷面色，花中來去看舞蝶，樹上長短聽啼鶯。",
       "林下何須遠借問，出眾風流舊有名。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -55,12 +55,12 @@
     "title": "唐享昊天樂：第三",
     "author": "武則天",
     "paragraphs": [
-      "幹儀混成沖邃，天道下濟高明，闓陽晨披紫闕，",
+      "幹儀混成沖邃，天道下濟高明，闓陽晨披紫闕，太一曉降黃庭。圜壇敢申昭報，",
       "丹襟式敷衷懇，玄鑒庶察微誠。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [6, 6, 6, 6, 6],
+      "sentence_count": 7,
+      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },
@@ -354,12 +354,12 @@
     "title": "唐大饗拜洛樂章：咸和",
     "author": "武則天",
     "paragraphs": [
-      "坎澤祠容備舉，坤壇祭典爰申。靈眷遙行秘躅，",
+      "坎澤祠容備舉，坤壇祭典爰申。靈眷遙行秘躅，嘉貺薦委殊珍。肅禮恭禋載展，翹襟邈志逾殷。",
       "方期交際懸應。"
     ],
     "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [6, 6, 6, 6],
+      "sentence_count": 7,
+      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },
@@ -393,11 +393,11 @@
     "title": "唐大饗拜洛樂章：顯和",
     "author": "武則天",
     "paragraphs": [
-      "顧德有慚虛菲，明祇屢降禎符。汜水初呈秘象，"
+      "顧德有慚虛菲，明祇屢降禎符。汜水初呈秘象，溫洛薦表昌圖。玄澤流恩載洽，丹襟荷渥增愉。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [6, 6, 6],
+      "sentence_count": 6,
+      "sentence_lengths": [6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },
@@ -509,12 +509,12 @@
     "title": "唐武氏享先廟樂章",
     "author": "武則天",
     "paragraphs": [
-      "先德謙撝冠昔，嚴規節素超今。奉國忠誠每竭，",
-      "既迫王公屢請，方乃俯遂群心。有限無由展敬，"
+      "先德謙撝冠昔，嚴規節素超今。奉國忠誠每竭，承家至孝純深。追崇懼乖尊意，顯號恐玷徽音。",
+      "既迫王公屢請，方乃俯遂群心。有限無由展敬，奠醑每闕親斟。大禮虔申典冊，蘋藻敬薦翹襟。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [6, 6, 6, 6, 6, 6],
+      "sentence_count": 12,
+      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },
@@ -577,12 +577,12 @@
     "title": "石淙",
     "author": "武則天",
     "paragraphs": [
-      "三山十洞光玄籙，玉嶠金巒鎮紫微。均露均霜標勝壤，",
+      "三山十洞光玄籙，玉嶠金巒鎮紫微。均露均霜標勝壤，交風交雨列皇畿。萬仞高岩藏日色，千尋幽澗浴雲衣。",
       "且駐歡筵賞仁智，雕鞍薄晚雜塵飛。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

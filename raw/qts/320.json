@@ -186,12 +186,12 @@
     "author": "權德輿",
     "paragraphs": [
       "月中有桂樹，無翼難上天。海底有龍珠，下隔萬丈淵。",
-      "人生大限雖百歲，就中三十稱一世。晦明烏兔相推遷，",
+      "人生大限雖百歲，就中三十稱一世。晦明烏兔相推遷，雪霜漸到雙鬢邊。沉憂戚戚多浩歎，不得如意居太半。",
       "一氣暫聚常恐散，黃河清兮白石爛。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -413,12 +413,12 @@
     "title": "田家即事",
     "author": "權德輿",
     "paragraphs": [
-      "閑臥藜床對落暉，翛然便覺世情非。漠漠稻花資旅食，",
+      "閑臥藜床對落暉，翛然便覺世情非。漠漠稻花資旅食，青青荷葉制儒衣。山僧相訪期中飯，漁父同游或夜歸。",
       "待學尚平婚嫁畢，渚煙溪月共忘機。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

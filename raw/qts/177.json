@@ -94,11 +94,11 @@
     "title": "送舍弟",
     "author": "李白",
     "paragraphs": [
-      "吾家白額駒，遠別臨東道。他日相思一夢君，"
+      "吾家白額駒，遠別臨東道。他日相思一夢君，應得池塘生春草。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -221,12 +221,12 @@
     "title": "與諸公送陳郎將歸衡陽",
     "author": "李白",
     "paragraphs": [
-      "衡山蒼蒼入紫冥，下看南極老人星。回飆吹散五峰雪，",
-      "門前食客亂浮雲，世人皆比孟嘗君。江上送行無白璧，"
+      "衡山蒼蒼入紫冥，下看南極老人星。回飆吹散五峰雪，往往飛花落洞庭。氣清嶽秀有如此，郎將一家拖金紫。",
+      "門前食客亂浮雲，世人皆比孟嘗君。江上送行無白璧，臨歧惆悵若為分。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 10,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

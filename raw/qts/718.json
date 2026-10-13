@@ -87,11 +87,11 @@
     "title": "狡兔行",
     "author": "蘇拯",
     "paragraphs": [
-      "秋來無骨肥，鷹犬遍原野。草中三穴無處藏，"
+      "秋來無骨肥，鷹犬遍原野。草中三穴無處藏，何況平田無穴者。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -141,11 +141,11 @@
     "title": "水旱禱",
     "author": "蘇拯",
     "paragraphs": [
-      "禱祈勿告天，酒漿勿澆地。陰陽和也無妖氣，"
+      "禱祈勿告天，酒漿勿澆地。陰陽和也無妖氣，陰陽愆期乃人致。病生心腹不自醫，古屋澄潭何神祟。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -155,11 +155,11 @@
     "paragraphs": [
       "鄒律暖燕穀，青史徒編錄。人心不變遷，空吹閑草木。",
       "世患有三惑，爾律莫能抑。邊苦有長征，爾律莫能息。",
-      "斯術未濟時，斯律亦何益。爭如至公一開口，"
+      "斯術未濟時，斯律亦何益。爭如至公一開口，吹起賢良霸邦國。"
     ],
     "format": {
-      "sentence_count": 11,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -185,11 +185,11 @@
       "獵犬未成行，狐兔無奈何。獵犬今盈群，狐兔依舊多。",
       "自爾初跳躍，人言多拏躩。常指天外狼，立可口中嚼。",
       "骨長毛衣重，燒殘煙草薄。狡兔何曾擒，時把家雞捉。",
-      "食盡者飯翻，增養者惡壯。可嗟獵犬壯復壯，"
+      "食盡者飯翻，增養者惡壯。可嗟獵犬壯復壯，不堪兔絕良弓喪。"
     ],
     "format": {
-      "sentence_count": 15,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7],
+      "sentence_count": 16,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -213,11 +213,11 @@
     "author": "蘇拯",
     "paragraphs": [
       "秋風雁又歸，邊信一何早。攬衣出門望，落葉滿長道。",
-      "一從秉箕帚，十載孤懷抱。可堪日日醉寵榮，"
+      "一從秉箕帚，十載孤懷抱。可堪日日醉寵榮，不說思君令人老。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 7, 7],
       "uniform_sentence_length": null
     }
   },

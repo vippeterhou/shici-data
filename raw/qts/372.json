@@ -347,11 +347,11 @@
     "title": "弦歌行",
     "author": "孟郊",
     "paragraphs": [
-      "驅儺擊鼓吹長笛，瘦鬼染面惟齒白。暗中崒崒拽茅鞭，"
+      "驅儺擊鼓吹長笛，瘦鬼染面惟齒白。暗中崒崒拽茅鞭，倮足朱褌行戚戚。相顧笑聲沖庭燎，桃弧射矢時獨叫。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -359,12 +359,12 @@
     "title": "覆巢行",
     "author": "孟郊",
     "paragraphs": [
-      "荒城古木枝多枯，飛禽嗷嗷朝哺雛。枝傾巢覆雛墜地，",
-      "枝危巢小風雨多，未容長成已先覆。靈枝珍木滿上林，"
+      "荒城古木枝多枯，飛禽嗷嗷朝哺雛。枝傾巢覆雛墜地，烏鳶下啄更相呼。陽和發生均孕育，鳥獸有情知不足。",
+      "枝危巢小風雨多，未容長成已先覆。靈枝珍木滿上林，鳳巢阿閣重且深。爾今所托非本地，烏鳶何得同爾心。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -416,12 +416,12 @@
     "title": "巫山曲",
     "author": "孟郊",
     "paragraphs": [
-      "巴江上峽重複重，陽臺碧峭十二峰。荊王獵時逢暮雨，",
+      "巴江上峽重複重，陽臺碧峭十二峰。荊王獵時逢暮雨，夜臥高丘夢神女。輕紅流煙濕豔姿，行雲飛去明星稀。",
       "目極魂斷望不見，猿啼三聲淚滴衣。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -601,11 +601,11 @@
     "title": "有所思",
     "author": "孟郊",
     "paragraphs": [
-      "桔槔烽火晝不滅，客路迢迢信難越。古鎮刀攢萬片霜，"
+      "桔槔烽火晝不滅，客路迢迢信難越。古鎮刀攢萬片霜，寒江浪起千堆雪。此時西去定如何，空使南心遠淒切。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -640,11 +640,11 @@
     "title": "南浦篇",
     "author": "孟郊",
     "paragraphs": [
-      "南浦桃花亞水紅，水邊柳絮由春風。鳥鳴喈喈煙濛濛，"
+      "南浦桃花亞水紅，水邊柳絮由春風。鳥鳴喈喈煙濛濛，自從遠送對悲翁。此翁已與少年別，唯憶深山深谷中。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -666,12 +666,12 @@
     "title": "望遠曲",
     "author": "孟郊",
     "paragraphs": [
-      "朝朝候歸信，日日登高台。行人未去植庭梅，",
+      "朝朝候歸信，日日登高台。行人未去植庭梅，別來三見庭花開。庭花開盡複幾時，春光駘蕩阻佳期。",
       "愁來望遠煙塵隔，空憐綠鬢風吹白。何當歸見遠行客。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [5, 5, 7, 7, 7, 7],
+      "sentence_count": 9,
+      "sentence_lengths": [5, 5, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   }

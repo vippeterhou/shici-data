@@ -61,12 +61,12 @@
     "title": "懷紫閣山",
     "author": "杜牧",
     "paragraphs": [
-      "學他趨世少深機，紫閣青霄半掩扉。山路遠懷王子晉，",
+      "學他趨世少深機，紫閣青霄半掩扉。山路遠懷王子晉，詩家長憶謝玄暉。百年不肯疏榮辱，雙鬢終應老是非。",
       "人道青山歸去好，青山曾有幾人歸。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -74,12 +74,12 @@
     "title": "題孫逸人山居",
     "author": "杜牧",
     "paragraphs": [
-      "長懸青紫與芳枝，塵刹無應免別離。馬上多於在家日，",
+      "長懸青紫與芳枝，塵刹無應免別離。馬上多於在家日，樽前堪憶少年時。關河客夢還鄉遠，雨雪山程出店遲。",
       "卻羨高人終此老，軒車過盡不知誰。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -87,12 +87,12 @@
     "title": "中途寄友人",
     "author": "杜牧",
     "paragraphs": [
-      "道傍高木盡依依，落葉驚風處處飛。未到鄉關聞早雁，",
+      "道傍高木盡依依，落葉驚風處處飛。未到鄉關聞早雁，獨于客路授寒衣。煙霞舊想長相阻，書劍投人久不歸。",
       "何日一名隨事了，與君同采碧溪薇。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

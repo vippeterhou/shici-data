@@ -75,12 +75,12 @@
     "title": "答張十一功曹",
     "author": "韓愈",
     "paragraphs": [
-      "山淨江空水見沙，哀猿啼處兩三家。筼簹競長纖纖筍，",
+      "山淨江空水見沙，哀猿啼處兩三家。筼簹競長纖纖筍，躑躅閑開豔豔花。未報恩波知死所，莫令炎瘴送生涯。",
       "吟君詩罷看雙鬢，鬥覺霜毛一半加。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -507,12 +507,12 @@
     "title": "奉酬振武胡十二丈大夫",
     "author": "韓愈",
     "paragraphs": [
-      "傾朝共羨寵光頻，半歲遷騰作虎臣。戎旆暫停辭社樹，",
+      "傾朝共羨寵光頻，半歲遷騰作虎臣。戎旆暫停辭社樹，裏門先下敬鄉人。橫飛玉盞家山曉，遠蹀金珂塞草春。",
       "自笑平生誇膽氣，不離文字鬢毛新。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -520,12 +520,12 @@
     "title": "奉和庫部盧四兄曹長元日朝回",
     "author": "韓愈",
     "paragraphs": [
-      "天仗宵嚴建羽旄，春雲送色曉雞號。金爐香動螭頭暗，",
+      "天仗宵嚴建羽旄，春雲送色曉雞號。金爐香動螭頭暗，玉佩聲來雉尾高。戎服上趨承北極，",
       "太平時節難身遇，郎署何須歎二毛。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -585,12 +585,12 @@
     "title": "戲題牡丹",
     "author": "韓愈",
     "paragraphs": [
-      "幸自同開俱隱約，何須相倚鬥輕盈。陵晨並作新妝面，",
+      "幸自同開俱隱約，何須相倚鬥輕盈。陵晨並作新妝面，對客偏含不語情。雙燕無機還拂掠，遊蜂多思正經營。",
       "長年是事皆拋盡，今日欄邊暫眼明。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

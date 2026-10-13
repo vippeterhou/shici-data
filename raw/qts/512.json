@@ -148,12 +148,12 @@
     "title": "南澗寺",
     "author": "歐陽袞",
     "paragraphs": [
-      "春寺無人亂鳥啼，藤蘿陰磴野僧迷。雲藏古壁遺龍象，",
+      "春寺無人亂鳥啼，藤蘿陰磴野僧迷。雲藏古壁遺龍象，草沒香台抱鹿麛。松籟泠泠疑梵唄，柳煙歷歷見招提。",
       "為耽寂樂親禪侶，莫怪閑行費馬蹄。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

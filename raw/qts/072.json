@@ -55,12 +55,12 @@
     "title": "三月三日宴王明府山亭",
     "author": "崔知賢",
     "paragraphs": [
-      "京洛皇居，芳禊春餘。影媚元巳，和風上除。雲開翠帟，",
+      "京洛皇居，芳禊春餘。影媚元巳，和風上除。雲開翠帟，煙霞卷舒。花飄粉蝶，藻躍文魚。",
       "沿波式宴，其樂只且。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4],
+      "sentence_count": 10,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     }
   },
@@ -68,12 +68,12 @@
     "title": "三月三日宴王明府山亭",
     "author": "席元明",
     "paragraphs": [
-      "日惟上巳，時亨有巢。中尊引桂，芳筵藉茅。書僮橐筆，",
+      "日惟上巳，時亨有巢。中尊引桂，芳筵藉茅。書僮橐筆，膳夫行炰。煙霏萬雉，花明四郊。沼蘋白帶，山花紫苞。",
       "同人聚飲，千載神交。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4],
+      "sentence_count": 12,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     }
   },
@@ -120,12 +120,12 @@
     "title": "三月三日宴王明府山亭",
     "author": "韓仲宣",
     "paragraphs": [
-      "河濱上巳，洛汭春華。碧池涵日，翠斝澄霞。溝垂細柳，",
+      "河濱上巳，洛汭春華。碧池涵日，翠斝澄霞。溝垂細柳，岸擁平沙。歌鶯響樹，舞蝶驚花。雲浮寶馬，水韻香車。",
       "熟記行樂，淹留景斜。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4],
+      "sentence_count": 12,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     }
   },
@@ -159,12 +159,12 @@
     "title": "三月三日宴王明府山亭",
     "author": "高球",
     "paragraphs": [
-      "洛城春禊，元巳芳年。季倫園裏，逸少亭前。曲中舉白，",
+      "洛城春禊，元巳芳年。季倫園裏，逸少亭前。曲中舉白，談際生玄。陸離軒蓋，淒清管弦。柳弱風牽。",
       "未淹歡趣，林溪夕煙。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4],
+      "sentence_count": 11,
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
       "uniform_sentence_length": 4
     }
   },

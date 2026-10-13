@@ -62,24 +62,24 @@
     "title": "題壁",
     "author": "嚴含質",
     "paragraphs": [
-      "下玄八千億甲子，丹飛先生嚴含質。謫下中天被斑革，"
+      "下玄八千億甲子，丹飛先生嚴含質。謫下中天被斑革，六千甲子。血食澗飲廁猿狖，下濁界。景雲元紀升太一。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
-      "uniform_sentence_length": 7
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 4, 7, 3, 7],
+      "uniform_sentence_length": null
     }
   },
   {
     "title": "無題",
     "author": "李微",
     "paragraphs": [
-      "偶因狂疾成殊類，災患相仍不可逃。今日爪牙誰敢敵，",
+      "偶因狂疾成殊類，災患相仍不可逃。今日爪牙誰敢敵，當時聲跡共相高。我為異物蓬茅下，君已乘軺氣勢豪。",
       "此夕溪山對明月，不成長嘯但成嗥。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

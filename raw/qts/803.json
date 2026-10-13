@@ -173,12 +173,12 @@
     "title": "謁巫山廟",
     "author": "薛濤",
     "paragraphs": [
-      "亂猿啼處訪高唐，路入煙霞草木香。山色未能忘宋玉，",
+      "亂猿啼處訪高唐，路入煙霞草木香。山色未能忘宋玉，水聲猶是哭襄王。朝朝夜夜陽臺下，為雨為雲楚國亡。",
       "惆悵廟前多少柳，春來空鬥畫眉長。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -186,12 +186,12 @@
     "title": "牡丹",
     "author": "薛濤",
     "paragraphs": [
-      "去春零落暮春時，淚濕紅箋怨別離。常恐便同巫峽散，",
+      "去春零落暮春時，淚濕紅箋怨別離。常恐便同巫峽散，因何重有武陵期。傳情每向馨香得，不語還應彼此知。",
       "只欲欄邊安枕席，夜深閑共說相思。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1070,11 +1070,11 @@
     "title": "江月樓",
     "author": "薛濤",
     "paragraphs": [
-      "秋風仿佛吳江冷，鷗路參差夕陽影。垂虹納納臥譙門，"
+      "秋風仿佛吳江冷，鷗路參差夕陽影。垂虹納納臥譙門，雉堞眈眈俯漁艇。陽安小兒拍手笑，使君幻出江南景。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1121,12 +1121,12 @@
     "title": "寄舊詩與元微之",
     "author": "薛濤",
     "paragraphs": [
-      "詩篇調態人皆有，細膩風光我獨知。月下詠花憐暗澹，",
+      "詩篇調態人皆有，細膩風光我獨知。月下詠花憐暗澹，雨朝題柳為欹垂。長教碧玉藏深處，總向紅箋寫自隨。",
       "老大不能收拾得，與君開似教男兒。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

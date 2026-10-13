@@ -55,12 +55,12 @@
     "title": "酬張秘書因寄馬贈詩",
     "author": "裴度",
     "paragraphs": [
-      "滿城馳逐皆求馬，古寺閑行獨與君。代步本慚非逸足，",
+      "滿城馳逐皆求馬，古寺閑行獨與君。代步本慚非逸足，緣情何幸枉高文。若逢佳麗從將換，莫共駑駘角出群。",
       "飛控著鞭能顧我，當時王粲亦從軍。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -68,12 +68,12 @@
     "title": "真慧寺",
     "author": "裴度",
     "paragraphs": [
-      "遍尋真跡躡莓苔，世事全拋不忍回。上界不知何處去，",
+      "遍尋真跡躡莓苔，世事全拋不忍回。上界不知何處去，西天移向此間來。岩前芍藥師親種，嶺上青松佛手栽。",
       "更有一般人不見，白蓮花向半天開。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

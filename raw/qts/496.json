@@ -98,14 +98,14 @@
     "title": "送劉禹錫郎中赴蘇州",
     "author": "姚合",
     "paragraphs": [
-      "三十年來天下名，銜恩東守闔閭城。初經咸穀眠山驛，",
+      "三十年來天下名，銜恩東守闔閭城。初經咸穀眠山驛，漸入梁園問水程。霽日滿江寒浪靜，春風繞郭白蘋生。",
       "虎丘野寺吳中少，誰伴吟詩月裏行。",
-      "州城全是故吳宮，香徑難尋古蘚中。雲水計程千里遠，",
+      "州城全是故吳宮，香徑難尋古蘚中。雲水計程千里遠，軒車送別九衢空。鶴聲高下聽無盡，潮色朝昏望不同。",
       "太守吟詩人自理，小齋閑臥白蘋風。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 16,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -165,12 +165,12 @@
     "title": "送崔約下第歸揚州",
     "author": "姚合",
     "paragraphs": [
-      "滿座詩人吟送酒，離城此會亦應稀。春風下第時稱屈，",
+      "滿座詩人吟送酒，離城此會亦應稀。春風下第時稱屈，秋卷呈親自束歸。日晚山花當馬落，天陰水鳥傍船飛。",
       "江邊道路多苔蘚，塵土無由得上衣。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -533,12 +533,12 @@
     "title": "送河中楊少府宴崔駙馬宅",
     "author": "姚合",
     "paragraphs": [
-      "鳳凰樓下醉醺醺，晚出東門蟬漸聞。不使鄉人治驛路，",
+      "鳳凰樓下醉醺醺，晚出東門蟬漸聞。不使鄉人治驛路，卻將家累宿山雲。閒時采藥隨僧去，每月請錢共客分。",
       "縣吏若非三載滿，自知無計更尋君。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -546,12 +546,12 @@
     "title": "送文著上人游越",
     "author": "姚合",
     "paragraphs": [
-      "水石隨緣豈計程，東吳相遇別西京。夜禪月下袈裟濕，",
+      "水石隨緣豈計程，東吳相遇別西京。夜禪月下袈裟濕，曉上山巔錫杖鳴。念我為官應易老，羨師依佛學無生。",
       "越中多有前朝寺，處處鐵鐘石磬聲。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -559,12 +559,12 @@
     "title": "送無可上人遊越",
     "author": "姚合",
     "paragraphs": [
-      "清晨相訪立門前，麻履方袍一少年。懶讀經文求作佛，",
+      "清晨相訪立門前，麻履方袍一少年。懶讀經文求作佛，願攻詩句覓升仙。芳春山影花連寺，獨夜潮聲月滿船。",
       "今日送行偏惜別，共師文字有因緣。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -611,12 +611,12 @@
     "title": "送崔郎中赴常州",
     "author": "姚合",
     "paragraphs": [
-      "貴是鴒原在紫微，榮逢知己領黃扉。人間盛事今全得，",
+      "貴是鴒原在紫微，榮逢知己領黃扉。人間盛事今全得，江上政聲複欲歸。風起滿城山果落，雨餘穿宅水禽飛。",
       "昔年嘗作毗陵客，石峭泉清天下稀。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -624,12 +624,12 @@
     "title": "送林使君赴邵州",
     "author": "姚合",
     "paragraphs": [
-      "詔書飛下五雲間，才子分符不等閒。驛路算程多是水，",
+      "詔書飛下五雲間，才子分符不等閒。驛路算程多是水，州圖管地少於山。江頭斑竹尋應遍，洞裏丹砂自采還。",
       "清淨化人人自理，終朝無事更相關。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -637,12 +637,12 @@
     "title": "送別友人",
     "author": "姚合",
     "paragraphs": [
-      "獨向山中覓紫芝，山人勾引住多時。摘花浸酒春愁盡，",
+      "獨向山中覓紫芝，山人勾引住多時。摘花浸酒春愁盡，燒竹煎茶夜臥遲。泉落林梢多碎滴，松生石底足旁枝。",
       "明朝卻欲歸城市，問我來期總不知。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -698,12 +698,12 @@
     "title": "送饒州張使君",
     "author": "姚合",
     "paragraphs": [
-      "鄱陽勝事聞難比，千里連連是稻畦。山寺去時通水路，",
+      "鄱陽勝事聞難比，千里連連是稻畦。山寺去時通水路，郡圖開處是詩題。化行應免農人困，庭靜惟多野鶴棲。",
       "飲罷春明門外別，蕭條驛路夕陽低。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -863,12 +863,12 @@
     "title": "送盛秀才赴舉",
     "author": "姚合",
     "paragraphs": [
-      "重重吳越浙江潮，刺史何門始得消。五字州人唯有此，",
+      "重重吳越浙江潮，刺史何門始得消。五字州人唯有此，四鄰風景合相饒。橘村籬落香潛度，竹寺虛空翠自飄。",
       "君去九衢須說我，病成疏懶懶趨朝。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -876,12 +876,12 @@
     "title": "送僧貞實歸杭州天竺",
     "author": "姚合",
     "paragraphs": [
-      "石橋寺裏最清涼，聞說茆庵寄上方。林外猿聲連院磬，",
+      "石橋寺裏最清涼，聞說茆庵寄上方。林外猿聲連院磬，月中潮色到禪床。他生念我身何在，此世唯師性亦忘。",
       "九陌相逢千里別，青山重疊樹蒼蒼。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -942,12 +942,12 @@
     "title": "送源中丞赴新羅",
     "author": "姚合",
     "paragraphs": [
-      "赤墀賜對使殊方，官重霜台紫綬光。玉節在船清海怪，",
+      "赤墀賜對使殊方，官重霜台紫綬光。玉節在船清海怪，金函開詔拜夷王。雲晴漸覺山川異，風便那知道路長。",
       "誰得似君將雨露，海東萬里灑扶桑。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -955,12 +955,12 @@
     "title": "送陳倜赴江陵從事",
     "author": "姚合",
     "paragraphs": [
-      "荊州勝事眾皆聞，幕下今朝又得君。才子何須藉科第，",
+      "荊州勝事眾皆聞，幕下今朝又得君。才子何須藉科第，男兒終久要功勳。江村竹樹多於草，山路塵埃半是雲。",
       "新什定知饒景思，不應一向賦從軍。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1163,12 +1163,12 @@
     "title": "送獨孤煥評事赴豐州",
     "author": "姚合",
     "paragraphs": [
-      "東門攜酒送廷評，結束從軍塞上行。深磧路移唯馬覺，",
+      "東門攜酒送廷評，結束從軍塞上行。深磧路移唯馬覺，斷蓬風起與雕平。煙生遠戍侵雲色，冰疊黃河長雪聲。",
       "須鑿燕然山上石，登科記裏是閑名。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1241,12 +1241,12 @@
     "title": "惜別",
     "author": "姚合",
     "paragraphs": [
-      "酒闌歌罷更遲留，攜手思量憑翠樓。桃李容華猶歎月，",
+      "酒闌歌罷更遲留，攜手思量憑翠樓。桃李容華猶歎月，風流才器亦悲秋。光陰不覺朝昏過，岐路無窮早晚休。",
       "似把剪刀裁別恨，兩人分得一般愁。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1254,12 +1254,12 @@
     "title": "欲別",
     "author": "姚合",
     "paragraphs": [
-      "山川重疊遠茫茫，欲別先憂別恨長。紅芍藥花雖共醉，",
+      "山川重疊遠茫茫，欲別先憂別恨長。紅芍藥花雖共醉，綠蘼蕪影又分將。鴛鴦有路高低去，鴻雁南飛一兩行。",
       "惆悵與君煙景迥，不知何日到瀟湘。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

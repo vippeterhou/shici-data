@@ -3,12 +3,12 @@
     "title": "春曉曲",
     "author": "溫庭筠",
     "paragraphs": [
-      "家臨長信往來道，乳燕雙雙拂煙草。油壁車輕金犢肥，",
+      "家臨長信往來道，乳燕雙雙拂煙草。油壁車輕金犢肥，流蘇帳曉春雞早。籠中嬌鳥暖猶睡，簾外落花閑不掃。",
       "衰桃一樹近前池，似惜紅顏鏡中老。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -148,12 +148,12 @@
     "title": "七夕",
     "author": "溫庭筠",
     "paragraphs": [
-      "鳴機劄劄停金梭，芙蓉澹蕩生池波。神軒紅粉陳香羅，",
-      "彎橋銷盡愁奈何，天氣駘蕩雲陂阤。平明花木有秋意，"
+      "鳴機劄劄停金梭，芙蓉澹蕩生池波。神軒紅粉陳香羅，鳳低蟬薄愁雙蛾。微光奕奕淩天河，鸞咽鶴唳飄颻歌。",
+      "彎橋銷盡愁奈何，天氣駘蕩雲陂阤。平明花木有秋意，露濕彩盤蛛網多。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 10,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -201,12 +201,12 @@
     "title": "經西塢偶題",
     "author": "溫庭筠",
     "paragraphs": [
-      "搖搖弱柳黃鸝啼，芳草無情人自迷。日影明滅金色鯉，",
+      "搖搖弱柳黃鸝啼，芳草無情人自迷。日影明滅金色鯉，杏花唼喋青頭雞。微紅奈蒂惹峰粉，潔白芹芽穿燕泥。",
       "借問含嚬向何事，昔年曾到武陵溪。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -487,12 +487,12 @@
     "title": "西陵道士茶歌",
     "author": "溫庭筠",
     "paragraphs": [
-      "乳竇濺濺通石脈，綠塵愁草春江色。澗花入井水味香，",
+      "乳竇濺濺通石脈，綠塵愁草春江色。澗花入井水味香，山月當人松影直。仙翁白扇霜鳥翎，拂壇夜讀黃庭經。",
       "疏香皓齒有餘味，更覺鶴心通杳冥。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

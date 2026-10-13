@@ -40,12 +40,12 @@
     "title": "詠春風",
     "author": "崔涯",
     "paragraphs": [
-      "動地經天物不傷，高情逸韻住何方。扶持燕雀連天去，",
+      "動地經天物不傷，高情逸韻住何方。扶持燕雀連天去，斷送楊花盡日狂。繞桂月明過萬戶，弄帆晴晚渡三湘。",
       "孤雲雖是無心物，借便吹教到帝鄉。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -53,12 +53,12 @@
     "title": "竹",
     "author": "崔涯",
     "paragraphs": [
-      "領得溪風不放回，傍窗緣砌遍庭栽。須招野客為鄰住，",
+      "領得溪風不放回，傍窗緣砌遍庭栽。須招野客為鄰住，看引山禽入郭來。幽院獨驚秋氣早，小門深向綠陰開。",
       "誰憐翠色兼寒影，靜落茶甌與酒杯。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -131,12 +131,12 @@
     "title": "自蘇州至望亭驛有作",
     "author": "郭良驥",
     "paragraphs": [
-      "南浦菰蒲繞白蘋，東吳黎庶逐黃巾。野棠自發空流水，",
+      "南浦菰蒲繞白蘋，東吳黎庶逐黃巾。野棠自發空流水，江燕初歸不見人。遠岫依依如送客，平田渺渺獨傷春。",
       "那堪回首長洲苑，烽火年年報虜塵。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -161,11 +161,11 @@
       "風號水激兮呼不聞，提壺看入兮中流去。",
       "浪擺衣裳兮隨步沒，沉屍深入兮蛟螭窟。",
       "蛟螭盡醉兮君血幹，推出黃沙兮泛君骨。",
-      "當時君死妾何適，遂就波濤合魂魄。願持精衛銜石心，"
+      "當時君死妾何適，遂就波濤合魂魄。願持精衛銜石心，窮取河源塞泉脈。"
     ],
     "format": {
-      "sentence_count": 11,
-      "sentence_lengths": [8, 8, 8, 8, 8, 8, 8, 8, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [8, 8, 8, 8, 8, 8, 8, 8, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -173,12 +173,12 @@
     "title": "松",
     "author": "王睿",
     "paragraphs": [
-      "寒松聳拔倚蒼岑，綠葉扶疏自結陰。丁固夢時還有意，",
+      "寒松聳拔倚蒼岑，綠葉扶疏自結陰。丁固夢時還有意，秦王封日豈無心。常將正節棲孤鶴，不遣高枝宿眾禽。",
       "好是特凋群木後，護霜淩雪翠逾深。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -186,12 +186,12 @@
     "title": "竹",
     "author": "王睿",
     "paragraphs": [
-      "庭竹森疏玉質寒，色包蔥碧盡琅玕。翠筠不樂湘娥淚，",
+      "庭竹森疏玉質寒，色包蔥碧盡琅玕。翠筠不樂湘娥淚，斑籜堪裁漢主冠。成韻含風已蕭瑟，媚漣凝淥更檀欒。",
       "此君引鳳為龍日，聳節稍雲直上看。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

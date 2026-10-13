@@ -340,12 +340,12 @@
     "title": "寄李儋、元錫",
     "author": "韋應物",
     "paragraphs": [
-      "去年花裏逢君別，今日花開已一年。世事茫茫難自料，",
+      "去年花裏逢君別，今日花開已一年。世事茫茫難自料，春愁黯黯獨成眠。身多疾病思田裏，邑有流亡愧俸錢。",
       "聞道欲來相問訊，西樓望月幾回圓。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -854,11 +854,11 @@
     "title": "寄二嚴",
     "author": "韋應物",
     "paragraphs": [
-      "絲竹久已懶，今日遇君忺。打破蜘蛛千道網，"
+      "絲竹久已懶，今日遇君忺。打破蜘蛛千道網，總為鶺鴒兩個嚴。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 7, 7],
       "uniform_sentence_length": null
     }
   }

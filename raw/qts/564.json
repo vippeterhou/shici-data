@@ -55,12 +55,12 @@
     "title": "贈舍弟",
     "author": "楊牢",
     "paragraphs": [
-      "秦雲蜀浪兩堪愁，爾養晨昏我遠遊。千里客心難寄夢，",
+      "秦雲蜀浪兩堪愁，爾養晨昏我遠遊。千里客心難寄夢，兩行鄉淚為君流。早驅風雨知龍聖，餓食魚蝦覺虎羞。",
       "袖裏鏌鋣光似水，丈夫不合等閒休。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -187,12 +187,12 @@
     "title": "題越王樓寄獻中丞使君",
     "author": "劉暌",
     "paragraphs": [
-      "朱軒迥壓碧煙州，昔歲賢王是勝遊。山簇劍峰朝闕遠，",
+      "朱軒迥壓碧煙州，昔歲賢王是勝遊。山簇劍峰朝闕遠，水如巴字繞城流。人間物象分千里，天上笙歌醉五侯。",
       "今日登臨無限意，同沾惠化自銷愁。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -200,12 +200,12 @@
     "title": "秋日登越王樓獻於中丞",
     "author": "李渥",
     "paragraphs": [
-      "越王曾牧劍南州，因向城隅建此樓。橫玉遠開千嶠雪，",
+      "越王曾牧劍南州，因向城隅建此樓。橫玉遠開千嶠雪，暗雷下聽一江流。畫簷先弄朝陽色，朱檻低臨眾木秋。",
       "徒學仲宣聊四望，且將詞賦好依劉。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

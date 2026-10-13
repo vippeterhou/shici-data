@@ -397,12 +397,12 @@
     "title": "守歲侍宴應制",
     "author": "杜審言",
     "paragraphs": [
-      "季冬除夜接新年，帝子王孫捧禦筵。宮闕星河低拂樹，",
+      "季冬除夜接新年，帝子王孫捧禦筵。宮闕星河低拂樹，彈弦奏節梅風入，對局探鉤柏酒傳。",
       "欲向正元歌萬壽，暫留歡賞寄春前。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -423,12 +423,12 @@
     "title": "春日京中有懷",
     "author": "杜審言",
     "paragraphs": [
-      "今年游寓獨游秦，愁思看春不當春。上林苑裏花徒發，",
+      "今年游寓獨游秦，愁思看春不當春。上林苑裏花徒發，細柳營前葉漫新。公子南橋應盡興，將軍西第幾留賓。",
       "寄語洛城風日道，明年春色倍還人。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

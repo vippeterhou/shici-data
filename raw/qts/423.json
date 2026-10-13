@@ -97,12 +97,12 @@
     "title": "除夜酬樂天",
     "author": "元稹",
     "paragraphs": [
-      "引儺綏旆亂毿毿，戲罷人歸思不堪。虛漲火塵龜浦北，",
+      "引儺綏旆亂毿毿，戲罷人歸思不堪。虛漲火塵龜浦北，無由阿傘鳳城南。休官期限元同約，除夜情懷老共諳。",
       "莫道明朝始添歲，今年春在歲前三。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -200,12 +200,12 @@
     "title": "贈毛仙翁",
     "author": "元稹",
     "paragraphs": [
-      "仙駕初從蓬海來，相逢又說向天臺。一言親授希微訣，",
+      "仙駕初從蓬海來，相逢又說向天臺。一言親授希微訣，三夕同傾沆瀣杯。此日臨風飄羽衛，他年嘉約指鹽梅。",
       "花前揮手迢遙去，目斷霓旌不可陪。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -255,12 +255,12 @@
     "title": "酬張秘書因寄馬贈詩",
     "author": "元稹",
     "paragraphs": [
-      "丞相功高厭武名，牽將戰馬寄儒生。四蹄荀距藏雖盡，",
+      "丞相功高厭武名，牽將戰馬寄儒生。四蹄荀距藏雖盡，六尺須頭見尚驚。減粟偷兒憎未飽，騎驢詩客罵先行。",
       "勸君還卻司空著，莫遣衙參傍子城。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -307,12 +307,12 @@
     "title": "寄贈薛濤",
     "author": "元稹",
     "paragraphs": [
-      "錦江滑膩蛾眉秀，幻出文君與薛濤。言語巧偷鸚鵡舌，",
+      "錦江滑膩蛾眉秀，幻出文君與薛濤。言語巧偷鸚鵡舌，文章分得鳳凰毛。紛紛辭客多停筆，個個公卿欲夢刀。",
       "別後相思隔煙水，菖蒲花發五雲高。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -320,12 +320,12 @@
     "title": "贈劉采春",
     "author": "元稹",
     "paragraphs": [
-      "新妝巧樣畫雙蛾，謾裏常州透額羅。正面偷勻光滑笏，",
+      "新妝巧樣畫雙蛾，謾裏常州透額羅。正面偷勻光滑笏，緩行輕踏破紋波。言辭雅措風流足，舉止低回秀媚多。",
       "更有惱人腸斷處，選詞能唱望夫歌。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -359,11 +359,11 @@
     "title": "一字至七字詩：茶",
     "author": "元稹",
     "paragraphs": [
-      "茶，香葉，嫩芽。慕詩客，愛僧家。碾雕白玉，"
+      "茶，香葉，嫩芽。慕詩客，愛僧家。碾雕白玉，羅織紅紗。銚煎黃蕊色，碗轉麹塵花。夜後邀陪明月，晨前命對朝霞。洗盡古今人不倦，將知醉後豈堪誇。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [1, 2, 2, 3, 3, 4],
+      "sentence_count": 13,
+      "sentence_lengths": [1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7],
       "uniform_sentence_length": null
     }
   },

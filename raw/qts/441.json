@@ -16,12 +16,12 @@
     "title": "初到忠州贈李六",
     "author": "白居易",
     "paragraphs": [
-      "好在天涯李使君，江頭相見日黃昏。吏人生梗都如鹿，",
+      "好在天涯李使君，江頭相見日黃昏。吏人生梗都如鹿，一隻蘭船當驛路，百層石磴上州門。",
       "更無平地堪行處，虛受朱輪五馬恩。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -81,12 +81,12 @@
     "title": "京使回累得南省諸公書因以長句詩寄謝蕭五劉二元八吳十一韋大陸郎中崔二十二牛二李七庾三十二李六李十楊三樊大楊十二員外",
     "author": "白居易",
     "paragraphs": [
-      "雪壓泥埋未死身，每勞存問愧交親。浮萍飄泊三千里，",
+      "雪壓泥埋未死身，每勞存問愧交親。浮萍飄泊三千里，列宿參差十五人。禁月落時君待漏，畬煙深處我行春。",
       "瘴鄉得老猶為幸，豈敢傷嗟白髮新。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -124,11 +124,11 @@
     "title": "種桃杏",
     "author": "白居易",
     "paragraphs": [
-      "無論海角與天涯，大抵心安即是家。路遠誰能念鄉曲，"
+      "無論海角與天涯，大抵心安即是家。路遠誰能念鄉曲，年深兼欲忘京華。忠州且作三年計，種杏栽桃擬待花。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -187,11 +187,11 @@
     "title": "感櫻桃花，因招飲客",
     "author": "白居易",
     "paragraphs": [
-      "櫻桃昨夜開如雪，鬢髮今年白似霜。漸覺花前成老醜，"
+      "櫻桃昨夜開如雪，鬢髮今年白似霜。漸覺花前成老醜，何曾酒後更顛狂。誰能聞此來相勸，共泥春風醉一場。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -251,12 +251,12 @@
     "title": "即事寄微之",
     "author": "白居易",
     "paragraphs": [
-      "畬田澀米不耕鋤，旱地荒園少菜蔬。想念土風今若此，",
+      "畬田澀米不耕鋤，旱地荒園少菜蔬。想念土風今若此，料看生計合何如。衣縫紕纇黃絲絹，飯下腥鹹白小魚。",
       "飽暖饑寒何足道，此身長短是空虛。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -297,12 +297,12 @@
     "title": "重寄荔枝與楊使君，時聞楊使君欲種植故有落句之戲",
     "author": "白居易",
     "paragraphs": [
-      "摘來正帶淩晨露，寄去須憑下水船。映我緋衫渾不見，",
+      "摘來正帶淩晨露，寄去須憑下水船。映我緋衫渾不見，對公銀印最相鮮。香連翠葉真堪畫，紅透青籠實可憐。",
       "聞道萬州方欲種，愁君得吃是何年。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -414,12 +414,12 @@
     "title": "送蕭處士游黔南",
     "author": "白居易",
     "paragraphs": [
-      "能文好飲老蕭郎，身似浮雲鬢似霜。生計拋來詩是業，",
+      "能文好飲老蕭郎，身似浮雲鬢似霜。生計拋來詩是業，家園忘卻酒為鄉。江從巴峽初成字，猿過巫陽始斷腸。",
       "不醉黔中爭去得，磨圍山月正蒼蒼。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -440,12 +440,12 @@
     "title": "寄微之",
     "author": "白居易",
     "paragraphs": [
-      "高天默默物茫茫，各有來由致損傷。鸚為能言長剪翅，",
+      "高天默默物茫茫，各有來由致損傷。鸚為能言長剪翅，莫嫌冷落拋閑地，猶勝炎蒸臥瘴鄉。",
       "外物竟關身底事，謾排門戟系腰章。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -479,12 +479,12 @@
     "title": "冬至夜",
     "author": "白居易",
     "paragraphs": [
-      "老去襟懷常濩落，病來須鬢轉蒼浪。心灰不及爐中火，",
+      "老去襟懷常濩落，病來須鬢轉蒼浪。心灰不及爐中火，鬢雪多於砌下霜。三峽南賓城最遠，一年冬至夜偏長。",
       "今宵始覺房櫳冷，坐索寒衣托孟光。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -609,12 +609,12 @@
     "title": "春至",
     "author": "白居易",
     "paragraphs": [
-      "若為南國春還至，爭向東樓日又長。白片落梅浮澗水，",
+      "若為南國春還至，爭向東樓日又長。白片落梅浮澗水，黃梢新柳出城牆。閑拈蕉葉題詩詠，悶取藤枝引酒嘗。",
       "樂事漸無身漸老，從今始擬負風光。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -635,12 +635,12 @@
     "title": "春江",
     "author": "白居易",
     "paragraphs": [
-      "炎涼昏曉苦推遷，不覺忠州已二年。閉閣只聽朝暮鼓，",
+      "炎涼昏曉苦推遷，不覺忠州已二年。閉閣只聽朝暮鼓，上樓空望往來船。鶯聲誘引來花下，草色句留坐水邊。",
       "唯有春江看未厭，縈砂繞石淥潺湲。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -713,12 +713,12 @@
     "title": "喜山石榴花開",
     "author": "白居易",
     "paragraphs": [
-      "忠州州裏今日花，廬山山頭去時樹。已憐根損斬新栽，",
+      "忠州州裏今日花，廬山山頭去時樹。已憐根損斬新栽，還喜花開依舊數。赤玉何人少琴軫，紅纈誰家合羅袴。",
       "但知爛熳恣情開，莫怕南賓桃李妒。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -817,12 +817,12 @@
     "title": "房家夜宴喜雪，戲贈主人",
     "author": "白居易",
     "paragraphs": [
-      "風頭向夜利如刀，賴此溫爐軟錦袍。桑落氣熏珠翠暖，",
+      "風頭向夜利如刀，賴此溫爐軟錦袍。桑落氣熏珠翠暖，柘枝聲引管弦高。酒鉤送醆推蓮子，燭淚粘盤壘蒲萄。",
       "不醉遣儂爭散得，門前雪片似鵝毛。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -843,12 +843,12 @@
     "title": "初除尚書郎，脫刺史緋",
     "author": "白居易",
     "paragraphs": [
-      "親賓相賀問何如，服色恩光盡反初。頭白喜拋黃草峽，",
+      "親賓相賀問何如，服色恩光盡反初。頭白喜拋黃草峽，眼明驚拆紫泥書。便留朱紱還鈴閣，卻著青袍侍玉除。",
       "無奈嬌癡三歲女，繞腰啼哭覓金魚。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -952,11 +952,11 @@
     "author": "白居易",
     "paragraphs": [
       "惻惻複惻惻，逐臣返鄉國。前事難重論，少年不再得。",
-      "泥塗絳老頭班白，炎瘴靈均面黎黑。六年不死卻歸來，"
+      "泥塗絳老頭班白，炎瘴靈均面黎黑。六年不死卻歸來，道著姓名人不識。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

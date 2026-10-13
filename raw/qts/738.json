@@ -43,12 +43,12 @@
     "title": "陪華林園試小妓羯鼓",
     "author": "宋齊丘",
     "paragraphs": [
-      "切斷牙床鏤紫金，最宜平穩玉槽深。因逢淑景開佳宴，",
+      "切斷牙床鏤紫金，最宜平穩玉槽深。因逢淑景開佳宴，為出花奴奏雅音。掌底輕璁孤鵲噪，枝頭幹快亂蟬吟。",
       "開元天子曾如此，今日將軍好用心。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -56,11 +56,11 @@
     "title": "句",
     "author": "宋齊丘",
     "paragraphs": [
-      "大似賢臣扶社稷，遇明則見暗還藏。（《影詩》，"
+      "大似賢臣扶社稷，遇明則見暗還藏。（《影詩》，見《吟窗雜錄》）"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 2],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 2, 5],
       "uniform_sentence_length": null
     }
   },
@@ -68,12 +68,12 @@
     "title": "早朝",
     "author": "馮延巳",
     "paragraphs": [
-      "銅壺滴漏初晝，高閣雞鳴半空。催啟五門金鎖，",
-      "鴛瓦數行曉日，鸞旗百尺春風。侍臣踏舞重拜，"
+      "銅壺滴漏初晝，高閣雞鳴半空。催啟五門金鎖，猶垂三殿簾櫳。階前禦柳搖綠，仗下宮花散紅。",
+      "鴛瓦數行曉日，鸞旗百尺春風。侍臣踏舞重拜，聖壽南山永同。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [6, 6, 6, 6, 6, 6],
+      "sentence_count": 10,
+      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },
@@ -172,11 +172,11 @@
     "title": "七歲吟",
     "author": "潘佑",
     "paragraphs": [
-      "朝遊滄海東，暮歸何太速。只因騎折白龍腰，"
+      "朝遊滄海東，暮歸何太速。只因騎折白龍腰，謫向人間三十六。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -234,12 +234,12 @@
     "title": "寄孟賓于",
     "author": "李昉",
     "paragraphs": [
-      "初攜書劍別湘潭，金榜標名第十三。昔日聲名喧洛下，",
+      "初攜書劍別湘潭，金榜標名第十三。昔日聲名喧洛下，近來詩價滿江南。長為邑令情終屈，縱處曹郎志未甘。",
       "莫學馮唐便休去，明君晚事未為慚。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -247,12 +247,12 @@
     "title": "送孟賓于",
     "author": "馬致恭",
     "paragraphs": [
-      "曾聞洛下綴神仙，火樹南棲幾十年。白首自忻丹桂在，",
+      "曾聞洛下綴神仙，火樹南棲幾十年。白首自忻丹桂在，詩名已得四方傳。行隨秋渚將歸雁，吟傍梅花欲雪天。",
       "今日還家莫惆悵，不同初上渡頭船。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -260,12 +260,12 @@
     "title": "奉和聖制元日大雪登樓",
     "author": "張義方",
     "paragraphs": [
-      "恰當歲日紛紛落，天寶瑤花助物華。自古最先標瑞牒，",
+      "恰當歲日紛紛落，天寶瑤花助物華。自古最先標瑞牒，有誰輕擬比楊花。密飄粉署光同冷，靜壓青松勢欲斜。",
       "豈但小臣添興詠，狂歌醉舞一家家。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

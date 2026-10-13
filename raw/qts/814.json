@@ -358,12 +358,12 @@
     "title": "題崔駙馬林亭",
     "author": "無可",
     "paragraphs": [
-      "宮花野藥半相和，藤蔓參差惜不科。纖草連門留徑細，",
+      "宮花野藥半相和，藤蔓參差惜不科。纖草連門留徑細，高樓出樹見山多。洞中避暑青苔滿，池上吟詩白鳥過。",
       "更買太湖千片石，疊成雲頂綠嵾峨。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -180,11 +180,11 @@
     "author": "張元一",
     "paragraphs": [
       "朱前疑著綠，逯仁傑著朱。閻知微騎馬，馬吉甫騎驢。",
-      "將名作姓李千里，將姓作名吳棲梧。左台胡禦史，"
+      "將名作姓李千里，將姓作名吳棲梧。左台胡禦史，右台禦史胡。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 5, 5, 5, 7, 7, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 7, 7, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -243,11 +243,11 @@
     "author": "石抱忠",
     "paragraphs": [
       "平明發始平，薄暮至何城。庫塔朝雲上，晃池夜月明。",
-      "略彴橋頭逢長史，欞星門外揖司兵，一群縣尉驢騾驟，"
+      "略彴橋頭逢長史，欞星門外揖司兵，一群縣尉驢騾驟，數個參軍鵝鴨行。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -344,23 +344,23 @@
     "title": "乞金魚詞",
     "author": "崔日用",
     "paragraphs": [
-      "台中鼠子直須諳，信足跳樑上壁龕。倚翻燈脂汙張五，"
+      "台中鼠子直須諳，信足跳樑上壁龕。倚翻燈脂汙張五，還來齧帶報韓三。莫浪語，直王相。大家必若賜金龜，賣卻貓兒相報賞。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
-      "uniform_sentence_length": 7
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7],
+      "uniform_sentence_length": null
     }
   },
   {
     "title": "又賜宴自歌",
     "author": "崔日用",
     "paragraphs": [
-      "東館總是鵷鸞，南台自多杞梓。日用讀書萬卷，"
+      "東館總是鵷鸞，南台自多杞梓。日用讀書萬卷，何忍不蒙學士。墨制簾下出來，微臣眼看喜死。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [6, 6, 6],
+      "sentence_count": 6,
+      "sentence_lengths": [6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },

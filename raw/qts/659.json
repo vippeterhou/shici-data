@@ -628,12 +628,12 @@
     "title": "寄第五尊師",
     "author": "羅隱",
     "paragraphs": [
-      "苕溪煙月久因循，野鶴衣裘獨繭綸。只說泊船無定處，",
+      "苕溪煙月久因循，野鶴衣裘獨繭綸。只說泊船無定處，不知攜手是何人。朱黃揀日囚屍鬼，青白臨時注腦神。",
       "欲訪先生問經訣，世間難得不由身。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -641,12 +641,12 @@
     "title": "寄西華黃煉師",
     "author": "羅隱",
     "paragraphs": [
-      "西華有路入中華，依約山川認永嘉。羽客昔時留筱簜，",
+      "西華有路入中華，依約山川認永嘉。羽客昔時留筱簜，故人今又種煙霞。壇高已降三清鶴，海近應通八月槎。",
       "盛事兩般君總得，老萊衣服戴顒家。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -654,12 +654,12 @@
     "title": "所思",
     "author": "羅隱",
     "paragraphs": [
-      "西上青雲未有期，東歸滄海一何遲。酒闌夢覺不稱意，",
+      "西上青雲未有期，東歸滄海一何遲。酒闌夢覺不稱意，花落月明空所思。長恐病侵多事日，可堪貧過少年時。",
       "鬥雞走狗五陵道，惆悵輸他輕薄兒。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

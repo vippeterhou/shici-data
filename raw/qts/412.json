@@ -172,12 +172,12 @@
     "title": "使東川：南秦雪",
     "author": "元稹",
     "paragraphs": [
-      "帝城寒盡臨寒食，駱穀春深未有春。才見嶺頭雲似蓋，",
+      "帝城寒盡臨寒食，駱穀春深未有春。才見嶺頭雲似蓋，已驚岩下雪如塵。千峰筍石千株玉，萬樹松蘿萬朵銀。",
       "飛鳥不飛猿不動，青驄禦史上南秦。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -185,12 +185,12 @@
     "title": "使東川：江樓月",
     "author": "元稹",
     "paragraphs": [
-      "嘉陵江岸驛樓中，江在樓前月在空。月色滿床兼滿地，",
+      "嘉陵江岸驛樓中，江在樓前月在空。月色滿床兼滿地，江聲如鼓複如風。誠知遠近皆三五，但恐陰晴有異同。",
       "萬一帝鄉還潔白，幾人潛傍杏園東。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -198,12 +198,12 @@
     "title": "使東川：慚問囚",
     "author": "元稹",
     "paragraphs": [
-      "司馬子微壇上頭，與君深結白雲儔。尚平村落擬連買，",
+      "司馬子微壇上頭，與君深結白雲儔。尚平村落擬連買，王屋山泉為別遊。各待陸渾求一尉，共資三徑便同休。",
       "那知今日蜀門路，帶月夜行緣問囚。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -393,12 +393,12 @@
     "title": "贈咸陽少府蕭郎",
     "author": "元稹",
     "paragraphs": [
-      "莫怪逢君淚每盈，仲由多感有深情。陸家幼女托良婿，",
+      "莫怪逢君淚每盈，仲由多感有深情。陸家幼女托良婿，阮氏諸房無外生。顧我自傷為弟拙，念渠能繼事姑名。",
       "別時何處最腸斷，日暮渭陽驅馬行。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -406,12 +406,12 @@
     "title": "贈呂三校書",
     "author": "元稹",
     "paragraphs": [
-      "同年同拜校書郎，觸處潛行爛熳狂。共占花園爭趙辟，",
+      "同年同拜校書郎，觸處潛行爛熳狂。共占花園爭趙辟，競添錢貫定秋娘。七年浮世皆經眼，八月閑宵忽並床。",
       "語到欲明歡又泣，傍人相笑兩相傷。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -458,12 +458,12 @@
     "title": "貶江陵途中寄樂天杓直杓直以員外郎判鹽鐵樂天以拾遺在翰林",
     "author": "元稹",
     "paragraphs": [
-      "想到江陵無一事，酒杯書卷綴新文。紫芽嫩茗和枝采，",
+      "想到江陵無一事，酒杯書卷綴新文。紫芽嫩茗和枝采，朱橘香苞數瓣分。暇日上山狂逐鹿，淩晨過寺飽看雲。",
       "算緡草詔終須解，不敢將心遠羨君。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -471,12 +471,12 @@
     "title": "渡漢江",
     "author": "元稹",
     "paragraphs": [
-      "嶓塚去年尋漾水，襄陽今日渡江濆。山遙遠樹才成點，",
+      "嶓塚去年尋漾水，襄陽今日渡江濆。山遙遠樹才成點，萬里朝宗誠可羨，百川流入渺難分。",
       "鯢鯨歸穴東溟溢，又作波濤隨伍員。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -484,12 +484,12 @@
     "title": "哀病驄呈致用",
     "author": "元稹",
     "paragraphs": [
-      "櫪上病驄啼褭褭，江邊廢宅路迢迢。自經梅雨長垂耳，",
-      "曾聽禁漏驚衙鼓，慣蹋康衢怕小橋。半夜雄嘶心不死，"
+      "櫪上病驄啼褭褭，江邊廢宅路迢迢。自經梅雨長垂耳，乍食菰蔣欲折腰。金絡頭銜光未滅，玉花衫色瘦來燋。",
+      "曾聽禁漏驚衙鼓，慣蹋康衢怕小橋。半夜雄嘶心不死，日高饑臥尾還搖。龍媒薄地天池遠，何事牽牛在碧霄。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -497,14 +497,14 @@
     "title": "送嶺南崔侍禦",
     "author": "元稹",
     "paragraphs": [
-      "我是北人長北望，每嗟南雁更南飛。君今又作嶺南別，",
-      "黃家賊用鑹刀利，白水郎行旱地稀。蜃吐朝光樓隱隱，",
-      "火布垢塵須火浣，木綿溫軟當綿衣。桄榔面磣檳榔澀，",
+      "我是北人長北望，每嗟南雁更南飛。君今又作嶺南別，南雁北歸君未歸。洞主參承驚豸角，島夷安集慕霜威。",
+      "黃家賊用鑹刀利，白水郎行旱地稀。蜃吐朝光樓隱隱，鼇吹細浪雨霏霏。毒龍蛻骨轟雷鼓，野象埋牙劚石磯。",
+      "火布垢塵須火浣，木綿溫軟當綿衣。桄榔面磣檳榔澀，海氣常昏海日微。蛟老變為妖婦女，舶來多賣假珠璣。",
       "此中無限相憂事，請為殷勤事事依。"
     ],
     "format": {
-      "sentence_count": 11,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 20,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -512,12 +512,12 @@
     "title": "酬樂天八月十五夜禁中獨直玩月見寄",
     "author": "元稹",
     "paragraphs": [
-      "一年秋半月偏深，況就煙霄極賞心。金鳳台前波漾漾，",
+      "一年秋半月偏深，況就煙霄極賞心。金鳳台前波漾漾，玉鉤簾下影沉沉。宴移明處清蘭路，歌待新詞促翰林。",
       "何意枚皋正承詔，瞥然塵念到江陰。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -525,12 +525,12 @@
     "title": "予病瘴樂天寄通中散碧腴垂雲膏仍題四韻以慰遠懷開坼之間因有酬答",
     "author": "元稹",
     "paragraphs": [
-      "紫河變煉紅霞散，翠液煎研碧玉英。金籍真人天上合，",
+      "紫河變煉紅霞散，翠液煎研碧玉英。金籍真人天上合，鹽車病驥軛前驚。愁腸欲轉蛟龍吼，醉眼初開日月明。",
       "唯有思君治不得，膏銷雪盡意還生。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

@@ -826,12 +826,12 @@
     "title": "寄短書歌",
     "author": "李群玉",
     "paragraphs": [
-      "骨肉萍蓬各天末，十度附書九不達。孤台冷眼無來人，",
+      "骨肉萍蓬各天末，十度附書九不達。孤台冷眼無來人，楚水秦天莽空闊。翔雁橫秋過洞庭，西風落日浪崢嶸。",
       "三年音信凝顰外，一曲哀歌白髮生。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -839,8 +839,20 @@
     "title": "王內人琵琶引",
     "author": "李群玉",
     "paragraphs": [
-      "檀槽一曲黃鐘羽，細撥紫雲金鳳語。萬里胡天海寒秋，",
-      "嬴女停吹降浦簫，嫦娥淨掩空波瑟。翠幕橫雲蠟焰光，"
+      "檀槽一曲黃鐘羽，細撥紫雲金鳳語。萬里胡天海寒秋，分明彈出風沙愁。三千宮嬪推第一，斂黛傾鬟豔蘭室。",
+      "嬴女停吹降浦簫，嫦娥淨掩空波瑟。翠幕橫雲蠟焰光，銀龍吐酒菊花香，皓魄翻"
+    ],
+    "format": {
+      "sentence_count": 11,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 3],
+      "uniform_sentence_length": null
+    }
+  },
+  {
+    "title": "醒起獨酌懷友",
+    "author": "李群玉",
+    "paragraphs": [
+      "西風靜夜吹蓮塘，芙蓉破紅金粉香。摘花把酒弄秋芳，吳雲楚水愁茫茫。美人此夕不入夢，獨宿高樓明月涼。"
     ],
     "format": {
       "sentence_count": 6,
@@ -849,27 +861,15 @@
     }
   },
   {
-    "title": "醒起獨酌懷友",
-    "author": "李群玉",
-    "paragraphs": [
-      "西風靜夜吹蓮塘，芙蓉破紅金粉香。摘花把酒弄秋芳，"
-    ],
-    "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
-      "uniform_sentence_length": 7
-    }
-  },
-  {
     "title": "競渡時在湖外偶為成章",
     "author": "李群玉",
     "paragraphs": [
-      "雷奔電逝三千兒，彩舟畫楫射初暉。喧江雷鼓鱗甲動，",
+      "雷奔電逝三千兒，彩舟畫楫射初暉。喧江雷鼓鱗甲動，三十六龍銜浪飛。靈均昔日投湘死，千古沉魂在湘水。",
       "綠草斜煙日暮時，笛聲幽遠愁江鬼。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

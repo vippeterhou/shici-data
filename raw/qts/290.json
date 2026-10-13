@@ -191,12 +191,12 @@
     "title": "送客往鄜州",
     "author": "楊凝",
     "paragraphs": [
-      "新參將相事營平，錦帶騂弓結束輕。曉上關城吟畫角，",
+      "新參將相事營平，錦帶騂弓結束輕。曉上關城吟畫角，暗馳羌馬發支兵。回中地近風常急，鄜畤年多草自生。",
       "近喜扶陽系戎相，從來衛霍笑長纓。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -204,12 +204,12 @@
     "title": "送客往夏州",
     "author": "楊凝",
     "paragraphs": [
-      "憐君此去過居延，古塞黃雲共渺然。沙闊獨行尋馬跡，",
+      "憐君此去過居延，古塞黃雲共渺然。沙闊獨行尋馬跡，路迷遙指戍樓煙。夜投孤店愁吹笛，朝望行塵避控弦。",
       "聞有故交今從騎，何須著論更言錢。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -217,12 +217,12 @@
     "title": "春霽晚望",
     "author": "楊凝",
     "paragraphs": [
-      "細雨晴深小苑東，春雲開氣逐光風。雄兒走馬神光上，",
+      "細雨晴深小苑東，春雲開氣逐光風。雄兒走馬神光上，靜女看花佛寺中。書劍學多心欲懶，田園荒廢望頻空。",
       "南歸路極天連海，惟有相思明月同。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

@@ -180,12 +180,12 @@
     "title": "酬哥舒大見贈",
     "author": "白居易",
     "paragraphs": [
-      "去歲歡遊何處去，曲江西岸杏園東。花下忘歸因美景，",
+      "去歲歡遊何處去，曲江西岸杏園東。花下忘歸因美景，尊前勸酒是春風。各從微宦風塵裏，共度流年離別中。",
       "今日相逢愁又喜，八人分散兩人同。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -193,12 +193,12 @@
     "title": "和談校書秋夜感懷，呈朝中親友",
     "author": "白居易",
     "paragraphs": [
-      "遙夜涼風楚客悲，清砧繁漏月高時。秋霜似鬢年空長，",
+      "遙夜涼風楚客悲，清砧繁漏月高時。秋霜似鬢年空長，春草如袍位尚卑。詞賦擅名來已久，煙霄得路去何遲。",
       "漢庭卿相皆知己，不薦揚雄欲薦誰。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -401,12 +401,12 @@
     "title": "春中與盧四周諒華陽觀同居",
     "author": "白居易",
     "paragraphs": [
-      "性情懶慢好相親，門巷蕭條稱作鄰。背燭共憐深夜月，",
+      "性情懶慢好相親，門巷蕭條稱作鄰。背燭共憐深夜月，蹋花同惜少年春。杏壇住僻雖宜病，芸閣官微不救貧。",
       "文行如君尚憔悴，不知霄漢待何人。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -414,12 +414,12 @@
     "title": "自城東至以詩代書，戲招李六拾遺、崔二十六先輩",
     "author": "白居易",
     "paragraphs": [
-      "青門走馬趁心期，惆悵歸來已校遲。應過唐昌玉蕊後，",
+      "青門走馬趁心期，惆悵歸來已校遲。應過唐昌玉蕊後，猶當崇敬牡丹時。暫游還憶崔先輩，欲醉先邀李拾遺。",
       "尚殘半月芸香俸，不作歸糧作酒貲。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -439,11 +439,11 @@
     "title": "縣西郊秋寄贈馬造",
     "author": "白居易",
     "paragraphs": [
-      "紫閣峰西清渭東，野煙深處夕陽中。風荷老葉蕭條綠，"
+      "紫閣峰西清渭東，野煙深處夕陽中。風荷老葉蕭條綠，水蓼殘花寂寞紅。我厭宦遊君失意，可憐秋思兩心同。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -968,11 +968,11 @@
     "title": "過高將軍墓",
     "author": "白居易",
     "paragraphs": [
-      "原上新墳委一身，城中舊宅有何人。妓堂賓閣無歸日，"
+      "原上新墳委一身，城中舊宅有何人。妓堂賓閣無歸日，野草山花又欲春。門客空將感恩淚，白楊風裏一沾巾。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -980,11 +980,11 @@
     "title": "寒食臥病",
     "author": "白居易",
     "paragraphs": [
-      "病逢佳節長歎息，春雨濛濛榆柳色。羸坐全非舊日容，"
+      "病逢佳節長歎息，春雨濛濛榆柳色。羸坐全非舊日容，扶行半是他人力。喧喧裏巷蹋青歸，笑閉柴門度寒食。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1044,11 +1044,11 @@
     "title": "感芍藥花，寄正一上人",
     "author": "白居易",
     "paragraphs": [
-      "今日階前紅芍藥，幾花欲老幾花新。開時不解比色相，"
+      "今日階前紅芍藥，幾花欲老幾花新。開時不解比色相，落後始知如幻身。空門此去幾多地，欲把殘花問上人。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1147,12 +1147,12 @@
     "title": "自河南經亂關內阻飢兄弟離散各在一處因望月有感聊書所懷寄上浮梁大兄於潛七兄烏江十五兄兼示符離及下邽弟妹",
     "author": "白居易",
     "paragraphs": [
-      "時難年饑世業空，弟兄羈旅各西東。田園寥落干戈後，",
+      "時難年饑世業空，弟兄羈旅各西東。田園寥落干戈後，骨肉流離道路中。辭根散作九秋蓬。",
       "共看明月應垂淚，一夜鄉心五處同。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1160,12 +1160,12 @@
     "title": "長安早春旅懷",
     "author": "白居易",
     "paragraphs": [
-      "軒車歌吹喧都邑，中有一人向隅立。夜深明月捲簾愁，",
+      "軒車歌吹喧都邑，中有一人向隅立。夜深明月捲簾愁，日暮青山望鄉泣。風吹新綠草芽坼，雨灑輕黃柳條濕。",
       "此生知負少年春，不展愁眉欲三十。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

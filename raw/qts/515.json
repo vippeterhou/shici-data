@@ -293,12 +293,12 @@
     "title": "送羅先輩書記歸後卻還閩中留別",
     "author": "朱慶餘",
     "paragraphs": [
-      "同是越人從小別，忽歸鄉里見皆驚。湖邊訪舊知誰在，",
+      "同是越人從小別，忽歸鄉里見皆驚。湖邊訪舊知誰在，幕下留歡但覺榮。望嶺又生紅槿思，登車豈倦白雲程。",
       "況當季父承恩日，廉問南州政已成。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -306,12 +306,12 @@
     "title": "送浙東陸中丞",
     "author": "朱慶餘",
     "paragraphs": [
-      "坐將文教鎮藩維，花滿東南聖主知。公務肯容私暫入，",
+      "坐將文教鎮藩維，花滿東南聖主知。公務肯容私暫入，豐年長與德相隨。無賢不是朱門客，有子皆如玉樹枝。",
       "自愛此身居樂土，詠歌林下日忘疲。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -319,12 +319,12 @@
     "title": "送元處士游天臺",
     "author": "朱慶餘",
     "paragraphs": [
-      "青冥路口絕人行，獨與僧期上赤城。樹列煙嵐春更好，",
+      "青冥路口絕人行，獨與僧期上赤城。樹列煙嵐春更好，溪藏冰雪夜偏明。空山雉雊禾苗短，野館風來竹氣清。",
       "若過石橋看瀑布，不妨高處便題名。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -345,8 +345,86 @@
     "title": "酬蕭員外見寄",
     "author": "朱慶餘",
     "paragraphs": [
-      "麥風吹雨正徘徊，忽報書從郡閣來。道薄謬應宗伯選，",
+      "麥風吹雨正徘徊，忽報書從郡閣來。道薄謬應宗伯選，詩成徒費謝公才。九霄示路空知感，十上驚魂尚未回。",
       "勝寄幸容溪館宿，龍鍾慚見妓筵開。倘期霽後陪新興，"
+    ],
+    "format": {
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "台州鄭員外郡齋雙鶴",
+    "author": "朱慶餘",
+    "paragraphs": [
+      "丹頂分明音響別，況聞來處隔雲濤。情懸碧落飛何晚，立近清池意自高。向夜雙棲驚玉漏，臨軒對舞拂朱袍。",
+      "仙郎為爾開籠早，莫慮回翔損羽毛。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送竇秀才",
+    "author": "朱慶餘",
+    "paragraphs": [
+      "江南才子日紛紛，少有篇章得似君。清話未同山寺宿，離歌已向客亭聞。梅天馬上愁黃鳥，澤國帆前見白雲。",
+      "通籍名高年又少，回頭應笑晚從軍。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送邵州林使君",
+    "author": "朱慶餘",
+    "paragraphs": [
+      "軒車此去也逢時，地近湘南頗入詩。一月計程那是遠，中年出守未為遲。水邊花氣熏章服，嶺上嵐光照畫旗。",
+      "想得化行風土變，州人應為立生祠。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "送饒州張使君",
+    "author": "朱慶餘",
+    "paragraphs": [
+      "白頭為郡清秋別，山水南行豈覺賒。楚老只應思入境，吳兒從此去移家。館依高嶺分樟葉，路出重江見葦花。",
+      "務退唯當吟詠苦，留心曾不在生涯。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "題開元寺",
+    "author": "朱慶餘",
+    "paragraphs": [
+      "西入山門十里程，粉牆書字甚分明。蕭帝壞陵深虎跡，廣師遺院閉松聲。長廊畫剝僧形影，石壁塵昏客姓名。",
+      "何必更將空色遣，眼前人事是浮生。"
+    ],
+    "format": {
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
+    }
+  },
+  {
+    "title": "與龐複言攜酒望洞庭",
+    "author": "朱慶餘",
+    "paragraphs": [
+      "南湖春色通平遠，貪記詩情忘酒杯。帆自巴陵山下過，雨從神女峽邊來。",
+      "盡日與君同看望，了然勝見畫屏開。"
     ],
     "format": {
       "sentence_count": 6,
@@ -355,93 +433,15 @@
     }
   },
   {
-    "title": "台州鄭員外郡齋雙鶴",
-    "author": "朱慶餘",
-    "paragraphs": [
-      "丹頂分明音響別，況聞來處隔雲濤。情懸碧落飛何晚，",
-      "仙郎為爾開籠早，莫慮回翔損羽毛。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
-      "uniform_sentence_length": 7
-    }
-  },
-  {
-    "title": "送竇秀才",
-    "author": "朱慶餘",
-    "paragraphs": [
-      "江南才子日紛紛，少有篇章得似君。清話未同山寺宿，",
-      "通籍名高年又少，回頭應笑晚從軍。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
-      "uniform_sentence_length": 7
-    }
-  },
-  {
-    "title": "送邵州林使君",
-    "author": "朱慶餘",
-    "paragraphs": [
-      "軒車此去也逢時，地近湘南頗入詩。一月計程那是遠，",
-      "想得化行風土變，州人應為立生祠。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
-      "uniform_sentence_length": 7
-    }
-  },
-  {
-    "title": "送饒州張使君",
-    "author": "朱慶餘",
-    "paragraphs": [
-      "白頭為郡清秋別，山水南行豈覺賒。楚老只應思入境，",
-      "務退唯當吟詠苦，留心曾不在生涯。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
-      "uniform_sentence_length": 7
-    }
-  },
-  {
-    "title": "題開元寺",
-    "author": "朱慶餘",
-    "paragraphs": [
-      "西入山門十里程，粉牆書字甚分明。蕭帝壞陵深虎跡，",
-      "何必更將空色遣，眼前人事是浮生。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
-      "uniform_sentence_length": 7
-    }
-  },
-  {
-    "title": "與龐複言攜酒望洞庭",
-    "author": "朱慶餘",
-    "paragraphs": [
-      "南湖春色通平遠，貪記詩情忘酒杯。帆自巴陵山下過，",
-      "盡日與君同看望，了然勝見畫屏開。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
-      "uniform_sentence_length": 7
-    }
-  },
-  {
     "title": "送浙東周判官",
     "author": "朱慶餘",
     "paragraphs": [
-      "久聞從事滄江外，誰謂無官已白頭。來備戎裝嘶數騎，",
+      "久聞從事滄江外，誰謂無官已白頭。來備戎裝嘶數騎，去持丹詔入孤舟。蟬鳴遠驛殘陽樹，鷺起湖田片雨秋。",
       "到日重陪丞相宴，鏡湖新月在城樓。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -889,12 +889,12 @@
     "title": "題錢宇別墅",
     "author": "朱慶餘",
     "paragraphs": [
-      "林居向晚饒清景，惜去非關戀酒杯。石淨每因杉露滴，",
+      "林居向晚饒清景，惜去非關戀酒杯。石淨每因杉露滴，地幽漸覺水禽來。藥蔬秋後供僧盡，竹杖吟中望月回。",
       "紅葉閑飄籬落迥，行人遠見草堂開。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1110,12 +1110,12 @@
     "title": "觀濤",
     "author": "朱慶餘",
     "paragraphs": [
-      "木落霜飛天地清，空江百里見潮生。鮮飆出海魚龍氣，",
+      "木落霜飛天地清，空江百里見潮生。鮮飆出海魚龍氣，晴雪噴山雷鼓聲。雲日半陰川漸滿，客帆皆過浪難平。",
       "高樓曉望無窮意，丹葉黃花繞郡城。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1123,12 +1123,12 @@
     "title": "南湖",
     "author": "朱慶餘",
     "paragraphs": [
-      "湖上微風小檻涼，翻翻菱荇滿回塘。野船著岸入春草，",
+      "湖上微風小檻涼，翻翻菱荇滿回塘。野船著岸入春草，水鳥帶波飛夕陽。蘆葉有聲疑露雨，浪花無際似瀟湘。",
       "飄然蓬艇東歸客，盡日相看憶楚鄉。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1136,12 +1136,12 @@
     "title": "鏡湖西島言事",
     "author": "朱慶餘",
     "paragraphs": [
-      "慵拙幸便荒僻地，縱聞猿鳥亦何愁。偶因藥酒欺梅雨，",
+      "慵拙幸便荒僻地，縱聞猿鳥亦何愁。偶因藥酒欺梅雨，卻著寒衣過麥秋。歲計有餘添橡實，生涯一半在漁舟。",
       "世人若便無知己，應向此溪成白頭。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1149,12 +1149,12 @@
     "title": "送劉思複南河從軍",
     "author": "朱慶餘",
     "paragraphs": [
-      "七千里別寧無恨，且貴從軍樂事多。不駐節旄先候發，",
+      "七千里別寧無恨，且貴從軍樂事多。不駐節旄先候發，偶逢山寺亦難過。蠻人獨放畬田火，海獸群遊落日波。",
       "遠作受恩身不易，莫拋書劍近笙歌。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

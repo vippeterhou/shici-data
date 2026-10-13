@@ -69,12 +69,12 @@
     "title": "浣紗廟",
     "author": "魚玄機",
     "paragraphs": [
-      "吳越相謀計策多，浣紗神女已相和。一雙笑靨才回面，",
+      "吳越相謀計策多，浣紗神女已相和。一雙笑靨才回面，十萬精兵盡倒戈。范蠡功成身隱遁，伍胥諫死國消磨。",
       "只今諸暨長江畔，空有青山號苧蘿。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -82,12 +82,12 @@
     "title": "賣殘牡丹",
     "author": "魚玄機",
     "paragraphs": [
-      "臨風興歎落花頻，芳意潛消又一春。應為價高人不問，",
+      "臨風興歎落花頻，芳意潛消又一春。應為價高人不問，卻緣香甚蝶難親。紅英只稱生宮裏，翠葉那堪染路塵。",
       "及至移根上林苑，王孫方恨買無因。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -121,12 +121,12 @@
     "title": "閨怨",
     "author": "魚玄機",
     "paragraphs": [
-      "蘼蕪盈手泣斜暉，聞道鄰家夫婿歸。別日南鴻才北去，",
+      "蘼蕪盈手泣斜暉，聞道鄰家夫婿歸。別日南鴻才北去，今朝北雁又南飛。春來秋去相思在，秋去春來信息稀。",
       "扃閉朱門人不到，砧聲何事透羅幃。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -134,12 +134,12 @@
     "title": "春情寄子安",
     "author": "魚玄機",
     "paragraphs": [
-      "山路欹斜石磴危，不愁行苦苦相思。冰銷遠澗憐清韻，",
-      "如松匪石盟長在，比翼連襟會肯遲。雖恨獨行冬盡日，"
+      "山路欹斜石磴危，不愁行苦苦相思。冰銷遠澗憐清韻，雪遠寒峰想玉姿。莫聽凡歌春病酒，休招閑客夜貪棋。",
+      "如松匪石盟長在，比翼連襟會肯遲。雖恨獨行冬盡日，終期相見月圓時。別君何物堪持贈，淚落晴光一首詩。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -147,12 +147,12 @@
     "title": "打球作",
     "author": "魚玄機",
     "paragraphs": [
-      "堅圓淨滑一星流，月杖爭敲未擬休。無滯礙時從撥弄，",
+      "堅圓淨滑一星流，月杖爭敲未擬休。無滯礙時從撥弄，有遮欄處任鉤留。不辭宛轉長隨手，卻恐相將不到頭。",
       "畢竟入門應始了，願君爭取最前籌。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -173,12 +173,12 @@
     "title": "冬夜寄溫飛卿",
     "author": "魚玄機",
     "paragraphs": [
-      "苦思搜詩燈下吟，不眠長夜怕寒衾。滿庭木葉愁風起，",
+      "苦思搜詩燈下吟，不眠長夜怕寒衾。滿庭木葉愁風起，透幌紗窗惜月沈。疏散未閑終遂願，盛衰空見本來心。",
       "幽棲莫定梧桐處，暮雀啾啾空繞林。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -199,12 +199,12 @@
     "title": "次韻西鄰新居兼乞酒",
     "author": "魚玄機",
     "paragraphs": [
-      "一首詩來百度吟，新情字字又聲金。西看已有登垣意，",
+      "一首詩來百度吟，新情字字又聲金。西看已有登垣意，遠望能無化石心。河漢期賒空極目，瀟湘夢斷罷調琴。",
       "況逢寒節添鄉思，叔夜佳醪莫獨斟。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -212,12 +212,12 @@
     "title": "和友人次韻",
     "author": "魚玄機",
     "paragraphs": [
-      "何事能銷旅館愁，紅箋開處見銀鉤。蓬山雨灑千峰小，",
+      "何事能銷旅館愁，紅箋開處見銀鉤。蓬山雨灑千峰小，嶰谷風吹萬葉秋。字字朝看輕碧玉，篇篇夜誦在衾裯。",
       "欲將香匣收藏卻，且惜時吟在手頭。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -264,12 +264,12 @@
     "title": "愁思",
     "author": "魚玄機",
     "paragraphs": [
-      "落葉紛紛暮雨和，朱絲獨撫自清歌。放情休恨無心友，",
+      "落葉紛紛暮雨和，朱絲獨撫自清歌。放情休恨無心友，養性空拋苦海波。長者車音門外有，道家書卷枕前多。",
       "布衣終作雲霄客，綠水青山時一過。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -438,12 +438,12 @@
     "title": "過鄂州",
     "author": "魚玄機",
     "paragraphs": [
-      "柳拂蘭橈花滿枝，石城城下暮帆遲。折牌峰上三閭墓，",
+      "柳拂蘭橈花滿枝，石城城下暮帆遲。折牌峰上三閭墓，遠火山頭五馬旗。白雪調高題舊寺，陽春歌在換新詞。",
       "莫愁魂逐清江去，空使行人萬首詩。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -451,12 +451,12 @@
     "title": "夏日山居",
     "author": "魚玄機",
     "paragraphs": [
-      "移得仙居此地來，花叢自遍不曾栽。庭前亞樹張衣桁，",
+      "移得仙居此地來，花叢自遍不曾栽。庭前亞樹張衣桁，坐上新泉泛酒杯。軒檻暗傳深竹徑，綺羅長擁亂書堆。",
       "閑乘畫舫吟明月，信任輕風吹卻回。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -464,12 +464,12 @@
     "title": "暮春即事",
     "author": "魚玄機",
     "paragraphs": [
-      "深巷窮門少侶儔，阮郎唯有夢中留。香飄羅綺誰家席，",
+      "深巷窮門少侶儔，阮郎唯有夢中留。香飄羅綺誰家席，風送歌聲何處樓。街近鼓鼙喧曉睡，庭閑鵲語亂春愁。",
       "安能追逐人間事，萬里身同不系舟。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -477,12 +477,12 @@
     "title": "代人悼亡",
     "author": "魚玄機",
     "paragraphs": [
-      "曾睹夭桃想玉姿，帶風楊柳認蛾眉。珠歸龍窟知誰見，",
+      "曾睹夭桃想玉姿，帶風楊柳認蛾眉。珠歸龍窟知誰見，鏡在鸞台話向誰。從此夢悲煙雨夜，不堪吟苦寂寥時。",
       "西山日落東山月，恨想無因有了期。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -490,12 +490,12 @@
     "title": "和人",
     "author": "魚玄機",
     "paragraphs": [
-      "茫茫九陌無知己，暮去朝來典繡衣。寶匣鏡昏蟬鬢亂，",
+      "茫茫九陌無知己，暮去朝來典繡衣。寶匣鏡昏蟬鬢亂，博山爐暖麝煙微。多情公子春留句，少思文君晝掩扉。",
       "莫惜羊車頻列載，柳絲梅綻正芳菲。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -503,12 +503,12 @@
     "title": "隔漢江寄子安",
     "author": "魚玄機",
     "paragraphs": [
-      "江南江北愁望，相思相憶空吟。鴛鴦暖臥沙浦，",
+      "江南江北愁望，相思相憶空吟。鴛鴦暖臥沙浦，鸂鶒閑飛橘林。煙裏歌聲隱隱，",
       "含情咫尺千里，況聽家家遠砧。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [6, 6, 6, 6, 6],
+      "sentence_count": 7,
+      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },
@@ -516,12 +516,12 @@
     "title": "寓言",
     "author": "魚玄機",
     "paragraphs": [
-      "紅桃處處春色，碧柳家家月明。樓上新妝待夜，",
+      "紅桃處處春色，碧柳家家月明。樓上新妝待夜，閨中獨坐含情。芙蓉月下魚戲，螮蝀天邊雀聲。",
       "人世悲歡一夢，如何得作雙成。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [6, 6, 6, 6, 6],
+      "sentence_count": 8,
+      "sentence_lengths": [6, 6, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": 6
     }
   },
@@ -542,12 +542,12 @@
     "title": "寄子安",
     "author": "魚玄機",
     "paragraphs": [
-      "醉別千卮不浣愁，離腸百結解無由。蕙蘭銷歇歸春圃，",
+      "醉別千卮不浣愁，離腸百結解無由。蕙蘭銷歇歸春圃，楊柳東西絆客舟。聚散已悲雲不定，恩情須學水長流。",
       "有花時節知難遇，未肯厭厭醉玉樓。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -594,12 +594,12 @@
     "title": "左名場自澤州至京，使人傳語",
     "author": "魚玄機",
     "paragraphs": [
-      "閒居作賦幾年愁，王屋山前是舊遊。詩詠東西千嶂亂，",
-      "忽喜扣門傳語至，為憐鄰巷小房幽。相如琴罷朱弦斷，"
+      "閒居作賦幾年愁，王屋山前是舊遊。詩詠東西千嶂亂，馬隨南北一泉流。曾陪雨夜同歡席，別後花時獨上樓。",
+      "忽喜扣門傳語至，為憐鄰巷小房幽。相如琴罷朱弦斷，雙燕巢分白露秋。莫倦蓬門時一訪，每春忙在曲江頭。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -607,12 +607,12 @@
     "title": "和人次韻",
     "author": "魚玄機",
     "paragraphs": [
-      "喧喧朱紫雜人寰，獨自清吟日色間。何事玉郎搜藻思，",
+      "喧喧朱紫雜人寰，獨自清吟日色間。何事玉郎搜藻思，忽將瓊韻扣柴關。白花發詠慚稱謝，僻巷深居謬學顏。",
       "不用多情欲相見，松蘿高處是前山。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -620,14 +620,14 @@
     "title": "光、威、裒姊妹三人少孤而始妍乃有是作…因次其韻",
     "author": "魚玄機",
     "paragraphs": [
-      "昔聞南國容華少，今日東鄰姊妹三。妝閣相看鸚鵡賦，",
-      "恐向瑤池曾作女，謫來塵世未為男。文姬有貌終堪比，",
-      "當台競鬥青絲發，對月爭誇白玉簪。小有洞中松露滴，",
-      "阿母幾嗔花下語，潘郎曾向夢中參。暫持清句魂猶斷，"
+      "昔聞南國容華少，今日東鄰姊妹三。妝閣相看鸚鵡賦，碧窗應繡鳳凰衫。紅芳滿院參差折，綠醑盈杯次第銜。",
+      "恐向瑤池曾作女，謫來塵世未為男。文姬有貌終堪比，西子無言我更慚。一曲豔歌琴杳杳，四弦輕撥語喃喃。",
+      "當台競鬥青絲發，對月爭誇白玉簪。小有洞中松露滴，大羅天上柳煙含。但能為雨心長在，不怕吹簫事未諳。",
+      "阿母幾嗔花下語，潘郎曾向夢中參。暫持清句魂猶斷，若睹紅顏死亦甘。悵望佳人何處在，行雲歸北又歸南。"
     ],
     "format": {
-      "sentence_count": 12,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 24,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

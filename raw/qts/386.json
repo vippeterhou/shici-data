@@ -1596,11 +1596,11 @@
     "title": "賦花",
     "author": "張籍",
     "paragraphs": [
-      "花，花。落早，開賒。對酒客，興詩家。能回游騎，"
+      "花，花。落早，開賒。對酒客，興詩家。能回游騎，每駐行車。宛宛清風起，茸茸麗日斜。且願相留歡洽，惟愁虛棄光華。明年攀折知不遠，對此誰能更歎嗟。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [1, 1, 2, 2, 3, 3, 4],
+      "sentence_count": 14,
+      "sentence_lengths": [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7],
       "uniform_sentence_length": null
     }
   },

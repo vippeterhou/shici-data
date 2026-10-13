@@ -41,11 +41,11 @@
     "title": "長相思",
     "author": "郎大家宋氏",
     "paragraphs": [
-      "長相思，久離別。關山阻，風煙絕。臺上鏡文銷，"
+      "長相思，久離別。關山阻，風煙絕。臺上鏡文銷，袖中書字滅。不見君形影，何曾有歡悅。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [3, 3, 3, 3, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [3, 3, 3, 3, 5, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -53,25 +53,25 @@
     "title": "朝雲引",
     "author": "郎大家宋氏",
     "paragraphs": [
-      "巴西巫峽指巴東，朝雲觸石上朝空。巫山巫峽高何已，"
+      "巴西巫峽指巴東，朝雲觸石上朝空。巫山巫峽高何已，行雨行雲一時起。一時起，三春暮。若言來，且就陽臺路。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
-      "uniform_sentence_length": 7
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 3, 5],
+      "uniform_sentence_length": null
     }
   },
   {
     "title": "宿巫山寄遠人",
     "author": "梁瓊",
     "paragraphs": [
-      "巫山雲，巫山雨，朝雲暮雨無定所。南峰忽暗北峰晴，",
-      "春風澹澹白雲閑，驚湍流水響千山。一夜此中對明月，",
+      "巫山雲，巫山雨，朝雲暮雨無定所。南峰忽暗北峰晴，空裏仙人語笑聲。曾侍荊王枕席處，直至如今如有靈。",
+      "春風澹澹白雲閑，驚湍流水響千山。一夜此中對明月，憶得此中與君別。感物情懷如舊時，君今渺渺在天涯。",
       "曉看襟上淚流處，點點血痕猶在衣。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [3, 3, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 15,
+      "sentence_lengths": [3, 3, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -130,11 +130,11 @@
     "author": "劉雲",
     "paragraphs": [
       "朝亦有所思，暮亦有所思。登樓望君處，藹藹蕭關道。",
-      "掩淚向浮雲，誰知妾懷抱。玉井蒼苔春院深，"
+      "掩淚向浮雲，誰知妾懷抱。玉井蒼苔春院深，桐花落盡無人掃。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -245,12 +245,12 @@
     "title": "贈歌姬",
     "author": "崔仲容",
     "paragraphs": [
-      "水剪雙眸霧剪衣，當筵一曲媚春輝。瀟湘夜瑟怨猶在，",
+      "水剪雙眸霧剪衣，當筵一曲媚春輝。瀟湘夜瑟怨猶在，巫峽曉雲愁不稀。皓齒乍分寒玉細，黛眉輕蹙遠山微。",
       "渭城朝雨休重唱，滿眼陽關客未歸。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -325,12 +325,12 @@
     "title": "銅雀台",
     "author": "張琰",
     "paragraphs": [
-      "君王冥漠不可見，銅雀歌舞空裴回。西陵嘖嘖悲宿鳥，"
+      "君王冥漠不可見，銅雀歌舞空裴回。西陵嘖嘖悲宿鳥，青苔無人跡，紅粉空自哀。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
-      "uniform_sentence_length": 7
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 5, 5],
+      "uniform_sentence_length": null
     }
   },
   {
@@ -445,12 +445,12 @@
     "title": "暗別離",
     "author": "劉瑤",
     "paragraphs": [
-      "槐花結子桐葉焦，單飛越鳥啼青霄。翠軒輾雲輕遙遙，",
-      "朱弦暗斷不見人，風動花枝月中影。青鸞脈脈西飛去，"
+      "槐花結子桐葉焦，單飛越鳥啼青霄。翠軒輾雲輕遙遙，燕脂淚迸紅線條。瑤草歇芳心耿耿，玉佩無聲畫屏冷。",
+      "朱弦暗斷不見人，風動花枝月中影。青鸞脈脈西飛去，海闊天高不知處。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 10,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -458,11 +458,11 @@
     "title": "古意曲",
     "author": "劉瑤",
     "paragraphs": [
-      "梧桐階下月團團，洞房如水秋夜闌。吳刀剪破機頭錦，"
+      "梧桐階下月團團，洞房如水秋夜闌。吳刀剪破機頭錦，茱萸花墜相思枕。綠窗寂寞背燈時，暗數寒更不成寢。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -483,11 +483,11 @@
     "title": "峽中即事",
     "author": "廉氏",
     "paragraphs": [
-      "清秋三峽此中去，鳴鳥孤猿不可聞。一道水聲多亂石，"
+      "清秋三峽此中去，鳴鳥孤猿不可聞。一道水聲多亂石，四時天色少晴雲。日暮泛舟溪漵口，那堪夜永思氛氳。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -534,11 +534,11 @@
     "title": "攜手曲",
     "author": "田娥",
     "paragraphs": [
-      "攜手共惜芳菲節，鶯啼錦花滿城闕。行樂逶迤念容色，"
+      "攜手共惜芳菲節，鶯啼錦花滿城闕。行樂逶迤念容色，色衰只恐君恩歇。鳳笙龍管白日陰，盈虧自感青天月。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -609,12 +609,12 @@
     "title": "銅雀台",
     "author": "張瑛",
     "paragraphs": [
-      "君王冥漠不可見，銅雀歌舞空裴回。西陵嘖嘖悲宿鳥，"
+      "君王冥漠不可見，銅雀歌舞空裴回。西陵嘖嘖悲宿鳥，青苔無人跡，紅粉空相哀。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
-      "uniform_sentence_length": 7
+      "sentence_count": 5,
+      "sentence_lengths": [7, 7, 7, 5, 5],
+      "uniform_sentence_length": null
     }
   },
   {

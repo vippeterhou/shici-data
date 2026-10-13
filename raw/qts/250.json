@@ -30,12 +30,12 @@
     "title": "廬山歌送至弘法師兼呈薛江州",
     "author": "皇甫冉",
     "paragraphs": [
-      "釋子去兮訪名山，禪舟容與兮住仍前。猿啾啾兮怨月，",
-      "連湘接楚饒桂花，事久年深無杏樹。使君愛人兼愛山，"
+      "釋子去兮訪名山，禪舟容與兮住仍前。猿啾啾兮怨月，江渺渺兮多煙。東林西林兮入何處，上方下方兮通石路。",
+      "連湘接楚饒桂花，事久年深無杏樹。使君愛人兼愛山，時引雙旌萬木間。政成人野皆不擾，遂令法侶性安閒。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 8, 6, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 8, 6, 6, 8, 8, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -56,12 +56,12 @@
     "title": "使往壽州淮路寄劉長卿",
     "author": "皇甫冉",
     "paragraphs": [
-      "榛草荒涼村落空，驅馳卒歲亦何功。蒹葭曙色蒼蒼遠，",
+      "榛草荒涼村落空，驅馳卒歲亦何功。蒹葭曙色蒼蒼遠，蟋蟀秋聲處處同。鄉路遙知淮浦外，故人多在楚雲東。",
       "日夕煙霜那可道，壽陽西去水無窮。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -95,12 +95,12 @@
     "title": "同溫丹徒登萬歲樓",
     "author": "皇甫冉",
     "paragraphs": [
-      "高樓獨立思依依，極浦遙山合翠微。江客不堪頻北顧，",
+      "高樓獨立思依依，極浦遙山合翠微。江客不堪頻北顧，塞鴻何事複南飛。丹陽古渡寒煙積，瓜步空洲遠樹稀。",
       "聞道王師猶轉戰，誰能談笑解重圍。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -149,12 +149,12 @@
     "title": "宿淮陰南樓酬常伯能",
     "author": "皇甫冉",
     "paragraphs": [
-      "淮陰日落上南樓，喬木荒城古渡頭。浦外野風初入戶，",
+      "淮陰日落上南樓，喬木荒城古渡頭。浦外野風初入戶，窗中海月早知秋。滄波一望通千里，畫角三聲起百憂。",
       "佇立分宵絕來客，煩君步屐忽相求。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -241,12 +241,12 @@
     "title": "酬李補闕",
     "author": "皇甫冉",
     "paragraphs": [
-      "十年歸客但心傷，三徑無人已自荒。夕宿靈台伴煙月，",
+      "十年歸客但心傷，三徑無人已自荒。夕宿靈台伴煙月，晨趨建禮逐衣裳。偶因麋鹿隨豐草，謬荷鴛鸞借末行。",
       "縱有諫書猶未獻，春風拂地日空長。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -407,12 +407,12 @@
     "title": "送陸潛夫往茅山賦得華陽洞",
     "author": "皇甫冉",
     "paragraphs": [
-      "遊仙洞兮訪真官，奠瑤席兮禮石壇。忽仿佛兮雲擾，",
+      "遊仙洞兮訪真官，奠瑤席兮禮石壇。忽仿佛兮雲擾，杳陰深兮夏寒。欲回頭兮揮手，便辭家兮可否？",
       "有昏嫁兮嬰纏，綿歸來兮已久。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 6, 6, 6],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 6, 6, 6, 6, 6, 6],
       "uniform_sentence_length": null
     }
   },
@@ -615,12 +615,12 @@
     "title": "酬權器",
     "author": "皇甫冉",
     "paragraphs": [
-      "南望江南滿山雪，此情惆悵將誰說。徒隨群吏不曾閑，",
-      "終日白雲應自足，明年芳草又何如。人生有懷若不展，"
+      "南望江南滿山雪，此情惆悵將誰說。徒隨群吏不曾閑，顧與諸生為久別。聞君靜坐轉耽書，種樹葺茅還舊居。",
+      "終日白雲應自足，明年芳草又何如。人生有懷若不展，出入公門猶未免。回舟朝夕待春風，先報華陽洞深淺。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -707,12 +707,12 @@
     "title": "送崔使君赴壽州",
     "author": "皇甫冉",
     "paragraphs": [
-      "列郡專城分國憂，彤幨皂蓋古諸侯。仲華遇主年猶少，",
+      "列郡專城分國憂，彤幨皂蓋古諸侯。仲華遇主年猶少，公瑾論兵位已酬。草色青青宜建隼，蟬聲處處雜鳴騶。",
       "千里相思如可見，淮南木落早驚秋。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -760,12 +760,12 @@
     "title": "送袁郎中破賊北歸",
     "author": "皇甫冉",
     "paragraphs": [
-      "優詔親賢時獨稀，中途紫紱換征衣。黃香省闥登朝去，",
+      "優詔親賢時獨稀，中途紫紱換征衣。黃香省闥登朝去，楊僕樓船振旅歸。萬里長聞隨戰角，十年不得掩郊扉。",
       "□□□□□□□，但將詞賦奉恩輝。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -856,12 +856,12 @@
     "title": "館陶李丞舊居",
     "author": "皇甫冉",
     "paragraphs": [
-      "盛名天下挹餘芳，棄置終身不拜郎。詞藻世傳平子賦，",
+      "盛名天下挹餘芳，棄置終身不拜郎。詞藻世傳平子賦，園林人比鄭公鄉。門前墜葉浮秋水，籬外寒皋帶夕陽。",
       "日日青松成古木，只應來者為心傷。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -972,12 +972,12 @@
     "title": "彭祖井",
     "author": "皇甫冉",
     "paragraphs": [
-      "上公旌節在徐方，舊井莓苔近寢堂。訪古因知彭祖宅，",
+      "上公旌節在徐方，舊井莓苔近寢堂。訪古因知彭祖宅，得仙何必葛洪鄉。清虛不共春池竟，盥漱偏宜夏日長。",
       "聞道延年如玉液，欲將調鼎獻明光。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1366,12 +1366,12 @@
     "title": "送張道士歸茅山謁李尊師",
     "author": "皇甫冉",
     "paragraphs": [
-      "向山獨有一人行，近洞應逢雙鶴迎。嘗以素書傳弟子，",
+      "向山獨有一人行，近洞應逢雙鶴迎。嘗以素書傳弟子，還因白石號先生。無窮杏樹行時種，幾許芝田向月耕。",
       "師事少君年歲久，欲隨旄節往層城。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1446,12 +1446,12 @@
     "title": "招隱寺送閻判官還江州",
     "author": "皇甫冉",
     "paragraphs": [
-      "離別那逢秋氣悲，東林更作上方期。共知客路浮雲外，",
+      "離別那逢秋氣悲，東林更作上方期。共知客路浮雲外，暫愛僧房墜葉時。長江九派人歸少，寒嶺千重雁度遲。",
       "借問潯陽在何處，每看潮落一相思。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1561,12 +1561,12 @@
     "title": "送孔巢父赴河南軍",
     "author": "皇甫冉",
     "paragraphs": [
-      "江城相送阻煙波，況複新秋一雁過。聞道全師征北虜，",
+      "江城相送阻煙波，況複新秋一雁過。聞道全師征北虜，更言諸將會南河。邊心杳杳鄉人絕，塞草青青戰馬多。",
       "共許陳琳工奏記，知君名宦未蹉跎。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1574,12 +1574,12 @@
     "title": "李二侍禦丹陽東去新亭",
     "author": "皇甫冉",
     "paragraphs": [
-      "姑蘇東望海陵間，幾度裁書信未還。長在府中持白簡，",
+      "姑蘇東望海陵間，幾度裁書信未還。長在府中持白簡，豈知天畔有青山。人歸極浦寒流廣，雁下平蕪秋野閑。",
       "舊日新亭更攜手，他鄉風景亦相關。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1626,12 +1626,12 @@
     "title": "春思",
     "author": "皇甫冉",
     "paragraphs": [
-      "鶯啼燕語報新年，馬邑龍堆路幾千。家住秦城鄰漢苑，",
+      "鶯啼燕語報新年，馬邑龍堆路幾千。家住秦城鄰漢苑，心隨明月到胡天。機中錦字論長恨，樓上花枝笑獨眠。",
       "為問元戎竇車騎，何時反旆勒燕然。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

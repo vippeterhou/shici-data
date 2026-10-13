@@ -3,12 +3,12 @@
     "title": "奉和聖制夏日游石淙山",
     "author": "姚崇",
     "paragraphs": [
-      "二室三塗光地險，均霜揆日處天中。石泉石鏡恒留月，",
+      "二室三塗光地險，均霜揆日處天中。石泉石鏡恒留月，山鳥山花競逐風。周王久謝瑤池賞，漢主懸慚玉樹宮。",
       "別有祥煙伴佳氣，能隨輕輦共蔥蔥。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -68,12 +68,12 @@
     "title": "奉和聖制龍池篇",
     "author": "姚崇",
     "paragraphs": [
-      "恭聞帝裏生靈沼，應報明君鼎業新。既協翠泉光寶命，",
+      "恭聞帝裏生靈沼，應報明君鼎業新。既協翠泉光寶命，還符白水出真人。此時舜海潛龍躍，此地堯河帶馬巡。",
       "獨有前池一小雁，叨承舊惠入天津。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -81,12 +81,12 @@
     "title": "句",
     "author": "姚崇",
     "paragraphs": [
-      "扇掩將雛曲，釵承墮馬鬟。（見《海錄碎事》，"
+      "扇掩將雛曲，釵承墮馬鬟。（見《海錄碎事》，又見後張昌宗太平公主山亭侍宴詩）"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 5],
-      "uniform_sentence_length": 5
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 15],
+      "uniform_sentence_length": null
     }
   },
   {

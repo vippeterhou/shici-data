@@ -19,12 +19,12 @@
     "title": "嚴中丞枉駕見過",
     "author": "杜甫",
     "paragraphs": [
-      "元戎小隊出郊坰，問柳尋花到野亭。川合東西瞻使節，",
+      "元戎小隊出郊坰，問柳尋花到野亭。川合東西瞻使節，地分南北任流萍。扁舟不獨如張翰，白帽還應似管寧。",
       "寂寞江天雲霧裏，何人道有少微星。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -435,12 +435,12 @@
     "title": "奉酬嚴公寄題野亭之作",
     "author": "杜甫",
     "paragraphs": [
-      "拾遺曾奏數行書，懶性從來水竹居。奉引濫騎沙苑馬，",
+      "拾遺曾奏數行書，懶性從來水竹居。奉引濫騎沙苑馬，幽棲真釣錦江魚。謝安不倦登臨費，阮籍焉知禮法疏。",
       "枉沐旌麾出城府，草茅無徑欲教鋤。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -476,12 +476,12 @@
     "title": "嚴公仲夏枉駕草堂，兼攜酒饌",
     "author": "杜甫",
     "paragraphs": [
-      "竹裏行廚洗玉盤，花邊立馬簇金鞍。非關使者徵求急，",
+      "竹裏行廚洗玉盤，花邊立馬簇金鞍。非關使者徵求急，自識將軍禮數寬。五月江深草閣寒。",
       "看弄漁舟移白日，老農何有罄交歡。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -601,12 +601,12 @@
     "title": "黃草",
     "author": "杜甫",
     "paragraphs": [
-      "黃草峽西船不歸，赤甲山下行人稀。秦中驛使無消息，",
+      "黃草峽西船不歸，赤甲山下行人稀。秦中驛使無消息，蜀道兵戈有是非。萬里秋風吹錦水，誰家別淚濕羅衣。",
       "莫愁劍閣終堪據，聞道松州已被圍。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -692,12 +692,12 @@
     "title": "秋盡",
     "author": "杜甫",
     "paragraphs": [
-      "秋盡東行且未回，茅齋寄在少城隈。籬邊老卻陶潛菊，",
+      "秋盡東行且未回，茅齋寄在少城隈。籬邊老卻陶潛菊，江上徒逢袁紹杯。雪嶺獨看西日落，劍門猶阻北人來。",
       "不辭萬里長為客，懷抱何時得好開。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -731,12 +731,12 @@
     "title": "聞官軍收河南河北",
     "author": "杜甫",
     "paragraphs": [
-      "劍外忽傳收薊北，初聞涕淚滿衣裳。卻看妻子愁何在，",
+      "劍外忽傳收薊北，初聞涕淚滿衣裳。卻看妻子愁何在，漫捲詩書喜欲狂。白日放歌須縱酒，青春作伴好還鄉。",
       "即從巴峽穿巫峽，便下襄陽向洛陽。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -809,12 +809,12 @@
     "title": "送路六侍禦入朝",
     "author": "杜甫",
     "paragraphs": [
-      "童稚情親四十年，中間消息兩茫然。更為後會知何地，",
+      "童稚情親四十年，中間消息兩茫然。更為後會知何地，忽漫相逢是別筵。不分桃花紅勝錦，生憎柳絮白於綿。",
       "劍南春色還無賴，觸忤愁人到酒邊。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -967,12 +967,12 @@
     "title": "涪城縣香積寺官閣",
     "author": "杜甫",
     "paragraphs": [
-      "寺下春江深不流，山腰官閣迥添愁。含風翠壁孤雲細，",
+      "寺下春江深不流，山腰官閣迥添愁。含風翠壁孤雲細，背日丹楓萬木稠。小院回廊春寂寂，浴鳧飛鷺晚悠悠。",
       "諸天合在藤蘿外，昏黑應須到上頭。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1047,12 +1047,12 @@
     "title": "送王十五判官扶侍還黔中",
     "author": "杜甫",
     "paragraphs": [
-      "大家東征逐子回，風生洲渚錦帆開。青青竹筍迎船出，",
+      "大家東征逐子回，風生洲渚錦帆開。青青竹筍迎船出，日日江魚入饌來。離別不堪無限意，艱危深仗濟時才。",
       "黔陽信使應稀少，莫怪頻頻勸酒杯。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1281,12 +1281,12 @@
     "title": "登高",
     "author": "杜甫",
     "paragraphs": [
-      "風急天高猿嘯哀，渚清沙白鳥飛回。無邊落木蕭蕭下，",
+      "風急天高猿嘯哀，渚清沙白鳥飛回。無邊落木蕭蕭下，不盡長江袞袞來。萬里悲秋常作客，百年多病獨登臺。",
       "艱難苦恨繁霜鬢，潦倒新停濁酒杯。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1294,12 +1294,12 @@
     "title": "九日",
     "author": "杜甫",
     "paragraphs": [
-      "去年登高郪縣北，今日重在涪江濱。苦遭白髮不相放，",
+      "去年登高郪縣北，今日重在涪江濱。苦遭白髮不相放，羞見黃花無數新。世亂鬱鬱久為客，路難悠悠常傍人。",
       "酒闌卻憶十年事，腸斷驪山清路塵。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1320,12 +1320,12 @@
     "title": "章梓州橘亭餞成都竇少尹",
     "author": "杜甫",
     "paragraphs": [
-      "秋日野亭千橘香，玉盤錦席高雲涼。主人送客何所作，",
+      "秋日野亭千橘香，玉盤錦席高雲涼。主人送客何所作，行酒賦詩殊未央。衰老應為難離別，賢聲此去有輝光。",
       "預傳籍籍新京尹，青史無勞數趙張。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

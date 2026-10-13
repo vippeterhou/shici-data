@@ -3,12 +3,12 @@
     "title": "賀襄陽副使節判同加章綬",
     "author": "徐商",
     "paragraphs": [
-      "朱紫花前賀故人，兼榮此會頗關身。同年坐上聯賓榻，",
+      "朱紫花前賀故人，兼榮此會頗關身。同年坐上聯賓榻，宗姓亭中布錦裀。晴日照旗紅灼爍，韶光入隊影玢璘。",
       "芳菲解助今朝喜，嫩蕊青條滿眼新。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -28,12 +28,12 @@
     "title": "和薛逢贈別",
     "author": "高璩",
     "paragraphs": [
-      "劍外綿州第一州，尊前偏喜接君留。歌聲婉轉添長恨，",
+      "劍外綿州第一州，尊前偏喜接君留。歌聲婉轉添長恨，管色淒涼似到秋。但務歡娛思曉角，獨耽雲水上高樓。",
       "莫言此去難相見，怨別征黃是順流。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -93,12 +93,12 @@
     "title": "題文翁石室",
     "author": "裴鉶",
     "paragraphs": [
-      "文翁石室有儀形，庠序千秋播德馨。古柏尚留今日翠，",
+      "文翁石室有儀形，庠序千秋播德馨。古柏尚留今日翠，高岷猶藹舊時青。人心未肯拋膻蟻，弟子依前學聚螢。",
       "更歎沱江無限水，爭流只願到滄溟。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -170,13 +170,13 @@
     "title": "郡樓望九華歌",
     "author": "霍總",
     "paragraphs": [
-      "樓上坐見九子峰，翠雲赤日光溶溶。有時朝昏變疏密，",
-      "陽烏生子偶成數，丹鳳養雛同此名。日日遙看機已靜，",
+      "樓上坐見九子峰，翠雲赤日光溶溶。有時朝昏變疏密，八峰和煙一峰出。有時風卷天雨晴，聚立連連如弟兄。",
+      "陽烏生子偶成數，丹鳳養雛同此名。日日遙看機已靜，未離塵躅思真境。子明龍駕騰九垓，陵陽相對空崔嵬。",
       "玉漿瑤草不可見，自有神仙風馬來。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 14,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

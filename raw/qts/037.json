@@ -313,12 +313,12 @@
     "title": "北山",
     "author": "王績",
     "paragraphs": [
-      "舊知山裏絕氛埃，登高日暮心悠哉。子平一去何時返，",
+      "舊知山裏絕氛埃，登高日暮心悠哉。子平一去何時返，仲叔長游遂不來。幽蘭獨夜清琴曲，桂樹淩雲濁酒杯。",
       "槁項同枯木，丹心等死灰。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 5, 5],
       "uniform_sentence_length": null
     }
   },

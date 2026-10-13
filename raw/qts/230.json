@@ -1435,12 +1435,12 @@
     "title": "暮春",
     "author": "杜甫",
     "paragraphs": [
-      "臥病擁塞在峽中，瀟湘洞庭虛映空。楚天不斷四時雨，",
+      "臥病擁塞在峽中，瀟湘洞庭虛映空。楚天不斷四時雨，巫峽常吹千里風。沙上草閣柳新暗，城邊野池蓮欲紅。",
       "暮春鴛鷺立洲渚，挾子翻飛還一叢。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

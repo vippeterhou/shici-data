@@ -177,14 +177,14 @@
     "paragraphs": [
       "壯麗天之府，神明王者宅。大君乘飛龍，登彼複懷昔。",
       "圓闕朱光焰，橫山翠微積。河汧流作表，縣聚開成陌。",
-      "即舊在皇家，維新具物華。雲連所上居恒屬，",
-      "暴嬴國此嘗圖霸，霸業後仁先以詐。東破諸侯西入秦，",
-      "事往覆輈經遠喻，春還按蹕憑高賦。戎觀愛力深惟省，",
+      "即舊在皇家，維新具物華。雲連所上居恒屬，日更時中望不斜。三月滄池搖積水，萬年青樹綴新花。",
+      "暴嬴國此嘗圖霸，霸業後仁先以詐。東破諸侯西入秦，咸陽北阪南渭津。詩書焚爇散學士，高閣奢逾嬌美人。",
+      "事往覆輈經遠喻，春還按蹕憑高賦。戎觀愛力深惟省，越厭陳方何足務。清吹遙遙發帝台，宸文耿耿照天回。",
       "伯夷位事愚臣忝，喜奏聲成鳳鳥來。"
     ],
     "format": {
-      "sentence_count": 19,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 28,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -193,11 +193,11 @@
     "author": "蘇頲",
     "paragraphs": [
       "君不見天津橋下東流水，南望龍門北朝市。",
-      "楊柳青青宛地垂，桃紅李白花參差。花參差，柳堪結，"
+      "楊柳青青宛地垂，桃紅李白花參差。花參差，柳堪結，此時憶君心斷絕。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [10, 7, 7, 7, 3, 3],
+      "sentence_count": 7,
+      "sentence_lengths": [10, 7, 7, 7, 3, 3, 7],
       "uniform_sentence_length": null
     }
   },
@@ -592,12 +592,12 @@
     "title": "奉和初春幸太平公主南莊應制",
     "author": "蘇頲",
     "paragraphs": [
-      "主第山門起灞川，宸游風景入初年。鳳凰樓下交天仗，",
+      "主第山門起灞川，宸游風景入初年。鳳凰樓下交天仗，烏鵲橋頭敞禦筵。往往花間逢彩石，時時竹裏見紅泉。",
       "今朝扈蹕平陽館，不羨乘槎雲漢邊。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -605,12 +605,12 @@
     "title": "奉和春日幸望春宮應制",
     "author": "蘇頲",
     "paragraphs": [
-      "東望望春春可憐，更逢晴日柳含煙。宮中下見南山盡，",
+      "東望望春春可憐，更逢晴日柳含煙。宮中下見南山盡，城上平臨北斗懸。細草遍承回輦處，輕花微落奉觴前。",
       "宸遊對此歡無極，鳥哢聲聲入管弦。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -618,12 +618,12 @@
     "title": "人日重宴大明宮恩賜彩縷人勝應制",
     "author": "蘇頲",
     "paragraphs": [
-      "疏龍磴道切昭回，建鳳旗門繞帝台。七葉仙蓂依月吐，",
+      "疏龍磴道切昭回，建鳳旗門繞帝台。七葉仙蓂依月吐，千株禦柳拂煙開。初年競貼宜春勝，長命先浮獻壽杯。",
       "是日皇靈知竊幸，群心就捧大明來。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -631,12 +631,12 @@
     "title": "侍宴安樂公主山莊應制",
     "author": "蘇頲",
     "paragraphs": [
-      "駸駸羽騎曆城池，帝女樓臺向晚披。霧灑旌旗雲外出，",
+      "駸駸羽騎曆城池，帝女樓臺向晚披。霧灑旌旗雲外出，風回岩岫雨中移。當軒半落天河水，繞徑全低月樹枝。",
       "簫鼓宸遊陪宴日，和鳴雙鳳喜來儀。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -644,12 +644,12 @@
     "title": "興慶池侍宴應制",
     "author": "蘇頲",
     "paragraphs": [
-      "降鶴池前回步輦，棲鸞樹杪出行宮。山光積翠遙疑逼，",
+      "降鶴池前回步輦，棲鸞樹杪出行宮。山光積翠遙疑逼，水態含青近若空。直視天河垂象外，俯窺京室畫圖中。",
       "皇歡未使恩波極，日暮樓船更起風。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -657,12 +657,12 @@
     "title": "廣達樓下夜侍酺宴應制",
     "author": "蘇頲",
     "paragraphs": [
-      "東嶽封回宴洛京，西墉通晚會公卿。樓臺絕勝宜春苑，",
+      "東嶽封回宴洛京，西墉通晚會公卿。樓臺絕勝宜春苑，燈火還同不夜城。正睹人間朝市樂，忽聞天上管弦聲。",
       "酺來萬舞群臣醉，喜戴千年聖主明。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -670,12 +670,12 @@
     "title": "龍池樂章",
     "author": "蘇頲",
     "paragraphs": [
-      "西京鳳邸躍龍泉，佳氣休光鎮在天。軒後霧圖今已得，",
+      "西京鳳邸躍龍泉，佳氣休光鎮在天。軒後霧圖今已得，恩魚不入昆明釣，瑞鶴長如太液仙。",
       "願侍巡遊同舊裏，更聞簫鼓濟樓船。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -683,12 +683,12 @@
     "title": "扈從鄠杜間奉呈刑部尚書舅崔黃門馬常侍",
     "author": "蘇頲",
     "paragraphs": [
-      "翠輦紅旗出帝京，長楊鄠杜昔知名。雲山一一看皆美，",
+      "翠輦紅旗出帝京，長楊鄠杜昔知名。雲山一一看皆美，竹樹蕭蕭畫不成。羽騎將過持袂拂，香車欲度捲簾行。",
       "漢家曾草巡遊賦，何似今來應聖明。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -696,12 +696,12 @@
     "title": "景龍觀送裴士曹",
     "author": "蘇頲",
     "paragraphs": [
-      "昔日嘗聞公主第，今時變作列仙家。池傍坐客穿叢筱，",
+      "昔日嘗聞公主第，今時變作列仙家。池傍坐客穿叢筱，樹下游人掃落花。雨雪長疑向函谷，山泉直似到流沙。",
       "君還洛邑分明記，此處同來閱歲華。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -709,12 +709,12 @@
     "title": "春晚紫微省直寄內",
     "author": "蘇頲",
     "paragraphs": [
-      "直省清華接建章，向來無事日猶長。花間燕子棲鳷鵲，",
+      "直省清華接建章，向來無事日猶長。花間燕子棲鳷鵲，竹下鵷雛繞鳳凰。內史通宵承紫誥，中人落晚愛紅妝。",
       "別離不慣無窮憶，莫誤卿卿學太常。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -722,12 +722,12 @@
     "title": "贈彭州權別駕",
     "author": "蘇頲",
     "paragraphs": [
-      "雙流脈脈錦城開，追餞年年往復回。只道歌謠迎半刺，",
+      "雙流脈脈錦城開，追餞年年往復回。只道歌謠迎半刺，徒聞禮數揖中台。黃鶯急囀春風盡，斑馬長嘶落景催。",
       "莫愴分飛岐路別，還當奏最掖垣來。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -735,12 +735,12 @@
     "title": "寒食宴於中舍別駕兄弟宅",
     "author": "蘇頲",
     "paragraphs": [
-      "子推山上歌龍罷，定國門前結駟來。始睹元昆鏘玉至，",
+      "子推山上歌龍罷，定國門前結駟來。始睹元昆鏘玉至，旋聞季子佩刀回。晴花處處因風起，禦柳條條向日開。",
       "自有長筵歡不極，還將彩服詠南陔。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -748,12 +748,12 @@
     "title": "九月九日望蜀台",
     "author": "蘇頲",
     "paragraphs": [
-      "蜀王望蜀舊台前，九日分明見一川。北料鄉關方自此，",
+      "蜀王望蜀舊台前，九日分明見一川。北料鄉關方自此，南辭城郭複依然。青松系馬攢岩畔，黃菊留人籍道邊。",
       "自昔登臨湮滅盡，獨聞忠孝兩能傳。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

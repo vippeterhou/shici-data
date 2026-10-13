@@ -112,12 +112,12 @@
     "title": "奉和春日出苑矚目應令",
     "author": "賈曾",
     "paragraphs": [
-      "銅龍曉辟問安回，金輅春遊博望開。渭北晴光搖草樹，",
+      "銅龍曉辟問安回，金輅春遊博望開。渭北晴光搖草樹，終南佳氣入樓臺。招賢已得商山老，托乘還征鄴下才。",
       "臣在東周獨留滯，忻逢睿藻日邊來。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -125,12 +125,12 @@
     "title": "有所思",
     "author": "賈曾",
     "paragraphs": [
-      "洛陽城東桃李花，飛來飛去落誰家。幽閨女兒愛顏色，",
-      "故人不共洛陽東，今來空對落花風。年年歲歲花相似，"
+      "洛陽城東桃李花，飛來飛去落誰家。幽閨女兒愛顏色，坐見落花長歎息。今歲花開君不待。明年花開複誰在。",
+      "故人不共洛陽東，今來空對落花風。年年歲歲花相似，歲歲年年人不同。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 10,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

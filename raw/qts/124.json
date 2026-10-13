@@ -94,12 +94,12 @@
     "title": "奉和喜雪應制",
     "author": "徐安貞",
     "paragraphs": [
-      "兩宮齋祭近登臨，雨雪紛紛天晝陰。只為經寒無瑞色，",
+      "兩宮齋祭近登臨，雨雪紛紛天晝陰。只為經寒無瑞色，頓教正月滿春林。蓬萊北上旌門暗，花萼南歸馬跡深。",
       "自有三農歌帝力，還將萬庾答堯心。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -107,12 +107,12 @@
     "title": "聞鄰家理箏",
     "author": "徐安貞",
     "paragraphs": [
-      "北斗橫天夜欲闌，愁人倚月思無端。忽聞畫閣秦箏逸，",
+      "北斗橫天夜欲闌，愁人倚月思無端。忽聞畫閣秦箏逸，知是鄰家趙女彈。曲成虛憶青蛾斂，調急遙憐玉指寒。",
       "銀鎖重關聽未辟，不如眠去夢中看。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -306,12 +306,12 @@
     "title": "西塞山下回舟作",
     "author": "陶峴",
     "paragraphs": [
-      "匡廬舊業是誰主，吳越新居安此生。白髮數莖歸未得，",
+      "匡廬舊業是誰主，吳越新居安此生。白髮數莖歸未得，青山一望計還成。鴉翻楓葉夕陽動，鷺立蘆花秋水明。",
       "從此舍舟何所詣，酒旗歌扇正相迎。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

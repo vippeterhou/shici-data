@@ -80,12 +80,12 @@
     "title": "華州榜寄諸門生",
     "author": "薛昭緯",
     "paragraphs": [
-      "時君過聽委平衡，粉署華燈到曉明。開卷固難窺浩汗，",
+      "時君過聽委平衡，粉署華燈到曉明。開卷固難窺浩汗，執衡空欲慕公平。機雲筆舌臨文健，沈宋章篇發詠清。",
       "自笑觀光輝"
     ],
     "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [7, 7, 7, 5],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 5],
       "uniform_sentence_length": null
     }
   },
@@ -145,12 +145,12 @@
     "title": "蜀中登第答李搏六韻",
     "author": "裴廷裕",
     "paragraphs": [
-      "何勞問我成都事，亦報君知便納降。蜀柳籠堤煙矗矗，",
-      "高卷絳紗揚氏宅，半垂紅袖薛濤窗。浣花泛鷁詩千首，"
+      "何勞問我成都事，亦報君知便納降。蜀柳籠堤煙矗矗，海棠當戶燕雙雙。富春不並窮師子，濯錦全勝旱曲江。",
+      "高卷絳紗揚氏宅，半垂紅袖薛濤窗。浣花泛鷁詩千首，靜眾尋梅酒百缸。若說弦歌與風景，主人兼是碧油幢。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -201,12 +201,12 @@
     "title": "巫山高",
     "author": "李沇",
     "paragraphs": [
-      "抉天心，開地脈，浮動淩霄拂藍碧。襄王端眸望不極，",
-      "君王妒妾夢荊宮，虛把金泥印仙掌。江濤迅激如相助，"
+      "抉天心，開地脈，浮動淩霄拂藍碧。襄王端眸望不極，似睹瑤姬長歎息。巫妝不治獨西望，暗泣紅蕉抱雲帳。",
+      "君王妒妾夢荊宮，虛把金泥印仙掌。江濤迅激如相助，十二獰龍怒行雨。昆侖謾有通天路，九峰正在天低處。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [3, 3, 7, 7, 7, 7, 7],
+      "sentence_count": 13,
+      "sentence_lengths": [3, 3, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -214,12 +214,12 @@
     "title": "夢仙謠",
     "author": "李沇",
     "paragraphs": [
-      "海宮蹙浪收殘月，挈壺掌事傳更歇。銀蟾半墜恨流咽，",
-      "桂花裛露曙香冷，八窗玉朗驚晨雞。裁紗剪羅貼丹鳳，"
+      "海宮蹙浪收殘月，挈壺掌事傳更歇。銀蟾半墜恨流咽，九炁真翁騎白犀，臨池靜聽雌蛟啼。",
+      "桂花裛露曙香冷，八窗玉朗驚晨雞。裁紗剪羅貼丹鳳，膩霞遠閉瑤山夢。露幹欲醉芙蕖塘，回首驅雲朝正陽。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 11,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -227,12 +227,12 @@
     "title": "秋霖歌",
     "author": "李沇",
     "paragraphs": [
-      "西方龍兒口猶乳，初解驅雲學行雨。縱恣群陰駕老虯，",
+      "西方龍兒口猶乳，初解驅雲學行雨。縱恣群陰駕老虯，勺水蹄涔盡奔注。葉破苔黃未休滴，膩光透長狂莎色。",
       "恨無長劍一千仞，劃斷頑雲看晴碧。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -240,13 +240,13 @@
     "title": "方響歌",
     "author": "李沇",
     "paragraphs": [
-      "敲金扣石聲相淩，遙空冷靜天正澄。寶瓶下井轆轤急，",
-      "季倫怒擊珊瑚摧，靈芸整鬢步搖折。十六葉中侵素光，",
-      "急節寫商商恨促，秦愁越調逡巡足。夢入仙樓戛殘曲，"
+      "敲金扣石聲相淩，遙空冷靜天正澄。寶瓶下井轆轤急，小娃弄索傷清冰。穿絲透管音未歇，回風繞指驚泉咽。",
+      "季倫怒擊珊瑚摧，靈芸整鬢步搖折。十六葉中侵素光，雲和不覺罷餘怨，蓮峰一夜啼琴薑。",
+      "急節寫商商恨促，秦愁越調逡巡足。夢入仙樓戛殘曲，飛霜棱棱上秋玉。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 15,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -267,12 +267,12 @@
     "title": "薄命妾",
     "author": "盧汝弼",
     "paragraphs": [
-      "君恩已斷盡成空，追想嬌歡恨莫窮。長為蕣花光曉日，",
+      "君恩已斷盡成空，追想嬌歡恨莫窮。長為蕣花光曉日，誰知團扇送秋風。黃金買賦心徒切，清路飛塵信莫通。",
       "閑憑玉欄思舊事，幾回春暮泣殘紅。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -280,12 +280,12 @@
     "title": "秋夕寓居精舍書事",
     "author": "盧汝弼",
     "paragraphs": [
-      "葉滿苔階杵滿城，此中多恨恨難平。疏簷看織蠨蛸網，",
+      "葉滿苔階杵滿城，此中多恨恨難平。疏簷看織蠨蛸網，暗隙愁聽蟋蟀聲。醉臥欲拋羈客思，夢歸偏動故鄉情。",
       "覺來獨步長廊下，半夜西風吹月明。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -293,12 +293,12 @@
     "title": "聞雁",
     "author": "盧汝弼",
     "paragraphs": [
-      "秋風蕭瑟靜埃氛，邊雁迎風響咽群。瀚海應嫌霜下早，",
+      "秋風蕭瑟靜埃氛，邊雁迎風響咽群。瀚海應嫌霜下早，蘆洲宿處依沙岸，榆塞飛時度晚雲。",
       "何處最添羈客恨，竹窗殘月酒醒聞。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -306,12 +306,12 @@
     "title": "鴛鴦",
     "author": "盧汝弼",
     "paragraphs": [
-      "雙浮雙浴傍苔磯，蓼浦蘭皋繡帳幃。長羨鷺鷥能潔白，",
+      "雙浮雙浴傍苔磯，蓼浦蘭皋繡帳幃。長羨鷺鷥能潔白，不隨鸂鶒鬥毛衣。霞侵綠渚香衾暖，樓倚青雲殿瓦飛。",
       "應笑隨陽沙漠雁，洞庭煙暖又思歸。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

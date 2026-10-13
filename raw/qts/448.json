@@ -71,12 +71,12 @@
     "title": "想歸田園",
     "author": "白居易",
     "paragraphs": [
-      "戀他朝市求何事，想取丘園樂此身。千首惡詩吟過日，",
+      "戀他朝市求何事，想取丘園樂此身。千首惡詩吟過日，一壺好酒醉消春。歸鄉年亦非全老，罷郡家仍未苦貧。",
       "快活不知如我者，人間能有幾多人。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -84,12 +84,12 @@
     "title": "琴茶",
     "author": "白居易",
     "paragraphs": [
-      "兀兀寄形群動內，陶陶任性一生間。自拋官後春多醉，",
+      "兀兀寄形群動內，陶陶任性一生間。自拋官後春多醉，不讀書來老更閑。琴裏知聞唯淥水，茶中故舊是蒙山。",
       "窮通行止長相伴，誰道吾今無往還。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -97,12 +97,12 @@
     "title": "贈楚州郭使君",
     "author": "白居易",
     "paragraphs": [
-      "淮水東南第一州，山圍雉堞月當樓。黃金印綬懸腰底，",
+      "淮水東南第一州，山圍雉堞月當樓。黃金印綬懸腰底，白雪歌詩落筆頭。笑看兒童騎竹馬，醉攜賓客上仙舟。",
       "當家美事堆身上，何啻林宗與細侯。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -123,12 +123,12 @@
     "title": "初到洛下閒遊",
     "author": "白居易",
     "paragraphs": [
-      "漢庭重少身宜退，洛下閒居跡可逃。趁伴入朝應老醜，",
+      "漢庭重少身宜退，洛下閒居跡可逃。趁伴入朝應老醜，尋春放醉尚粗豪。詩攜彩紙新裝卷，酒典緋花舊賜袍。",
       "曾在東方千騎上，至今躞蹀馬頭高。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -136,12 +136,12 @@
     "title": "醉贈劉二十八使君",
     "author": "白居易",
     "paragraphs": [
-      "為我引杯添酒飲，與君把箸擊盤歌。詩稱國手徒為爾，",
+      "為我引杯添酒飲，與君把箸擊盤歌。詩稱國手徒為爾，命壓人頭不奈何。舉眼風光長寂寞，滿朝官職獨蹉跎。",
       "亦知合被才名折，二十三年折太多。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -162,11 +162,11 @@
     "title": "過敷水",
     "author": "白居易",
     "paragraphs": [
-      "垂鞭欲渡羅敷水，處分鳴騶且緩驅。秦氏雙蛾久冥漠，"
+      "垂鞭欲渡羅敷水，處分鳴騶且緩驅。秦氏雙蛾久冥漠，蘇台五馬尚踟躕。村童店女仰頭笑，今日使君真是愚。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 6,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -214,12 +214,12 @@
     "title": "新昌閒居，招楊郎中兄弟",
     "author": "白居易",
     "paragraphs": [
-      "紗巾角枕病眠翁，忙少閑多誰與同。但有雙松當砌下，",
+      "紗巾角枕病眠翁，忙少閑多誰與同。但有雙松當砌下，更無一事到心中。金章紫綬堪如夢，皂蓋朱輪別似空。",
       "暑月貧家何所有，客來唯贈北窗風。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -253,12 +253,12 @@
     "title": "和楊郎中賀楊僕射致仕後楊侍郎門生合宴席上作",
     "author": "白居易",
     "paragraphs": [
-      "業重關西繼大名，恩深闕下遂高情。祥鱣降伴趨庭鯉，",
+      "業重關西繼大名，恩深闕下遂高情。祥鱣降伴趨庭鯉，賀燕飛和出穀鶯。範蠡舟中無子弟，疏家席上欠門生。",
       "可憐玉樹連桃李，從古無如此會榮。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -330,12 +330,12 @@
     "title": "酬裴相公題興化小池見招長句",
     "author": "白居易",
     "paragraphs": [
-      "為愛小塘招散客，不嫌老監與新詩。山公倒載無妨學，",
+      "為愛小塘招散客，不嫌老監與新詩。山公倒載無妨學，範蠡扁舟未要追。蓬斷偶飄桃李徑，鷗驚誤拂鳳凰池。",
       "敢辭課拙酬高韻，一勺爭禁萬頃陂。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -343,12 +343,12 @@
     "title": "閑行",
     "author": "白居易",
     "paragraphs": [
-      "五十年來思慮熟，忙人應未勝閒人。林園傲逸真成貴，",
+      "五十年來思慮熟，忙人應未勝閒人。林園傲逸真成貴，衣食單疏不是貧。專掌圖書無過地，遍尋山水自由身。",
       "儻年七十猶強健，尚得閒行十五春。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -382,12 +382,12 @@
     "title": "憶廬山舊隱及洛下新居",
     "author": "白居易",
     "paragraphs": [
-      "形骸黽勉班行內，骨肉句留俸祿中。無奈攀緣隨手長，",
+      "形骸黽勉班行內，骨肉句留俸祿中。無奈攀緣隨手長，亦知恩愛到頭空。草堂久閉廬山下，竹院新拋洛水東。",
       "自是未能歸去得，世間誰要白須翁。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -520,12 +520,12 @@
     "title": "答尉遲少監水閣重宴",
     "author": "白居易",
     "paragraphs": [
-      "人情依舊歲華新，今日重招往日賓。雞黍重回千里駕，",
+      "人情依舊歲華新，今日重招往日賓。雞黍重回千里駕，林園闇換四年春。水軒平寫琉璃鏡，草岸斜鋪翡翠茵。",
       "聞道經營費心力，忍教成後屬他人。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -559,12 +559,12 @@
     "title": "早春同劉郎中寄宣武令狐相公",
     "author": "白居易",
     "paragraphs": [
-      "梁園不到一年強，遙想清吟對綠觴。更有何人能飲酌，",
+      "梁園不到一年強，遙想清吟對綠觴。更有何人能飲酌，新添幾卷好篇章。馬頭拂柳時回轡，豹尾穿花暫亞槍。",
       "誰引相公開口笑，不逢白監與劉郎。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -572,12 +572,12 @@
     "title": "寄太原李相公",
     "author": "白居易",
     "paragraphs": [
-      "聞道北都今一變，政和軍樂萬人安。綺羅二八圍賓榻，",
+      "聞道北都今一變，政和軍樂萬人安。綺羅二八圍賓榻，組練三千夾將壇。蟬鬢應誇丞相少，貂裘不覺太原寒。",
       "世間大有虛榮貴，百歲無君一日歡。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -692,12 +692,12 @@
     "title": "寄殷協律",
     "author": "白居易",
     "paragraphs": [
-      "五歲優遊同過日，一朝消散似浮雲。琴詩酒伴皆拋我，",
+      "五歲優遊同過日，一朝消散似浮雲。琴詩酒伴皆拋我，雪月花時最憶君。幾度聽雞歌白日，亦曾騎馬詠紅裙。",
       "吳娘暮雨蕭蕭曲，自別江南更不聞。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -887,12 +887,12 @@
     "title": "花前有感，兼呈崔相公、劉郎中",
     "author": "白居易",
     "paragraphs": [
-      "落花如雪鬢如霜，醉把花看益自傷。少日為名多檢束，",
+      "落花如雪鬢如霜，醉把花看益自傷。少日為名多檢束，長年無興可顛狂。四時輪轉春常少，百刻支分夜苦長。",
       "何事同生壬子歲，老于崔相及劉郎。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -900,12 +900,12 @@
     "title": "微之就拜尚書居易續除刑部因書賀意兼詠離懷",
     "author": "白居易",
     "paragraphs": [
-      "我為憲部入南宮，君作尚書鎮浙東。老去一時成白首，",
+      "我為憲部入南宮，君作尚書鎮浙東。老去一時成白首，別來七度換春風。簪纓假合虛名在，筋力銷磨實事空。",
       "遠地官高親故少，些些談笑與誰同。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -913,12 +913,12 @@
     "title": "喜與韋左丞同入南省，因敘舊以贈之",
     "author": "白居易",
     "paragraphs": [
-      "早年同遇陶鈞主，利鈍精粗共在熔。金劍淬來長透匣，",
+      "早年同遇陶鈞主，利鈍精粗共在熔。金劍淬來長透匣，鉛刀磨盡不成鋒。差肩北省慚非據，接武南宮幸再容。",
       "跛鱉雖遲騏驥疾，何妨中路亦相逢。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -966,12 +966,12 @@
     "title": "晚從省歸",
     "author": "白居易",
     "paragraphs": [
-      "朝回北闕值清晨，晚出南宮送暮春。入去丞郎非散秩，",
+      "朝回北闕值清晨，晚出南宮送暮春。入去丞郎非散秩，歸來詩酒是閒人。猶思泉石多成夢，尚歎簪裾未離身。",
       "終是不如山下去，心頭眼底兩無塵。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1084,12 +1084,12 @@
     "title": "繡婦歎",
     "author": "白居易",
     "paragraphs": [
-      "連枝花樣繡羅襦，本擬新年餉小姑。自覺逢春饒悵望，",
+      "連枝花樣繡羅襦，本擬新年餉小姑。自覺逢春饒悵望，誰能每日趁功夫。針頭不解愁眉結，線縷難穿淚臉珠。",
       "雖憑繡床都不繡，同床繡伴得知無。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1139,12 +1139,12 @@
     "title": "送敏中歸豳寧幕",
     "author": "白居易",
     "paragraphs": [
-      "六十衰翁兒女悲，傍人應笑爾應知。弟兄垂老相逢日，",
+      "六十衰翁兒女悲，傍人應笑爾應知。弟兄垂老相逢日，杯酒臨歡欲散時。前路加餐須努力，今宵盡醉莫推辭。",
       "司徒知我難為別，直過秋歸未訝遲。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1229,12 +1229,12 @@
     "title": "認春戲呈馮少尹、李郎中、陳主簿",
     "author": "白居易",
     "paragraphs": [
-      "認得春風先到處，西園南面水東頭。柳初變後條猶重，",
+      "認得春風先到處，西園南面水東頭。柳初變後條猶重，花未開時枝已稠。闇助醉歡尋綠酒，潛添睡興著紅樓。",
       "知君未別陽和意，直待春深始擬遊。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1268,12 +1268,12 @@
     "title": "代夢得吟",
     "author": "白居易",
     "paragraphs": [
-      "後來變化三分貴，同輩凋零太半無。世上爭先從盡汝，",
+      "後來變化三分貴，同輩凋零太半無。世上爭先從盡汝，人間鬥在不如吾。竿頭已到應難久，局勢雖遲未必輸。",
       "不見山苗與林葉，迎春先綠亦先枯。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1281,12 +1281,12 @@
     "title": "寄答周協律",
     "author": "白居易",
     "paragraphs": [
-      "故人敘舊寄新篇，惆悵江南到眼前。闇想樓臺萬餘裏，",
+      "故人敘舊寄新篇，惆悵江南到眼前。闇想樓臺萬餘裏，不聞歌吹一周年。橋頭誰更看新月，池畔猶應泊舊船。",
       "最憶後庭杯酒散，紅屏風掩綠窗眠。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }

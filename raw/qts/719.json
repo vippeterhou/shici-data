@@ -15,12 +15,12 @@
     "title": "感舊詩",
     "author": "路德延",
     "paragraphs": [
-      "初騎竹馬詠芭蕉，嘗忝名卿誦滿朝。五字便容趨絳帳，",
+      "初騎竹馬詠芭蕉，嘗忝名卿誦滿朝。五字便容趨絳帳，一枝尋許折丹霄。豈知流落萍蓬遠，不覺推遷歲月遙。",
       "國境未安身未立，至今顏巷守簞瓢。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -64,11 +64,11 @@
     "title": "句",
     "author": "路德延",
     "paragraphs": [
-      "不是上臺知姓字，五花賓館敢從容。（《上成汭》，"
+      "不是上臺知姓字，五花賓館敢從容。（《上成汭》，見《南部新書》。荊南舊有五花館，待賓上地，故雲）"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 3],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 3, 5, 7, 4, 2],
       "uniform_sentence_length": null
     }
   },
@@ -76,12 +76,12 @@
     "title": "及第後呈朝中知己",
     "author": "李旭",
     "paragraphs": [
-      "淩晨曉鼓奏嘉音，雷擁龍迎出陸沈。金榜高懸當玉闕，",
+      "淩晨曉鼓奏嘉音，雷擁龍迎出陸沈。金榜高懸當玉闕，錦衣即著到家林。真珠每被塵泥陷，病鶴多遭螻蟻侵。",
       "今日始知天有意，還教雪得一生心。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -101,12 +101,12 @@
     "title": "經費拾遺舊隱",
     "author": "胡駢",
     "paragraphs": [
-      "林下茅齋已半傾，九華幽徑少人行。不將冠劍為榮事，",
+      "林下茅齋已半傾，九華幽徑少人行。不將冠劍為榮事，只向煙蘿寄此生。松竹漸荒池上色，琴書徒立世間名。",
       "白楊風起秋山暮，時複哀猿啼一聲。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

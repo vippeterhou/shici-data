@@ -52,12 +52,12 @@
     "title": "擲裴武公詩",
     "author": "介胄鬼",
     "paragraphs": [
-      "屢策羸驂曆亂峋，叢嵐映日晝如曛。長橋駕險浮天漢，",
+      "屢策羸驂曆亂峋，叢嵐映日晝如曛。長橋駕險浮天漢，危棧通岐觸岫雲。卻念淮陰空得計，又嗟忠武不堪聞。",
       "廢興盡系前生數，休衒英雄勇冠軍。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -231,11 +231,11 @@
     "title": "踏歌",
     "author": "河中鬼",
     "paragraphs": [
-      "河水流溷溷，山頭種蕎麥。兩個胡孫門底來，"
+      "河水流溷溷，山頭種蕎麥。兩個胡孫門底來，東家阿嫂決一百。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -340,12 +340,12 @@
     "title": "贈雷殿直",
     "author": "石恪",
     "paragraphs": [
-      "衡陽去此正三年，一路程途甚坦然。深邃門牆三楚外，",
+      "衡陽去此正三年，一路程途甚坦然。深邃門牆三楚外，清風池館五峰前。西邊市井來商客，東岸汀洲簇釣船。",
       "公退只應無別事，朱陵後洞看神仙。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

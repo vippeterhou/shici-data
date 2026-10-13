@@ -72,7 +72,7 @@
     "title": "九日五首",
     "author": "杜甫",
     "paragraphs": [
-      "重陽獨酌杯中酒，抱病起登江上臺。竹葉於人既無分，",
+      "重陽獨酌杯中酒，抱病起登江上臺。竹葉於人既無分，菊花從此不須開。殊方日落玄猿哭，舊國霜前白雁來。",
       "弟妹蕭條各何往，干戈衰謝兩相催。",
       "舊日重陽日，傳杯不放杯。即今蓬鬢改，但愧菊花開。",
       "北闕心長戀，西江首獨回。茱萸賜朝士，難得一枝來。",
@@ -83,8 +83,8 @@
       "為客裁烏帽，從兒具綠尊。佳辰對群盜，愁絕更誰論。"
     ],
     "format": {
-      "sentence_count": 33,
-      "sentence_lengths": [7, 7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 36,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -144,12 +144,12 @@
     "title": "冬至",
     "author": "杜甫",
     "paragraphs": [
-      "年年至日長為客，忽忽窮愁泥殺人。江上形容吾獨老，",
+      "年年至日長為客，忽忽窮愁泥殺人。江上形容吾獨老，天邊風俗自相親。杖藜雪後臨丹壑，鳴玉朝來散紫宸。",
       "心折此時無一寸，路迷何處見三秦。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -157,12 +157,12 @@
     "title": "小至",
     "author": "杜甫",
     "paragraphs": [
-      "天時人事日相催，冬至陽生春又來。刺繡五紋添弱線，",
+      "天時人事日相催，冬至陽生春又來。刺繡五紋添弱線，岸容待臘將舒柳，山意沖寒欲放梅。",
       "雲物不殊鄉國異，教兒且覆掌中杯。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -170,12 +170,12 @@
     "title": "覽物",
     "author": "杜甫",
     "paragraphs": [
-      "曾為掾吏趨三輔，憶在潼關詩興多。巫峽忽如瞻華嶽，",
+      "曾為掾吏趨三輔，憶在潼關詩興多。巫峽忽如瞻華嶽，蜀江猶似見黃河。舟中得病移衾枕，洞口經春長薜蘿。",
       "形勝有餘風土惡，幾時回首一高歌。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -209,12 +209,12 @@
     "title": "愁",
     "author": "杜甫",
     "paragraphs": [
-      "江草日日喚愁生，巫峽泠泠非世情。盤渦鷺浴底心性，",
+      "江草日日喚愁生，巫峽泠泠非世情。盤渦鷺浴底心性，獨樹花發自分明。十年戎馬暗萬國，異域賓客老孤城。",
       "渭水秦山得見否，人經罷病虎縱橫。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -222,12 +222,12 @@
     "title": "晝夢",
     "author": "杜甫",
     "paragraphs": [
-      "二月饒睡昏昏然，不獨夜短晝分眠。桃花氣暖眼自醉，",
+      "二月饒睡昏昏然，不獨夜短晝分眠。桃花氣暖眼自醉，春渚日落夢相牽。故鄉門巷荊棘底，中原君臣豺虎邊。",
       "安得務農息戰鬥，普天無吏橫索錢。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -432,12 +432,12 @@
     "title": "江雨有懷鄭典設",
     "author": "杜甫",
     "paragraphs": [
-      "春雨暗暗塞峽中，早晚來自楚王宮。亂波分披已打岸，",
+      "春雨暗暗塞峽中，早晚來自楚王宮。亂波分披已打岸，弱雲狼藉不禁風。寵光蕙葉與多碧，點注桃花舒小紅。",
       "穀口子真正憶汝，岸高瀼滑限西東。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -616,12 +616,12 @@
     "title": "簡吳郎司法",
     "author": "杜甫",
     "paragraphs": [
-      "有客乘舸自忠州，遣騎安置瀼西頭。古堂本買藉疏豁，",
+      "有客乘舸自忠州，遣騎安置瀼西頭。古堂本買藉疏豁，借汝遷居停宴遊。雲石熒熒高葉曙，風江颯颯亂帆秋。",
       "卻為姻婭過逢地，許坐曾軒數散愁。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -629,12 +629,12 @@
     "title": "又呈吳郎",
     "author": "杜甫",
     "paragraphs": [
-      "堂前撲棗任西鄰，無食無兒一婦人。不為困窮寧有此，",
+      "堂前撲棗任西鄰，無食無兒一婦人。不為困窮寧有此，只緣恐懼轉須親。即防遠客雖多事，使插疏籬卻甚真。",
       "已訴徵求貧到骨，正思戎馬淚盈巾。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -642,12 +642,12 @@
     "title": "覃山人隱居",
     "author": "杜甫",
     "paragraphs": [
-      "南極老人自有星，北山移文誰勒銘。征君已去獨松菊，",
+      "南極老人自有星，北山移文誰勒銘。征君已去獨松菊，哀壑無光留戶庭。予見亂離不得已，子知出處必須經。",
       "高車駟馬帶傾覆，悵望秋天虛翠屏。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -655,12 +655,12 @@
     "title": "柏學士茅屋",
     "author": "杜甫",
     "paragraphs": [
-      "碧山學士焚銀魚，白馬卻走身岩居。古人已用三冬足，",
+      "碧山學士焚銀魚，白馬卻走身岩居。古人已用三冬足，年少今開萬卷餘。晴雲滿戶團傾蓋，秋水浮階溜決渠。",
       "富貴必從勤苦得，男兒須讀五車書。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -772,12 +772,12 @@
     "title": "送李八秘書赴杜相公幕",
     "author": "杜甫",
     "paragraphs": [
-      "青簾白舫益州來，巫峽秋濤天地回。石出倒聽楓葉下，",
+      "青簾白舫益州來，巫峽秋濤天地回。石出倒聽楓葉下，櫓搖背指菊花開。貪趨相府今晨發，恐失佳期後命催。",
       "南極一星朝北斗，五雲多處是三台。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -825,12 +825,12 @@
     "title": "季夏送鄉弟韶陪黃門從叔朝謁",
     "author": "杜甫",
     "paragraphs": [
-      "令弟尚為蒼水使，名家莫出杜陵人。比來相國兼安蜀，",
+      "令弟尚為蒼水使，名家莫出杜陵人。比來相國兼安蜀，歸赴朝廷已入秦。舍舟策馬論兵地，拖玉腰金報主身。",
       "莫度清秋吟蟋蟀，早聞黃閣畫麒麟。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1071,12 +1071,12 @@
     "title": "見螢火",
     "author": "杜甫",
     "paragraphs": [
-      "巫山秋夜螢火飛，簾疏巧入坐人衣。忽驚屋裏琴書冷，",
+      "巫山秋夜螢火飛，簾疏巧入坐人衣。忽驚屋裏琴書冷，卻繞井闌添個個，偶經花蕊弄輝輝。",
       "滄江白發愁看汝，來歲如今歸未歸。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1084,12 +1084,12 @@
     "title": "吹笛",
     "author": "杜甫",
     "paragraphs": [
-      "吹笛秋山風月清，誰家巧作斷腸聲。風飄律呂相和切，",
+      "吹笛秋山風月清，誰家巧作斷腸聲。風飄律呂相和切，月傍關山幾處明。胡騎中宵堪北走，武陵一曲想南征。",
       "故園楊柳今搖落，何得愁中曲盡生。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

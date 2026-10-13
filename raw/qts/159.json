@@ -821,12 +821,12 @@
     "title": "和盧明府送鄭十三還京兼寄之什",
     "author": "孟浩然",
     "paragraphs": [
-      "昔時風景登臨地，今日衣冠送別筵。醉坐自傾彭澤酒，",
+      "昔時風景登臨地，今日衣冠送別筵。醉坐自傾彭澤酒，思歸長望白雲天。洞庭一葉驚秋早，濩落空嗟滯江島。",
       "寄語朝廷當世人，何時重見長安道。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -834,13 +834,13 @@
     "title": "高陽池送朱二",
     "author": "孟浩然",
     "paragraphs": [
-      "當昔襄陽雄盛時，山公常醉習家池。池邊釣女日相隨，",
-      "一朝物變人亦非，四面荒涼人徑稀。意氣豪華何處在，",
-      "征馬分飛日漸斜，見此空為人所嗟。殷勤為訪桃源路，"
+      "當昔襄陽雄盛時，山公常醉習家池。池邊釣女日相隨，妝成照影競來窺。澄波澹澹芙蓉發，綠岸毿毿楊柳垂。",
+      "一朝物變人亦非，四面荒涼人徑稀。意氣豪華何處在，空餘草露濕羅衣。此地朝來餞行者，翻向此中牧征馬。",
+      "征馬分飛日漸斜，見此空為人所嗟。殷勤為訪桃源路，予亦歸來松子家。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 16,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -848,12 +848,12 @@
     "title": "鸚鵡洲送王九之江左",
     "author": "孟浩然",
     "paragraphs": [
-      "昔登江上黃鶴樓，遙愛江中鸚鵡洲。洲勢逶迤繞碧流，",
-      "舟人牽錦纜，浣女結羅裳。月明全見蘆花白，"
+      "昔登江上黃鶴樓，遙愛江中鸚鵡洲。洲勢逶迤繞碧流，鴛鴦鸂鶒滿灘頭。灘頭日落沙磧長，金沙熠熠動飆光。",
+      "舟人牽錦纜，浣女結羅裳。月明全見蘆花白，風起遙聞杜若香。君行采采莫相忘。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 5, 5, 7],
+      "sentence_count": 11,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 5, 5, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -862,11 +862,11 @@
     "author": "孟浩然",
     "paragraphs": [
       "君不見巫山神女作行雲，霏紅遝翠曉氛氳。",
-      "嬋娟流入楚王夢，倏忽還隨零雨分。空中飛去複飛來，"
+      "嬋娟流入楚王夢，倏忽還隨零雨分。空中飛去複飛來，朝朝暮暮下陽臺。愁君此去為仙尉，便逐行雲去不回。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [10, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [10, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -874,12 +874,12 @@
     "title": "夜歸鹿門山歌",
     "author": "孟浩然",
     "paragraphs": [
-      "山寺鐘鳴晝已昏，漁梁渡頭爭渡喧。人隨沙路向江村，",
+      "山寺鐘鳴晝已昏，漁梁渡頭爭渡喧。人隨沙路向江村，餘亦乘舟歸鹿門。鹿門月照開煙樹，忽到龐公棲隱處。",
       "岩扉松徑長寂寥，惟有幽人夜來去。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -887,12 +887,12 @@
     "title": "長樂宮",
     "author": "孟浩然",
     "paragraphs": [
-      "秦城舊來稱窈窕，漢家更衣應不少。紅粉邀君在何處，",
+      "秦城舊來稱窈窕，漢家更衣應不少。紅粉邀君在何處，青樓苦夜長難曉。長樂宮中鐘暗來，可憐歌舞慣相催。",
       "歡娛此事今寂寞，惟有年年陵樹哀。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

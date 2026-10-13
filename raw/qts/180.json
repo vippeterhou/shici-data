@@ -238,12 +238,12 @@
     "title": "登金陵鳳凰台",
     "author": "李白",
     "paragraphs": [
-      "鳳凰臺上鳳凰遊，鳳去台空江自流。吳宮花草埋幽徑，",
+      "鳳凰臺上鳳凰遊，鳳去台空江自流。吳宮花草埋幽徑，晉代衣冠成古丘。三山半落青天外，二水中分白鷺洲。",
       "總為浮雲能蔽日，長安不見使人愁。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -324,12 +324,12 @@
     "title": "鸚鵡洲",
     "author": "李白",
     "paragraphs": [
-      "鸚鵡來過吳江水，江上洲傳鸚鵡名。鸚鵡西飛隴山去，",
+      "鸚鵡來過吳江水，江上洲傳鸚鵡名。鸚鵡西飛隴山去，芳洲之樹何青青。煙開蘭葉香風暖，岸夾桃花錦浪生。",
       "遷客此時徒極目，長洲孤月向誰明。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

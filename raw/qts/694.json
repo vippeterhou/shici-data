@@ -3,12 +3,12 @@
     "title": "上蜀王",
     "author": "張道古",
     "paragraphs": [
-      "封章才達冕旒前，黜詔俄離玉座端。二亂豈由明主用，",
+      "封章才達冕旒前，黜詔俄離玉座端。二亂豈由明主用，五危終被佞臣彈。西巡鳳府非為固，東播鑾輿卒未安。",
       "諫疏至今如可在，誰能更與讀來看。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -28,12 +28,12 @@
     "title": "楊岐山",
     "author": "唐廩",
     "paragraphs": [
-      "逗竹穿花越幾村，還從舊路入雲門。翠微不閉樓臺出，",
+      "逗竹穿花越幾村，還從舊路入雲門。翠微不閉樓臺出，清吹頻回水石喧。天外鶴歸松自老，岩間僧逝塔空存。",
       "重來白首良堪喜，朝露浮生不足言。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -41,12 +41,12 @@
     "title": "吹笙引",
     "author": "王轂",
     "paragraphs": [
-      "媧皇遺音寄玉笙，雙成傳得何淒清。丹穴嬌雛七十只，",
-      "旖旎香風繞指生，千聲妙盡神仙曲。曲終滿席悄無語，"
+      "媧皇遺音寄玉笙，雙成傳得何淒清。丹穴嬌雛七十只，一時飛上秋天鳴。水泉迸瀉急相續，一束宮商裂寒玉。",
+      "旖旎香風繞指生，千聲妙盡神仙曲。曲終滿席悄無語，巫山冷碧愁雲雨。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 10,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -54,27 +54,27 @@
     "title": "鴻門宴",
     "author": "王轂",
     "paragraphs": [
-      "寰海沸兮爭戰苦，風雲愁兮會龍虎。四百年漢欲開基，",
+      "寰海沸兮爭戰苦，風雲愁兮會龍虎。四百年漢欲開基，項莊一劍何虛舞。殊不知人心去暴秦，天意歸明主。",
       "項王足底踏漢土，席上相看渾未悟。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
-      "uniform_sentence_length": 7
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 8, 5, 7, 7],
+      "uniform_sentence_length": null
     }
   },
   {
     "title": "玉樹曲",
     "author": "王轂",
     "paragraphs": [
-      "陳宮內宴明朝日，玉樹新妝逞嬌逸。三閣霞明天上開，",
-      "金管紅弦旖旎隨，霓旌玉佩參差轉。璧月夜滿樓風輕，",
-      "歌舞未終樂未闋，晉王劍上粘腥血。君臣猶在醉鄉中，",
+      "陳宮內宴明朝日，玉樹新妝逞嬌逸。三閣霞明天上開，靈鼉振擂神仙出。天花數朵風吹綻，對舞輕盈瑞香散。",
+      "金管紅弦旖旎隨，霓旌玉佩參差轉。璧月夜滿樓風輕，蓮舌泠泠詞調新。當行狎客盡持祿，直諫犯顏無一人。",
+      "歌舞未終樂未闋，晉王劍上粘腥血。君臣猶在醉鄉中，一面已無陳日月。聖唐禦宇三百祀，濮上桑間宜禁止。",
       "請停此曲歸正聲，願將雅樂調元氣。"
     ],
     "format": {
-      "sentence_count": 11,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 20,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -82,12 +82,12 @@
     "title": "苦熱行",
     "author": "王轂",
     "paragraphs": [
-      "祝融南來鞭火龍，火旗焰焰燒天紅。日輪當午凝不去，",
+      "祝融南來鞭火龍，火旗焰焰燒天紅。日輪當午凝不去，萬國如在洪爐中。五嶽翠幹雲彩滅，陽侯海底愁波竭。",
       "何當一夕金風發，為我掃卻天下熱。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -95,12 +95,12 @@
     "title": "暑日題道邊樹",
     "author": "王轂",
     "paragraphs": [
-      "火輪迸焰燒長空，浮埃撲面愁朦朦。羸童走馬喘不進，",
+      "火輪迸焰燒長空，浮埃撲面愁朦朦。羸童走馬喘不進，忽逢碧樹含清風。清風留我移時住，滿地濃陰懶前去。",
       "卻歎人無及物功，不似團團道邊樹。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -108,12 +108,12 @@
     "title": "紅薔薇歌",
     "author": "王轂",
     "paragraphs": [
-      "紅霞爛潑猩猩血，阿母瑤池曬仙纈。晚日春風奪眼明，",
+      "紅霞爛潑猩猩血，阿母瑤池曬仙纈。晚日春風奪眼明，蜀機錦彩渾疑黦。公子亭台香觸人，",
       "苧羅西子見應妒，風光占斷年年新。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 7,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -121,12 +121,12 @@
     "title": "刺桐花",
     "author": "王轂",
     "paragraphs": [
-      "南國清和煙雨辰，刺桐夾道花開新。林梢簇簇紅霞爛，",
+      "南國清和煙雨辰，刺桐夾道花開新。林梢簇簇紅霞爛，暑天別覺生精神。穠英鬥火欺朱槿，棲鶴驚飛翅憂燼。",
       "直疑青帝去匆匆，收拾春風渾不盡。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -330,12 +330,12 @@
     "title": "投節度邢公",
     "author": "褚載",
     "paragraphs": [
-      "西風昨夜墜紅蘭，一宿郵亭事萬般。無地可耕歸不得，",
+      "西風昨夜墜紅蘭，一宿郵亭事萬般。無地可耕歸不得，有恩堪報死何難。流年怕老看將老，百計求安未得安。",
       "一卷新書滿懷淚，頻來門館訴饑寒。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -343,12 +343,12 @@
     "title": "賀趙觀文重試及第",
     "author": "褚載",
     "paragraphs": [
-      "一枝仙桂兩回春。始覺文章可致身。已把色絲要上第，",
+      "一枝仙桂兩回春。始覺文章可致身。已把色絲要上第，又將彩筆冠群倫。龍泉再淬方知利，火浣重燒轉更新。",
       "今日街頭看禦榜，大能榮耀苦心人。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -356,12 +356,12 @@
     "title": "贈道士",
     "author": "褚載",
     "paragraphs": [
-      "簪星曳月下蓬壺，曾見東皋種白榆。六甲威靈藏瑞檢，",
+      "簪星曳月下蓬壺，曾見東皋種白榆。六甲威靈藏瑞檢，五龍雷電繞霜都。惟教鶴探丹丘信，不使人窺太乙爐。",
       "聞說葛陂風浪惡，許騎青鹿從行無。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -369,12 +369,12 @@
     "title": "曉發",
     "author": "褚載",
     "paragraphs": [
-      "貪路貪名須早發，枕前無計暫裴回。才聞雞唱呼童起，",
+      "貪路貪名須早發，枕前無計暫裴回。才聞雞唱呼童起，已有鈴聲過驛來。衣濕乍驚沾霧露，馬行仍未見塵埃。",
       "朝朝陌上侵星去，待得酬身了便回。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -382,12 +382,12 @@
     "title": "曉感",
     "author": "褚載",
     "paragraphs": [
-      "曉鼓冬冬星漢微，佩金鳴玉鬥光輝。出門各自爭岐路，",
+      "曉鼓冬冬星漢微，佩金鳴玉鬥光輝。出門各自爭岐路，至老何人免是非。大道不應由曲取，浮生還要略知機。",
       "故園華表高高在，可得不如丁令威。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -395,12 +395,12 @@
     "title": "南徐晚望",
     "author": "褚載",
     "paragraphs": [
-      "芳草鋪香晚岸晴，岸頭含醉去來行。僧歸岳外殘鐘寺，",
+      "芳草鋪香晚岸晴，岸頭含醉去來行。僧歸岳外殘鐘寺，日下江邊調角城。入浙孤帆知楚信，過淮疏雨帶潮聲。",
       "如今未免風塵役，寧敢匆匆便濯纓。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -408,12 +408,12 @@
     "title": "移石",
     "author": "褚載",
     "paragraphs": [
-      "嶙峋一片溪中石，恰稱幽人彈素琴。浪浸多年苔色在，",
+      "嶙峋一片溪中石，恰稱幽人彈素琴。浪浸多年苔色在，洗來今日碏痕深。磨看粹色何殊玉，敲有奇聲直異金。",
       "不是不堪為器用，都緣良匠未留心。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -545,12 +545,12 @@
     "title": "江南清明",
     "author": "鄭准",
     "paragraphs": [
-      "吳山楚驛四年中，一見清明一改容。旅恨共風連夜起，",
+      "吳山楚驛四年中，一見清明一改容。旅恨共風連夜起，韶光隨酒著人濃。延興門外攀花別，採石江頭帶雨逢。",
       "無限歸心何計是，路邊戈甲正重重。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -558,12 +558,12 @@
     "title": "題宛陵北樓",
     "author": "鄭准",
     "paragraphs": [
-      "雨來風靜綠蕪蘚，憑著朱闌思浩然。人語獨耕燒後嶺，",
+      "雨來風靜綠蕪蘚，憑著朱闌思浩然。人語獨耕燒後嶺，鳥飛斜沒望中煙。松梢半露藏雲寺，灘勢橫流出浦船。",
       "若遣謝宣城不死，必應吟盡夕陽川。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -571,12 +571,12 @@
     "title": "寄進士崔魯范",
     "author": "鄭准",
     "paragraphs": [
-      "洛陽才子舊交知，別後干戈積詠思。百戰市朝千里夢，",
+      "洛陽才子舊交知，別後干戈積詠思。百戰市朝千里夢，三年風月幾篇詩。山高雁斷音書絕，穀背鶯寒變化遲。",
       "會待路寧歸得去，酒樓漁浦重相期。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

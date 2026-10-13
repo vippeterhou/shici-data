@@ -29,12 +29,12 @@
     "title": "讀禪經",
     "author": "白居易",
     "paragraphs": [
-      "須知諸相皆非相，若住無餘卻有餘。言下忘言一時了，",
+      "須知諸相皆非相，若住無餘卻有餘。言下忘言一時了，夢中說夢兩重虛。空花豈得兼求果，陽焰如何更覓魚。",
       "攝動是禪禪是動，不禪不動即如如。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -177,12 +177,12 @@
     "title": "春早秋初，因時即事，兼寄浙東李侍郎",
     "author": "白居易",
     "paragraphs": [
-      "春早秋初晝夜長，可憐天氣好年光。和風細動簾帷暖，",
-      "閑從蕙草侵階綠，靜任槐花滿地黃。理曲管弦聞後院，"
+      "春早秋初晝夜長，可憐天氣好年光。和風細動簾帷暖，清露微凝枕簟涼。窗下曉眠初減被，池邊晚坐乍移床。",
+      "閑從蕙草侵階綠，靜任槐花滿地黃。理曲管弦聞後院，熨衣燈火映深房。四時新景何人別，遙憶多情李侍郎。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -217,12 +217,12 @@
     "title": "哭崔二十四常侍",
     "author": "白居易",
     "paragraphs": [
-      "貂冠初別九重門，馬鬣新封四尺墳。薤露歌詞非白雪，",
+      "貂冠初別九重門，馬鬣新封四尺墳。薤露歌詞非白雪，旌銘官爵是浮雲。伯倫每置隨身鍤，元亮先為自祭文。",
       "莫道高風無繼者，一千年內有崔君。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -284,12 +284,12 @@
     "title": "代琵琶弟子謝女師曹供奉寄新調弄譜",
     "author": "白居易",
     "paragraphs": [
-      "琵琶師在九重城，忽得書來喜且驚。一紙展看非舊譜，",
+      "琵琶師在九重城，忽得書來喜且驚。一紙展看非舊譜，四弦翻出是新聲。蕤賓掩抑嬌多怨，散水玲瓏峭更清。",
       "珠顆淚沾金捍撥，紅妝弟子不勝情。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -362,12 +362,12 @@
     "title": "曉上天津橋閑望偶逢盧郎中、張員外攜酒同傾",
     "author": "白居易",
     "paragraphs": [
-      "上陽宮裏曉鐘後，天津橋頭殘月前。空闊境疑非下界，",
+      "上陽宮裏曉鐘後，天津橋頭殘月前。空闊境疑非下界，飄颻身似在寥天。星河隱映初生日，樓閣蔥蘢半出煙。",
       "此處相逢傾一醆，始知地上有神仙。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -375,12 +375,12 @@
     "title": "八月十五日夜同諸客玩月",
     "author": "白居易",
     "paragraphs": [
-      "月好共傳唯此夜，境閑皆道是東都。嵩山表裏千重雪，",
+      "月好共傳唯此夜，境閑皆道是東都。嵩山表裏千重雪，洛水高低兩顆珠。清景難逢宜愛惜，白頭相勸強歡娛。",
       "誠知亦有來年會，保得晴明強健無。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -427,12 +427,12 @@
     "title": "酬皇甫郎中對新菊花見憶",
     "author": "白居易",
     "paragraphs": [
-      "愛菊高人吟逸韻，悲秋病客感衰懷。黃花助興方攜酒，",
+      "愛菊高人吟逸韻，悲秋病客感衰懷。黃花助興方攜酒，紅葉添愁正滿階。居士葷腥今已斷，仙郎杯杓為誰排。",
       "愧君相憶東籬下，擬廢重陽一日齋。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -440,12 +440,12 @@
     "title": "夜宴醉後留獻裴侍中",
     "author": "白居易",
     "paragraphs": [
-      "九燭臺前十二姝，主人留醉任歡娛。翩翻舞袖雙飛蝶，",
+      "九燭臺前十二姝，主人留醉任歡娛。翩翻舞袖雙飛蝶，宛轉歌聲一索珠。坐久欲醒還酩酊，夜深初散又踟躕。",
       "南山賓客東山妓，此會人間曾有無。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -453,12 +453,12 @@
     "title": "和韋庶子遠坊赴宴未夜先歸之作兼呈裴員外",
     "author": "白居易",
     "paragraphs": [
-      "促席留歡日未曛，遠坊歸思已紛紛。無妨按轡行乘月，",
+      "促席留歡日未曛，遠坊歸思已紛紛。無妨按轡行乘月，何必逃杯走似雲。銀燭忍拋楊柳曲，金鞍潛送石榴裙。",
       "到時常晚歸時早，笑樂三分校一分。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -721,12 +721,12 @@
     "title": "和劉汝州酬侍中見寄長句因書集賢坊勝事戲而問之",
     "author": "白居易",
     "paragraphs": [
-      "洛川汝海封畿接，履道集賢來往頻。一複時程雖不遠，",
+      "洛川汝海封畿接，履道集賢來往頻。一複時程雖不遠，百餘步地更相親。朱門陪宴多投轄，青眼留歡任吐茵。",
       "聞道郡齋還有酒，花前月下對何人。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -761,12 +761,12 @@
     "title": "五月齋戒罷宴徹樂聞韋賓客皇甫郎中飲會亦稀又知欲攜酒饌出齋先以長句呈謝",
     "author": "白居易",
     "paragraphs": [
-      "妓房匣鏡滿紅埃，酒庫封瓶生綠苔。居士爾時緣護戒，",
+      "妓房匣鏡滿紅埃，酒庫封瓶生綠苔。居士爾時緣護戒，車公何事亦停杯。散齋香火今朝散，開素盤筵後日開。",
       "隨意往還君莫怪，坐禪僧去飲徒來。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -806,12 +806,12 @@
     "title": "偶吟",
     "author": "白居易",
     "paragraphs": [
-      "好官病免曾三度，散地歸休已七年。老自退閑非世棄，",
+      "好官病免曾三度，散地歸休已七年。老自退閑非世棄，貧蒙強健是天憐。韋荊南去留春服，王侍中來乞酒錢。",
       "便得一年生計足，與君美食複甘眠。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -819,12 +819,12 @@
     "title": "池上即事",
     "author": "白居易",
     "paragraphs": [
-      "移床避日依松竹，解帶當風掛薜蘿。鈿砌池心綠蘋合，",
+      "移床避日依松竹，解帶當風掛薜蘿。鈿砌池心綠蘋合，粉開花面白蓮多。久陰新霽宜絲管，苦熱初涼入綺羅。",
       "家醞瓶空人客絕，今宵爭奈月明何。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -858,12 +858,12 @@
     "title": "諭親友",
     "author": "白居易",
     "paragraphs": [
-      "適情處處皆安樂，大抵園林勝市朝。煩鬧榮華猶易過，",
+      "適情處處皆安樂，大抵園林勝市朝。煩鬧榮華猶易過，優閑福祿更難銷。自憐老大宜疏散，卻被交親歎寂寥。",
       "終日相逢不相見，兩心相去一何遙。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -925,12 +925,12 @@
     "title": "韋七自太子賓客再除秘書監，以長句賀而餞之",
     "author": "白居易",
     "paragraphs": [
-      "離筵莫愴且同歡，共賀新恩拜舊官。屈就商山伴麋鹿，",
+      "離筵莫愴且同歡，共賀新恩拜舊官。屈就商山伴麋鹿，好歸芸閣狎鵷鸞。落星石上蒼苔古，畫鶴廳前白露寒。",
       "老監姓名應在壁，相思試為拂塵看。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -951,12 +951,12 @@
     "title": "九年十一月二十一日感事而作",
     "author": "白居易",
     "paragraphs": [
-      "禍福茫茫不可期，大都早退似先知。當君白首同歸日，",
+      "禍福茫茫不可期，大都早退似先知。當君白首同歸日，是我青山獨往時。顧索素琴應不暇，憶牽黃犬定難追。",
       "麒麟作脯龍為醢，何似泥中曳尾龜。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -977,12 +977,12 @@
     "title": "將歸渭村先寄舍弟",
     "author": "白居易",
     "paragraphs": [
-      "一年年覺此身衰，一日日知前事非。詠月嘲風先要減，",
+      "一年年覺此身衰，一日日知前事非。詠月嘲風先要減，登山臨水亦宜稀。子平嫁娶貧中畢，元亮田園醉裏歸。",
       "為報阿連寒食下，與吾釀酒掃柴扉。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -1003,12 +1003,12 @@
     "title": "詠懷",
     "author": "白居易",
     "paragraphs": [
-      "隨緣逐處便安閒，不入朝廷不住山。心似虛舟浮水上，",
+      "隨緣逐處便安閒，不入朝廷不住山。心似虛舟浮水上，身同宿鳥寄林間。尚平婚嫁了無累，馮翊符章封卻還。",
       "處分貧家殘活計，匹如身後莫相關。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

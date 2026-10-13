@@ -62,11 +62,11 @@
     "title": "青雀歌",
     "author": "盧象",
     "paragraphs": [
-      "啾啾青雀兒，飛來飛去仰天池。逍遙飲啄安涯分，"
+      "啾啾青雀兒，飛來飛去仰天池。逍遙飲啄安涯分，何假扶搖九萬為。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -165,12 +165,12 @@
     "title": "駕幸溫泉",
     "author": "盧象",
     "paragraphs": [
-      "傳聞聖主幸新豐，清蹕鳴鑾出禁中。細草終朝隨步輦，",
+      "傳聞聖主幸新豐，清蹕鳴鑾出禁中。細草終朝隨步輦，垂楊幾處繞行宮。千官扈從驪山北，萬國來朝渭水東。",
       "此日小臣徒獻賦，漢家誰複重揚雄。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

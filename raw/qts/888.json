@@ -21,12 +21,12 @@
     "title": "過商山",
     "author": "貫休",
     "paragraphs": [
-      "吟緣橫翠憶天臺，嘯狖啼猿見盡猜。四個老人何處去，",
+      "吟緣橫翠憶天臺，嘯狖啼猿見盡猜。四個老人何處去，一聲仙鶴過溪來。皇城宮闕回頭盡，紫閣煙霞為我開。",
       "天際峰峰盡堪住，紅塵中去大悠哉。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -47,12 +47,12 @@
     "title": "中秋月",
     "author": "可朋",
     "paragraphs": [
-      "登樓仍喜此宵晴，圓魄才觀思便清。海面乍浮猶隱映，",
+      "登樓仍喜此宵晴，圓魄才觀思便清。海面乍浮猶隱映，天心高掛最分明。片雲想有神仙出，回野應無鬼魅形。",
       "曾向洞庭湖上看，君山半霧水初平。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -73,12 +73,12 @@
     "title": "題僧院泉",
     "author": "修睦",
     "paragraphs": [
-      "何處雲根新布得，歸仍半日在煙蘿。莫輕竹引經窗小，",
+      "何處雲根新布得，歸仍半日在煙蘿。莫輕竹引經窗小，須信更深入耳多。繞砌雖然清自別，出門長恐濁相和。",
       "從此無心戀滄海，滄海無風亦起波。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -239,12 +239,12 @@
     "title": "薔薇花",
     "author": "李冶",
     "paragraphs": [
-      "翠融紅綻渾無力，斜倚欄幹似詫人。深處最宜香惹蝶，",
+      "翠融紅綻渾無力，斜倚欄幹似詫人。深處最宜香惹蝶，摘時兼恐焰燒春。當空巧結玲瓏帳，著地能鋪錦繡裀。",
       "最好淩晨和露看，碧紗窗外一枝新。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -252,12 +252,12 @@
     "title": "柳",
     "author": "李冶",
     "paragraphs": [
-      "最愛纖纖曲水濱，夕陽移影過青蘋。東風又染一年綠，",
+      "最愛纖纖曲水濱，夕陽移影過青蘋。東風又染一年綠，楚客更傷千里春。低葉已藏依岸棹，高枝應閉上樓人。",
       "舞腰漸重煙光老，散作飛綿惹翠裀。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   }
