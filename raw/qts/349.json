@@ -939,13 +939,13 @@
     "title": "宿建溪中宵即事",
     "author": "歐陽詹",
     "paragraphs": [
-      "nNvF一席眠還坐，蛙噪螢飛夜未央。",
+      "蕯藭一席眠還坐，蛙噪螢飛夜未央。",
       "僮僕舟人空寂寂，隔簾微月入中倉。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [5, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

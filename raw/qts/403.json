@@ -249,13 +249,13 @@
     "title": "順宗至德大聖大安孝皇帝挽歌詞三首·其三",
     "author": "元稹",
     "paragraphs": [
-      "七月悲風起，淒涼萬國人。羽儀經巷內，轀fm轉城闉。",
+      "七月悲風起，淒涼萬國人。羽儀經巷內，輼𨍇轉城闉。",
       "暝色依陵早，秋聲入輅新。自嗟同草木，不識永貞春。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 4, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

@@ -543,12 +543,12 @@
     "title": "上馮使君五首·其四",
     "author": "貫休",
     "paragraphs": [
-      "扣舷得新詩，茶煮桃花水。n5々數片帆，去去殊未已。"
+      "扣舷得新詩，茶煮桃花水。礕礕數片帆，去去殊未已。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [5, 5, 3, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

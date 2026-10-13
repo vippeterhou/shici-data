@@ -420,12 +420,12 @@
     "title": "早歸",
     "author": "韓偓",
     "paragraphs": [
-      "去是黃昏後，歸當朧fC時。叉衣吟宿醉，風露動相思。"
+      "去是黃昏後，歸當朧朣時。叉衣吟宿醉，風露動相思。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [5, 4, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

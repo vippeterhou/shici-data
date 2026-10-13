@@ -104,13 +104,13 @@
     "author": "李治",
     "paragraphs": [
       "今宵冬律盡，來朝麗景新。花餘凝地雪，條含暖吹分。",
-      "綬吐芽猶嫩，冰□已鏤津。薄紅梅色冷，淺綠柳輕春。",
+      "綬吐芽猶嫩，冰臺已鏤津。薄紅梅色冷，淺綠柳輕春。",
       "送迎交兩節，暄寒變一辰。"
     ],
     "format": {
       "sentence_count": 10,
-      "sentence_lengths": [5, 5, 5, 5, 5, 4, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

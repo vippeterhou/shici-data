@@ -80,13 +80,13 @@
     "title": "哭趙州和尚二首·其一",
     "author": "王鎔",
     "paragraphs": [
-      "師離dt水動王侯，心印光潛麈尾收。碧落霧霾松嶺月，",
+      "師離㴲水動王侯，心印光潛麈尾收。碧落霧霾松嶺月，",
       "縱是了然雲外客，每瞻瓶幾淚還流。"
     ],
     "format": {
       "sentence_count": 5,
-      "sentence_lengths": [6, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

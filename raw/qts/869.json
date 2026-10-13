@@ -126,13 +126,13 @@
     "author": "竇昉",
     "paragraphs": [
       "不能專習禮，虛心強覓階。一年辭爵弁，半歲履麻鞋。",
-      "瓦惡頻蒙cv，牆虛屢被叉。映樹便側睡，過匱即放乖。",
+      "瓦惡頻蒙𢸗，牆虛屢被叉。映樹便側睡，過匱即放乖。",
       "歲暮良工畢，言是越朋儕。今日綸言降，方知愚計喎。"
     ],
     "format": {
       "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

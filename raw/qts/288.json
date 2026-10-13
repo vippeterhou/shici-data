@@ -45,12 +45,12 @@
     "title": "句",
     "author": "陸贄",
     "paragraphs": [
-      "繞階流dA々，來砌樹陰陰。"
+      "繞階流㶁㶁，來砌樹陰陰。"
     ],
     "format": {
       "sentence_count": 2,
-      "sentence_lengths": [3, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

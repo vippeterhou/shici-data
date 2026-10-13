@@ -185,13 +185,13 @@
     "title": "詩三百三首·其十五",
     "author": "寒山",
     "paragraphs": [
-      "父母續經多，田園不羨他。婦搖機軋軋，兒弄口ex々。",
+      "父母續經多，田園不羨他。婦搖機軋軋，兒弄口㗻㗻。",
       "拍手摧花舞，支頤聽鳥歌。誰當來歎賞，樵客屢經過。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 3, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -550,12 +550,12 @@
     "author": "寒山",
     "paragraphs": [
       "低眼鄒公妻，邯鄲杜生母。二人同老少，一種好面首。",
-      "昨日會客場，惡衣排在後。只為著破裙，吃他殘c䨴W。"
+      "昨日會客場，惡衣排在後。只為著破裙，吃他殘䴺𪍣。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -1447,11 +1447,11 @@
     "author": "寒山",
     "paragraphs": [
       "變化計無窮，生死竟不止。三途鳥雀身，五嶽龍魚已。",
-      "世濁作fh羺時清為騄耳。前回是富兒，今度成貧士。"
+      "世濁作𦎔羺時清為騄耳。前回是富兒，今度成貧士。"
     ],
     "format": {
       "sentence_count": 7,
-      "sentence_lengths": [5, 5, 5, 5, 9, 5, 5],
+      "sentence_lengths": [5, 5, 5, 5, 10, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -1486,12 +1486,12 @@
     "author": "寒山",
     "paragraphs": [
       "柳郎八十二，藍嫂一十八。夫妻共百年，相憐情狡猾。",
-      "弄璋字烏cY，擲瓦名婠妠。屢見枯楊荑，常遭青女殺。"
+      "弄璋字烏䖘，擲瓦名婠妠。屢見枯楊荑，常遭青女殺。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 4, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -2410,13 +2410,13 @@
     "title": "詩三百三首·其一百八十五",
     "author": "寒山",
     "paragraphs": [
-      "買肉血dj々，買魚跳鱍鱍。君身招罪累，妻子成快活。",
+      "買肉血𣽅𣽅，買魚跳鱍鱍。君身招罪累，妻子成快活。",
       "才死渠便嫁，他人誰敢遏。一朝如破床，兩個當頭脫。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [3, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

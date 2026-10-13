@@ -130,7 +130,7 @@
     }
   },
   {
-    "title": "奉和魯望漁具十五詠：qF",
+    "title": "奉和魯望漁具十五詠：𦊔",
     "author": "皮日休",
     "paragraphs": [
       "伐彼槎蘖枝，放於冰雪浦。遊魚趁暖處，忽爾來相聚。",
@@ -211,13 +211,13 @@
     "title": "添魚具詩：釣磯",
     "author": "皮日休",
     "paragraphs": [
-      "盤灘一片石，置我山居足。窪處著筣笓，竅中維艒fR。",
+      "盤灘一片石，置我山居足。窪處著筣笓，竅中維艒䑿。",
       "多逢沙鳥汙，愛彼潭雲觸。狂奴臥此多，所以蹋帝腹。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 4, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

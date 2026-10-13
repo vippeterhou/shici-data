@@ -536,13 +536,13 @@
     "title": "草蟲",
     "author": "李鹹用",
     "paragraphs": [
-      "如繰如織暮eV々，應節催年使我愁。行客語停孤店月，",
+      "如繰如織暮幽幽，應節催年使我愁。行客語停孤店月，",
       "須付畫堂蘭燭畔，歌懷醉耳兩悠悠。"
     ],
     "format": {
       "sentence_count": 5,
-      "sentence_lengths": [5, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

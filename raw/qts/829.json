@@ -397,12 +397,12 @@
     "author": "貫休",
     "paragraphs": [
       "詩名動帝畿，身謝亦因詩。白日只如哭，皇天得不知。",
-      "旅墳孤fb嶽，羸僕泣如兒。多少求名者，聞之淚盡垂。"
+      "旅墳孤𨃤嶽，羸僕泣如兒。多少求名者，聞之淚盡垂。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 4, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
