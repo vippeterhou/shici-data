@@ -4,14 +4,14 @@
     "author": "褚亮",
     "paragraphs": [
       "皇祖誕慶，于昭於天。積德斯遠，茂攸緒先。",
-      "維文應曆，神武弘宣。肇跡□水，成功阪泉。",
-      "道光覆載，聲穆吉先。式備犧象，用□牲牷。",
+      "維文應曆，神武弘宣。肇跡嬀水，成功阪泉。",
+      "道光覆載，聲穆吉先。式備犧象，用潔牲牷。",
       "禮終九獻，樂展四懸。神貺景福，遐哉永年。"
     ],
     "format": {
       "sentence_count": 16,
-      "sentence_lengths": [4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 3, 4, 4, 4, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+      "uniform_sentence_length": 4
     }
   },
   {
@@ -243,8 +243,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 4, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -319,8 +319,8 @@
     ],
     "format": {
       "sentence_count": 32,
-      "sentence_lengths": [3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 3, 5, 5, 5, 2, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

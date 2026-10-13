@@ -372,8 +372,8 @@
     ],
     "format": {
       "sentence_count": 36,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

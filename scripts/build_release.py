@@ -4,6 +4,7 @@ import argparse
 import gzip
 import hashlib
 import json
+import re
 import shutil
 from dataclasses import dataclass
 from datetime import datetime, timezone
@@ -18,6 +19,10 @@ MANIFEST_PATH = ROOT / "manifest.json"
 SCHEMA_VERSION = 3
 COMMON_RAW_FIELDS = ("title", "author", "paragraphs", "format")
 SHIJING_RAW_FIELDS = COMMON_RAW_FIELDS + ("chapter", "section")
+SENTENCE_SEPARATOR = re.compile(r"[，。！？；]")
+COUNTED_CHARACTER = re.compile(
+    r"[\u3400-\u4dbf\u4e00-\u9fff\U00020000-\U000323af〇□]"
+)
 
 
 @dataclass(frozen=True)
@@ -84,6 +89,26 @@ def content_id(corpus_name: str, record: dict[str, object]) -> str:
     return f"{corpus_name}:{digest}"
 
 
+def calculate_poem_format(paragraphs: list[str]) -> dict[str, object]:
+    sentence_lengths = [
+        length
+        for paragraph in paragraphs
+        for sentence in SENTENCE_SEPARATOR.split(paragraph)
+        if (length := len(COUNTED_CHARACTER.findall(sentence))) > 0
+    ]
+    uniform_length = (
+        sentence_lengths[0]
+        if sentence_lengths
+        and all(length == sentence_lengths[0] for length in sentence_lengths)
+        else None
+    )
+    return {
+        "sentence_count": len(sentence_lengths),
+        "sentence_lengths": sentence_lengths,
+        "uniform_sentence_length": uniform_length,
+    }
+
+
 def validate_raw_record(
     record: dict[str, object],
     corpus: Corpus,
@@ -139,6 +164,12 @@ def validate_raw_record(
         or any(length != uniform_length for length in sentence_lengths)
     ):
         raise ValueError(f"{location}: inconsistent uniform sentence length")
+    if corpus.name == "qts" and any("□" in paragraph for paragraph in paragraphs):
+        expected_format = calculate_poem_format(paragraphs)
+        if poem_format != expected_format:
+            raise ValueError(
+                f"{location}: format mismatch; expected {expected_format}"
+            )
 
     if corpus.name == "shijing":
         for field in ("chapter", "section"):

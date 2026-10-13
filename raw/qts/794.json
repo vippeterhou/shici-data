@@ -536,7 +536,7 @@
     ],
     "format": {
       "sentence_count": 21,
-      "sentence_lengths": [5, 5, 2, 5, 5, 2, 5, 5, 2, 5, 5, 2, 5, 4, 2, 5, 5, 2, 5, 5, 2],
+      "sentence_lengths": [5, 5, 2, 5, 5, 2, 5, 5, 2, 5, 5, 2, 5, 5, 2, 5, 5, 2, 5, 5, 2],
       "uniform_sentence_length": null
     }
   },

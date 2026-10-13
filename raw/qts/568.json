@@ -321,8 +321,8 @@
     ],
     "format": {
       "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -543,9 +543,9 @@
       "不然蹲會稽，鉤下三五牛。所期波濤助，燀赫呈吞舟。"
     ],
     "format": {
-      "sentence_count": 31,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 32,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

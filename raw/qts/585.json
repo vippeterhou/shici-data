@@ -79,8 +79,8 @@
       "□□□□□，狂歌罷歎息。我豈無故山，千里同外國。"
     ],
     "format": {
-      "sentence_count": 11,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -323,8 +323,8 @@
     ],
     "format": {
       "sentence_count": 14,
-      "sentence_lengths": [5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

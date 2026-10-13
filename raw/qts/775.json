@@ -347,13 +347,13 @@
     "title": "詠𣻕溪在曆陽西一裏",
     "author": "李聰",
     "paragraphs": [
-      "泠泠一帶清溪水，遠派□通曆陽市。",
+      "泠泠一帶清溪水，遠派來通曆陽市。",
       "涓涓出自碧湖中，流入楚江煙霧裏。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [7, 6, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

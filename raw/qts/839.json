@@ -919,13 +919,13 @@
     "title": "與張先輩話別",
     "author": "齊己",
     "paragraphs": [
-      "為□□□者，各自話離心。及第還全蜀，游方歸二林。",
-      "巴江□□漲，楚野入吳深。他日傳消息，東西不易尋。"
+      "為子同志者，各自話離心。及第還全蜀，游方歸二林。",
+      "巴江經峽漲，楚野入吳深。他日傳消息，東西不易尋。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [2, 5, 5, 5, 3, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

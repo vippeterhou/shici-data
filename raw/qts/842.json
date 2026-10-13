@@ -575,13 +575,13 @@
     "title": "渚宮莫問詩一十五首·其十二",
     "author": "齊己",
     "paragraphs": [
-      "莫問□□□，□□逐性情。人間高此道，禪外剩他名。",
-      "夏□松邊坐，秋光水畔行。更無時忌諱，容易得題成。"
+      "莫問休貪戀，浮雲逐性情。人間高此道，禪外剩他名。",
+      "夏雨松邊坐，秋光水畔行。更無時忌諱，容易得題成。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [2, 3, 5, 5, 4, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

@@ -207,9 +207,9 @@
       "碑塋或半存，荊棘斂幽魂。揮涕棄之去，不忍聞此言。"
     ],
     "format": {
-      "sentence_count": 31,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 1, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 32,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -399,7 +399,7 @@
     ],
     "format": {
       "sentence_count": 11,
-      "sentence_lengths": [5, 5, 4, 5, 5, 5, 5, 5, 7, 7, 7],
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

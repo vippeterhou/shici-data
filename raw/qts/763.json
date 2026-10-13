@@ -179,8 +179,8 @@
       "不是不歸歸未得，好風明月一思量。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 7],
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },

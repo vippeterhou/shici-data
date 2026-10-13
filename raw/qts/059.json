@@ -160,12 +160,12 @@
     "author": "李嶠",
     "paragraphs": [
       "王粲銷憂日，江淹起恨年。帶川遙綺錯，分隰迥阡眠。",
-      "□□橫周甸，莓苔闕晉田。方知急難響，長在脊令篇。"
+      "膴膴橫周甸，莓苔闕晉田。方知急難響，長在脊令篇。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 3, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -238,11 +238,11 @@
     "author": "李嶠",
     "paragraphs": [
       "源出昆侖中，長波接漢空。桃花來馬頰，竹箭入龍宮。",
-      "德水千年變，榮光五色通。若披蘭葉檢，□□□□□。"
+      "德水千年變，榮光五色通。若披蘭葉檢，還沐土皇風。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -432,13 +432,13 @@
     "title": "檄",
     "author": "李嶠",
     "paragraphs": [
-      "羽檄本宣明，由來□木聲。聯翩至漢國，迢遞入燕營。",
+      "羽檄本宣明，由來敷木聲。聯翩至漢國，迢遞入燕營。",
       "毛義持書去，張儀韞璧行。曹風雖覺愈，陳草始知名。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 4, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -589,12 +589,12 @@
     "author": "李嶠",
     "paragraphs": [
       "富父舂喉日，殷辛漂杵年。曉霜含白刃，落影駐雕鋋。",
-      "夕擯金門側，朝提玉塞前。願隨龍影度，橫□陣雲邊。"
+      "夕擯金門側，朝提玉塞前。願隨龍影度，橫陣彗雲邊。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -693,11 +693,11 @@
     "author": "李嶠",
     "paragraphs": [
       "虞舜調清管，王褒賦雅音。參差橫鳳翼，搜索動人心。",
-      "□□□□□，□□□□□。□□□□□，□□□□□。"
+      "靈鶴時來到，仙人幸見尋。爲聽楊柳曲，行役幾傷心。"
     ],
     "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

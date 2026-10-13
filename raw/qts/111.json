@@ -357,8 +357,8 @@
       "□□□□□，□□□□□。□□□□□，□□□□□。"
     ],
     "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

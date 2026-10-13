@@ -50,8 +50,8 @@
     ],
     "format": {
       "sentence_count": 24,
-      "sentence_lengths": [4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 1, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+      "uniform_sentence_length": 4
     }
   },
   {

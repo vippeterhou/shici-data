@@ -30,12 +30,12 @@
     "author": "齊己",
     "paragraphs": [
       "比說歸耕釣，迢迢向海涯。春寒遊子路，村晚主人家。",
-      "□□□□□，□山綠過茶。重尋舊鄰里，菱藕正開花。"
+      "野岸紛垂柳，深山綠過茶。重尋舊鄰里，菱藕正開花。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 5, 5, 5, 4, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -147,12 +147,12 @@
     "author": "齊己",
     "paragraphs": [
       "折檻意何如，平安信不虛。近來焚諫草，深去覓山居。",
-      "□□□□□，□□□□餘。分明知在處，難寄亂離書。"
+      "志定榮枯外，身全寵辱餘。分明知在處，難寄亂離書。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 5, 5, 5, 1, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -263,13 +263,13 @@
     "title": "送劉蛻秀才赴舉",
     "author": "齊己",
     "paragraphs": [
-      "百發百中□，□□□□年。丹枝如計分，一箭的無偏。",
+      "百發百中技，長楊獻賦年。丹枝如計分，一箭的無偏。",
       "文物兵銷國，關河雪霽天。都人看春榜，韓字在誰前。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [4, 1, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -485,12 +485,12 @@
     "author": "齊己",
     "paragraphs": [
       "不見二三子，悠然吳楚間。盡應生白髮，幾個在青山。",
-      "□□□□□，□□莫放閑。君聞國風否，千載詠關關。"
+      "暇日還宜愛，餘生莫放閑。君聞國風否，千載詠關關。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 5, 5, 5, 3, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

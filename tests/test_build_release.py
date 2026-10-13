@@ -123,3 +123,48 @@ def test_rejects_extra_or_misordered_raw_fields(tmp_path: Path) -> None:
 
     with pytest.raises(ValueError, match="fields must be"):
         list(normalized_records(Corpus("sample", source)))
+
+
+def test_placeholder_counts_as_sentence_character(tmp_path: Path) -> None:
+    record = {
+        "title": "测试",
+        "author": "作者",
+        "paragraphs": ["天地□黄。"],
+        "format": {
+            "sentence_count": 1,
+            "sentence_lengths": [4],
+            "uniform_sentence_length": 4,
+        },
+    }
+    source = tmp_path / "001.json"
+    source.write_text(
+        json.dumps([record], ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+    assert list(normalized_records(Corpus("qts", source)))[0]["format"] == {
+        "sentence_count": 1,
+        "sentence_lengths": [4],
+        "uniform_sentence_length": 4,
+    }
+
+
+def test_rejects_format_that_excludes_placeholder(tmp_path: Path) -> None:
+    record = {
+        "title": "测试",
+        "author": "作者",
+        "paragraphs": ["天地□黄。"],
+        "format": {
+            "sentence_count": 1,
+            "sentence_lengths": [3],
+            "uniform_sentence_length": 3,
+        },
+    }
+    source = tmp_path / "001.json"
+    source.write_text(
+        json.dumps([record], ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+    with pytest.raises(ValueError, match="format mismatch"):
+        list(normalized_records(Corpus("qts", source)))

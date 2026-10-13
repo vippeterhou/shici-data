@@ -96,12 +96,12 @@
     "author": "韓偓",
     "paragraphs": [
       "甘向深村固不材，猶勝摧折傍塵埃。清宵玩月唯紅葉，",
-      "隔籬農叟遙相賀，□□□□膏雨來。"
+      "隔籬農叟遙相賀，佇看芳田膏雨來。"
     ],
     "format": {
       "sentence_count": 5,
-      "sentence_lengths": [7, 7, 7, 7, 3],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

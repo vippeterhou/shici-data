@@ -107,13 +107,13 @@
     "title": "素",
     "author": "李嶠",
     "paragraphs": [
-      "□□□□女，纖腰洛浦妃。□□遠方望，雁足上林飛。",
+      "濯手天津女，纖腰洛浦妃。魚腸遠方至，雁足上林飛。",
       "妙奪鮫綃色，光騰月扇輝。非君下路去，誰賞故人機。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [1, 5, 3, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

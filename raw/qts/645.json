@@ -865,8 +865,8 @@
       "冷觸歸鴻急，明凝落照俱。□□□□□，□□□□□。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -945,8 +945,8 @@
       "遇人依我惜，想爾與天齊。□□□□□，行時只獨齎。"
     ],
     "format": {
-      "sentence_count": 39,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 40,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

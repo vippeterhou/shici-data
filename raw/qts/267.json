@@ -354,8 +354,8 @@
       "昔別吳堤雨，春帆去較遲。江波千里綠，□□□□□。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

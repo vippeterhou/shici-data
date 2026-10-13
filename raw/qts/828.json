@@ -139,8 +139,8 @@
     ],
     "format": {
       "sentence_count": 30,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -668,8 +668,8 @@
       "行行珍重寄斯言，斯言不是尋常曲。"
     ],
     "format": {
-      "sentence_count": 19,
-      "sentence_lengths": [2, 10, 7, 11, 6, 7, 8, 7, 7, 7, 7, 10, 7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 18,
+      "sentence_lengths": [12, 7, 11, 7, 7, 8, 7, 7, 7, 7, 10, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

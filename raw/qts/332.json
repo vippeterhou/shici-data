@@ -743,8 +743,8 @@
       "□□□□□，忘言酒暫醺。□□□□□，□□□□□。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -783,8 +783,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -796,8 +796,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [4, 4, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -901,8 +901,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 3, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -927,8 +927,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 4, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

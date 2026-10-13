@@ -198,7 +198,7 @@
     ],
     "format": {
       "sentence_count": 12,
-      "sentence_lengths": [5, 5, 13, 7, 3, 7, 7, 5, 5, 5, 3, 7],
+      "sentence_lengths": [5, 5, 13, 7, 5, 7, 7, 5, 5, 5, 3, 7],
       "uniform_sentence_length": null
     }
   },
