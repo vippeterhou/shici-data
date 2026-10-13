@@ -20,9 +20,9 @@
     },
     "qts": {
       "asset": "qts.jsonl.gz",
-      "compressed_bytes": 6368921,
+      "compressed_bytes": 6914219,
       "poem_count": 47605,
-      "sha256": "9f544f4bd70b1b01a10e934fb2d9e874baf778f8f58f83dc57e5b1dca3e52eb0"
+      "sha256": "608c76e8a657d84d559818c5728bf9d3bf0c1f5e9cae9d93c5a48e9a9c1e1607"
     },
     "sc300": {
       "asset": "sc300.jsonl.gz",
@@ -49,8 +49,8 @@
       "sha256": "7fdb5ce92f585b91e8cc99ddfc00536c71fd9f3f28337cb8448541c877ab6e46"
     }
   },
-  "generated_at": "2026-09-27T14:24:45.325655+00:00",
+  "generated_at": "2026-10-13T12:23:52.443476+00:00",
   "schema_version": 3,
   "total_poems": 325343,
-  "version": "v2.0.0"
+  "version": "v2.1.0"
 }
