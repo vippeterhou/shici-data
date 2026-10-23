@@ -2154,13 +2154,13 @@
     "title": "隠求齋",
     "author": "林錫翁",
     "paragraphs": [
-      "蝸名蠅利處樊籠，世事□其轉眼空。",
+      "蝸名蠅利處樊籠，世事其如轉眼空。",
       "惟有高人林下隠，只求明月與清風。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [7, 6, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -3219,12 +3219,12 @@
     "author": "章雲心",
     "paragraphs": [
       "浣衣輕浣布，布縷不如絲。",
-      "□堅猶易穿，布弱從可知。"
+      "絲堅猶易穿，布弱從可知。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [5, 5, 4, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -3261,14 +3261,14 @@
     "author": "章雲心",
     "paragraphs": [
       "難與時流道，憂心常悄悄。",
-      "古道貴平易，今人□機巧。",
+      "古道貴平易，今人尚機巧。",
       "好古而居今，每飯不能飽。",
-      "來往無嫌猜，□知愛沙鳥。"
+      "來往無嫌猜，唯知愛沙鳥。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 4, 5, 5, 5, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -4400,12 +4400,12 @@
     "author": "某韞",
     "paragraphs": [
       "蒼松翠石束寒流，飛下長身白玉虬。",
-      "吐出英雲□□□，□□□□□□□。"
+      "吐出英雲千尺雨，須臾雷霽水痕收。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [7, 7, 4],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

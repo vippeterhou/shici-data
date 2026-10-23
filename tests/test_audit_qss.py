@@ -2,6 +2,7 @@ import pytest
 
 from scripts.audit_qss import (
     apply_metadata_repairs,
+    apply_paragraph_repairs,
     cleanup_removal_locations,
     unresolved_counts,
 )
@@ -155,3 +156,58 @@ def test_applies_qss_metadata_repairs() -> None:
 
     assert records["000000.json"][0]["author"] == "某韞"
     assert records["000000.json"][0]["title"] == "贈某道人"
+
+
+def test_applies_qss_paragraph_repairs() -> None:
+    records = {
+        "000000.json": [
+            {
+                "title": "殘篇",
+                "author": "作者",
+                "paragraphs": ["天地□黃。"],
+                "_source_index": 0,
+            }
+        ]
+    }
+
+    apply_paragraph_repairs(
+        records,
+        [
+            {
+                "source_file": "000000.json",
+                "source_index": 0,
+                "paragraph_index": 0,
+                "source_value": "天地□黃。",
+                "value": "天地玄黃。",
+            }
+        ],
+    )
+
+    assert records["000000.json"][0]["paragraphs"] == ["天地玄黃。"]
+
+
+def test_rejects_qss_paragraph_repair_source_drift() -> None:
+    records = {
+        "000000.json": [
+            {
+                "title": "殘篇",
+                "author": "作者",
+                "paragraphs": ["天地□黃。"],
+                "_source_index": 0,
+            }
+        ]
+    }
+
+    with pytest.raises(ValueError, match="paragraph repair mismatch"):
+        apply_paragraph_repairs(
+            records,
+            [
+                {
+                    "source_file": "000000.json",
+                    "source_index": 0,
+                    "paragraph_index": 0,
+                    "source_value": "宇宙□荒。",
+                    "value": "宇宙洪荒。",
+                }
+            ],
+        )

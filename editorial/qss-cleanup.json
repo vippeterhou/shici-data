@@ -1,9 +1,9 @@
 {
   "created": "2026-10-23",
   "expected_unresolved": {
-    "lacuna_records": 1640,
-    "lacuna_occurrences": 6661,
-    "lacuna_at_least_25_percent": 132,
+    "lacuna_records": 1616,
+    "lacuna_occurrences": 6612,
+    "lacuna_at_least_25_percent": 131,
     "author_placeholder_records": 0,
     "title_placeholder_records": 140
   },
@@ -177,6 +177,255 @@
       "source_value": "贈□道人",
       "value": "贈某道人",
       "evidence": ["poetry-source:source/诗/宋/poetry.宋.0143.json"]
+    },
+    {
+      "source_file": "035000.json",
+      "source_index": 961,
+      "source_value": "雙橋道中寒堪",
+      "value": "雙橋道中寒甚",
+      "evidence": ["https://www.70thvictory.com.tw/gushiwen/6/2bb36104976.htm"]
+    }
+  ],
+  "paragraph_repairs": [
+    {
+      "source_file": "026000.json",
+      "source_index": 277,
+      "paragraph_index": 1,
+      "source_value": "雪霜未始寒無甚，□桂何嘗色暫移。",
+      "value": "雪霜未始寒無甚，松桂何嘗色暫移。",
+      "evidence": ["https://www.arteducation.com.tw/shiwenv_5d059f2c3ed2.html"]
+    },
+    {
+      "source_file": "026000.json",
+      "source_index": 280,
+      "paragraph_index": 1,
+      "source_value": "歸過嵩陽舊遊地，□雲收得薜蘿身。",
+      "value": "歸過嵩陽舊遊地，白雲收得薜蘿身。",
+      "evidence": ["https://shi-ci.cn/poems/lu-gong-zhu-gui-luo-ji-zu-ze-zhi-long-tu-en-shen-gu-sui-wei-ci-qin/"]
+    },
+    {
+      "source_file": "035000.json",
+      "source_index": 961,
+      "paragraph_index": 3,
+      "source_value": "古來共說還家樂，豈獨全軀畏楚□。",
+      "value": "古來共說還家樂，豈獨全軀畏楚鉗。",
+      "evidence": ["https://www.70thvictory.com.tw/gushiwen/6/2bb36104976.htm"]
+    },
+    {
+      "source_file": "073000.json",
+      "source_index": 287,
+      "paragraph_index": 6,
+      "source_value": "慇懃發黄卷，鈍吻慳應□。",
+      "value": "慇懃發黄卷，鈍吻慳應酢。",
+      "evidence": ["https://www.arteducation.com.tw/shiwenv_64911812cda3.html"]
+    },
+    {
+      "source_file": "084000.json",
+      "source_index": 222,
+      "paragraph_index": 2,
+      "source_value": "日月餘輝通□□，□霞微徑上青冥。",
+      "value": "日月餘輝通澗竇，煙霞微徑上青冥。",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_7115ad377ff6.aspx"]
+    },
+    {
+      "source_file": "110000.json",
+      "source_index": 609,
+      "paragraph_index": 0,
+      "source_value": "初信車風入綵幡，自挑雪薺飣春盤。",
+      "value": "初信東風入綵幡，自挑雪薺飣春盤。",
+      "evidence": ["https://www.arteducation.com.tw/shiwenv_c757a5622c08.html"]
+    },
+    {
+      "source_file": "110000.json",
+      "source_index": 609,
+      "paragraph_index": 2,
+      "source_value": "筋力尚堪耕綠野，□毛併欲掛黄冠。",
+      "value": "筋力尚堪耕綠野，鬢毛併欲掛黄冠。",
+      "evidence": ["https://www.arteducation.com.tw/shiwenv_c757a5622c08.html"]
+    },
+    {
+      "source_file": "115000.json",
+      "source_index": 219,
+      "paragraph_index": 5,
+      "source_value": "□□正求友，奈此別離情。",
+      "value": "流鶯正求友，奈此別離情。",
+      "evidence": ["http://www.aigufeng.com/poetry/article-100954178/page.html"]
+    },
+    {
+      "source_file": "120000.json",
+      "source_index": 885,
+      "paragraph_index": 0,
+      "source_value": "行迹年來酬□希，獨□巖壑有深期。",
+      "value": "行迹年來到處希，獨於巖壑有深期。",
+      "evidence": ["https://www.shidianguji.com/zh/book/HY1001/chapter/1mb95zrvn7cwr"]
+    },
+    {
+      "source_file": "120000.json",
+      "source_index": 885,
+      "paragraph_index": 1,
+      "source_value": "□□道士能相屬，請和空山木落詩。",
+      "value": "鵝溪道士能相屬，請和空山木落詩。",
+      "evidence": ["https://www.shidianguji.com/zh/book/HY1001/chapter/1mb95zrvn7cwr"]
+    },
+    {
+      "source_file": "146000.json",
+      "source_index": 466,
+      "paragraph_index": 3,
+      "source_value": "伍符□屬他人手，歷歷空能記姓名。",
+      "value": "伍符今屬他人手，歷歷空能記姓名。",
+      "evidence": ["https://www.haoshici.com/zh-tw/7f26cwo.html"]
+    },
+    {
+      "source_file": "154000.json",
+      "source_index": 611,
+      "paragraph_index": 0,
+      "source_value": "□□森森天下奇，靈椿猶自長新枝。",
+      "value": "蘭玉森森天下奇，靈椿猶自長新枝。",
+      "evidence": ["https://www.haoshici.com/zh-tw/f0d4r3p.html"]
+    },
+    {
+      "source_file": "179000.json",
+      "source_index": 495,
+      "paragraph_index": 0,
+      "source_value": "頂上新成九轉丹，□花日日到春壇。",
+      "value": "頂上新成九轉丹，銜花日日到春壇。",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_0678a29012c0.aspx"]
+    },
+    {
+      "source_file": "188000.json",
+      "source_index": 188,
+      "paragraph_index": 0,
+      "source_value": "芳酒一樽雖甚□，故人千里奈思何。",
+      "value": "芳酒一樽雖甚滿，故人千里奈思何。",
+      "evidence": ["https://cs.8s8s.com/poetry/66/124612-55075.html"]
+    },
+    {
+      "source_file": "242000.json",
+      "source_index": 989,
+      "paragraph_index": 2,
+      "source_value": "厚□違嚴風，密袂禦凜霜。",
+      "value": "厚墐違嚴風，密袂禦凜霜。",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_9881f9772994.aspx"]
+    },
+    {
+      "source_file": "242000.json",
+      "source_index": 989,
+      "paragraph_index": 3,
+      "source_value": "陶然茅簷下，一篋生春陽。",
+      "value": "陶然茅簷下，一笑生春陽。",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_9881f9772994.aspx"]
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 152,
+      "paragraph_index": 0,
+      "source_value": "蝸名蠅利處樊籠，世事□其轉眼空。",
+      "value": "蝸名蠅利處樊籠，世事其如轉眼空。",
+      "evidence": ["https://baike.baidu.com/item/%E9%9A%90%E6%B1%82%E6%96%8B/12564203"]
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 223,
+      "paragraph_index": 1,
+      "source_value": "□堅猶易穿，布弱從可知。",
+      "value": "絲堅猶易穿，布弱從可知。",
+      "evidence": ["https://www.haoshici.com/zh-tw/be5ea9x.html"]
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 226,
+      "paragraph_index": 1,
+      "source_value": "古道貴平易，今人□機巧。",
+      "value": "古道貴平易，今人尚機巧。",
+      "evidence": ["https://gushici.china.com/shici/07/199521/"]
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 226,
+      "paragraph_index": 3,
+      "source_value": "來往無嫌猜，□知愛沙鳥。",
+      "value": "來往無嫌猜，唯知愛沙鳥。",
+      "evidence": ["https://gushici.china.com/shici/07/199521/"]
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 302,
+      "paragraph_index": 1,
+      "source_value": "吐出英雲□□□，□□□□□□□。",
+      "value": "吐出英雲千尺雨，須臾雷霽水痕收。",
+      "evidence": ["https://www.arteducation.com.tw/shiwenv_3108aef5604d.html"]
+    },
+    {
+      "source_file": "254000.json",
+      "source_index": 206,
+      "paragraph_index": 3,
+      "source_value": "欲問錢塘□，漁家未啟關。",
+      "value": "欲問錢塘路，漁家未啟關。",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_dd644af92951.aspx"]
+    },
+    {
+      "source_file": "086000.json",
+      "source_index": 164,
+      "paragraph_index": 3,
+      "source_value": "紅情顔未破，□顰眉上低。",
+      "value": "紅情顔未破，翠顰眉上低。",
+      "evidence": ["https://www.haoshici.com/zh-tw/fbf4ar8.html"]
+    },
+    {
+      "source_file": "120000.json",
+      "source_index": 244,
+      "paragraph_index": 3,
+      "source_value": "□□□□□，□□□元亮。",
+      "value": "歲晚以字行，更始號元亮。",
+      "evidence": ["https://baike.baidu.com/item/%E5%AE%BF%E6%97%A7%E5%BD%AD%E6%B3%BD%E6%80%80%E9%99%B6%E4%BB%A4/14120821"]
+    },
+    {
+      "source_file": "149000.json",
+      "source_index": 927,
+      "paragraph_index": 4,
+      "source_value": "羊窗要自息獼猴，異□無應心日休。",
+      "value": "六窗要自息獼猴，黄雞無應心日休。",
+      "evidence": ["https://www.shidianguji.com/zh/book/SK2471/chapter/1m13mdce5kwtv"]
+    },
+    {
+      "source_file": "149000.json",
+      "source_index": 927,
+      "paragraph_index": 5,
+      "source_value": "白衣蒼狗變化見，世事何如牧豬戲。",
+      "value": "白衣蒼狗變化易，世事何殊牧豬戲。",
+      "evidence": ["https://www.shidianguji.com/zh/book/SK2471/chapter/1m13mdce5kwtv"]
+    },
+    {
+      "source_file": "156000.json",
+      "source_index": 344,
+      "paragraph_index": 5,
+      "source_value": "壁間之大字，莊重如峨弁。",
+      "value": "壁間三大字，莊重如峨弁。",
+      "evidence": ["https://www.pinshiwen.com/gsdq/sgjy/20200522270130.html"]
+    },
+    {
+      "source_file": "156000.json",
+      "source_index": 344,
+      "paragraph_index": 12,
+      "source_value": "今□□麟堂，安得使之見。",
+      "value": "今坐玉麟堂，安得使之見。",
+      "evidence": ["https://www.gushici.net/mingju/110/110236/776802.html"]
+    },
+    {
+      "source_file": "181000.json",
+      "source_index": 686,
+      "paragraph_index": 2,
+      "source_value": "乘閒陟上方，□尋唐人石。",
+      "value": "乘閒陟上方，徧尋唐人石。",
+      "evidence": ["https://www.haoshici.com/zh-tw/c0b67wz.html"]
+    },
+    {
+      "source_file": "202000.json",
+      "source_index": 659,
+      "paragraph_index": 1,
+      "source_value": "何如手補天西漏，仍更神□塞北空。",
+      "value": "何如手補天西漏，仍更神驅塞北空。",
+      "evidence": ["https://www.haoshici.com/82d4ewy.html"]
     }
   ],
   "paragraph_removals": [

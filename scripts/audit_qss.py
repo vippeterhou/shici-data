@@ -174,6 +174,35 @@ def apply_paragraph_removals(
         del record["paragraphs"][paragraph_index]
 
 
+def apply_paragraph_repairs(
+    records_by_file: dict[str, list[dict[str, Any]]],
+    changes: object,
+) -> None:
+    if not isinstance(changes, list):
+        raise ValueError("paragraph_repairs must be a list")
+    for change in changes:
+        if not isinstance(change, dict):
+            raise ValueError("paragraph repair must be an object")
+        record = source_record(
+            records_by_file,
+            change.get("source_file"),
+            change.get("source_index"),
+        )
+        paragraph_index = change.get("paragraph_index")
+        source_value = change.get("source_value")
+        value = change.get("value")
+        if (
+            not isinstance(paragraph_index, int)
+            or paragraph_index < 0
+            or paragraph_index >= len(record["paragraphs"])
+            or not isinstance(source_value, str)
+            or not isinstance(value, str)
+            or record["paragraphs"][paragraph_index] != source_value
+        ):
+            raise ValueError("QSS paragraph repair mismatch")
+        record["paragraphs"][paragraph_index] = value
+
+
 def apply_metadata_repairs(
     records_by_file: dict[str, list[dict[str, Any]]],
     changes: object,
@@ -247,6 +276,7 @@ def expected_qss_records(
     source = load_source_records(lock, fetch)
     apply_metadata_repairs(source, cleanup.get("author_repairs"), "author")
     apply_metadata_repairs(source, cleanup.get("title_repairs"), "title")
+    apply_paragraph_repairs(source, cleanup.get("paragraph_repairs"))
     apply_paragraph_removals(source, cleanup.get("paragraph_removals"))
     removals = cleanup_removal_locations(
         source,

@@ -3280,13 +3280,13 @@
     "paragraphs": [
       "三四奇峰傍短亭，一巖春色冠圖經。",
       "四時吞吐西江水，萬古森羅北斗星。",
-      "日月餘輝通□□，□霞微徑上青冥。",
+      "日月餘輝通澗竇，煙霞微徑上青冥。",
       "嶺南惟此興王地，好與邦人作畫屏。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 5, 6, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

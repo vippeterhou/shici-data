@@ -3825,7 +3825,7 @@
       "潜魚願深渺，淵明無由逃。",
       "彭澤當此時，沉冥一世豪。",
       "司馬寒如灰，禮樂卯金刀。",
-      "□□□□□，□□□元亮。",
+      "歲晚以字行，更始號元亮。",
       "凄其望諸葛，骯髒猶漢相。",
       "時無益州牧，指撝用諸將。",
       "平生本朝心，歲月閱江浪。",
@@ -3835,9 +3835,9 @@
       "欲招千載魂，斯文或宜當。"
     ],
     "format": {
-      "sentence_count": 21,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 22,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -13341,13 +13341,13 @@
     "title": "翠微亭  其二",
     "author": "連久道",
     "paragraphs": [
-      "行迹年來酬□希，獨□巖壑有深期。",
-      "□□道士能相屬，請和空山木落詩。"
+      "行迹年來到處希，獨於巖壑有深期。",
+      "鵝溪道士能相屬，請和空山木落詩。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [6, 6, 5, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

@@ -8672,15 +8672,15 @@
     "title": "賀晚生子",
     "author": "傅大詢",
     "paragraphs": [
-      "□□森森天下奇，靈椿猶自長新枝。",
+      "蘭玉森森天下奇，靈椿猶自長新枝。",
       "從來老蚌珠生時，豈是長庚夢到遲。",
       "標格銀蟾光皎潔，精神秋水碧漣漪。",
       "玉皇案吏家聲近，佇看追蹤入鳳池。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 7, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

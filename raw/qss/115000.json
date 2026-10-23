@@ -3184,12 +3184,12 @@
       "扁舟復何適，延客江上亭。",
       "顧無青玉案，何以送子行。",
       "攀條欲相贈，上有雙流鶑。",
-      "□□正求友，奈此別離情。"
+      "流鶯正求友，奈此別離情。"
     ],
     "format": {
       "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

@@ -2511,14 +2511,14 @@
       "東皋有佳致，中夜雨一犁。",
       "喜笑作春聲，麥塊青欲齊。",
       "淺瀨發清響，陳根出新荑。",
-      "紅情顔未破，□顰眉上低。",
+      "紅情顔未破，翠顰眉上低。",
       "練巾已堪岸，藜杖始一攜。",
       "殷勤遺好音，胡蘆來勸提。"
     ],
     "format": {
       "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

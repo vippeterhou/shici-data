@@ -14850,18 +14850,18 @@
     }
   },
   {
-    "title": "雙橋道中寒堪",
+    "title": "雙橋道中寒甚",
     "author": "劉攽",
     "paragraphs": [
       "裂面霜風快似鐮，重重裘袴晚仍添。",
       "梅當官道香撩客，山逼籃輿翠入簾。",
       "男子坐爲衣食役，年光當向道途淹。",
-      "古來共說還家樂，豈獨全軀畏楚□。"
+      "古來共說還家樂，豈獨全軀畏楚鉗。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 6],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

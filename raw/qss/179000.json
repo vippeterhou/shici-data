@@ -7394,13 +7394,13 @@
     "title": "失鶴",
     "author": "劉學箕",
     "paragraphs": [
-      "頂上新成九轉丹，□花日日到春壇。",
+      "頂上新成九轉丹，銜花日日到春壇。",
       "夜深飛上雲霄去，華表月明風露寒。"
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [7, 6, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
