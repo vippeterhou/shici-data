@@ -7010,32 +7010,6 @@
     }
   },
   {
-    "title": "漁父詞四首  其一",
-    "author": "戴復古",
-    "paragraphs": [
-      "漁父飲，不須錢。",
-      "柳枝斜貫錦鱗鮮，換酒却歸船。"
-    ],
-    "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [3, 3, 7, 5],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞四首  其二",
-    "author": "戴復古",
-    "paragraphs": [
-      "漁父醉，釣竿閑。",
-      "柳下呼兒牢繫船，高眠風月天。"
-    ],
-    "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [3, 3, 7, 5],
-      "uniform_sentence_length": null
-    }
-  },
-  {
     "title": "秋懷",
     "author": "戴復古",
     "paragraphs": [

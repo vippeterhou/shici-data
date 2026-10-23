@@ -8546,45 +8546,6 @@
     }
   },
   {
-    "title": "題桂殿秋辭  其一",
-    "author": "李仁本",
-    "paragraphs": [
-      "飛翠蓋，走籃輿，亂山千疊爲先驅。",
-      "洞天迎目深且窈，滿耳天風吹步虛。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [3, 3, 7, 7, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "題桂殿秋辭  其二",
-    "author": "李仁本",
-    "paragraphs": [
-      "巑獸石，錯虬松，黛嵐終日下天風。",
-      "杖藜携我恣遥望，縹緲霓裳飛碧空。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [3, 3, 7, 7, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "題桂殿秋辭  其三",
-    "author": "李仁本",
-    "paragraphs": [
-      "金带重，紫袍寬，到頭不似羽衣閒。",
-      "君王若許供香火，神武門前早挂冠。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [3, 3, 7, 7, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
     "title": "游洞霄",
     "author": "駱安基",
     "paragraphs": [

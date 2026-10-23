@@ -6992,19 +6992,6 @@
     }
   },
   {
-    "title": "失调名",
-    "author": "张珍奴",
-    "paragraphs": [
-      "逢师许多时，不说些儿个。",
-      "及至如今闷损我。"
-    ],
-    "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
     "title": "减字木兰花",
     "author": "洪惠英",
     "paragraphs": [
@@ -17948,18 +17935,6 @@
     "format": {
       "sentence_count": 28,
       "sentence_lengths": [3, 5, 5, 6, 7, 4, 5, 6, 6, 4, 3, 3, 4, 5, 4, 5, 5, 6, 7, 4, 5, 4, 4, 4, 4, 6, 5, 4],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "失调名",
-    "author": "周辉",
-    "paragraphs": [
-      "卷帘试约东君，问花信风来第几番。"
-    ],
-    "format": {
-      "sentence_count": 2,
-      "sentence_lengths": [6, 8],
       "uniform_sentence_length": null
     }
   },

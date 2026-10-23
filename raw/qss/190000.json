@@ -7085,63 +7085,11 @@
     }
   },
   {
-    "title": "漁父詞  其二",
-    "author": "薛師石",
-    "paragraphs": [
-      "鄰家船上小姑兒，相問如何是別離。",
-      "雙墮髻，一彎眉，愛看紅鱗比目魚。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞  其三",
-    "author": "薛師石",
-    "paragraphs": [
-      "平明霧靄雨初晴，兒子敲鍼作釣成。",
-      "香餌小，繭絲輕，釣得魚兒不識名。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
     "title": "漁父詞  其四",
     "author": "薛師石",
     "paragraphs": [
       "繫船蘭沚鱠長鱸，白袷方袍忽訪吾。",
       "神甚爽，貌全枯，莫是當年楚大夫。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞  其五",
-    "author": "薛師石",
-    "paragraphs": [
-      "春融水暖百花開，獨棹扁舟過釣臺。",
-      "鷗與鷺，莫相猜，不是逃名不肯來。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞  其六",
-    "author": "薛師石",
-    "paragraphs": [
-      "夜來采石渡頭眠，月下相逢李謫仙。",
-      "歌一曲，別無言，白鶴飛來雪滿船。"
     ],
     "format": {
       "sentence_count": 5,

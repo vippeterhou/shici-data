@@ -1836,90 +1836,6 @@
     }
   },
   {
-    "title": "漁父詞十三首  其一",
-    "author": "蒲壽宬",
-    "paragraphs": [
-      "萬里長江一釣絲，蕭蕭蓬鬢任風吹。",
-      "微雨過，片帆欹。",
-      "青山濃淡更多奇。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞十三首  其二",
-    "author": "蒲壽宬",
-    "paragraphs": [
-      "江渚春風澹蕩時，斜陽芳草鷓鴣飛。",
-      "蓴菜滑，白魚肥。",
-      "浮家泛宅不曾歸。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞十三首  其三",
-    "author": "蒲壽宬",
-    "paragraphs": [
-      "煙浦迴環幾百灣，無人知此橛頭船。",
-      "風露冷，月姢姢。",
-      "雲間一過看飛仙。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞十三首  其四",
-    "author": "蒲壽宬",
-    "paragraphs": [
-      "野纜閒移石筍江，旁人爭看老眉厖。",
-      "鋪月席，展風窗。",
-      "飛來何處白鷗雙。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞十三首  其五",
-    "author": "蒲壽宬",
-    "paragraphs": [
-      "葭荻横披衆木東，浪花如雪晚來風。",
-      "雲母幌，水精宫。",
-      "蓮花一葉白頭翁。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞十三首  其六",
-    "author": "蒲壽宬",
-    "paragraphs": [
-      "飄忽狂風一霎間，長魚吹浪勢如山。",
-      "牢繫纜，蓼花灣。",
-      "白鷗沙上伴人閒。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
     "title": "漁父詞十三首  其七",
     "author": "蒲壽宬",
     "paragraphs": [
@@ -1934,68 +1850,12 @@
     }
   },
   {
-    "title": "漁父詞十三首  其八",
-    "author": "蒲壽宬",
-    "paragraphs": [
-      "搔首推篷曉色新，雪花飄瞥大江濱。",
-      "漁父醉，不收緡。",
-      "白髭紅頰玉爲人。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞十三首  其九",
-    "author": "蒲壽宬",
-    "paragraphs": [
-      "明月愁人夜未央，篷窗如畫水浪浪。",
-      "何處笛，起凄凉。",
-      "梅花噴作一天霜。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞十三首  其一○",
-    "author": "蒲壽宬",
-    "paragraphs": [
-      "白首漁郎不解愁，長歌箕踞亦風流。",
-      "江上事，寄蜉蝣。",
-      "靈均那更恨悠悠。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
     "title": "漁父詞十三首  其一一",
     "author": "蒲壽宬",
     "paragraphs": [
       "琉璃爲地水精天，一葉漁舟浪滿顛。",
       "風肅肅，露姢姢。",
       "家在蘆花何處邉。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞十三首  其一二",
-    "author": "蒲壽宬",
-    "paragraphs": [
-      "江上浪花飛灑天，拍階鞺鞳屋如船。",
-      "月不夜，水無邉。",
-      "何處笛聲人未眠。"
     ],
     "format": {
       "sentence_count": 5,
@@ -2042,19 +1902,6 @@
     "format": {
       "sentence_count": 5,
       "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "欸乃詞",
-    "author": "蒲壽宬",
-    "paragraphs": [
-      "白頭翁，白頭翁，江海爲田魚作糧。",
-      "相逢祇可唤劉四，不受人呼劉四郎。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [3, 3, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -12078,58 +11925,6 @@
     "paragraphs": [
       "繡周張，繡周張，樓臺簾幙絮高揚。",
       "誰賦珠宮幷內闕，懷王去後去沉湘。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [3, 3, 7, 7, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "競渡櫂歌  其七",
-    "author": "黄公紹",
-    "paragraphs": [
-      "棹如飛，棹如飛，水中萬鼓起潛螭。",
-      "最是玉堂堂上好，躍來奪錦看吳兒。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [3, 3, 7, 7, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "競渡櫂歌  其八",
-    "author": "黄公紹",
-    "paragraphs": [
-      "建雲斿，建雲斿，土風到處總相猶。",
-      "朝了霍山朝岳帝，十分打扮是杭州。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [3, 3, 7, 7, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "競渡櫂歌  其九",
-    "author": "黄公紹",
-    "paragraphs": [
-      "踏青青，踏青青，西泠橋畔草連汀。",
-      "撲得龍船兒一對，畫闌倚遍看遊人。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [3, 3, 7, 7, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "競渡櫂歌  其一○",
-    "author": "黄公紹",
-    "paragraphs": [
-      "月明中，月明中，滿湖春水望難窮。",
-      "欲學楚歌歌不得，一場離恨兩眉峯。"
     ],
     "format": {
       "sentence_count": 5,

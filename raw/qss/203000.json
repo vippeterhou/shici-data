@@ -376,32 +376,6 @@
     }
   },
   {
-    "title": "三臺春曲  其一",
-    "author": "許棐",
-    "paragraphs": [
-      "昨夜微風細雨，今朝薄霽輕寒。",
-      "簷外一聲啼鳥，報知花柳平安。"
-    ],
-    "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [6, 6, 6, 6],
-      "uniform_sentence_length": 6
-    }
-  },
-  {
-    "title": "三臺春曲  其二",
-    "author": "許棐",
-    "paragraphs": [
-      "春是人間過客，花隨春不多時。",
-      "人比花尤易老，那堪終日相思。"
-    ],
-    "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [6, 6, 6, 6],
-      "uniform_sentence_length": 6
-    }
-  },
-  {
     "title": "胡蝶飛",
     "author": "許棐",
     "paragraphs": [

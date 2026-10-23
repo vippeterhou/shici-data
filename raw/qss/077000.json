@@ -1064,81 +1064,6 @@
     }
   },
   {
-    "title": "述古德遺事作漁父詞八首 萬回",
-    "author": "釋德洪",
-    "paragraphs": [
-      "玉带雲袍童頂露，一生笑傲知何故，萬里歸来方旦暮。",
-      "休疑慮，大千揑在毫端聚。",
-      "不解犁田分畝步，却能對客鳴花鼓，忽共老安相耳語。",
-      "還推去，莫来攔我毬門路。"
-    ],
-    "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 3, 7, 7, 7, 7, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "述古德遺事作漁父詞八首 丹霞",
-    "author": "釋德洪",
-    "paragraphs": [
-      "不怕石頭行路滑，歸来那愛駒兒踏，言下百骸俱撥撒。",
-      "無剩法，靈然晝夜光通達。",
-      "古寺天寒還惡發，夜將木佛齊燒殺，炙背横眠真快活。",
-      "憨抹撻，從教院主無鬚髪。"
-    ],
-    "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 3, 7, 7, 7, 7, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "述古德遺事作漁父詞八首 寶公",
-    "author": "釋德洪",
-    "paragraphs": [
-      "来往獨龍岡畔路，杖頭落索閑家具，後事前觀如目覩。",
-      "非讖語，須知一念無今古。",
-      "長笑老蕭多病苦，笑中與藥皆狼虎，蠟炬一枝非囑付。",
-      "聊戲汝，熱来脱却娘生袴。"
-    ],
-    "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 3, 7, 7, 7, 7, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "述古德遺事作漁父詞八首 香嚴",
-    "author": "釋德洪",
-    "paragraphs": [
-      "畫餅充饑人笑汝，一庵歸掃南陽塢。",
-      "擊竹作聲方省悟，徐回顧，本来面目無藏處。",
-      "却望溈山敷坐具，老師頭角渾呈露，珍重此恩踰父母。",
-      "須薦取，堂堂密密聲前句。"
-    ],
-    "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 3, 7, 7, 7, 7, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "述古德遺事作漁父詞八首 藥山",
-    "author": "釋德洪",
-    "paragraphs": [
-      "野鶴精神雲格調，逼人氣韻霜天曉。",
-      "松下殘經看未了，當斜照，蒼煙風撼流泉遶。",
-      "閨閣珍奇徒照耀，光無滲漏方靈妙，活計現成誰管紹。",
-      "孤峰表，一聲月下聞清嘯。"
-    ],
-    "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 3, 7, 7, 7, 7, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
     "title": "述古德遺事作漁父詞八首 亮公",
     "author": "釋德洪",
     "paragraphs": [
@@ -1146,36 +1071,6 @@
       "回頭覷，虚空特地能言語。",
       "歸對學徒重自訴，從前見解都欺汝，隔岸有山横暮雨。",
       "翻然去，千巖萬壑無尋處。"
-    ],
-    "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 3, 7, 7, 7, 7, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "述古德遺事作漁父詞八首 靈雲",
-    "author": "釋德洪",
-    "paragraphs": [
-      "急雨顛風花信早，枝枝葉葉春俱到。",
-      "何待小桃方悟道，休迷倒，出門無限青青草。",
-      "根不覆藏塵亦掃，見精明樹唯心造，試借疑情看白皂。",
-      "回頭討，靈雲笑殺玄沙老。"
-    ],
-    "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [7, 7, 7, 3, 7, 7, 7, 7, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "述古德遺事作漁父詞八首 船子",
-    "author": "釋德洪",
-    "paragraphs": [
-      "萬疊空青春杳杳，一簑煙雨吴江曉，醉眼忽醒驚白鳥。",
-      "拍手笑，清波不犯魚吞釣。",
-      "津渡有僧求法要，一橈爲汝除玄妙，已去回頭知不峭。",
-      "猶迷照，漁舟性懆都翻了。"
     ],
     "format": {
       "sentence_count": 10,

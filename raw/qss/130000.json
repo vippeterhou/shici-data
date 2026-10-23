@@ -1016,64 +1016,11 @@
     }
   },
   {
-    "title": "燈下讀玄真子漁歌因懷山陰故隱追擬五首  其一",
-    "author": "陸游",
-    "paragraphs": [
-      "石帆山下雨空濛，三扇香新翠箬篷。",
-      "蘋葉綠，蓼花紅。",
-      "回首功名一夢中。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "燈下讀玄真子漁歌因懷山陰故隱追擬五首  其二",
-    "author": "陸游",
-    "paragraphs": [
-      "晴山滴翠水挼藍，聚散漁舟兩復三。",
-      "横埭北，斷橋南，側起船篷便作帆。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
     "title": "燈下讀玄真子漁歌因懷山陰故隱追擬五首  其三",
     "author": "陸游",
     "paragraphs": [
       "鏡湖俯仰兩青天，萬頃玻瓈一葉舩。",
       "拈棹舞，擁蓑眠，不作天仙作水仙。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "燈下讀玄真子漁歌因懷山陰故隱追擬五首  其四",
-    "author": "陸游",
-    "paragraphs": [
-      "湘湖烟雨長蓴絲，菰米新炊滑上匙。",
-      "雲散後，月斜時，潮落舟横醉不知。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "燈下讀玄真子漁歌因懷山陰故隱追擬五首  其五",
-    "author": "陸游",
-    "paragraphs": [
-      "長安拜免幾公卿，漁父横眠醉未醒。",
-      "烟艇小，釣車腥，遥指梅山一點青。"
     ],
     "format": {
       "sentence_count": 5,

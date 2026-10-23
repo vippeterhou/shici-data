@@ -7147,20 +7147,6 @@
     }
   },
   {
-    "title": "江南春",
-    "author": "寇準",
-    "paragraphs": [
-      "波渺渺，柳依依。",
-      "孤村芳草遠，斜日杏花飛。",
-      "江南春盡離腸斷，蘋滿汀洲人未歸。"
-    ],
-    "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [3, 3, 5, 5, 7, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
     "title": "追思柳惲汀洲之詠尚有遺妍因書一絕",
     "author": "寇準",
     "paragraphs": [

@@ -70,6 +70,12 @@ the pinned Wikisource revision recorded in `source-locks/sc300.json`:
 python3 -m scripts.audit_sc300
 ```
 
+To verify every recorded QSS-to-QSC genre reclassification:
+
+```bash
+python3 -m scripts.audit_song_reclassifications
+```
+
 ### 2. Build and validate a new version
 
 Choose a version that has not been published before:

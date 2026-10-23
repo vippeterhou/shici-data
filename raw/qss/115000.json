@@ -14945,19 +14945,6 @@
     }
   },
   {
-    "title": "漁父詞  其一",
-    "author": "宋高宗",
-    "paragraphs": [
-      "一湖春水夜來生，幾疊春山遠更橫。",
-      "煙艇小，釣絲輕，贏得閑中萬古名。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
     "title": "漁父詞  其二",
     "author": "宋高宗",
     "paragraphs": [
@@ -14984,63 +14971,11 @@
     }
   },
   {
-    "title": "漁父詞  其四",
-    "author": "宋高宗",
-    "paragraphs": [
-      "青草開時已過船，錦鱗躍處浪痕圓。",
-      "竹葉酒，柳花氊，有意沙鷗伴我眠。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞  其五",
-    "author": "宋高宗",
-    "paragraphs": [
-      "扁舟小纜荻花風，四合青山暮靄中。",
-      "明細火，倚孤松，但願樽中酒不空。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
     "title": "漁父詞  其六",
     "author": "宋高宗",
     "paragraphs": [
       "儂家活計豈能名，萬頃波心月影清。",
       "傾綠酒，糝藜羹，保任衣中一物靈。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞  其七",
-    "author": "宋高宗",
-    "paragraphs": [
-      "駭浪吞舟脫巨鱗，結繩爲網也難任。",
-      "綸乍放，餌初沉，淺釣纖鱗味更深。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞  其八",
-    "author": "宋高宗",
-    "paragraphs": [
-      "魚信還催花信開，花風得得爲誰來。",
-      "舒柳眼，落梅腮，浪煖桃花夜轉雷。"
     ],
     "format": {
       "sentence_count": 5,
@@ -15062,76 +14997,11 @@
     }
   },
   {
-    "title": "漁父詞  其一○",
-    "author": "宋高宗",
-    "paragraphs": [
-      "遠水無涯山有鄰，相看歲晚更情親。",
-      "笛裏月，酒中身，舉頭無我一般人。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞  其一一",
-    "author": "宋高宗",
-    "paragraphs": [
-      "誰云漁父是愚翁，一葉浮家萬慮空。",
-      "輕破浪，細迎風，睡起蓬窗日正中。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞  其一二",
-    "author": "宋高宗",
-    "paragraphs": [
-      "水涵微雨湛虛明，小笠輕簑未要晴。",
-      "明鑒裏，縠紋生，白鷺飛來空外聲。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
     "title": "漁父詞  其一三",
     "author": "宋高宗",
     "paragraphs": [
       "無數菰蒲閒藕花，棹歌輕舉酌流霞。",
       "隨家好，轉山斜，也有孤村三兩家。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞  其一四",
-    "author": "宋高宗",
-    "paragraphs": [
-      "春入渭陽花氣多，春歸時節自清和。",
-      "衝曉霧，弄滄波，載與俱歸又若何。"
-    ],
-    "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 7, 3, 3, 7],
-      "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "漁父詞  其一五",
-    "author": "宋高宗",
-    "paragraphs": [
-      "清灣幽島任盤紆，一舸橫斜得自如。",
-      "唯有此，更無居，從教紅袖泣前魚。"
     ],
     "format": {
       "sentence_count": 5,

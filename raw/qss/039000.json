@@ -2143,58 +2143,6 @@
     }
   },
   {
-    "title": "開元樂詞  其一",
-    "author": "沈括",
-    "paragraphs": [
-      "鸛鵲樓頭日暖，蓬萊殿裏花香。",
-      "草綠煙迷步輦，天高日近龍床。"
-    ],
-    "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [6, 6, 6, 6],
-      "uniform_sentence_length": 6
-    }
-  },
-  {
-    "title": "開元樂詞  其二",
-    "author": "沈括",
-    "paragraphs": [
-      "樓上正臨宮外，人間不見仙家。",
-      "寒食輕煙薄霧，滿城明月梨花。"
-    ],
-    "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [6, 6, 6, 6],
-      "uniform_sentence_length": 6
-    }
-  },
-  {
-    "title": "開元樂詞  其三",
-    "author": "沈括",
-    "paragraphs": [
-      "按舞驪山影裏，回鑾渭水光中。",
-      "玉笛一天明月，翠華滿陌東風。"
-    ],
-    "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [6, 6, 6, 6],
-      "uniform_sentence_length": 6
-    }
-  },
-  {
-    "title": "開元樂詞  其四",
-    "author": "沈括",
-    "paragraphs": [
-      "殿後春旗簇仗，樓前御隊穿花。",
-      "一片紅雲鬧處，外人遙認官家。"
-    ],
-    "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [6, 6, 6, 6],
-      "uniform_sentence_length": 6
-    }
-  },
-  {
     "title": "延州柳湖  其一",
     "author": "沈括",
     "paragraphs": [
