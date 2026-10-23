@@ -82,6 +82,18 @@ python3 -m scripts.audit_qsc \
   --source-repository ../chinese-poetry
 ```
 
+To verify every QSS record against the pinned `chinese-poetry` revision,
+including unusable-source pruning, exact-duplicate removal, and
+QSS-specific format metadata:
+
+```bash
+python3 -m scripts.audit_qss
+
+# Optional offline/local-source form:
+python3 -m scripts.audit_qss \
+  --source-repository ../chinese-poetry
+```
+
 To verify every recorded QSS-to-QSC genre reclassification:
 
 ```bash

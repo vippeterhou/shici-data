@@ -19,14 +19,16 @@ MANIFEST_PATH = ROOT / "manifest.json"
 SCHEMA_VERSION = 3
 COMMON_RAW_FIELDS = ("title", "author", "paragraphs", "format")
 SHIJING_RAW_FIELDS = COMMON_RAW_FIELDS + ("chapter", "section")
-SENTENCE_SEPARATOR = re.compile(r"[，。！？；：:;]")
-SC300_SENTENCE_SEPARATOR = re.compile(r"[，。！？；：:;、]")
+SENTENCE_SEPARATOR = re.compile(r"[，。！？!?；：:;]")
+SC300_SENTENCE_SEPARATOR = re.compile(r"[，。！？!?；：:;、]")
 QSC_SENTENCE_SEPARATOR = SC300_SENTENCE_SEPARATOR
 COUNTED_CHARACTER = re.compile(
-    r"[\u3400-\u4dbf\u4e00-\u9fff\U00020000-\U000323af〇□]"
+    r"[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff"
+    r"\U00020000-\U000323af〇□]"
 )
 QSC_COUNTED_CHARACTER = re.compile(
-    r"[\u3400-\u4dbf\u4e00-\u9fff\U00020000-\U000323af〇]"
+    r"[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff"
+    r"\U00020000-\U000323af〇]"
 )
 
 
@@ -104,8 +106,10 @@ def calculate_poem_format(
         separator = QSC_SENTENCE_SEPARATOR
     else:
         separator = SENTENCE_SEPARATOR
-    counted_character = QSC_COUNTED_CHARACTER if corpus_name == "qsc" else (
-        COUNTED_CHARACTER
+    counted_character = (
+        QSC_COUNTED_CHARACTER
+        if corpus_name in {"qsc", "qss"}
+        else COUNTED_CHARACTER
     )
     sentence_lengths = [
         length
@@ -181,7 +185,7 @@ def validate_raw_record(
         or any(length != uniform_length for length in sentence_lengths)
     ):
         raise ValueError(f"{location}: inconsistent uniform sentence length")
-    validate_calculated_format = corpus.name in {"qsc", "sc300"} or (
+    validate_calculated_format = corpus.name in {"qsc", "qss", "sc300"} or (
         corpus.name == "qts"
         and any("□" in paragraph for paragraph in paragraphs)
     )

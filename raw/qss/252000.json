@@ -3515,7 +3515,7 @@
   },
   {
     "title": "句",
-    "author": "□革",
+    "author": "某革",
     "paragraphs": [
       "醉輕浮世事，老重故鄉人。"
     ],
@@ -8436,21 +8436,6 @@
       "sentence_count": 4,
       "sentence_lengths": [7, 7, 7, 7],
       "uniform_sentence_length": 7
-    }
-  },
-  {
-    "title": "玉山道中",
-    "author": "王大受",
-    "paragraphs": [
-      "夜夜還家夢，行行撲面風。",
-      "征塵添老色，酒病重詩窮。",
-      "世路方行險，吾生且轉蓬。",
-      "天涯重回首，愁滿夕陽中。"
-    ],
-    "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": 5
     }
   },
   {
@@ -13468,19 +13453,6 @@
     "paragraphs": [
       "忍饑抱凍老窮崖，一點檀心未肯灰。",
       "夷甫彥回空似玉，却曾遺臭汗青來。"
-    ],
-    "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [7, 7, 7, 7],
-      "uniform_sentence_length": 7
-    }
-  },
-  {
-    "title": "黄香梅",
-    "author": "李龍高",
-    "paragraphs": [
-      "雲葉重重護雪花，玉人隠隠隔窗紗。",
-      "雖然不带微酸味，免與時人置齒牙。"
     ],
     "format": {
       "sentence_count": 4,

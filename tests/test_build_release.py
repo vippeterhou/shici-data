@@ -214,6 +214,25 @@ def test_qsc_uses_ideographic_comma_and_excludes_lacunae() -> None:
     }
 
 
+def test_qss_excludes_lacunae_and_counts_compatibility_ideographs() -> None:
+    assert calculate_poem_format(
+        ["山路﨑□嶇。"],
+        "qss",
+    ) == {
+        "sentence_count": 1,
+        "sentence_lengths": [4],
+        "uniform_sentence_length": 4,
+    }
+
+
+def test_ascii_exclamation_separates_sentences() -> None:
+    assert calculate_poem_format(["噫!天地玄黄。"]) == {
+        "sentence_count": 2,
+        "sentence_lengths": [1, 4],
+        "uniform_sentence_length": None,
+    }
+
+
 def test_rejects_incorrect_qsc_format(tmp_path: Path) -> None:
     record = {
         "title": "测试",

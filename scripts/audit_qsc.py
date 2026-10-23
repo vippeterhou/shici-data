@@ -4,14 +4,12 @@ import argparse
 import hashlib
 import json
 import re
-import subprocess
-import urllib.parse
-import urllib.request
 from collections import Counter
 from pathlib import Path
 from typing import Any, Callable
 
 from scripts.build_release import QSC_COUNTED_CHARACTER, calculate_poem_format
+from scripts.source_audit import git_source_fetcher, remote_source_fetcher
 
 
 ROOT = Path(__file__).parents[1]
@@ -19,9 +17,6 @@ DEFAULT_CORPUS_DIRECTORY = ROOT / "raw" / "qsc"
 DEFAULT_LOCK_PATH = ROOT / "source-locks" / "qsc.json"
 DEFAULT_CLEANUP_PATH = ROOT / "editorial" / "qsc-cleanup.json"
 DEFAULT_GENRE_PATH = ROOT / "editorial" / "song-genre-reclassifications.json"
-RAW_URL = "https://raw.githubusercontent.com/{repository}/{commit}/{path}"
-
-
 def record_fingerprint(record: dict[str, object]) -> str:
     payload = json.dumps(
         [record["title"], record["author"], record["paragraphs"]],
@@ -62,39 +57,6 @@ def source_indices(change: dict[str, object]) -> list[int]:
     if isinstance(start, int) and isinstance(end, int) and start <= end:
         return list(range(start, end + 1))
     raise ValueError("editorial change has invalid source indices")
-
-
-def git_source_fetcher(repository: Path, commit: str) -> Callable[[str], bytes]:
-    def fetch(path: str) -> bytes:
-        result = subprocess.run(
-            ["git", "-C", str(repository), "show", f"{commit}:{path}"],
-            check=True,
-            capture_output=True,
-        )
-        return result.stdout
-
-    return fetch
-
-
-def remote_source_fetcher(
-    repository: str,
-    commit: str,
-) -> Callable[[str], bytes]:
-    def fetch(path: str) -> bytes:
-        encoded_path = urllib.parse.quote(path)
-        url = RAW_URL.format(
-            repository=repository,
-            commit=commit,
-            path=encoded_path,
-        )
-        request = urllib.request.Request(
-            url,
-            headers={"User-Agent": "shici-data-qsc-audit/1.0"},
-        )
-        with urllib.request.urlopen(request, timeout=30) as response:
-            return response.read()
-
-    return fetch
 
 
 def load_source_records(

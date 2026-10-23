@@ -1,0 +1,590 @@
+{
+  "created": "2026-10-23",
+  "expected_unresolved": {
+    "lacuna_records": 1640,
+    "lacuna_occurrences": 6661,
+    "lacuna_at_least_25_percent": 132,
+    "author_placeholder_records": 0,
+    "title_placeholder_records": 140
+  },
+  "author_repairs": [
+    {
+      "source_file": "007000.json",
+      "source_index": 583,
+      "source_value": "趙德□",
+      "value": "趙德",
+      "evidence": ["https://www.shicihui.cn/poem/hwejst.html"]
+    },
+    {
+      "source_file": "054000.json",
+      "source_index": 817,
+      "source_value": "鄧□誥",
+      "value": "鄧誥",
+      "evidence": ["https://www.ahhd.cn/poetry_bpe3gzlzqdby.html"]
+    },
+    {
+      "source_file": "110000.json",
+      "source_index": 643,
+      "source_value": "陳□諒",
+      "value": "陳諒",
+      "evidence": ["https://www.chagushici.com/ju/967523"]
+    },
+    {
+      "source_file": "188000.json",
+      "source_index": 320,
+      "source_value": "王□達",
+      "value": "王某達",
+      "evidence": ["https://www.sou-yun.cn/PoemIndex.aspx?dynasty=Song&author=29394"]
+    },
+    {
+      "source_file": "229000.json",
+      "source_index": 156,
+      "source_value": "□子發",
+      "value": "某子發",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_52694115f661.aspx"]
+    },
+    {
+      "source_file": "229000.json",
+      "source_index": 157,
+      "source_value": "□子發",
+      "value": "某子發",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_52694115f661.aspx"]
+    },
+    {
+      "source_file": "229000.json",
+      "source_index": 158,
+      "source_value": "□子發",
+      "value": "某子發",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_52694115f661.aspx"]
+    },
+    {
+      "source_file": "252000.json",
+      "source_index": 254,
+      "source_value": "□革",
+      "value": "某革",
+      "reason": "Preserve the incomplete transmitted name explicitly without treating the placeholder as a literal character."
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 301,
+      "source_value": "□韞",
+      "value": "某韞",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_99aa76724242.aspx"]
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 302,
+      "source_value": "□韞",
+      "value": "某韞",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_99aa76724242.aspx"]
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 303,
+      "source_value": "□韞",
+      "value": "某韞",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_99aa76724242.aspx"]
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 304,
+      "source_value": "□韞",
+      "value": "某韞",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_99aa76724242.aspx"]
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 369,
+      "source_value": "皇甫□",
+      "value": "皇甫某",
+      "evidence": ["https://www.arteducation.com.tw/shiwenv_fedeeb949844.html"]
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 370,
+      "source_value": "皇甫□",
+      "value": "皇甫某",
+      "evidence": ["https://www.arteducation.com.tw/shiwenv_fedeeb949844.html"]
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 374,
+      "source_value": "趙汝□",
+      "value": "趙汝某",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_2c3da00d9f80.aspx"]
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 390,
+      "source_value": "周□",
+      "value": "周承勳",
+      "evidence": ["https://baike.baidu.com/item/題度門院/12566972"]
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 414,
+      "source_value": "□說",
+      "value": "某說",
+      "evidence": ["https://www.beigushi.com/gushi/z7vu"]
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 897,
+      "source_value": "□庭倚",
+      "value": "某庭倚",
+      "reason": "Preserve the incomplete transmitted name explicitly without treating the placeholder as a literal character."
+    },
+    {
+      "source_file": "253000.json",
+      "source_index": 898,
+      "source_value": "□公才",
+      "value": "某公才",
+      "reason": "Preserve the incomplete transmitted name explicitly without treating the placeholder as a literal character."
+    },
+    {
+      "source_file": "254000.json",
+      "source_index": 14,
+      "source_value": "□治中",
+      "value": "某治中",
+      "reason": "Preserve the incomplete transmitted name explicitly without treating the placeholder as a literal character."
+    },
+    {
+      "source_file": "254000.json",
+      "source_index": 60,
+      "source_value": "□松卿",
+      "value": "某松卿",
+      "reason": "Preserve the incomplete transmitted name explicitly without treating the placeholder as a literal character."
+    }
+  ],
+  "title_repairs": [
+    {
+      "source_file": "007000.json",
+      "source_index": 688,
+      "source_value": "南山十詠 □書院",
+      "value": "南山十詠 書院",
+      "evidence": ["https://www.guoxue.cn/shiwen/1a8g7v610i.html"]
+    },
+    {
+      "source_file": "147000.json",
+      "source_index": 951,
+      "source_value": "伏讀秀野劉丈閒居十五詠謹次高韻率易拜呈伏乞痛加繩削是所願望 前村□",
+      "value": "伏讀秀野劉丈閒居十五詠謹次高韻率易拜呈伏乞痛加繩削是所願望 前村",
+      "evidence": ["https://www.shidianguji.com/book/SK2520/chapter/1m1ebdvlsaja3"]
+    },
+    {
+      "source_file": "169000.json",
+      "source_index": 492,
+      "source_value": "贈□道人",
+      "value": "贈某道人",
+      "evidence": ["poetry-source:source/诗/宋/poetry.宋.0143.json"]
+    }
+  ],
+  "paragraph_removals": [
+    {
+      "source_file": "123000.json",
+      "source_index": 801,
+      "paragraph_index": 3,
+      "source_value": "",
+      "reason": "Remove an empty trailing paragraph from the upstream record."
+    },
+    {
+      "source_file": "229000.json",
+      "source_index": 496,
+      "paragraph_index": 5,
+      "source_value": "",
+      "reason": "Remove an empty trailing paragraph from the upstream record."
+    }
+  ],
+  "record_removals": [
+    {
+      "source_file": "002000.json",
+      "source_index": 48,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "106000.json",
+      "source_index": 587,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "155000.json",
+      "source_index": 196,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 242,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 244,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 246,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 248,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 250,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 252,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 254,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 256,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 258,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 260,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 262,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 264,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 266,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 268,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 270,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 272,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 274,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 276,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 278,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 280,
+      "kind": "empty_text",
+      "reason": "The upstream record contains no paragraphs or recoverable text."
+    },
+    {
+      "source_file": "062000.json",
+      "source_index": 59,
+      "kind": "all_placeholders",
+      "reason": "The upstream record consists entirely of unresolved placeholder characters."
+    },
+    {
+      "source_file": "201000.json",
+      "source_index": 729,
+      "kind": "all_placeholders",
+      "reason": "The upstream record consists entirely of unresolved placeholder characters."
+    },
+    {
+      "source_file": "252000.json",
+      "source_index": 611,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "178000.json",
+      "duplicate_of_index": 617,
+      "reason": "Exact duplicate of 178000.json source index 617."
+    },
+    {
+      "source_file": "228000.json",
+      "source_index": 530,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "228000.json",
+      "duplicate_of_index": 503,
+      "reason": "Exact duplicate of 228000.json source index 503."
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 67,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "206000.json",
+      "duplicate_of_index": 851,
+      "reason": "Exact duplicate of 206000.json source index 851."
+    },
+    {
+      "source_file": "194000.json",
+      "source_index": 28,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "194000.json",
+      "duplicate_of_index": 2,
+      "reason": "Exact duplicate of 194000.json source index 2."
+    },
+    {
+      "source_file": "220000.json",
+      "source_index": 956,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "202000.json",
+      "duplicate_of_index": 793,
+      "reason": "Exact duplicate of 202000.json source index 793."
+    },
+    {
+      "source_file": "220000.json",
+      "source_index": 957,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "202000.json",
+      "duplicate_of_index": 794,
+      "reason": "Exact duplicate of 202000.json source index 794."
+    },
+    {
+      "source_file": "220000.json",
+      "source_index": 958,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "202000.json",
+      "duplicate_of_index": 795,
+      "reason": "Exact duplicate of 202000.json source index 795."
+    },
+    {
+      "source_file": "220000.json",
+      "source_index": 959,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "202000.json",
+      "duplicate_of_index": 796,
+      "reason": "Exact duplicate of 202000.json source index 796."
+    },
+    {
+      "source_file": "220000.json",
+      "source_index": 960,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "202000.json",
+      "duplicate_of_index": 797,
+      "reason": "Exact duplicate of 202000.json source index 797."
+    },
+    {
+      "source_file": "220000.json",
+      "source_index": 961,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "202000.json",
+      "duplicate_of_index": 798,
+      "reason": "Exact duplicate of 202000.json source index 798."
+    },
+    {
+      "source_file": "220000.json",
+      "source_index": 962,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "202000.json",
+      "duplicate_of_index": 799,
+      "reason": "Exact duplicate of 202000.json source index 799."
+    },
+    {
+      "source_file": "220000.json",
+      "source_index": 963,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "202000.json",
+      "duplicate_of_index": 800,
+      "reason": "Exact duplicate of 202000.json source index 800."
+    },
+    {
+      "source_file": "220000.json",
+      "source_index": 964,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "202000.json",
+      "duplicate_of_index": 801,
+      "reason": "Exact duplicate of 202000.json source index 801."
+    },
+    {
+      "source_file": "220000.json",
+      "source_index": 965,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "202000.json",
+      "duplicate_of_index": 802,
+      "reason": "Exact duplicate of 202000.json source index 802."
+    },
+    {
+      "source_file": "220000.json",
+      "source_index": 966,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "202000.json",
+      "duplicate_of_index": 803,
+      "reason": "Exact duplicate of 202000.json source index 803."
+    },
+    {
+      "source_file": "220000.json",
+      "source_index": 967,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "202000.json",
+      "duplicate_of_index": 804,
+      "reason": "Exact duplicate of 202000.json source index 804."
+    },
+    {
+      "source_file": "220000.json",
+      "source_index": 968,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "202000.json",
+      "duplicate_of_index": 805,
+      "reason": "Exact duplicate of 202000.json source index 805."
+    },
+    {
+      "source_file": "220000.json",
+      "source_index": 969,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "202000.json",
+      "duplicate_of_index": 806,
+      "reason": "Exact duplicate of 202000.json source index 806."
+    },
+    {
+      "source_file": "220000.json",
+      "source_index": 970,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "202000.json",
+      "duplicate_of_index": 807,
+      "reason": "Exact duplicate of 202000.json source index 807."
+    },
+    {
+      "source_file": "252000.json",
+      "source_index": 958,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "252000.json",
+      "duplicate_of_index": 896,
+      "reason": "Exact duplicate of 252000.json source index 896."
+    },
+    {
+      "source_file": "120000.json",
+      "source_index": 685,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "003000.json",
+      "duplicate_of_index": 708,
+      "reason": "Exact duplicate of 003000.json source index 708."
+    },
+    {
+      "source_file": "127000.json",
+      "source_index": 343,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "126000.json",
+      "duplicate_of_index": 966,
+      "reason": "Exact duplicate of 126000.json source index 966."
+    },
+    {
+      "source_file": "120000.json",
+      "source_index": 220,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "118000.json",
+      "duplicate_of_index": 434,
+      "reason": "Exact duplicate of 118000.json source index 434."
+    },
+    {
+      "source_file": "251000.json",
+      "source_index": 827,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "183000.json",
+      "duplicate_of_index": 379,
+      "reason": "Exact duplicate of 183000.json source index 379."
+    },
+    {
+      "source_file": "205000.json",
+      "source_index": 480,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "205000.json",
+      "duplicate_of_index": 369,
+      "reason": "Exact duplicate of 205000.json source index 369."
+    },
+    {
+      "source_file": "197000.json",
+      "source_index": 470,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "174000.json",
+      "duplicate_of_index": 312,
+      "reason": "Exact duplicate of 174000.json source index 312."
+    },
+    {
+      "source_file": "226000.json",
+      "source_index": 824,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "226000.json",
+      "duplicate_of_index": 359,
+      "reason": "Exact duplicate of 226000.json source index 359."
+    },
+    {
+      "source_file": "074000.json",
+      "source_index": 195,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "074000.json",
+      "duplicate_of_index": 191,
+      "reason": "Exact duplicate of 074000.json source index 191."
+    },
+    {
+      "source_file": "181000.json",
+      "source_index": 241,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "180000.json",
+      "duplicate_of_index": 143,
+      "reason": "Exact duplicate of 180000.json source index 143."
+    },
+    {
+      "source_file": "212000.json",
+      "source_index": 930,
+      "kind": "exact_duplicate",
+      "duplicate_of_file": "212000.json",
+      "duplicate_of_index": 758,
+      "reason": "Exact duplicate of 212000.json source index 758."
+    }
+  ]
+}
