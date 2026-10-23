@@ -3509,7 +3509,7 @@
   },
   {
     "title": "霜天晓角",
-    "author": "赵希��",
+    "author": "赵希𩇕",
     "paragraphs": [
       "姮娥戏剧。",
       "手种长生粒。",
@@ -3527,7 +3527,7 @@
   },
   {
     "title": "秋蕊香",
-    "author": "赵希□",
+    "author": "赵希𩇕",
     "paragraphs": [
       "髻稳冠宜翡翠。",
       "压鬓彩丝金蕊。",
@@ -4227,7 +4227,7 @@
   },
   {
     "title": "望海潮",
-    "author": "鄱阳护…",
+    "author": "鄱阳护戎女",
     "paragraphs": [
       "云收飞脚，日祛怒暑，新蝉高柳鸣时。",
       "兰佩紫囊，蒲抽碧剑，吴丝两腕双垂。",
@@ -13112,25 +13112,12 @@
       "夜柝不惊春枕。",
       "一去轻如蕉梦，三乡都是棠阴。",
       "等闲换取印黄金。",
-      "催上云程新任。",
-      "（缺词文）"
+      "催上云程新任。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [6, 6, 7, 6, 6, 6, 7, 6, 3],
+      "sentence_count": 8,
+      "sentence_lengths": [6, 6, 7, 6, 6, 6, 7, 6],
       "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "水龙吟",
-    "author": "陈著",
-    "paragraphs": [
-      "（缺词文）"
-    ],
-    "format": {
-      "sentence_count": 1,
-      "sentence_lengths": [3],
-      "uniform_sentence_length": 3
     }
   },
   {

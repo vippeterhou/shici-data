@@ -21,8 +21,12 @@ COMMON_RAW_FIELDS = ("title", "author", "paragraphs", "format")
 SHIJING_RAW_FIELDS = COMMON_RAW_FIELDS + ("chapter", "section")
 SENTENCE_SEPARATOR = re.compile(r"[，。！？；：:;]")
 SC300_SENTENCE_SEPARATOR = re.compile(r"[，。！？；：:;、]")
+QSC_SENTENCE_SEPARATOR = SC300_SENTENCE_SEPARATOR
 COUNTED_CHARACTER = re.compile(
     r"[\u3400-\u4dbf\u4e00-\u9fff\U00020000-\U000323af〇□]"
+)
+QSC_COUNTED_CHARACTER = re.compile(
+    r"[\u3400-\u4dbf\u4e00-\u9fff\U00020000-\U000323af〇]"
 )
 
 
@@ -94,16 +98,20 @@ def calculate_poem_format(
     paragraphs: list[str],
     corpus_name: str | None = None,
 ) -> dict[str, object]:
-    separator = (
-        SC300_SENTENCE_SEPARATOR
-        if corpus_name == "sc300"
-        else SENTENCE_SEPARATOR
+    if corpus_name == "sc300":
+        separator = SC300_SENTENCE_SEPARATOR
+    elif corpus_name == "qsc":
+        separator = QSC_SENTENCE_SEPARATOR
+    else:
+        separator = SENTENCE_SEPARATOR
+    counted_character = QSC_COUNTED_CHARACTER if corpus_name == "qsc" else (
+        COUNTED_CHARACTER
     )
     sentence_lengths = [
         length
         for paragraph in paragraphs
         for sentence in separator.split(paragraph)
-        if (length := len(COUNTED_CHARACTER.findall(sentence))) > 0
+        if (length := len(counted_character.findall(sentence))) > 0
     ]
     uniform_length = (
         sentence_lengths[0]
@@ -173,7 +181,7 @@ def validate_raw_record(
         or any(length != uniform_length for length in sentence_lengths)
     ):
         raise ValueError(f"{location}: inconsistent uniform sentence length")
-    validate_calculated_format = corpus.name == "sc300" or (
+    validate_calculated_format = corpus.name in {"qsc", "sc300"} or (
         corpus.name == "qts"
         and any("□" in paragraph for paragraph in paragraphs)
     )

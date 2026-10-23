@@ -203,6 +203,38 @@ def test_rejects_incorrect_sc300_format(tmp_path: Path) -> None:
         list(normalized_records(Corpus("sc300", source)))
 
 
+def test_qsc_uses_ideographic_comma_and_excludes_lacunae() -> None:
+    assert calculate_poem_format(
+        ["更多少、无情□风雨。"],
+        "qsc",
+    ) == {
+        "sentence_count": 2,
+        "sentence_lengths": [3, 4],
+        "uniform_sentence_length": None,
+    }
+
+
+def test_rejects_incorrect_qsc_format(tmp_path: Path) -> None:
+    record = {
+        "title": "测试",
+        "author": "作者",
+        "paragraphs": ["更多少、无情□风雨。"],
+        "format": {
+            "sentence_count": 1,
+            "sentence_lengths": [8],
+            "uniform_sentence_length": 8,
+        },
+    }
+    source = tmp_path / "001.json"
+    source.write_text(
+        json.dumps([record], ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+    with pytest.raises(ValueError, match="format mismatch"):
+        list(normalized_records(Corpus("qsc", source)))
+
+
 @pytest.mark.parametrize("separator", ["：", ":", ";"])
 def test_colon_and_ascii_semicolon_separate_sentences(
     separator: str,

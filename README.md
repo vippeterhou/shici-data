@@ -70,6 +70,18 @@ the pinned Wikisource revision recorded in `source-locks/sc300.json`:
 python3 -m scripts.audit_sc300
 ```
 
+To verify every QSC record against the pinned `chinese-poetry` revision,
+including recorded repairs, removals, author normalization, suite
+consolidation, and QSC-specific format metadata:
+
+```bash
+python3 -m scripts.audit_qsc
+
+# Optional offline/local-source form:
+python3 -m scripts.audit_qsc \
+  --source-repository ../chinese-poetry
+```
+
 To verify every recorded QSS-to-QSC genre reclassification:
 
 ```bash

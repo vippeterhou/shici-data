@@ -1,0 +1,253 @@
+{
+  "created": "2026-10-23",
+  "secondary_witness": {
+    "repository": "snowtraces/poetry-source",
+    "commit": "815fd2d12d231a1ad47dfe422e942e069264b2a2"
+  },
+  "expected_unresolved": {
+    "lacuna_records": 879,
+    "lacuna_occurrences": 3070,
+    "lacuna_at_least_25_percent": 61,
+    "partial_missing_text_records": 2,
+    "explicit_truncation_records": 7,
+    "author_placeholder_records": 2,
+    "title_placeholder_records": 6
+  },
+  "author_suffix_normalizations": [
+    {"source_value": "刘镇1", "value": "刘镇", "record_count": 2},
+    {"source_value": "刘镇2", "value": "刘镇", "record_count": 26},
+    {"source_value": "吴氏1", "value": "吴氏", "record_count": 1},
+    {"source_value": "吴氏2", "value": "吴氏", "record_count": 1},
+    {"source_value": "吴氏3", "value": "吴氏", "record_count": 5},
+    {"source_value": "吴淑姬1", "value": "吴淑姬", "record_count": 4},
+    {"source_value": "吴淑姬2", "value": "吴淑姬", "record_count": 1},
+    {"source_value": "姚述尧1", "value": "姚述尧", "record_count": 1},
+    {"source_value": "姚述尧2", "value": "姚述尧", "record_count": 69},
+    {"source_value": "张生1", "value": "张生", "record_count": 1},
+    {"source_value": "张生2", "value": "张生", "record_count": 2},
+    {"source_value": "李好古1", "value": "李好古", "record_count": 14},
+    {"source_value": "李好古2", "value": "李好古", "record_count": 1},
+    {"source_value": "李氏1", "value": "李氏", "record_count": 1},
+    {"source_value": "李氏2", "value": "李氏", "record_count": 1},
+    {"source_value": "杨适1", "value": "杨适", "record_count": 1},
+    {"source_value": "杨适2", "value": "杨适", "record_count": 1},
+    {"source_value": "王炎1", "value": "王炎", "record_count": 2},
+    {"source_value": "王炎2", "value": "王炎", "record_count": 52}
+  ],
+  "author_repairs": [
+    {
+      "source_file": "10000.json",
+      "source_index": 651,
+      "source_value": "富ノ",
+      "value": "富㩋",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_284e0b6b77e2.aspx"]
+    },
+    {
+      "source_file": "16000.json",
+      "source_indices": [185, 186],
+      "source_values": ["赵希��", "赵希□"],
+      "value": "赵希𩇕",
+      "evidence": [
+        "https://m.guoxuedashi.com/a/1705h/126785v.html",
+        "https://www.gushiwen.cn/shiwenv_0b4b2e46b035.aspx"
+      ]
+    },
+    {
+      "source_file": "16000.json",
+      "source_index": 224,
+      "source_value": "鄱阳护…",
+      "value": "鄱阳护戎女",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_84f513ea0052.aspx"]
+    },
+    {
+      "source_file": "17000.json",
+      "source_index": 206,
+      "source_value": "王□□",
+      "value": "王某",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_4d9964958148.aspx"]
+    },
+    {
+      "source_file": "17000.json",
+      "source_index": 226,
+      "source_value": "郭□□",
+      "value": "郭某",
+      "evidence": ["https://www.gushiji.cc/shangxi/58179_1.html"]
+    },
+    {
+      "source_file": "17000.json",
+      "source_index": 250,
+      "source_value": "徐□",
+      "value": "徐某",
+      "evidence": ["https://www.gushiwen.cn/GuShiWen_23bf039f77.aspx"]
+    },
+    {
+      "source_file": "18000.json",
+      "start_index": 196,
+      "end_index": 226,
+      "source_values": ["赵必□", "赵必��"],
+      "value": "赵必𤩪",
+      "evidence": ["https://www.sou-yun.cn/PoemIndex.aspx?dynasty=Song&author=32722"]
+    },
+    {
+      "source_file": "20000.json",
+      "source_index": 778,
+      "source_value": "□阳",
+      "value": "无名氏",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_acc52870dcd8.aspx"]
+    },
+    {
+      "source_file": "21000.json",
+      "source_index": 44,
+      "source_value": "赵□",
+      "value": "赵某",
+      "evidence": ["http://www.guoxue123.com/jijijibu/0201/00qsc/1488.htm"]
+    }
+  ],
+  "title_repairs": [
+    {
+      "source_file": "11000.json",
+      "source_index": 613,
+      "source_value": "□□□",
+      "value": "出塞",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_9462d33e2496.aspx"]
+    }
+  ],
+  "paragraph_repairs": [
+    {
+      "source_file": "02000.json",
+      "source_index": 205,
+      "paragraph_index": 1,
+      "source_value": "只为俺、忒�沙�儿。",
+      "value": "只为俺、忒㬠雏儿。",
+      "evidence": [
+        "poetry-source:source/词/宋/ci.宋.0012.json",
+        "https://www.gushiwen.cn/shiwenv_fabb4d7d7750.aspx"
+      ]
+    },
+    {
+      "source_file": "02000.json",
+      "source_index": 441,
+      "paragraph_index": 11,
+      "source_value": "鸡犬静，涧篱�怼�",
+      "value": "鸡犬静，涧篱闭。",
+      "evidence": ["poetry-source:source/词/宋/ci.宋.0009.json"]
+    },
+    {
+      "source_file": "02000.json",
+      "source_index": 783,
+      "paragraph_index": 3,
+      "source_value": "与一口、管教�拍ァ�",
+      "value": "与一口、管教㞘磨。",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_0d85c6532395.aspx"]
+    },
+    {
+      "source_file": "09000.json",
+      "source_index": 294,
+      "paragraph_index": 7,
+      "source_value": "出处两俱得，��鷃亦鵾鹏。",
+      "value": "出处两俱得，𩿪鴳亦鹍鹏。",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_e02d81ad9ec1.aspx"]
+    },
+    {
+      "source_file": "10000.json",
+      "source_index": 122,
+      "paragraph_index": 3,
+      "source_value": "门前数十丘�岫枴�",
+      "value": "门前数十丘䆉稏。",
+      "evidence": ["https://www.gushiwen.cn/GuShiWen_a4e2c94975.aspx"]
+    },
+    {
+      "source_file": "10000.json",
+      "source_index": 150,
+      "paragraph_index": 5,
+      "source_value": "阕�匣岬茫�万语千言。",
+      "value": "阙𨉶会得，万语千言。",
+      "evidence": ["https://zh.wikisource.org/wiki/行香子_(野叟長年)"]
+    },
+    {
+      "source_file": "10000.json",
+      "source_index": 882,
+      "paragraph_index": 0,
+      "source_value": "�稍�著意斟量过，天下事、无穷尽。",
+      "value": "㬠曾著意斟量过，天下事、无穷尽。",
+      "evidence": ["poetry-source:source/词/宋/ci.宋.0014.json"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 772,
+      "paragraph_index": 4,
+      "source_value": "起来瞢�┒嗍薄�",
+      "value": "起来瞢騃多时。",
+      "evidence": ["https://www.gushiwen.cn/GuShiWen_72714d4d83.aspx"]
+    },
+    {
+      "source_file": "14000.json",
+      "source_index": 184,
+      "paragraph_index": 6,
+      "source_value": "看鱼肥蟹健，妻孥共乐，酒�璧臼欤�翁媪相将。",
+      "value": "看鱼肥蟹健，妻孥共乐，酒𰞩稻熟，翁媪相将。",
+      "evidence": [
+        "http://www.guoxue123.com/jijijibu/0201/00qsc/0751.htm",
+        "https://www.gushiji.org/shiwen/60721"
+      ]
+    },
+    {
+      "source_file": "15000.json",
+      "source_index": 330,
+      "paragraph_index": 8,
+      "source_value": "问山公、倒载接�奈蓿�都休却。",
+      "value": "问山公、倒载接篙无，都休却。",
+      "evidence": ["https://www.gushici.net/shici/47/53271.html"]
+    },
+    {
+      "source_file": "19000.json",
+      "source_index": 623,
+      "paragraph_index": 6,
+      "source_value": "那小鬟、忒�山苛樱�镇日地、倚阑干。",
+      "value": "那小鬟、忒煞地、镇日地、倚阑干。",
+      "evidence": ["https://sou-yun.cn/QueryPoem.aspx"]
+    },
+    {
+      "source_file": "20000.json",
+      "source_index": 606,
+      "paragraph_index": 2,
+      "source_value": "侵晨打�捌朐苹幔�际暮演筹落魄归。",
+      "value": "侵晨打𩋢齐云会，际暮演筹落魄归。",
+      "evidence": [
+        "https://sc.zdic.net/song/0806/28/0e9bda81c5fd34066fe9b578241fecf1.html",
+        "https://sou-yun.cn/Query.aspx?type=poem&id=53672"
+      ]
+    },
+    {
+      "source_file": "21000.json",
+      "source_index": 40,
+      "paragraph_index": 2,
+      "source_value": "兔魄呈祥冰�昀谩�",
+      "value": "兔魄呈祥冰彩烂。",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_0a6181a30ad0.aspx"]
+    }
+  ],
+  "paragraph_removals": [
+    {
+      "source_file": "16000.json",
+      "source_index": 679,
+      "paragraph_index": 6,
+      "source_value": "（缺词文）",
+      "reason": "The preceding eight clauses form the complete transmitted 西江月; the trailing marker is a source artifact.",
+      "evidence": ["https://www.chagushici.com/ju/683077"]
+    }
+  ],
+  "record_removals": [
+    {"source_file": "10000.json", "source_index": 575, "kind": "exact_duplicate", "duplicate_of_index": 572, "reason": "Exact duplicate of source index 572."},
+    {"source_file": "10000.json", "source_index": 576, "kind": "exact_duplicate", "duplicate_of_index": 573, "reason": "Exact duplicate of source index 573."},
+    {"source_file": "10000.json", "source_index": 577, "kind": "exact_duplicate", "duplicate_of_index": 574, "reason": "Exact duplicate of source index 574."},
+    {"source_file": "14000.json", "source_index": 655, "kind": "unrecoverable_missing_text", "reason": "Contains only 缺词文 and no recoverable text."},
+    {"source_file": "16000.json", "source_index": 680, "kind": "unrecoverable_missing_text", "reason": "Contains only 缺词文 and no recoverable text."},
+    {"source_file": "18000.json", "source_index": 507, "kind": "unrecoverable_missing_text", "reason": "Contains only 缺词文 and no recoverable text."},
+    {"source_file": "18000.json", "source_index": 508, "kind": "unrecoverable_missing_text", "reason": "Contains only 缺词文 and no recoverable text."},
+    {"source_file": "18000.json", "source_index": 509, "kind": "unrecoverable_missing_text", "reason": "Contains only 缺词文 and no recoverable text."},
+    {"source_file": "18000.json", "source_index": 510, "kind": "unrecoverable_missing_text", "reason": "Contains only 缺词文 and no recoverable text."},
+    {"source_file": "18000.json", "source_index": 511, "kind": "unrecoverable_missing_text", "reason": "Contains only 缺词文 and no recoverable text."},
+    {"source_file": "19000.json", "source_index": 790, "kind": "exact_duplicate", "duplicate_of_index": 736, "reason": "Exact duplicate of source index 736."}
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "repository": "chinese-poetry/chinese-poetry",
+  "commit": "b8594f81a89752241442f2ce267d6f66f96704ee",
+  "commit_timestamp": "2026-06-17T09:56:08+08:00",
+  "tree": "947aca5eebbf110a34e0f7fbe108929708541d49",
+  "source_directory": "宋词",
+  "record_count": 21050,
+  "release_record_count": 21019,
+  "files": [
+    {
+      "path": "宋词/ci.song.0.json",
+      "output_file": "00000.json",
+      "record_count": 1000,
+      "sha256": "7761bc5ef50305753ea3dcea9e1ef3164e153e3ee366169e9c5a9a7d85b21b22"
+    },
+    {
+      "path": "宋词/ci.song.1000.json",
+      "output_file": "01000.json",
+      "record_count": 1000,
+      "sha256": "5f79a2d9011e6d414f04e51176c5d4f4c762fd784dce98b035968367b6f2ef4e"
+    },
+    {
+      "path": "宋词/ci.song.2000.json",
+      "output_file": "02000.json",
+      "record_count": 1000,
+      "sha256": "f700d8e14df62d371dfba7ce18bf1641c304540907b26b68d356c4b6b256fe8d"
+    },
+    {
+      "path": "宋词/ci.song.3000.json",
+      "output_file": "03000.json",
+      "record_count": 1000,
+      "sha256": "1791391a8a2ca855e133f7ea48bf0c104b3890d628ae2929f9378960a66c1427"
+    },
+    {
+      "path": "宋词/ci.song.4000.json",
+      "output_file": "04000.json",
+      "record_count": 1000,
+      "sha256": "48c3e33bab920e17929ea08300c4c5ca72b246669ed5767e5cb985d894514150"
+    },
+    {
+      "path": "宋词/ci.song.5000.json",
+      "output_file": "05000.json",
+      "record_count": 1000,
+      "sha256": "1e10ee4be18e225c2efa0bb8d58691ebb6d40cd83588f308d9635a37392bdadd"
+    },
+    {
+      "path": "宋词/ci.song.6000.json",
+      "output_file": "06000.json",
+      "record_count": 1000,
+      "sha256": "8ff2b21b4e92a435f72da04fcb935a6a3498e839cde5c837ea418871f133c248"
+    },
+    {
+      "path": "宋词/ci.song.7000.json",
+      "output_file": "07000.json",
+      "record_count": 1000,
+      "sha256": "8fe3f7ac40ab7d6c80cdd42305e848c1dc51cff26bc42b335ddfdfaccd48d1ba"
+    },
+    {
+      "path": "宋词/ci.song.8000.json",
+      "output_file": "08000.json",
+      "record_count": 1000,
+      "sha256": "8d9c26a4aa62264d2eea853944e47a1420dd94e7465bee7c3e52cec2cf8bd653"
+    },
+    {
+      "path": "宋词/ci.song.9000.json",
+      "output_file": "09000.json",
+      "record_count": 1000,
+      "sha256": "bd6a4d90b17ef195f32e38dfa483b0d39d671db3cdd5b462b292aac6916f26a6"
+    },
+    {
+      "path": "宋词/ci.song.10000.json",
+      "output_file": "10000.json",
+      "record_count": 1000,
+      "sha256": "8d37b015132bf9776fb41c44d445572d2cd9bf5e250dde213596c480e5962545"
+    },
+    {
+      "path": "宋词/ci.song.11000.json",
+      "output_file": "11000.json",
+      "record_count": 1000,
+      "sha256": "9a4f5082638f82339afbde99f1af7bae1719207f77d5516cb8f6d370c9c1d0c9"
+    },
+    {
+      "path": "宋词/ci.song.12000.json",
+      "output_file": "12000.json",
+      "record_count": 1000,
+      "sha256": "a89094fed6b3003c171a9036052ff6a289367b4dd68d97c000b5f5e90ea2df2f"
+    },
+    {
+      "path": "宋词/ci.song.13000.json",
+      "output_file": "13000.json",
+      "record_count": 1000,
+      "sha256": "dd51b268dec508d44a18e2d4a84edd109ff8c532b6eace4160ea88674f62515c"
+    },
+    {
+      "path": "宋词/ci.song.14000.json",
+      "output_file": "14000.json",
+      "record_count": 1000,
+      "sha256": "9d7410bcaebc31685e3d999c6af218a3583fd8e9f57cacf640c66607121e2dbf"
+    },
+    {
+      "path": "宋词/ci.song.15000.json",
+      "output_file": "15000.json",
+      "record_count": 1000,
+      "sha256": "5e441c85494955290138ed8561decb3f302d3628fe390cea3477e1d446039525"
+    },
+    {
+      "path": "宋词/ci.song.16000.json",
+      "output_file": "16000.json",
+      "record_count": 1000,
+      "sha256": "d003d66c58e40fab1d2a40f17f6149eef53a126c7e54b035153ceae4fe707742"
+    },
+    {
+      "path": "宋词/ci.song.17000.json",
+      "output_file": "17000.json",
+      "record_count": 1000,
+      "sha256": "b46b9f908b5bb0a3b4dd18f268c233a50b8b794d6ab1ec79afcb3612792f0574"
+    },
+    {
+      "path": "宋词/ci.song.18000.json",
+      "output_file": "18000.json",
+      "record_count": 1000,
+      "sha256": "751cf8ee2a925f4957d010e6f4bf46cc9e0a90a176cfb731185ba43ecb72b14b"
+    },
+    {
+      "path": "宋词/ci.song.19000.json",
+      "output_file": "19000.json",
+      "record_count": 1000,
+      "sha256": "c6becb6a81cc04e25564f501ff768482b6c328d976c48e2003c8b8bd94ef4612"
+    },
+    {
+      "path": "宋词/ci.song.20000.json",
+      "output_file": "20000.json",
+      "record_count": 1000,
+      "sha256": "1dfc08051969ab2ecdfa3eea8b29bf79d3dfe9ad1133127f25f622c2b14348c2"
+    },
+    {
+      "path": "宋词/ci.song.21000.json",
+      "output_file": "21000.json",
+      "record_count": 50,
+      "sha256": "3344ba453ae7840339944ce29e4295b5b668d79f79210a99e6e1a58ee874dbc5"
+    }
+  ],
+  "consolidations": [
+    {
+      "output_file": "19000.json",
+      "start_index": 309,
+      "end_index": 319,
+      "text_replacements": {
+        "无端翦破": "无端剪破"
+      },
+      "reason": "Represent the linked nine-pattern suite and its two codas as one work."
+    },
+    {
+      "output_file": "19000.json",
+      "start_index": 320,
+      "end_index": 328,
+      "text_replacements": {
+        "啼莺言语": "啼莺燕语",
+        "咿哑声里": "吚哑声里",
+        "厌厌无语": "恹恹无语"
+      },
+      "reason": "Represent the linked nine-pattern suite as one work."
+    }
+  ]
+}
