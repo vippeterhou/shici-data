@@ -9210,8 +9210,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 6, 7, 7, 5, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -9224,9 +9224,9 @@
       "□□□起滄洲趣，便欲投簪此濯纓。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 7, 2, 2, 4, 4, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -9240,8 +9240,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [1, 7, 5, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -9269,9 +9269,9 @@
       "□□□□□□□，□□□□□□□。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [3, 7, 1],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -9323,9 +9323,9 @@
       "□□□□□□□，□負穠華一句無。"
     ],
     "format": {
-      "sentence_count": 1,
-      "sentence_lengths": [6],
-      "uniform_sentence_length": 6
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -9894,8 +9894,8 @@
     ],
     "format": {
       "sentence_count": 36,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -11078,8 +11078,8 @@
       "□□□□□□□，□金液。"
     ],
     "format": {
-      "sentence_count": 29,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 5, 7, 7, 7, 7, 3, 3, 6, 2, 5, 2, 6, 7, 7, 7, 7, 4, 6, 7, 2],
+      "sentence_count": 30,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 3],
       "uniform_sentence_length": null
     }
   },
@@ -11338,8 +11338,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [7, 7, 6, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

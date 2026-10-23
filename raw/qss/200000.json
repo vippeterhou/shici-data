@@ -10,8 +10,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 4, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -41,8 +41,8 @@
     ],
     "format": {
       "sentence_count": 40,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 7, 7, 7, 7, 5, 2, 7, 3, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -86,8 +86,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 5, 7, 4, 7, 7, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -101,8 +101,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 6, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -116,8 +116,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 6, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -206,8 +206,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 7, 7, 7, 7, 5, 3, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -221,8 +221,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [3, 7, 6, 3, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -387,8 +387,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [4, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -400,8 +400,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [3, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -413,8 +413,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [2, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -426,8 +426,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [3, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -465,8 +465,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [3, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -847,8 +847,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -877,8 +877,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 7, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -2086,8 +2086,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [4, 6, 6, 6],
-      "uniform_sentence_length": null
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
     }
   },
   {
@@ -2190,8 +2190,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [6, 6, 5, 6],
-      "uniform_sentence_length": null
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
     }
   },
   {
@@ -2248,8 +2248,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 5, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -3827,8 +3827,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 5, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -4119,8 +4119,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 5, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -4291,8 +4291,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 2, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -5221,8 +5221,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 5, 7, 7, 4, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -5982,8 +5982,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 3, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -6289,8 +6289,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [3, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -6858,8 +6858,8 @@
     ],
     "format": {
       "sentence_count": 12,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -7147,8 +7147,8 @@
     ],
     "format": {
       "sentence_count": 12,
-      "sentence_lengths": [2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -7526,8 +7526,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [6, 6, 3, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
     }
   },
   {
@@ -7603,9 +7603,9 @@
       "□□□□□□從，晚福全輸於少公。"
     ],
     "format": {
-      "sentence_count": 2,
-      "sentence_lengths": [1, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 4,
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -7816,8 +7816,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [6, 6, 3, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
     }
   },
   {
@@ -8029,8 +8029,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 1, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -8145,8 +8145,8 @@
       "不念同光帝，□□□□□。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [5, 5, 5],
+      "sentence_count": 4,
+      "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -8174,8 +8174,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 2, 5, 5, 5, 3],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -8302,8 +8302,8 @@
     ],
     "format": {
       "sentence_count": 16,
-      "sentence_lengths": [4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -8412,8 +8412,8 @@
     ],
     "format": {
       "sentence_count": 26,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -8583,8 +8583,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [5, 5, 5, 3],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -8889,8 +8889,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 4, 2, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -9183,8 +9183,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [3, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -9420,8 +9420,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 6, 7, 7, 7, 6, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -9495,8 +9495,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 7, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -9599,8 +9599,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [6, 6, 6, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
     }
   },
   {
@@ -9640,8 +9640,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 2, 5, 5, 5, 2],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -9700,8 +9700,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 6, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -11047,8 +11047,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 6, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -11200,8 +11200,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [5, 6, 6, 6],
-      "uniform_sentence_length": null
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
     }
   },
   {
@@ -11620,8 +11620,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 6, 7, 4, 3, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -11635,8 +11635,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 3],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -11665,8 +11665,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 5, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -11704,8 +11704,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [6, 6, 5, 6],
-      "uniform_sentence_length": null
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
     }
   },
   {
@@ -11734,8 +11734,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [4, 5, 5, 4, 7, 7, 2, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -11749,8 +11749,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [2, 5, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -11775,8 +11775,8 @@
       "吾無恤孤力，懷舊意空勤。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -11790,9 +11790,9 @@
       "不知□□□□□，□在牛欄更向西。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [7, 6, 2, 7, 7, 2, 6],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -11831,9 +11831,9 @@
       "客嘲賓戲都休管，雙耳新來漸□□。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 6, 6, 6, 1, 7, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -11846,9 +11846,9 @@
       "摩挲壁記懷今昔，□□□□□□□。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [7, 5, 1, 7, 4, 2, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -11861,9 +11861,9 @@
       "暮年不記蓬萊路，□□□□□□□。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [7, 2, 5, 1, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -11876,9 +11876,9 @@
       "不應更作含色香，□□□□□□□。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 2, 1, 7, 2, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -11891,9 +11891,9 @@
       "遥知共起淹中蕝，不必畦間拾穗翁。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 6, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -11907,8 +11907,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 3, 7, 7, 2, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -11922,8 +11922,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 2, 2, 7, 3, 7, 4, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -11937,8 +11937,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 7, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -12380,8 +12380,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [1, 7, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -12522,8 +12522,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 5, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -12537,8 +12537,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 7, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -12756,8 +12756,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 4, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -12933,8 +12933,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 6, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -14088,8 +14088,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [5, 4, 3, 3],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

@@ -7551,8 +7551,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 4, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -7641,8 +7641,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 5, 5, 4, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -8706,8 +8706,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 6, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -10382,8 +10382,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [7, 6, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -10895,7 +10895,7 @@
     ],
     "format": {
       "sentence_count": 23,
-      "sentence_lengths": [2, 14, 2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 11, 2, 5, 5, 4, 5, 5, 5, 5, 5],
+      "sentence_lengths": [2, 14, 2, 5, 5, 5, 5, 5, 5, 5, 5, 2, 5, 11, 2, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -11392,8 +11392,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [1, 5, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -11541,8 +11541,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 6, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -12363,8 +12363,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [7, 6, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

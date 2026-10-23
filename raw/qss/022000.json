@@ -6272,8 +6272,8 @@
     ],
     "format": {
       "sentence_count": 14,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 5, 7, 7, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -6367,8 +6367,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 4, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -6397,8 +6397,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 6, 7, 5, 2, 7, 5, 6],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -6423,8 +6423,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [7, 5, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -6438,8 +6438,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 1],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -6452,9 +6452,9 @@
       "唯有□風一杯酒，憶君□□□□□。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 2, 1, 2, 6, 2],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -6467,9 +6467,9 @@
       "直須去盡秋毫迹，□□□□□□□。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [7, 5, 7, 7, 3, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -6498,8 +6498,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 5, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -6557,8 +6557,8 @@
       "誰能知未病，何藥能相尋。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -6573,8 +6573,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 5, 5, 6, 5, 5, 4, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

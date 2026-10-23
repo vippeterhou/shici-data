@@ -269,8 +269,8 @@
       "此生與世雖無補，筆底青山到了青。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -388,8 +388,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [7, 7, 6, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -445,8 +445,8 @@
       "赤松孤竹真渠友，萬紫千紅總皂臺。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -622,8 +622,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [7, 7, 5, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -4580,8 +4580,8 @@
       "推窗且對梅花月，便覺塵襟一晌清。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -4930,9 +4930,9 @@
       "明朝正旦常年別，瓊戶瑶階一樣誇。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [7, 7, 7, 7, 1, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -6826,8 +6826,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 6, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -6840,9 +6840,9 @@
       "讀罷中興碑去後，逢人便舉伴茶甌。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [6, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -6976,8 +6976,8 @@
     ],
     "format": {
       "sentence_count": 2,
-      "sentence_lengths": [7, 6],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

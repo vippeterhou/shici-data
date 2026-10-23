@@ -4140,8 +4140,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -4155,8 +4155,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [6, 7, 7, 7, 6, 7, 6, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -4185,7 +4185,7 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 6, 6],
+      "sentence_lengths": [8, 8, 7, 7, 7, 7, 8, 9],
       "uniform_sentence_length": null
     }
   },
@@ -10989,8 +10989,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 5, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -13194,8 +13194,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 6, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {

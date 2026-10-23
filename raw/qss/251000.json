@@ -4521,8 +4521,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [4, 4, 4, 3, 4, 4, 4, 4],
-      "uniform_sentence_length": null
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
+      "uniform_sentence_length": 4
     }
   },
   {
@@ -4551,8 +4551,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 2],
-      "uniform_sentence_length": null
+      "sentence_lengths": [4, 4, 4, 4, 4, 4, 4, 4],
+      "uniform_sentence_length": 4
     }
   },
   {

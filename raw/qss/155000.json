@@ -1151,7 +1151,7 @@
     ],
     "format": {
       "sentence_count": 20,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 10, 5],
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 10, 7],
       "uniform_sentence_length": null
     }
   },
@@ -3488,7 +3488,7 @@
     ],
     "format": {
       "sentence_count": 40,
-      "sentence_lengths": [7, 7, 7, 7, 6, 7, 7, 7, 6, 7, 6, 6, 6, 7, 7, 7, 14, 6, 6, 6, 6, 7, 7, 6, 6, 6, 5, 12, 8, 6, 7, 5, 7, 4, 8, 5, 7, 6, 8, 6],
+      "sentence_lengths": [7, 7, 7, 7, 6, 7, 7, 7, 6, 7, 6, 6, 6, 7, 7, 7, 14, 6, 6, 6, 6, 7, 7, 7, 6, 6, 5, 12, 8, 6, 7, 5, 7, 4, 8, 5, 7, 6, 8, 6],
       "uniform_sentence_length": null
     }
   },
@@ -5910,8 +5910,8 @@
     ],
     "format": {
       "sentence_count": 26,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 1, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -15608,7 +15608,7 @@
     ],
     "format": {
       "sentence_count": 10,
-      "sentence_lengths": [2, 2, 7, 5, 7, 3, 3, 7, 8, 7],
+      "sentence_lengths": [2, 2, 7, 7, 7, 3, 3, 7, 8, 7],
       "uniform_sentence_length": null
     }
   },

@@ -106,16 +106,11 @@ def calculate_poem_format(
         separator = QSC_SENTENCE_SEPARATOR
     else:
         separator = SENTENCE_SEPARATOR
-    counted_character = (
-        QSC_COUNTED_CHARACTER
-        if corpus_name in {"qsc", "qss"}
-        else COUNTED_CHARACTER
-    )
     sentence_lengths = [
         length
         for paragraph in paragraphs
         for sentence in separator.split(paragraph)
-        if (length := len(counted_character.findall(sentence))) > 0
+        if (length := len(COUNTED_CHARACTER.findall(sentence))) > 0
     ]
     uniform_length = (
         sentence_lengths[0]

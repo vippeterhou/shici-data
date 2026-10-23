@@ -1015,8 +1015,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 6, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -3100,8 +3100,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 6, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -4930,8 +4930,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 6, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -5005,8 +5005,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 7, 4, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -5290,8 +5290,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 6, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -7126,8 +7126,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [5, 6, 6, 6],
-      "uniform_sentence_length": null
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
     }
   },
   {
@@ -7217,8 +7217,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [6, 6, 6, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [6, 6, 6, 6],
+      "uniform_sentence_length": 6
     }
   },
   {
@@ -13466,7 +13466,7 @@
     ],
     "format": {
       "sentence_count": 15,
-      "sentence_lengths": [5, 5, 5, 5, 7, 7, 5, 5, 7, 5, 4, 9, 5, 8, 6],
+      "sentence_lengths": [5, 5, 5, 5, 7, 7, 5, 5, 7, 5, 4, 9, 6, 8, 6],
       "uniform_sentence_length": null
     }
   },

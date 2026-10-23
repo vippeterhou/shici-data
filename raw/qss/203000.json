@@ -12822,7 +12822,7 @@
     ],
     "format": {
       "sentence_count": 6,
-      "sentence_lengths": [3, 2, 4, 4, 4, 4],
+      "sentence_lengths": [3, 3, 4, 4, 4, 4],
       "uniform_sentence_length": null
     }
   },

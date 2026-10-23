@@ -163,7 +163,7 @@
     ],
     "format": {
       "sentence_count": 26,
-      "sentence_lengths": [5, 3, 4, 4, 7, 6, 3, 4, 7, 1, 5, 3, 3, 7, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3],
+      "sentence_lengths": [5, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3],
       "uniform_sentence_length": null
     }
   },
@@ -1511,7 +1511,7 @@
     ],
     "format": {
       "sentence_count": 23,
-      "sentence_lengths": [4, 4, 6, 4, 5, 6, 3, 4, 3, 4, 5, 2, 2, 4, 4, 5, 4, 6, 3, 4, 3, 4, 5],
+      "sentence_lengths": [4, 4, 6, 4, 5, 6, 3, 4, 3, 4, 5, 2, 3, 4, 4, 5, 4, 6, 3, 4, 3, 4, 5],
       "uniform_sentence_length": null
     }
   },
@@ -2081,7 +2081,7 @@
     ],
     "format": {
       "sentence_count": 24,
-      "sentence_lengths": [4, 5, 4, 7, 3, 4, 5, 3, 4, 4, 4, 4, 6, 5, 4, 6, 2, 4, 5, 3, 4, 4, 4, 4],
+      "sentence_lengths": [4, 5, 4, 7, 3, 4, 5, 3, 4, 4, 4, 4, 6, 5, 4, 7, 3, 4, 5, 3, 4, 4, 4, 4],
       "uniform_sentence_length": null
     }
   },
@@ -2281,7 +2281,7 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 7, 5, 5, 5, 6, 5],
+      "sentence_lengths": [5, 5, 7, 5, 5, 5, 7, 5],
       "uniform_sentence_length": null
     }
   },
@@ -2402,7 +2402,7 @@
     ],
     "format": {
       "sentence_count": 54,
-      "sentence_lengths": [6, 5, 3, 4, 6, 5, 4, 5, 5, 6, 4, 4, 5, 3, 4, 6, 3, 4, 3, 4, 3, 4, 4, 4, 4, 5, 5, 4, 6, 4, 4, 4, 7, 3, 5, 4, 6, 6, 4, 4, 4, 3, 3, 6, 4, 4, 4, 4, 7, 3, 5, 6, 4, 3],
+      "sentence_lengths": [6, 5, 3, 4, 6, 5, 4, 5, 5, 6, 4, 4, 5, 3, 4, 6, 3, 4, 3, 4, 3, 4, 4, 4, 4, 5, 5, 4, 6, 4, 4, 4, 7, 3, 5, 4, 6, 6, 4, 4, 4, 3, 3, 6, 4, 4, 4, 4, 7, 3, 5, 6, 4, 4],
       "uniform_sentence_length": null
     }
   },
@@ -3046,7 +3046,7 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 6, 6, 5, 7, 4, 6, 5],
+      "sentence_lengths": [5, 6, 6, 5, 7, 5, 6, 5],
       "uniform_sentence_length": null
     }
   },
@@ -3236,7 +3236,7 @@
     ],
     "format": {
       "sentence_count": 19,
-      "sentence_lengths": [5, 5, 4, 5, 6, 6, 5, 5, 5, 3, 3, 3, 4, 7, 6, 6, 5, 5, 5],
+      "sentence_lengths": [5, 5, 4, 7, 6, 6, 5, 5, 5, 3, 3, 3, 4, 7, 6, 6, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -3610,7 +3610,7 @@
     ],
     "format": {
       "sentence_count": 25,
-      "sentence_lengths": [4, 4, 4, 5, 4, 4, 4, 4, 4, 7, 3, 4, 4, 6, 7, 5, 4, 4, 4, 4, 4, 7, 3, 5, 4],
+      "sentence_lengths": [4, 4, 4, 5, 4, 4, 4, 4, 4, 7, 3, 4, 4, 6, 8, 5, 4, 4, 4, 4, 4, 7, 3, 5, 4],
       "uniform_sentence_length": null
     }
   },
@@ -3869,8 +3869,8 @@
       "湖上千松。"
     ],
     "format": {
-      "sentence_count": 38,
-      "sentence_lengths": [4, 5, 3, 3, 3, 3, 6, 3, 3, 3, 3, 3, 6, 3, 4, 5, 6, 4, 3, 4, 3, 3, 3, 3, 3, 3, 5, 3, 3, 3, 3, 3, 5, 3, 4, 5, 4, 4],
+      "sentence_count": 39,
+      "sentence_lengths": [4, 5, 3, 3, 3, 3, 6, 3, 3, 3, 3, 3, 6, 3, 4, 5, 6, 4, 3, 4, 3, 3, 3, 3, 3, 3, 3, 5, 3, 3, 3, 3, 3, 5, 3, 4, 5, 4, 4],
       "uniform_sentence_length": null
     }
   },
@@ -4163,7 +4163,7 @@
     ],
     "format": {
       "sentence_count": 23,
-      "sentence_lengths": [4, 4, 4, 4, 4, 6, 6, 6, 3, 5, 4, 2, 3, 4, 5, 4, 4, 5, 6, 6, 3, 5, 4],
+      "sentence_lengths": [4, 4, 4, 4, 4, 6, 6, 6, 3, 5, 4, 2, 3, 4, 5, 4, 4, 6, 6, 6, 3, 5, 4],
       "uniform_sentence_length": null
     }
   },
@@ -4184,7 +4184,7 @@
     ],
     "format": {
       "sentence_count": 23,
-      "sentence_lengths": [4, 5, 4, 4, 4, 5, 6, 6, 3, 5, 4, 2, 3, 4, 5, 4, 4, 6, 6, 6, 3, 5, 4],
+      "sentence_lengths": [4, 5, 4, 4, 4, 6, 6, 6, 3, 5, 4, 2, 3, 4, 5, 4, 4, 6, 6, 6, 3, 5, 4],
       "uniform_sentence_length": null
     }
   },
@@ -4205,7 +4205,7 @@
     ],
     "format": {
       "sentence_count": 23,
-      "sentence_lengths": [4, 5, 4, 4, 4, 6, 6, 6, 3, 5, 4, 2, 3, 4, 5, 4, 4, 4, 6, 6, 3, 5, 4],
+      "sentence_lengths": [4, 5, 4, 4, 4, 6, 6, 6, 3, 5, 4, 2, 3, 4, 5, 4, 4, 6, 6, 6, 3, 5, 4],
       "uniform_sentence_length": null
     }
   },
@@ -4303,7 +4303,7 @@
     ],
     "format": {
       "sentence_count": 26,
-      "sentence_lengths": [5, 3, 6, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 2, 4, 4, 7, 6, 3, 6, 7, 3, 5, 3, 3],
+      "sentence_lengths": [5, 3, 6, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 3, 4, 4, 7, 6, 3, 6, 7, 3, 5, 3, 3],
       "uniform_sentence_length": null
     }
   },
@@ -4327,8 +4327,8 @@
       "听今日、处处笙歌，何止南楼十二。"
     ],
     "format": {
-      "sentence_count": 33,
-      "sentence_lengths": [4, 4, 4, 3, 4, 5, 3, 5, 6, 4, 6, 7, 4, 4, 3, 4, 7, 3, 5, 6, 3, 4, 6, 6, 3, 4, 5, 6, 7, 5, 3, 4, 6],
+      "sentence_count": 34,
+      "sentence_lengths": [4, 4, 4, 3, 4, 7, 3, 5, 6, 3, 4, 6, 7, 4, 4, 3, 4, 7, 3, 5, 6, 3, 4, 6, 6, 3, 4, 5, 6, 7, 5, 3, 4, 6],
       "uniform_sentence_length": null
     }
   },
@@ -4425,8 +4425,8 @@
       "来岁清苕，公家事了，斑衣蓝绶。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [5, 4, 4, 4, 4, 5, 4, 4, 4, 6, 6, 4, 4, 4, 5, 4, 4, 4],
+      "sentence_count": 22,
+      "sentence_lengths": [5, 4, 4, 4, 5, 4, 4, 5, 4, 4, 4, 6, 6, 4, 4, 5, 4, 4, 5, 4, 4, 4],
       "uniform_sentence_length": null
     }
   },
@@ -4517,7 +4517,7 @@
     ],
     "format": {
       "sentence_count": 23,
-      "sentence_lengths": [4, 4, 6, 4, 5, 6, 3, 4, 3, 4, 5, 2, 3, 4, 4, 5, 4, 6, 2, 4, 3, 4, 4],
+      "sentence_lengths": [4, 4, 6, 4, 5, 6, 3, 4, 3, 4, 5, 2, 3, 4, 4, 5, 4, 6, 3, 4, 3, 4, 5],
       "uniform_sentence_length": null
     }
   },
@@ -4609,7 +4609,7 @@
     ],
     "format": {
       "sentence_count": 20,
-      "sentence_lengths": [4, 5, 4, 7, 6, 4, 4, 5, 4, 6, 6, 3, 5, 7, 6, 4, 4, 5, 4, 6],
+      "sentence_lengths": [4, 5, 4, 7, 6, 4, 4, 5, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 6],
       "uniform_sentence_length": null
     }
   },
@@ -4682,7 +4682,7 @@
     ],
     "format": {
       "sentence_count": 20,
-      "sentence_lengths": [4, 3, 6, 7, 5, 4, 4, 5, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 6],
+      "sentence_lengths": [4, 3, 6, 7, 6, 4, 4, 5, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 6],
       "uniform_sentence_length": null
     }
   },
@@ -5417,7 +5417,7 @@
     ],
     "format": {
       "sentence_count": 22,
-      "sentence_lengths": [4, 3, 4, 3, 4, 4, 7, 7, 3, 5, 3, 3, 3, 3, 2, 5, 4, 7, 7, 3, 5, 3],
+      "sentence_lengths": [4, 3, 4, 3, 4, 4, 7, 7, 3, 5, 3, 3, 3, 3, 3, 5, 4, 7, 7, 3, 5, 3],
       "uniform_sentence_length": null
     }
   },
@@ -6068,7 +6068,7 @@
     ],
     "format": {
       "sentence_count": 19,
-      "sentence_lengths": [5, 5, 6, 5, 6, 5, 5, 5, 5, 3, 3, 3, 6, 5, 6, 6, 5, 5, 5],
+      "sentence_lengths": [5, 5, 6, 5, 6, 6, 5, 5, 5, 3, 3, 3, 6, 5, 6, 6, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -6087,7 +6087,7 @@
     ],
     "format": {
       "sentence_count": 20,
-      "sentence_lengths": [4, 5, 4, 7, 6, 4, 4, 5, 4, 6, 5, 4, 5, 7, 6, 4, 4, 5, 4, 6],
+      "sentence_lengths": [4, 5, 4, 7, 6, 4, 4, 5, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 6],
       "uniform_sentence_length": null
     }
   },
@@ -6106,7 +6106,7 @@
     ],
     "format": {
       "sentence_count": 19,
-      "sentence_lengths": [5, 5, 6, 5, 6, 6, 5, 5, 5, 3, 3, 3, 6, 5, 6, 6, 4, 5, 5],
+      "sentence_lengths": [5, 5, 6, 5, 6, 6, 5, 5, 5, 3, 3, 3, 6, 5, 6, 6, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -6186,7 +6186,7 @@
     ],
     "format": {
       "sentence_count": 20,
-      "sentence_lengths": [4, 5, 4, 7, 6, 4, 4, 5, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 4],
+      "sentence_lengths": [4, 5, 4, 7, 6, 4, 4, 5, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 6],
       "uniform_sentence_length": null
     }
   },
@@ -6243,7 +6243,7 @@
     ],
     "format": {
       "sentence_count": 22,
-      "sentence_lengths": [4, 5, 4, 6, 4, 4, 3, 4, 3, 4, 6, 6, 5, 4, 6, 4, 3, 3, 4, 3, 4, 6],
+      "sentence_lengths": [4, 5, 4, 6, 4, 4, 3, 4, 3, 4, 6, 6, 5, 4, 6, 4, 4, 3, 4, 3, 4, 6],
       "uniform_sentence_length": null
     }
   },
@@ -6262,7 +6262,7 @@
     ],
     "format": {
       "sentence_count": 22,
-      "sentence_lengths": [4, 5, 4, 6, 4, 4, 2, 4, 3, 4, 6, 6, 5, 4, 6, 4, 4, 3, 4, 3, 4, 6],
+      "sentence_lengths": [4, 5, 4, 6, 4, 4, 3, 4, 3, 4, 6, 6, 5, 4, 6, 4, 4, 3, 4, 3, 4, 6],
       "uniform_sentence_length": null
     }
   },
@@ -6545,7 +6545,7 @@
     ],
     "format": {
       "sentence_count": 20,
-      "sentence_lengths": [4, 5, 4, 7, 6, 4, 4, 5, 4, 6, 6, 4, 5, 6, 6, 4, 4, 5, 4, 6],
+      "sentence_lengths": [4, 5, 4, 7, 6, 4, 4, 5, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 6],
       "uniform_sentence_length": null
     }
   },
@@ -7459,7 +7459,7 @@
     ],
     "format": {
       "sentence_count": 18,
-      "sentence_lengths": [2, 6, 6, 3, 3, 4, 4, 3, 4, 4, 4, 6, 3, 3, 4, 4, 3, 4],
+      "sentence_lengths": [4, 6, 6, 3, 3, 4, 4, 3, 4, 4, 4, 6, 3, 3, 4, 4, 3, 4],
       "uniform_sentence_length": null
     }
   },
@@ -8058,7 +8058,7 @@
     ],
     "format": {
       "sentence_count": 9,
-      "sentence_lengths": [4, 7, 4, 5, 4, 5, 3, 4, 4],
+      "sentence_lengths": [4, 7, 4, 5, 4, 5, 3, 4, 5],
       "uniform_sentence_length": null
     }
   },
@@ -9554,7 +9554,7 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 5, 5, 5, 5, 5, 4],
+      "sentence_lengths": [7, 7, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -10033,7 +10033,7 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [4, 5, 6, 6, 6, 6, 6, 6],
+      "sentence_lengths": [4, 5, 7, 6, 6, 6, 6, 6],
       "uniform_sentence_length": null
     }
   },
@@ -10355,7 +10355,7 @@
     ],
     "format": {
       "sentence_count": 10,
-      "sentence_lengths": [7, 6, 6, 5, 5, 7, 6, 7, 5, 5],
+      "sentence_lengths": [7, 6, 7, 5, 5, 7, 6, 7, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -10492,7 +10492,7 @@
     ],
     "format": {
       "sentence_count": 20,
-      "sentence_lengths": [4, 3, 6, 6, 5, 4, 4, 5, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 6],
+      "sentence_lengths": [4, 3, 6, 6, 6, 4, 4, 5, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 6],
       "uniform_sentence_length": null
     }
   },
@@ -11837,7 +11837,7 @@
     ],
     "format": {
       "sentence_count": 23,
-      "sentence_lengths": [4, 4, 4, 5, 4, 4, 4, 7, 8, 3, 5, 4, 6, 7, 5, 3, 3, 4, 7, 8, 3, 5, 4],
+      "sentence_lengths": [4, 4, 4, 5, 4, 4, 4, 7, 8, 3, 5, 4, 6, 7, 5, 4, 4, 4, 7, 8, 3, 5, 4],
       "uniform_sentence_length": null
     }
   },
@@ -12258,7 +12258,7 @@
     ],
     "format": {
       "sentence_count": 10,
-      "sentence_lengths": [5, 6, 7, 5, 5, 7, 6, 7, 5, 5],
+      "sentence_lengths": [7, 6, 7, 5, 5, 7, 6, 7, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -12929,7 +12929,7 @@
     ],
     "format": {
       "sentence_count": 19,
-      "sentence_lengths": [5, 5, 6, 5, 6, 5, 5, 5, 5, 3, 3, 3, 4, 7, 6, 6, 5, 5, 5],
+      "sentence_lengths": [5, 5, 6, 5, 6, 6, 5, 5, 5, 3, 3, 3, 4, 7, 6, 6, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -14325,7 +14325,7 @@
     ],
     "format": {
       "sentence_count": 24,
-      "sentence_lengths": [6, 7, 4, 4, 4, 4, 4, 4, 5, 4, 3, 3, 6, 3, 4, 4, 4, 4, 3, 4, 4, 5, 4, 4],
+      "sentence_lengths": [6, 7, 4, 4, 4, 4, 4, 4, 5, 4, 3, 3, 6, 3, 4, 4, 4, 4, 4, 4, 4, 5, 4, 4],
       "uniform_sentence_length": null
     }
   },
@@ -14600,7 +14600,7 @@
     ],
     "format": {
       "sentence_count": 22,
-      "sentence_lengths": [5, 3, 3, 5, 4, 2, 6, 3, 5, 6, 6, 2, 5, 5, 5, 4, 4, 6, 3, 5, 6, 6],
+      "sentence_lengths": [5, 3, 3, 5, 4, 4, 6, 3, 5, 6, 6, 2, 5, 5, 5, 4, 4, 6, 3, 5, 6, 6],
       "uniform_sentence_length": null
     }
   },
@@ -14637,8 +14637,8 @@
     ],
     "format": {
       "sentence_count": 6,
-      "sentence_lengths": [7, 7, 6, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -14860,7 +14860,7 @@
     ],
     "format": {
       "sentence_count": 12,
-      "sentence_lengths": [4, 4, 6, 7, 3, 4, 3, 4, 6, 7, 3, 4],
+      "sentence_lengths": [4, 4, 6, 7, 3, 4, 4, 4, 6, 7, 3, 4],
       "uniform_sentence_length": null
     }
   },
@@ -15166,7 +15166,7 @@
     ],
     "format": {
       "sentence_count": 10,
-      "sentence_lengths": [7, 4, 4, 4, 4, 7, 5, 4, 4, 4],
+      "sentence_lengths": [7, 5, 4, 4, 4, 7, 5, 4, 4, 4],
       "uniform_sentence_length": null
     }
   },
@@ -15224,7 +15224,7 @@
     ],
     "format": {
       "sentence_count": 22,
-      "sentence_lengths": [4, 3, 4, 3, 4, 4, 7, 6, 3, 5, 3, 3, 3, 3, 3, 5, 4, 7, 7, 3, 5, 3],
+      "sentence_lengths": [4, 3, 4, 3, 4, 4, 7, 7, 3, 5, 3, 3, 3, 3, 3, 5, 4, 7, 7, 3, 5, 3],
       "uniform_sentence_length": null
     }
   },
@@ -15244,8 +15244,8 @@
       "□□□□，□□□□，□□□□。"
     ],
     "format": {
-      "sentence_count": 16,
-      "sentence_lengths": [4, 7, 7, 5, 6, 3, 4, 4, 4, 4, 4, 7, 7, 5, 6, 2],
+      "sentence_count": 20,
+      "sentence_lengths": [4, 7, 7, 5, 6, 3, 4, 4, 4, 4, 4, 7, 7, 5, 6, 3, 4, 4, 4, 4],
       "uniform_sentence_length": null
     }
   },
@@ -15386,8 +15386,8 @@
       "洗夜光，弄明月。"
     ],
     "format": {
-      "sentence_count": 24,
-      "sentence_lengths": [5, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 3, 4, 4, 7, 6, 7, 3, 5, 3, 3],
+      "sentence_count": 26,
+      "sentence_lengths": [5, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3],
       "uniform_sentence_length": null
     }
   },
@@ -15476,7 +15476,7 @@
     ],
     "format": {
       "sentence_count": 22,
-      "sentence_lengths": [5, 3, 5, 4, 4, 4, 6, 5, 5, 4, 6, 5, 4, 5, 5, 3, 4, 3, 5, 3, 4, 4],
+      "sentence_lengths": [5, 3, 5, 5, 4, 4, 6, 5, 5, 4, 6, 5, 4, 5, 5, 3, 4, 3, 5, 3, 4, 4],
       "uniform_sentence_length": null
     }
   },
@@ -16378,7 +16378,7 @@
     ],
     "format": {
       "sentence_count": 26,
-      "sentence_lengths": [5, 3, 3, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3],
+      "sentence_lengths": [5, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3],
       "uniform_sentence_length": null
     }
   },
@@ -17857,7 +17857,7 @@
     ],
     "format": {
       "sentence_count": 20,
-      "sentence_lengths": [4, 5, 4, 5, 6, 4, 4, 4, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 6],
+      "sentence_lengths": [4, 5, 4, 7, 6, 4, 4, 5, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 6],
       "uniform_sentence_length": null
     }
   },
@@ -18130,7 +18130,7 @@
     ],
     "format": {
       "sentence_count": 22,
-      "sentence_lengths": [4, 3, 4, 3, 3, 4, 7, 7, 3, 5, 3, 3, 3, 3, 3, 5, 4, 7, 7, 3, 5, 3],
+      "sentence_lengths": [4, 3, 4, 3, 4, 4, 7, 7, 3, 5, 3, 3, 3, 3, 3, 5, 4, 7, 7, 3, 5, 3],
       "uniform_sentence_length": null
     }
   },

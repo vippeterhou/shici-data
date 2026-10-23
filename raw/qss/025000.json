@@ -751,8 +751,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 6, 7, 5, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -886,8 +886,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [6, 7, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -1021,8 +1021,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [5, 5, 1, 2, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -1711,8 +1711,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 7, 7, 5, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -4874,9 +4874,9 @@
       "□□□□□，竹日光艷艷。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [5, 5, 5, 3, 2, 5, 5, 3, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -4892,9 +4892,9 @@
       "□□□時驚，先入舊廬飛。"
     ],
     "format": {
-      "sentence_count": 11,
-      "sentence_lengths": [2, 2, 5, 1, 5, 4, 3, 5, 3, 2, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 14,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

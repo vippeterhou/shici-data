@@ -3955,7 +3955,7 @@
     ],
     "format": {
       "sentence_count": 16,
-      "sentence_lengths": [9, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 6, 7, 7, 7, 7],
+      "sentence_lengths": [9, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -11103,8 +11103,8 @@
     ],
     "format": {
       "sentence_count": 4,
-      "sentence_lengths": [6, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -13208,7 +13208,7 @@
     ],
     "format": {
       "sentence_count": 5,
-      "sentence_lengths": [5, 5, 4, 5, 7],
+      "sentence_lengths": [5, 5, 5, 5, 7],
       "uniform_sentence_length": null
     }
   },
@@ -13909,8 +13909,8 @@
       "□□□□□□□，正須自愛不貲身。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7],
+      "sentence_count": 8,
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
       "uniform_sentence_length": 7
     }
   },
@@ -14888,8 +14888,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 7, 6, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -15156,8 +15156,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 6, 7, 7, 7, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -15433,7 +15433,7 @@
     ],
     "format": {
       "sentence_count": 24,
-      "sentence_lengths": [5, 5, 3, 3, 3, 5, 9, 4, 4, 4, 4, 5, 5, 7, 5, 5, 7, 7, 7, 3, 7, 7, 7, 7],
+      "sentence_lengths": [5, 5, 3, 3, 5, 5, 9, 4, 4, 4, 4, 5, 5, 7, 5, 5, 7, 7, 7, 3, 7, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },

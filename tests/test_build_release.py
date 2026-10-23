@@ -203,25 +203,25 @@ def test_rejects_incorrect_sc300_format(tmp_path: Path) -> None:
         list(normalized_records(Corpus("sc300", source)))
 
 
-def test_qsc_uses_ideographic_comma_and_excludes_lacunae() -> None:
+def test_qsc_uses_ideographic_comma_and_counts_lacunae() -> None:
     assert calculate_poem_format(
         ["更多少、无情□风雨。"],
         "qsc",
     ) == {
         "sentence_count": 2,
-        "sentence_lengths": [3, 4],
+        "sentence_lengths": [3, 5],
         "uniform_sentence_length": None,
     }
 
 
-def test_qss_excludes_lacunae_and_counts_compatibility_ideographs() -> None:
+def test_qss_counts_lacunae_and_compatibility_ideographs() -> None:
     assert calculate_poem_format(
         ["山路﨑□嶇。"],
         "qss",
     ) == {
         "sentence_count": 1,
-        "sentence_lengths": [4],
-        "uniform_sentence_length": 4,
+        "sentence_lengths": [5],
+        "uniform_sentence_length": 5,
     }
 
 

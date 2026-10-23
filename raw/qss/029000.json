@@ -2033,8 +2033,8 @@
       "時聞山鳥呼，未得全幽寂。"
     ],
     "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -2048,8 +2048,8 @@
     ],
     "format": {
       "sentence_count": 6,
-      "sentence_lengths": [3, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -2061,8 +2061,8 @@
       "不若楚臺人，披襟獨蕭灑。"
     ],
     "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [5, 5, 5, 5],
+      "sentence_count": 6,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },
@@ -2367,8 +2367,8 @@
     ],
     "format": {
       "sentence_count": 16,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 3, 5, 5, 5, 3, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -2387,8 +2387,8 @@
     ],
     "format": {
       "sentence_count": 18,
-      "sentence_lengths": [4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -2979,8 +2979,8 @@
     ],
     "format": {
       "sentence_count": 6,
-      "sentence_lengths": [4, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

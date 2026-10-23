@@ -777,9 +777,9 @@
       "經綸今已矣，貫日有餘忠。"
     ],
     "format": {
-      "sentence_count": 5,
-      "sentence_lengths": [2, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -8976,9 +8976,9 @@
       "□□□□□，□□□□生。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 5, 5, 5, 5, 5, 1],
-      "uniform_sentence_length": null
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {
@@ -12493,8 +12493,8 @@
     ],
     "format": {
       "sentence_count": 22,
-      "sentence_lengths": [5, 5, 5, 5, 5, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
-      "uniform_sentence_length": null
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "uniform_sentence_length": 5
     }
   },
   {

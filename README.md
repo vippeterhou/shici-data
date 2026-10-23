@@ -21,7 +21,8 @@ python3 scripts/build_release.py --version v1.0.0
 The command validates every poem, generates deterministic content-derived IDs,
 and writes deterministic `jsonl.gz` assets to `dist/`. Exact duplicate records
 receive occurrence suffixes such as `:2`. It also writes `manifest.json` with
-poem counts, byte sizes, and SHA-256 checksums.
+poem counts, byte sizes, and SHA-256 checksums. Format metadata counts every
+`□` placeholder as one sentence character in every corpus.
 
 ## Consumption
 

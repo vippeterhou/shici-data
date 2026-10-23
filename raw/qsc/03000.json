@@ -1084,7 +1084,7 @@
     ],
     "format": {
       "sentence_count": 22,
-      "sentence_lengths": [4, 5, 4, 4, 6, 6, 2, 4, 4, 4, 4, 7, 5, 4, 4, 6, 6, 3, 4, 4, 4, 4],
+      "sentence_lengths": [4, 5, 4, 4, 6, 6, 3, 4, 4, 4, 4, 7, 5, 4, 4, 6, 6, 3, 4, 4, 4, 4],
       "uniform_sentence_length": null
     }
   },
@@ -2609,7 +2609,7 @@
     ],
     "format": {
       "sentence_count": 26,
-      "sentence_lengths": [4, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3],
+      "sentence_lengths": [5, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3, 7, 3, 4, 4, 7, 6, 3, 4, 7, 3, 5, 3, 3],
       "uniform_sentence_length": null
     }
   },
@@ -2651,7 +2651,7 @@
     ],
     "format": {
       "sentence_count": 19,
-      "sentence_lengths": [5, 5, 4, 7, 6, 6, 5, 5, 5, 3, 3, 3, 4, 7, 6, 6, 5, 5, 4],
+      "sentence_lengths": [5, 5, 4, 7, 6, 6, 5, 5, 5, 3, 3, 3, 4, 7, 6, 6, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -2861,7 +2861,7 @@
     ],
     "format": {
       "sentence_count": 23,
-      "sentence_lengths": [4, 4, 6, 4, 5, 6, 3, 3, 3, 4, 5, 2, 3, 4, 4, 5, 4, 6, 3, 4, 3, 4, 5],
+      "sentence_lengths": [4, 4, 6, 4, 5, 6, 3, 4, 3, 4, 5, 2, 3, 4, 4, 5, 4, 6, 3, 4, 3, 4, 5],
       "uniform_sentence_length": null
     }
   },
@@ -2967,7 +2967,7 @@
     ],
     "format": {
       "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 7, 3, 3, 6, 7, 7],
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -3499,7 +3499,7 @@
     ],
     "format": {
       "sentence_count": 22,
-      "sentence_lengths": [4, 5, 4, 4, 7, 7, 2, 4, 4, 4, 4, 2, 4, 4, 4, 4, 7, 7, 3, 4, 6, 4],
+      "sentence_lengths": [4, 5, 4, 4, 7, 7, 3, 4, 4, 4, 4, 2, 4, 5, 4, 4, 7, 7, 3, 4, 6, 4],
       "uniform_sentence_length": null
     }
   },
@@ -3519,7 +3519,7 @@
     ],
     "format": {
       "sentence_count": 22,
-      "sentence_lengths": [4, 3, 4, 3, 4, 4, 7, 7, 3, 5, 3, 3, 3, 3, 3, 5, 4, 7, 7, 2, 5, 3],
+      "sentence_lengths": [4, 3, 4, 3, 4, 4, 7, 7, 3, 5, 3, 3, 3, 3, 3, 5, 4, 7, 7, 3, 5, 3],
       "uniform_sentence_length": null
     }
   },
@@ -3574,7 +3574,7 @@
     ],
     "format": {
       "sentence_count": 18,
-      "sentence_lengths": [4, 5, 7, 5, 4, 3, 6, 5, 4, 7, 4, 4, 3, 4, 3, 5, 5, 4],
+      "sentence_lengths": [4, 5, 7, 5, 4, 3, 6, 5, 4, 7, 5, 4, 3, 4, 3, 5, 5, 4],
       "uniform_sentence_length": null
     }
   },
@@ -6668,7 +6668,7 @@
     ],
     "format": {
       "sentence_count": 22,
-      "sentence_lengths": [3, 5, 5, 2, 4, 4, 6, 5, 5, 4, 6, 5, 4, 5, 5, 3, 4, 3, 5, 3, 4, 4],
+      "sentence_lengths": [3, 5, 5, 5, 4, 4, 6, 5, 5, 4, 6, 5, 4, 5, 5, 3, 4, 3, 5, 3, 4, 4],
       "uniform_sentence_length": null
     }
   },
@@ -6750,7 +6750,7 @@
     ],
     "format": {
       "sentence_count": 21,
-      "sentence_lengths": [7, 6, 4, 4, 6, 4, 5, 4, 4, 7, 6, 5, 4, 4, 4, 6, 3, 5, 4, 4, 5],
+      "sentence_lengths": [7, 6, 4, 4, 6, 4, 5, 4, 4, 7, 6, 5, 4, 4, 4, 6, 4, 5, 4, 4, 5],
       "uniform_sentence_length": null
     }
   },
@@ -6879,7 +6879,7 @@
     ],
     "format": {
       "sentence_count": 20,
-      "sentence_lengths": [4, 4, 4, 4, 5, 4, 3, 4, 2, 4, 5, 4, 4, 5, 4, 5, 4, 6, 5, 6],
+      "sentence_lengths": [4, 4, 4, 4, 5, 4, 3, 4, 2, 4, 5, 4, 4, 5, 4, 5, 6, 6, 5, 6],
       "uniform_sentence_length": null
     }
   },
@@ -6899,7 +6899,7 @@
     ],
     "format": {
       "sentence_count": 22,
-      "sentence_lengths": [4, 3, 4, 3, 4, 4, 7, 6, 3, 5, 3, 3, 3, 3, 3, 5, 4, 7, 7, 3, 5, 3],
+      "sentence_lengths": [4, 3, 4, 3, 4, 4, 7, 7, 3, 5, 3, 3, 3, 3, 3, 5, 4, 7, 7, 3, 5, 3],
       "uniform_sentence_length": null
     }
   },
@@ -6919,7 +6919,7 @@
     ],
     "format": {
       "sentence_count": 20,
-      "sentence_lengths": [4, 5, 2, 7, 6, 4, 4, 5, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 6],
+      "sentence_lengths": [4, 5, 4, 7, 6, 4, 4, 5, 4, 6, 6, 4, 5, 7, 6, 4, 4, 5, 4, 6],
       "uniform_sentence_length": null
     }
   },
@@ -6942,7 +6942,7 @@
     ],
     "format": {
       "sentence_count": 22,
-      "sentence_lengths": [4, 5, 4, 4, 7, 6, 3, 4, 1, 4, 5, 2, 3, 5, 4, 4, 7, 6, 7, 3, 3, 4],
+      "sentence_lengths": [4, 5, 4, 4, 7, 6, 3, 4, 3, 4, 5, 2, 3, 5, 4, 4, 7, 6, 7, 3, 3, 4],
       "uniform_sentence_length": null
     }
   },
@@ -7383,7 +7383,7 @@
     ],
     "format": {
       "sentence_count": 10,
-      "sentence_lengths": [5, 4, 7, 7, 4, 5, 3, 7, 7, 4],
+      "sentence_lengths": [5, 4, 7, 7, 4, 5, 4, 7, 7, 4],
       "uniform_sentence_length": null
     }
   },
@@ -7675,7 +7675,7 @@
     ],
     "format": {
       "sentence_count": 19,
-      "sentence_lengths": [5, 5, 4, 7, 6, 6, 4, 5, 5, 3, 3, 3, 4, 7, 6, 6, 5, 5, 5],
+      "sentence_lengths": [5, 5, 4, 7, 6, 6, 5, 5, 5, 3, 3, 3, 4, 7, 6, 6, 5, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -7800,7 +7800,7 @@
     ],
     "format": {
       "sentence_count": 14,
-      "sentence_lengths": [7, 5, 7, 3, 4, 6, 6, 7, 5, 7, 3, 4, 6, 5],
+      "sentence_lengths": [7, 5, 7, 3, 4, 6, 6, 7, 5, 7, 3, 4, 6, 6],
       "uniform_sentence_length": null
     }
   },
@@ -7859,7 +7859,7 @@
     ],
     "format": {
       "sentence_count": 24,
-      "sentence_lengths": [3, 4, 6, 7, 6, 3, 5, 5, 4, 5, 4, 5, 3, 6, 6, 7, 6, 3, 5, 5, 4, 4, 4, 5],
+      "sentence_lengths": [3, 4, 6, 7, 6, 3, 5, 5, 4, 5, 4, 5, 3, 6, 6, 7, 6, 3, 5, 5, 4, 5, 4, 5],
       "uniform_sentence_length": null
     }
   },
@@ -8204,7 +8204,7 @@
     ],
     "format": {
       "sentence_count": 14,
-      "sentence_lengths": [7, 5, 7, 3, 4, 6, 6, 7, 4, 7, 3, 4, 6, 6],
+      "sentence_lengths": [7, 5, 7, 3, 4, 6, 6, 7, 5, 7, 3, 4, 6, 6],
       "uniform_sentence_length": null
     }
   },
@@ -9960,8 +9960,8 @@
       "恍惚芝骈羽盖。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [6, 6, 5, 4, 7, 6],
+      "sentence_count": 8,
+      "sentence_lengths": [6, 6, 7, 6, 6, 6, 7, 6],
       "uniform_sentence_length": null
     }
   },
@@ -12366,7 +12366,7 @@
     ],
     "format": {
       "sentence_count": 24,
-      "sentence_lengths": [4, 4, 6, 3, 4, 6, 4, 3, 4, 6, 6, 3, 4, 5, 4, 4, 4, 6, 4, 3, 4, 3, 3, 4],
+      "sentence_lengths": [4, 4, 6, 4, 4, 6, 4, 3, 4, 6, 6, 3, 4, 5, 4, 4, 4, 6, 4, 3, 4, 3, 3, 4],
       "uniform_sentence_length": null
     }
   },
@@ -12424,7 +12424,7 @@
     ],
     "format": {
       "sentence_count": 22,
-      "sentence_lengths": [5, 3, 4, 3, 4, 2, 4, 7, 7, 3, 4, 4, 7, 3, 4, 7, 3, 8, 4, 4, 5, 6],
+      "sentence_lengths": [5, 3, 4, 3, 4, 3, 4, 7, 7, 3, 4, 4, 7, 3, 4, 7, 3, 8, 4, 4, 5, 6],
       "uniform_sentence_length": null
     }
   },
@@ -12441,7 +12441,7 @@
     ],
     "format": {
       "sentence_count": 18,
-      "sentence_lengths": [4, 5, 7, 3, 6, 2, 6, 5, 4, 7, 6, 4, 3, 4, 3, 5, 5, 4],
+      "sentence_lengths": [4, 5, 7, 3, 6, 3, 6, 5, 4, 7, 6, 4, 3, 4, 3, 5, 5, 4],
       "uniform_sentence_length": null
     }
   },
@@ -12515,7 +12515,7 @@
     ],
     "format": {
       "sentence_count": 10,
-      "sentence_lengths": [6, 6, 7, 4, 5, 7, 6, 7, 4, 5],
+      "sentence_lengths": [7, 6, 7, 4, 5, 7, 6, 7, 4, 5],
       "uniform_sentence_length": null
     }
   },
@@ -12712,7 +12712,7 @@
     ],
     "format": {
       "sentence_count": 16,
-      "sentence_lengths": [4, 4, 3, 4, 4, 4, 3, 6, 4, 4, 3, 3, 4, 4, 3, 6],
+      "sentence_lengths": [4, 4, 3, 4, 4, 4, 3, 6, 4, 4, 3, 4, 4, 4, 3, 6],
       "uniform_sentence_length": null
     }
   },
@@ -13293,8 +13293,8 @@
       "无来求不得，有后不须求。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 5, 5, 7, 5, 5],
+      "sentence_count": 10,
+      "sentence_lengths": [7, 6, 7, 5, 5, 7, 6, 7, 5, 5],
       "uniform_sentence_length": null
     }
   },
@@ -13418,7 +13418,7 @@
     ],
     "format": {
       "sentence_count": 27,
-      "sentence_lengths": [4, 4, 6, 3, 3, 7, 3, 4, 5, 4, 5, 4, 6, 7, 5, 4, 3, 4, 3, 4, 3, 4, 5, 4, 5, 4, 6],
+      "sentence_lengths": [4, 4, 6, 3, 4, 7, 3, 4, 5, 4, 5, 4, 6, 7, 5, 4, 3, 4, 3, 4, 3, 4, 5, 4, 5, 4, 6],
       "uniform_sentence_length": null
     }
   },
@@ -15530,7 +15530,7 @@
     ],
     "format": {
       "sentence_count": 10,
-      "sentence_lengths": [5, 4, 7, 7, 4, 5, 3, 7, 6, 4],
+      "sentence_lengths": [5, 4, 7, 7, 4, 5, 4, 7, 7, 4],
       "uniform_sentence_length": null
     }
   },
@@ -16440,8 +16440,8 @@
       "五云长在，望子□、□□□□。"
     ],
     "format": {
-      "sentence_count": 19,
-      "sentence_lengths": [3, 3, 3, 1, 3, 4, 3, 5, 2, 4, 3, 2, 2, 3, 4, 2, 2, 4, 2],
+      "sentence_count": 23,
+      "sentence_lengths": [3, 3, 3, 3, 4, 4, 3, 5, 4, 3, 4, 3, 3, 3, 3, 3, 4, 4, 3, 5, 4, 3, 4],
       "uniform_sentence_length": null
     }
   },
@@ -16459,8 +16459,8 @@
       "中分□□□□往。"
     ],
     "format": {
-      "sentence_count": 10,
-      "sentence_lengths": [3, 1, 4, 4, 1, 5, 1, 4, 4, 3],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 3, 5, 4, 4, 7, 7, 3, 5, 4, 4, 7],
       "uniform_sentence_length": null
     }
   },
@@ -16517,7 +16517,7 @@
     ],
     "format": {
       "sentence_count": 12,
-      "sentence_lengths": [7, 5, 3, 7, 3, 2, 5, 5, 1, 4, 3, 5],
+      "sentence_lengths": [7, 5, 3, 7, 3, 5, 5, 5, 3, 7, 3, 5],
       "uniform_sentence_length": null
     }
   },
@@ -16535,8 +16535,8 @@
       "驰寄与，人住玉溪边。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [4, 6, 4, 5, 3, 4, 3, 5],
+      "sentence_count": 12,
+      "sentence_lengths": [7, 5, 3, 7, 3, 5, 5, 5, 3, 7, 3, 5],
       "uniform_sentence_length": null
     }
   },
@@ -16606,8 +16606,8 @@
       "雪暗沧江，□□□□□。"
     ],
     "format": {
-      "sentence_count": 6,
-      "sentence_lengths": [7, 2, 4, 5, 4, 4],
+      "sentence_count": 9,
+      "sentence_lengths": [7, 5, 4, 5, 6, 3, 4, 4, 5],
       "uniform_sentence_length": null
     }
   },
@@ -16623,8 +16623,8 @@
       "笑倚危樯，朝来风色好。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [4, 3, 5, 5, 2, 4, 4, 5],
+      "sentence_count": 9,
+      "sentence_lengths": [7, 5, 4, 5, 6, 3, 4, 4, 5],
       "uniform_sentence_length": null
     }
   },
@@ -16675,7 +16675,7 @@
     ],
     "format": {
       "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 5, 7],
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -16691,8 +16691,8 @@
       "浮云□是无根物，南北东西不碍狂。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [4, 7, 1, 1, 3, 7, 6, 7],
+      "sentence_count": 9,
+      "sentence_lengths": [7, 7, 7, 7, 3, 3, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -16756,8 +16756,8 @@
       "思妇想无肠可断，□□□□□□□。"
     ],
     "format": {
-      "sentence_count": 3,
-      "sentence_lengths": [3, 1, 7],
+      "sentence_count": 5,
+      "sentence_lengths": [3, 3, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -16843,8 +16843,8 @@
       "□□□□□□、醉厌厌。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [5, 5, 7, 6, 3, 5, 5, 3, 3],
+      "sentence_count": 10,
+      "sentence_lengths": [5, 5, 7, 6, 3, 5, 5, 7, 6, 3],
       "uniform_sentence_length": null
     }
   },
@@ -17090,8 +17090,8 @@
       "闲边勿为他人道。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 1, 4, 5, 7, 4, 5, 7],
+      "sentence_count": 10,
+      "sentence_lengths": [7, 4, 5, 7, 7, 7, 4, 5, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -17163,8 +17163,8 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 6, 7, 2, 5, 6, 4, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -17300,7 +17300,7 @@
     ],
     "format": {
       "sentence_count": 10,
-      "sentence_lengths": [4, 4, 7, 7, 7, 4, 4, 4, 3, 7],
+      "sentence_lengths": [4, 4, 7, 7, 7, 4, 4, 7, 7, 7],
       "uniform_sentence_length": null
     }
   },
@@ -17380,8 +17380,8 @@
     ],
     "format": {
       "sentence_count": 6,
-      "sentence_lengths": [7, 3, 7, 6, 4, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -17613,7 +17613,7 @@
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [7, 4, 4, 7, 7, 4, 4, 4],
+      "sentence_lengths": [7, 4, 4, 7, 7, 4, 4, 7],
       "uniform_sentence_length": null
     }
   },
@@ -17789,8 +17789,8 @@
       "□□□□、□□□□□。"
     ],
     "format": {
-      "sentence_count": 8,
-      "sentence_lengths": [7, 4, 4, 4, 5, 1, 4, 4],
+      "sentence_count": 10,
+      "sentence_lengths": [7, 4, 4, 4, 5, 7, 4, 4, 4, 5],
       "uniform_sentence_length": null
     }
   },
@@ -17863,8 +17863,8 @@
       "□窗晓，云容四敛，江上数峰青。"
     ],
     "format": {
-      "sentence_count": 19,
-      "sentence_lengths": [4, 4, 6, 4, 5, 6, 3, 4, 3, 4, 5, 2, 3, 4, 4, 4, 2, 4, 5],
+      "sentence_count": 23,
+      "sentence_lengths": [4, 4, 6, 4, 5, 6, 3, 4, 3, 4, 5, 2, 3, 4, 4, 5, 4, 6, 3, 4, 3, 4, 5],
       "uniform_sentence_length": null
     }
   },
@@ -18055,8 +18055,8 @@
       "同谁消遣，一年年夜夜长。"
     ],
     "format": {
-      "sentence_count": 18,
-      "sentence_lengths": [4, 4, 6, 6, 4, 6, 3, 4, 4, 5, 2, 4, 4, 6, 3, 4, 4, 6],
+      "sentence_count": 21,
+      "sentence_lengths": [4, 4, 6, 6, 4, 6, 3, 4, 4, 4, 4, 6, 3, 6, 6, 4, 6, 3, 4, 4, 6],
       "uniform_sentence_length": null
     }
   },
@@ -18108,7 +18108,7 @@
     ],
     "format": {
       "sentence_count": 15,
-      "sentence_lengths": [4, 4, 3, 5, 5, 4, 4, 6, 3, 3, 3, 5, 5, 4, 3],
+      "sentence_lengths": [4, 4, 3, 5, 5, 4, 4, 6, 3, 3, 3, 5, 5, 4, 4],
       "uniform_sentence_length": null
     }
   },
@@ -18158,7 +18158,7 @@
     ],
     "format": {
       "sentence_count": 12,
-      "sentence_lengths": [7, 3, 3, 6, 3, 3, 7, 3, 4, 5, 3, 3],
+      "sentence_lengths": [7, 3, 3, 7, 3, 3, 7, 3, 4, 5, 3, 3],
       "uniform_sentence_length": null
     }
   },
@@ -18193,8 +18193,8 @@
       "望断西风，高楼帘暮卷。"
     ],
     "format": {
-      "sentence_count": 7,
-      "sentence_lengths": [5, 3, 5, 2, 4, 4, 5],
+      "sentence_count": 9,
+      "sentence_lengths": [7, 5, 4, 5, 6, 3, 4, 4, 5],
       "uniform_sentence_length": null
     }
   },
@@ -18271,8 +18271,8 @@
       "刘郎不□□□□。"
     ],
     "format": {
-      "sentence_count": 9,
-      "sentence_lengths": [7, 7, 7, 3, 7, 7, 2, 3, 3],
+      "sentence_count": 10,
+      "sentence_lengths": [7, 7, 7, 3, 7, 7, 7, 7, 3, 7],
       "uniform_sentence_length": null
     }
   },
