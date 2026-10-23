@@ -5,6 +5,7 @@ import pytest
 
 from scripts.build_release import (
     Corpus,
+    calculate_poem_format,
     content_id,
     normalized_records,
     source_files,
@@ -170,12 +171,42 @@ def test_rejects_format_that_excludes_placeholder(tmp_path: Path) -> None:
         list(normalized_records(Corpus("qts", source)))
 
 
+def test_sc300_uses_ideographic_comma_as_sentence_boundary() -> None:
+    assert calculate_poem_format(
+        ["更多少、无情风雨。"],
+        "sc300",
+    ) == {
+        "sentence_count": 2,
+        "sentence_lengths": [3, 4],
+        "uniform_sentence_length": None,
+    }
+
+
+def test_rejects_incorrect_sc300_format(tmp_path: Path) -> None:
+    record = {
+        "title": "测试",
+        "author": "作者",
+        "paragraphs": ["更多少、无情风雨。"],
+        "format": {
+            "sentence_count": 1,
+            "sentence_lengths": [7],
+            "uniform_sentence_length": 7,
+        },
+    }
+    source = tmp_path / "sc300.json"
+    source.write_text(
+        json.dumps([record], ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+    with pytest.raises(ValueError, match="format mismatch"):
+        list(normalized_records(Corpus("sc300", source)))
+
+
 @pytest.mark.parametrize("separator", ["：", ":", ";"])
 def test_colon_and_ascii_semicolon_separate_sentences(
     separator: str,
 ) -> None:
-    from scripts.build_release import calculate_poem_format
-
     assert calculate_poem_format([f"乱曰{separator}天地玄黄。"]) == {
         "sentence_count": 2,
         "sentence_lengths": [2, 4],

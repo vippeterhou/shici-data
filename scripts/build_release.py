@@ -20,6 +20,7 @@ SCHEMA_VERSION = 3
 COMMON_RAW_FIELDS = ("title", "author", "paragraphs", "format")
 SHIJING_RAW_FIELDS = COMMON_RAW_FIELDS + ("chapter", "section")
 SENTENCE_SEPARATOR = re.compile(r"[，。！？；：:;]")
+SC300_SENTENCE_SEPARATOR = re.compile(r"[，。！？；：:;、]")
 COUNTED_CHARACTER = re.compile(
     r"[\u3400-\u4dbf\u4e00-\u9fff\U00020000-\U000323af〇□]"
 )
@@ -89,11 +90,19 @@ def content_id(corpus_name: str, record: dict[str, object]) -> str:
     return f"{corpus_name}:{digest}"
 
 
-def calculate_poem_format(paragraphs: list[str]) -> dict[str, object]:
+def calculate_poem_format(
+    paragraphs: list[str],
+    corpus_name: str | None = None,
+) -> dict[str, object]:
+    separator = (
+        SC300_SENTENCE_SEPARATOR
+        if corpus_name == "sc300"
+        else SENTENCE_SEPARATOR
+    )
     sentence_lengths = [
         length
         for paragraph in paragraphs
-        for sentence in SENTENCE_SEPARATOR.split(paragraph)
+        for sentence in separator.split(paragraph)
         if (length := len(COUNTED_CHARACTER.findall(sentence))) > 0
     ]
     uniform_length = (
@@ -164,8 +173,12 @@ def validate_raw_record(
         or any(length != uniform_length for length in sentence_lengths)
     ):
         raise ValueError(f"{location}: inconsistent uniform sentence length")
-    if corpus.name == "qts" and any("□" in paragraph for paragraph in paragraphs):
-        expected_format = calculate_poem_format(paragraphs)
+    validate_calculated_format = corpus.name == "sc300" or (
+        corpus.name == "qts"
+        and any("□" in paragraph for paragraph in paragraphs)
+    )
+    if validate_calculated_format:
+        expected_format = calculate_poem_format(paragraphs, corpus.name)
         if poem_format != expected_format:
             raise ValueError(
                 f"{location}: format mismatch; expected {expected_format}"

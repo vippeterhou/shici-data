@@ -1,0 +1,88 @@
+{
+  "page": "宋詞三百首",
+  "page_id": 113098,
+  "revision_id": 2649131,
+  "revision_timestamp": "2026-02-14T14:12:22Z",
+  "revision_sha1": "eb58e334f7011f6b8e474040c53c8e25e2ca9c78",
+  "variant": "zh-hans",
+  "record_count": 283,
+  "metadata_overrides": [
+    {
+      "index": 5,
+      "field": "author",
+      "source_value": "张先",
+      "value": "晏几道",
+      "reason": "Use the modern mainstream attribution while retaining the source attribution in editorial/sc300-attributions.md."
+    },
+    {
+      "index": 19,
+      "field": "author",
+      "source_value": "晏殊",
+      "value": "冯延巳",
+      "reason": "Use the modern mainstream attribution while retaining the source attribution in editorial/sc300-attributions.md."
+    },
+    {
+      "index": 26,
+      "field": "author",
+      "source_value": "欧阳修",
+      "value": "冯延巳",
+      "reason": "Use the modern mainstream attribution while retaining the source attribution in editorial/sc300-attributions.md."
+    },
+    {
+      "index": 27,
+      "field": "author",
+      "source_value": "欧阳修",
+      "value": "冯延巳",
+      "reason": "Use the modern mainstream attribution while retaining the source attribution in editorial/sc300-attributions.md."
+    },
+    {
+      "index": 57,
+      "field": "title",
+      "source_value": "六幺令",
+      "value": "六么令",
+      "reason": "Retain 六么令 as the project's canonical tune-title spelling."
+    },
+    {
+      "index": 79,
+      "field": "author",
+      "source_value": "晁元礼",
+      "value": "晁端礼",
+      "reason": "Use the publicly recognized canonical author name; see editorial/sc300-attributions.md."
+    },
+    {
+      "index": 136,
+      "field": "author",
+      "source_value": "李邴",
+      "value": "晁冲之",
+      "reason": "Use the modern mainstream attribution while retaining the disputed source attribution in editorial/sc300-attributions.md."
+    },
+    {
+      "index": 144,
+      "field": "author",
+      "source_value": "李甲",
+      "value": "李重元",
+      "reason": "Use the modern mainstream attribution while retaining the source attribution in editorial/sc300-attributions.md."
+    },
+    {
+      "index": 248,
+      "field": "author",
+      "source_value": "黄公绍",
+      "value": "无名氏",
+      "reason": "Major early anthologies leave the poem anonymous; the later Huang Gongshao attribution is unsupported. See editorial/sc300-attributions.md."
+    }
+  ],
+  "paragraph_splits": [
+    {
+      "index": 0,
+      "paragraph_index": 0,
+      "separator": "　　",
+      "reason": "Represent the two displayed stanzas as separate paragraphs."
+    },
+    {
+      "index": 1,
+      "paragraph_index": 0,
+      "separator": "　　",
+      "reason": "Represent the two displayed stanzas as separate paragraphs."
+    }
+  ]
+}

@@ -63,6 +63,13 @@ python3 -m scripts.repair_qts_omissions \
   --write
 ```
 
+To verify every SC300 title, attribution, paragraph, and format value against
+the pinned Wikisource revision recorded in `source-locks/sc300.json`:
+
+```bash
+python3 -m scripts.audit_sc300
+```
+
 ### 2. Build and validate a new version
 
 Choose a version that has not been published before:
