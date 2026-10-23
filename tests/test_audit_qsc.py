@@ -1,6 +1,10 @@
 import pytest
 
-from scripts.audit_qsc import join_suite_record, validate_qsc_quality
+from scripts.audit_qsc import (
+    cleanup_removal_locations,
+    join_suite_record,
+    validate_qsc_quality,
+)
 
 
 def test_joins_qsc_suite_stanzas() -> None:
@@ -99,4 +103,43 @@ def test_validates_expected_unresolved_qsc_defects() -> None:
         validate_qsc_quality(
             records,
             {**expected, "lacuna_occurrences": 5},
+        )
+
+
+def test_validates_damaged_duplicate_removal() -> None:
+    records = {
+        "00000.json": [
+            {
+                "title": "失调名",
+                "author": "无名氏",
+                "paragraphs": ["花有重开月再圆。"],
+                "_source_index": 0,
+            },
+            {
+                "title": "失调名",
+                "author": "无名氏",
+                "paragraphs": ["花有重开日□圆。"],
+                "_source_index": 1,
+            },
+        ]
+    }
+    change = {
+        "source_file": "00000.json",
+        "source_index": 1,
+        "kind": "damaged_duplicate",
+        "duplicate_of_index": 0,
+        "known_character_mismatches": 1,
+    }
+
+    assert cleanup_removal_locations(records, [change]) == {
+        ("00000.json", 1)
+    }
+
+    with pytest.raises(
+        ValueError,
+        match="known-character mismatch",
+    ):
+        cleanup_removal_locations(
+            records,
+            [{**change, "known_character_mismatches": 0}],
         )

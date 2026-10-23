@@ -12544,14 +12544,14 @@
     "paragraphs": [
       "莫许杯深琥珀浓。",
       "未成沈醉意先融。",
-      "□□已应晚来风。",
+      "疏钟已应晚来风。",
       "瑞脑香消魂梦断，辟寒金小髻鬟松。",
       "醒时空对烛花红。"
     ],
     "format": {
       "sentence_count": 6,
-      "sentence_lengths": [7, 7, 5, 7, 7, 7],
-      "uniform_sentence_length": null
+      "sentence_lengths": [7, 7, 7, 7, 7, 7],
+      "uniform_sentence_length": 7
     }
   },
   {
@@ -14615,7 +14615,7 @@
       "月波迟。",
       "露华滋。",
       "珠褓犀帷，生此宁馨儿。",
-      "天上麒麟人不识，森□砢，骏权奇。",
+      "天上麒麟人不识，森䂺砢，骏权奇。",
       "文章锦绣识新机。",
       "国风诗。",
       "楚人词。",
@@ -14624,7 +14624,7 @@
     ],
     "format": {
       "sentence_count": 16,
-      "sentence_lengths": [7, 3, 3, 4, 5, 7, 2, 3, 7, 3, 3, 4, 5, 7, 3, 3],
+      "sentence_lengths": [7, 3, 3, 4, 5, 7, 3, 3, 7, 3, 3, 4, 5, 7, 3, 3],
       "uniform_sentence_length": null
     }
   },

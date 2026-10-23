@@ -13705,17 +13705,17 @@
     "title": "清平乐",
     "author": "张炎",
     "paragraphs": [
-      "□花一叶。",
+      "三花一叶。",
       "比似前时别。",
       "烟水茫茫无处说。",
-      "冷却西湖□月。",
+      "冷却西湖风月。",
       "贞芳只合深山。",
       "红尘了不相关。",
       "留得许多清影，幽香不到人间。"
     ],
     "format": {
       "sentence_count": 8,
-      "sentence_lengths": [3, 5, 7, 5, 6, 6, 6, 6],
+      "sentence_lengths": [4, 5, 7, 6, 6, 6, 6, 6],
       "uniform_sentence_length": null
     }
   },

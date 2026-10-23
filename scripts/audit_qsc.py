@@ -39,6 +39,15 @@ def has_only_missing_text(text: str) -> bool:
     )
 
 
+def normalized_qsc_text(record: dict[str, Any]) -> str:
+    text = "".join(record["paragraphs"])
+    return "".join(
+        character
+        for character in text
+        if character == "□" or QSC_COUNTED_CHARACTER.fullmatch(character)
+    )
+
+
 def source_indices(change: dict[str, object]) -> list[int]:
     index = change.get("source_index")
     indices = change.get("source_indices")
@@ -388,6 +397,36 @@ def cleanup_removal_locations(
             )
             if record_fingerprint(record) != record_fingerprint(duplicate):
                 raise ValueError("record removal is not an exact duplicate")
+        elif kind == "damaged_duplicate":
+            duplicate_of_index = change.get("duplicate_of_index")
+            expected_mismatches = change.get("known_character_mismatches")
+            if not isinstance(duplicate_of_index, int) or not isinstance(
+                expected_mismatches, int
+            ):
+                raise ValueError("damaged duplicate removal is invalid")
+            duplicate = indexed_record(
+                records_by_file,
+                source_file,
+                duplicate_of_index,
+            )
+            damaged_text = normalized_qsc_text(record)
+            retained_text = normalized_qsc_text(duplicate)
+            if (
+                record["title"] != duplicate["title"]
+                or record["author"] != duplicate["author"]
+                or "□" not in damaged_text
+                or "□" in retained_text
+                or len(damaged_text) != len(retained_text)
+            ):
+                raise ValueError("damaged duplicate structure mismatch")
+            mismatches = sum(
+                damaged != "□" and damaged != retained
+                for damaged, retained in zip(damaged_text, retained_text)
+            )
+            if mismatches != expected_mismatches:
+                raise ValueError(
+                    "damaged duplicate known-character mismatch"
+                )
         elif kind == "unrecoverable_missing_text":
             text = "".join(record["paragraphs"])
             if not has_only_missing_text(text):

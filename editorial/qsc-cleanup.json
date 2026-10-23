@@ -5,9 +5,9 @@
     "commit": "815fd2d12d231a1ad47dfe422e942e069264b2a2"
   },
   "expected_unresolved": {
-    "lacuna_records": 879,
-    "lacuna_occurrences": 3070,
-    "lacuna_at_least_25_percent": 61,
+    "lacuna_records": 841,
+    "lacuna_occurrences": 2904,
+    "lacuna_at_least_25_percent": 59,
     "partial_missing_text_records": 2,
     "explicit_truncation_records": 7,
     "author_placeholder_records": 2,
@@ -225,6 +225,324 @@
       "source_value": "兔魄呈祥冰�昀谩�",
       "value": "兔魄呈祥冰彩烂。",
       "evidence": ["https://www.gushiwen.cn/shiwenv_0a6181a30ad0.aspx"]
+    },
+    {
+      "source_file": "01000.json",
+      "source_index": 773,
+      "paragraph_index": 4,
+      "source_value": "连理带头双□□，留待与、个中人。",
+      "value": "连理带头双飞燕，留待与、个中人。",
+      "evidence": ["https://www.guwendao.net/shiwenv_da3172f24e74.aspx"]
+    },
+    {
+      "source_file": "01000.json",
+      "source_index": 773,
+      "paragraph_index": 8,
+      "source_value": "谁道□□，□系得人心。",
+      "value": "谁道连理，能系得人心。",
+      "evidence": ["https://www.guwendao.net/shiwenv_da3172f24e74.aspx"]
+    },
+    {
+      "source_file": "01000.json",
+      "source_index": 776,
+      "paragraph_index": 4,
+      "source_value": "丹青□画，无言无笑，看了漫结愁肠。",
+      "value": "丹青如画，无言无笑，看了漫结愁肠。",
+      "evidence": ["https://baike.baidu.com/item/雨中花慢·嫩脸羞娥因甚/60652598"]
+    },
+    {
+      "source_file": "01000.json",
+      "source_index": 779,
+      "paragraph_index": 3,
+      "source_value": "□望极平田，徘徊欲下，依前被、风惊起。",
+      "value": "乍望极平田，徘徊欲下，依前被、风惊起。",
+      "evidence": ["https://zh.wikisource.org/wiki/水龍吟（詠雁）"]
+    },
+    {
+      "source_file": "01000.json",
+      "source_index": 794,
+      "paragraph_index": 0,
+      "source_value": "□火初晴，绿遍禁池芳草。",
+      "value": "改火初晴，绿遍禁池芳草。",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_e153f478f2e8.aspx"]
+    },
+    {
+      "source_file": "06000.json",
+      "source_index": 689,
+      "paragraph_index": 2,
+      "source_value": "□□已应晚来风。",
+      "value": "疏钟已应晚来风。",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_94c915fdb9cd.aspx"]
+    },
+    {
+      "source_file": "06000.json",
+      "source_index": 810,
+      "paragraph_index": 4,
+      "source_value": "天上麒麟人不识，森□砢，骏权奇。",
+      "value": "天上麒麟人不识，森䂺砢，骏权奇。",
+      "evidence": [
+        "poetry-source:source/词/宋/ci.宋.0003.json",
+        "https://www.gushiwen.cn/GuShiWen_5d053902c1.aspx"
+      ]
+    },
+    {
+      "source_file": "08000.json",
+      "source_index": 367,
+      "paragraph_index": 2,
+      "source_value": "清和将近，□春寒更薄。",
+      "value": "清和将近，奈春寒更薄。",
+      "evidence": [
+        "poetry-source:source/词/宋/ci.宋.0010.json",
+        "https://www.sou-yun.cn/QueryCiTune.aspx?id=295"
+      ]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 116,
+      "paragraph_index": 8,
+      "source_value": "待刻公、勋业到□云，浯溪石。",
+      "value": "待刻公、勋业到云霄，浯溪石。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷2"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 124,
+      "paragraph_index": 5,
+      "source_value": "□小隐，寻幽约。",
+      "value": "更小隐，寻幽约。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷2"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 136,
+      "paragraph_index": 6,
+      "source_value": "便拟□□，人间挥汗，留取层冰洁。",
+      "value": "便拟明年，人间挥汗，留取层冰洁。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷1"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 152,
+      "paragraph_index": 4,
+      "source_value": "比□桃源溪上路，风景好，不争多。",
+      "value": "比著桃源溪上路，风景好，不争多。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷3"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 235,
+      "paragraph_index": 2,
+      "source_value": "变化须臾，鸥飞石镜，鹊抵星桥□。",
+      "value": "变化须臾，鸥飞石镜，鹊抵星桥外。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷1"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 254,
+      "paragraph_index": 4,
+      "source_value": "峡束□江对起，过危楼、欲飞还敛。",
+      "value": "峡束苍江对起，过危楼、欲飞还敛。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷2"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 258,
+      "paragraph_index": 3,
+      "source_value": "肠断新来，翠被□香残。",
+      "value": "肠断新来，翠被粉香残。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷3"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 260,
+      "paragraph_index": 5,
+      "source_value": "背人白鸟都飞去，落日残□更断肠。",
+      "value": "背人白鸟都飞去，落日残鸦更断肠。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷3"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 261,
+      "paragraph_index": 0,
+      "source_value": "漠漠轻□拨不开。",
+      "value": "漠漠轻阴拨不开。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷3"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 266,
+      "paragraph_index": 2,
+      "source_value": "从□犬吠千家白，且与梅成一段奇。",
+      "value": "从教犬吠千家白，且与梅成一段奇。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷3"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 269,
+      "paragraph_index": 2,
+      "source_value": "多情白发春无奈，晚日青□酒易赊。",
+      "value": "多情白发春无奈，晚日青帘酒易赊。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷3"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 269,
+      "paragraph_index": 4,
+      "source_value": "牛□西畔有桑麻。",
+      "value": "牛栏西畔有桑麻。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷3"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 328,
+      "paragraph_index": 5,
+      "source_value": "白石江头曲岸□。",
+      "value": "白石江头曲岸西。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷3"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 337,
+      "paragraph_index": 11,
+      "source_value": "直使长江如带，依前是、□赵须韩。",
+      "value": "直使长江如带，依前是、保赵须韩。",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_bf9d2361f586.aspx"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 356,
+      "paragraph_index": 5,
+      "source_value": "人间万事，□□常重泰山轻。",
+      "value": "人间万事，毫发常重泰山轻。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷1"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 359,
+      "paragraph_index": 8,
+      "source_value": "但□□□□，啜其泣矣，又何嗟及。",
+      "value": "但啜其泣矣，啜其泣矣，又何嗟及。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷2"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 360,
+      "paragraph_index": 10,
+      "source_value": "粉黛中□歌妙曲，问当年、鱼鸟无存者。",
+      "value": "粉黛中洲歌妙曲，问当年、鱼鸟无存者。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷1"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 369,
+      "paragraph_index": 2,
+      "source_value": "疏影横斜，暗香浮动，□□春消息。",
+      "value": "疏影横斜，暗香浮动，把断春消息。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷1"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 372,
+      "paragraph_index": 6,
+      "source_value": "子云何在，应有玄经□草。",
+      "value": "子云何在，应有玄经遗草。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷3"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 377,
+      "paragraph_index": 6,
+      "source_value": "更拟停云君去，细□陶诗。",
+      "value": "更拟停云君去，细和陶诗。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷3"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 392,
+      "paragraph_index": 8,
+      "source_value": "后会丁宁何日□。",
+      "value": "后会丁宁何日是。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷3"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 394,
+      "paragraph_index": 2,
+      "source_value": "衡门之下可栖迟，日之夕矣□□下。",
+      "value": "衡门之下可栖迟，日之夕矣牛羊下。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷3"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 398,
+      "paragraph_index": 0,
+      "source_value": "旧雨常来，今□不来，佳人偃蹇谁留。",
+      "value": "旧雨常来，今雨不来，佳人偃蹇谁留。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷2"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 398,
+      "paragraph_index": 3,
+      "source_value": "怪新来却见，文反离骚，诗□秦州。",
+      "value": "怪新来却见，文反离骚，诗发秦州。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷2"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 432,
+      "paragraph_index": 2,
+      "source_value": "隔墙沽酒□纤鳞。",
+      "value": "隔墙沽酒煮纤鳞。",
+      "evidence": ["https://zh.wikisource.org/wiki/稼軒詞_(四庫全書本)/卷4"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 604,
+      "paragraph_index": 2,
+      "source_value": "合韵歌喉，同茵舞袖，举措□□别。",
+      "value": "合韵歌喉，同茵舞袖，举措脱体别。",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_0781be61e935.aspx"]
+    },
+    {
+      "source_file": "11000.json",
+      "source_index": 619,
+      "paragraph_index": 0,
+      "source_value": "泰岳倚空碧，汶□卷云寒。",
+      "value": "泰岳倚空碧，汶水卷云寒。",
+      "evidence": ["https://www.gushiwen.cn/GuShiWen_0c93b8012e.aspx"]
+    },
+    {
+      "source_file": "12000.json",
+      "source_index": 556,
+      "paragraph_index": 3,
+      "source_value": "春困恹恹，□□鬓云松。",
+      "value": "春困恹恹，常爱鬓云松。",
+      "evidence": ["https://www.gushiwen.cn/shiwenv_00a7971f39e8.aspx"]
+    },
+    {
+      "source_file": "13000.json",
+      "source_index": 963,
+      "paragraph_index": 3,
+      "source_value": "光拍满、浮溪岝□。",
+      "value": "光拍满、浮溪岝崿。",
+      "evidence": ["https://www.gushici.net/shici/429/429233.html"]
+    },
+    {
+      "source_file": "18000.json",
+      "source_index": 707,
+      "paragraph_index": 0,
+      "source_value": "□花一叶。",
+      "value": "三花一叶。",
+      "evidence": ["https://www.kekeshici.com/shicijianshang/lidaitihua/56621.html"]
+    },
+    {
+      "source_file": "18000.json",
+      "source_index": 707,
+      "paragraph_index": 3,
+      "source_value": "冷却西湖□月。",
+      "value": "冷却西湖风月。",
+      "evidence": ["https://www.kekeshici.com/shicijianshang/lidaitihua/56621.html"]
     }
   ],
   "paragraph_removals": [
@@ -238,6 +556,8 @@
     }
   ],
   "record_removals": [
+    {"source_file": "08000.json", "source_index": 988, "kind": "damaged_duplicate", "duplicate_of_index": 885, "known_character_mismatches": 5, "reason": "Heavily lacunose duplicate of the complete 张抡《蝶恋花》 at source index 885."},
+    {"source_file": "08000.json", "source_index": 992, "kind": "damaged_duplicate", "duplicate_of_index": 885, "known_character_mismatches": 2, "reason": "Heavily lacunose duplicate of the complete 张抡《蝶恋花》 at source index 885."},
     {"source_file": "10000.json", "source_index": 575, "kind": "exact_duplicate", "duplicate_of_index": 572, "reason": "Exact duplicate of source index 572."},
     {"source_file": "10000.json", "source_index": 576, "kind": "exact_duplicate", "duplicate_of_index": 573, "reason": "Exact duplicate of source index 573."},
     {"source_file": "10000.json", "source_index": 577, "kind": "exact_duplicate", "duplicate_of_index": 574, "reason": "Exact duplicate of source index 574."},
@@ -248,6 +568,7 @@
     {"source_file": "18000.json", "source_index": 509, "kind": "unrecoverable_missing_text", "reason": "Contains only 缺词文 and no recoverable text."},
     {"source_file": "18000.json", "source_index": 510, "kind": "unrecoverable_missing_text", "reason": "Contains only 缺词文 and no recoverable text."},
     {"source_file": "18000.json", "source_index": 511, "kind": "unrecoverable_missing_text", "reason": "Contains only 缺词文 and no recoverable text."},
-    {"source_file": "19000.json", "source_index": 790, "kind": "exact_duplicate", "duplicate_of_index": 736, "reason": "Exact duplicate of source index 736."}
+    {"source_file": "19000.json", "source_index": 790, "kind": "exact_duplicate", "duplicate_of_index": 736, "reason": "Exact duplicate of source index 736."},
+    {"source_file": "19000.json", "source_index": 798, "kind": "damaged_duplicate", "duplicate_of_index": 441, "known_character_mismatches": 1, "reason": "Lacunose duplicate of the complete anonymous《失调名》 at source index 441."}
   ]
 }
