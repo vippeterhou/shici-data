@@ -12,6 +12,12 @@ Raw and processed data intentionally live together in this repository. Raw
 files preserve provenance and make corrections reviewable; release assets
 provide a stable and efficient consumption interface.
 
+`hwlcs` (Han Wei Liu Chao Shi) is a literary collection stored in
+`raw/hwlcs/hwlcs.json`, ordered as Han, Three Kingdoms, Jin, then Northern and
+Southern Dynasties. The merge preserves all records without deduplication.
+Its release asset is `hwlcs.jsonl.gz`. It replaces `qinhan` and `wjnbc`; Qin
+poetry is excluded. Generated IDs use the `hwlcs:` prefix.
+
 ## Build a release
 
 ```bash

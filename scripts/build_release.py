@@ -40,8 +40,7 @@ class Corpus:
 
 CORPORA = (
     Corpus("shijing", RAW_DIRECTORY / "shijing" / "shijing.json"),
-    Corpus("qinhan", RAW_DIRECTORY / "qinhan"),
-    Corpus("wjnbc", RAW_DIRECTORY / "wjnbc"),
+    Corpus("hwlcs", RAW_DIRECTORY / "hwlcs" / "hwlcs.json"),
     Corpus("ts300", RAW_DIRECTORY / "ts300" / "ts300.json"),
     Corpus("qts", RAW_DIRECTORY / "qts"),
     Corpus("sc300", RAW_DIRECTORY / "sc300" / "sc300.json"),

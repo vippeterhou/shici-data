@@ -1,10 +1,10 @@
 {
   "corpora": {
-    "qinhan": {
-      "asset": "qinhan.jsonl.gz",
-      "compressed_bytes": 87891,
-      "poem_count": 379,
-      "sha256": "ae5b25bd4df03aac1197a34af1d643e84aaa1c60b02f3354a9c0e5693ed031d9"
+    "hwlcs": {
+      "asset": "hwlcs.jsonl.gz",
+      "compressed_bytes": 299205,
+      "poem_count": 1568,
+      "sha256": "bde0a292cca813ac5a89a9bd20f90d4e51f2e94b0eb1218d4899132f2c68d7fe"
     },
     "qsc": {
       "asset": "qsc.jsonl.gz",
@@ -41,16 +41,10 @@
       "compressed_bytes": 52152,
       "poem_count": 320,
       "sha256": "5839cab36110730ea5fc1796be5a63e0effcd6debd438301e08554cf6686694d"
-    },
-    "wjnbc": {
-      "asset": "wjnbc.jsonl.gz",
-      "compressed_bytes": 213383,
-      "poem_count": 1196,
-      "sha256": "7fdb5ce92f585b91e8cc99ddfc00536c71fd9f3f28337cb8448541c877ab6e46"
     }
   },
-  "generated_at": "2026-10-23T16:20:35.412098+00:00",
+  "generated_at": "2026-11-01T10:28:34.645566+00:00",
   "schema_version": 3,
-  "total_poems": 325203,
-  "version": "v2.2.0"
+  "total_poems": 325196,
+  "version": "v3.0.0"
 }

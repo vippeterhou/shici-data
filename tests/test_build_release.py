@@ -4,12 +4,30 @@ from pathlib import Path
 import pytest
 
 from scripts.build_release import (
+    CORPORA,
     Corpus,
     calculate_poem_format,
     content_id,
     normalized_records,
     source_files,
 )
+
+
+def test_hwlcs_combines_dynasties_without_qin() -> None:
+    corpora = {corpus.name: corpus for corpus in CORPORA}
+
+    assert "qinhan" not in corpora
+    assert "wjnbc" not in corpora
+    assert "hanweiliuchaoshi" not in corpora
+    corpus = corpora["hwlcs"]
+    assert corpus.source.parent.name == "hwlcs"
+    assert [path.name for path in source_files(corpus.source)] == [
+        "hwlcs.json",
+    ]
+    records = list(normalized_records(corpus))
+    assert len(records) == 1568
+    assert all(record["id"].startswith("hwlcs:") for record in records)
+    assert len({record["id"] for record in records}) == len(records)
 
 
 def test_source_files_are_sorted(tmp_path: Path) -> None:
