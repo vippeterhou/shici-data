@@ -14,7 +14,11 @@ provide a stable and efficient consumption interface.
 
 `hwlcs` (Han Wei Liu Chao Shi) is a literary collection stored in
 `raw/hwlcs/hwlcs.json`, ordered as Han, Three Kingdoms, Jin, then Northern and
-Southern Dynasties. The merge preserves all records without deduplication.
+Southern Dynasties. The initial merge preserved all records without deduplication;
+subsequent cleanup decisions, alternate readings, disputed attributions, and
+retained fragments are documented in `editorial/hwlcs-cleanup.json`.
+The receipts distinguish verified corrections from unresolved inherited readings
+and attributions; cleanup is not an exhaustive collation of every poem.
 Its release asset is `hwlcs.jsonl.gz`. It replaces `qinhan` and `wjnbc`; Qin
 poetry is excluded. Generated IDs use the `hwlcs:` prefix.
 
@@ -29,6 +33,7 @@ and writes deterministic `jsonl.gz` assets to `dist/`. Exact duplicate records
 receive occurrence suffixes such as `:2`. It also writes `manifest.json` with
 poem counts, byte sizes, and SHA-256 checksums. Format metadata counts every
 `□` placeholder as one sentence character in every corpus.
+HWLCS format metadata is checked against the poem text during release validation.
 
 ## Consumption
 

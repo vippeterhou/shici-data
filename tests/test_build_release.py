@@ -25,7 +25,7 @@ def test_hwlcs_combines_dynasties_without_qin() -> None:
         "hwlcs.json",
     ]
     records = list(normalized_records(corpus))
-    assert len(records) == 1568
+    assert len(records) == 1554
     assert all(record["id"].startswith("hwlcs:") for record in records)
     assert len({record["id"] for record in records}) == len(records)
 
@@ -98,6 +98,24 @@ def test_rejects_missing_format(tmp_path: Path) -> None:
 
     with pytest.raises(ValueError, match="missing format"):
         list(normalized_records(Corpus("sample", source)))
+
+
+def test_rejects_incorrect_hwlcs_format(tmp_path: Path) -> None:
+    record = {
+        "title": "测试",
+        "author": "作者",
+        "paragraphs": ["天地玄黄。"],
+        "format": {
+            "sentence_count": 1,
+            "sentence_lengths": [3],
+            "uniform_sentence_length": 3,
+        },
+    }
+    source = tmp_path / "hwlcs.json"
+    source.write_text(json.dumps([record], ensure_ascii=False), encoding="utf-8")
+
+    with pytest.raises(ValueError, match="format mismatch"):
+        list(normalized_records(Corpus("hwlcs", source)))
 
 
 def test_suffixes_duplicate_content_ids(tmp_path: Path) -> None:

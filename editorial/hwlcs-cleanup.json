@@ -1,0 +1,2546 @@
+{
+  "created": "2026-11-01",
+  "baseline": {
+    "repository": "vippeterhou/shici-data",
+    "commit": "0de43a8b060711940e24753c5f1fda6f46d9becf",
+    "file": "raw/hwlcs/hwlcs.json",
+    "sha256": "5437245a448881890bedf06f3bca5db461089e7a1f7e3d9e29fd3c8d74d18f1a",
+    "poem_count": 1568,
+    "record_numbering": "one-based before any edits or removals"
+  },
+  "policy": "Keep one representation of each corroborated duplicate work; preserve removed records, alternate readings, and competing attributions in this log. Retain genuine refrains, distinct suite members, and surviving fragments. Do not guess unresolved provenance.",
+  "poem_count": 1554,
+  "recheck": "Rechecked all duplicate identifications and the scope of each correction against actual anthology passages, not search summaries. Added witnesses for retained edition-specific readings and corrected an inherited comma in 日出入. Whole-corpus artifact and near-duplicate checks are not an exhaustive edition-by-edition collation; unresolved inherited readings and attributions are recorded in retained_reviews.",
+  "witnesses": [
+    {
+      "title": "古樂苑 (四庫全書本)/卷04",
+      "revision": 661906,
+      "timestamp": "2016-10-16T00:32:50Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=661906",
+      "sha256": "30169bfd0b0d95838fbcf8af3eab0ab731ed9e54d5cb800bcc36e6fb0858b642"
+    },
+    {
+      "title": "古詩紀 (四庫全書本)/卷013",
+      "revision": 662838,
+      "timestamp": "2016-10-16T00:33:25Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=662838",
+      "sha256": "146d60a2a5fe2cd861271e4e3061f490fbc2c5104b5ef086cd0ca74ffbcc5ab6"
+    },
+    {
+      "title": "古詩紀 (四庫全書本)/卷015",
+      "revision": 767792,
+      "timestamp": "2016-10-25T05:59:55Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=767792",
+      "sha256": "d6f9c86a8bcf6ef041007b7abe7bccbd4b60d84c2934f20aaf1eeeb2ee740090"
+    },
+    {
+      "title": "古詩紀 (四庫全書本)/卷016",
+      "revision": 767796,
+      "timestamp": "2016-10-25T06:00:35Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=767796",
+      "sha256": "ae3554bb51fd41a7cc2de5dd7b9ce966af9e704fd9b1c95c90a1ec1daa76fc3c"
+    },
+    {
+      "title": "古詩紀 (四庫全書本)/卷023",
+      "revision": 662988,
+      "timestamp": "2016-10-16T00:33:28Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=662988",
+      "sha256": "d5f53ed1cbcbb039cf7fdf4404515b501a4e9c8d778b88c96adb46480a594503"
+    },
+    {
+      "title": "古詩紀 (四庫全書本)/卷026",
+      "revision": 663023,
+      "timestamp": "2016-10-16T00:33:29Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=663023",
+      "sha256": "900eb14ac5c17937d8836f6317f90e0575c2ab31f0c00938560059361d761a64"
+    },
+    {
+      "title": "古詩紀 (四庫全書本)/卷029",
+      "revision": 767816,
+      "timestamp": "2016-10-25T06:03:55Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=767816",
+      "sha256": "559a7a494b6fe6da756d19818e056d5f52044bac99094ba3d31a64bb083dca87"
+    },
+    {
+      "title": "古詩紀 (四庫全書本)/卷037",
+      "revision": 767832,
+      "timestamp": "2016-10-25T06:06:35Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=767832",
+      "sha256": "ae33085fe1458a3f329d2135dac7df499858537fe941ea7dd872e41457eef920"
+    },
+    {
+      "title": "古詩紀 (四庫全書本)/卷095",
+      "revision": 665166,
+      "timestamp": "2016-10-16T00:39:25Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=665166",
+      "sha256": "7e919b391a0c5b66a2edd657298a5210b0d1ae3e9fc214eb2b63955e264c32f6"
+    },
+    {
+      "title": "古詩鏡 (四庫全書本)/卷23",
+      "revision": 661872,
+      "timestamp": "2016-10-16T00:32:47Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=661872",
+      "sha256": "6e5efa0eac0edd061666c7d27a816d9f988008403161c6d22f2b845017720fee"
+    },
+    {
+      "title": "古離別 (江淹)",
+      "revision": 2326096,
+      "timestamp": "2023-10-25T05:06:35Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2326096",
+      "sha256": "38d653395fe5c27e10e26728af4cc90f57fc6b72a2b1feba6bd6065ccf9f9284"
+    },
+    {
+      "title": "太平御覽/0713",
+      "revision": 2588039,
+      "timestamp": "2025-08-05T14:12:36Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2588039",
+      "sha256": "d43e22ef2defb600799f5a7723cba2ee46d09180954af72a6a64529cabe1920b"
+    },
+    {
+      "title": "太平御覽/0758",
+      "revision": 2611384,
+      "timestamp": "2025-11-03T00:07:27Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2611384",
+      "sha256": "0b9a6b1f6f576576a13cf230fbbda88b40621e285d07494168b2f0379c4bf5a4"
+    },
+    {
+      "title": "怨詩 (班婕妤)",
+      "revision": 2329254,
+      "timestamp": "2023-11-03T10:29:00Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2329254",
+      "sha256": "daa19509965acc46f67b4253ab47b26ba32b5e98e47c960bdadefc803673ea8f"
+    },
+    {
+      "title": "擬古其二 (鮑照)",
+      "revision": 281725,
+      "timestamp": "2010-07-04T13:16:44Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=281725",
+      "sha256": "1dbe23155785c43c328e0e3a7d45e7ccf5db9bede7f3fe96565cc4884ef03965"
+    },
+    {
+      "title": "昭明文選/卷17",
+      "revision": 2082935,
+      "timestamp": "2021-10-15T02:02:48Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2082935",
+      "sha256": "083ea3975e25e4ffedef02d41bf2ca509449a3e884e4ca91a4a45d905dce474a"
+    },
+    {
+      "title": "昭明文選/卷27",
+      "revision": 2082937,
+      "timestamp": "2021-10-15T02:07:17Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2082937",
+      "sha256": "8756fa875a112c166d31e153cd7336ee11d3a253af8af39608b33d800200d4f6"
+    },
+    {
+      "title": "昭明文選/卷30",
+      "revision": 2004331,
+      "timestamp": "2020-12-04T04:21:34Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2004331",
+      "sha256": "7f021466202f239bff694c2c6bee04569f21e620a304213ef65344d4b4df34da"
+    },
+    {
+      "title": "樂府詩集 (四庫全書本)/卷042",
+      "revision": 786964,
+      "timestamp": "2016-10-27T10:52:33Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=786964",
+      "sha256": "384afbededc4a2a7787aeeeac37fa70c09639b9f442c846193dc30e99da67fd2"
+    },
+    {
+      "title": "樂府詩集 (四庫全書本)/卷071",
+      "revision": 672219,
+      "timestamp": "2016-10-16T03:57:28Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=672219",
+      "sha256": "f93f7219ff30764ca93a591e9be95b094871b9ebef21fd165a99ebaf48443394"
+    },
+    {
+      "title": "樂府詩集/016卷",
+      "revision": 2401911,
+      "timestamp": "2024-05-01T08:26:26Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2401911",
+      "sha256": "2dd186cbba617564d6f89594d3263a9e9579304d4c83c0632d00e05e17098fcb"
+    },
+    {
+      "title": "樂府詩集/026卷",
+      "revision": 2344741,
+      "timestamp": "2023-12-20T07:39:58Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2344741",
+      "sha256": "af82a5bda4d3b2b7c08931ecd02deb9ef3503e7697c7ffdeeb2772deb4b9d6e4"
+    },
+    {
+      "title": "樂府詩集/038卷",
+      "revision": 2344753,
+      "timestamp": "2023-12-20T07:40:31Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2344753",
+      "sha256": "a0461ec5f1b3ed6759d536cd8ab7d6a770126b2bb4b7bb5b48ac7de4c5b65c05"
+    },
+    {
+      "title": "樂府詩集/041卷",
+      "revision": 2650589,
+      "timestamp": "2026-02-19T02:38:32Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2650589",
+      "sha256": "fa04b017f65b894c33b0aef9c8bef07ee65b7fa3d1517f52ecc8af0a5628c5ac"
+    },
+    {
+      "title": "樂府詩集/042卷",
+      "revision": 2344757,
+      "timestamp": "2023-12-20T07:40:42Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2344757",
+      "sha256": "9f3728dc93642e7ea44236c98cbfdf3c40b6c37a1196479c92c4447525553ab0"
+    },
+    {
+      "title": "樂府詩集/048卷",
+      "revision": 2344763,
+      "timestamp": "2023-12-20T07:40:59Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2344763",
+      "sha256": "a9d68a565dc6e10945fae3f4ac7b3796348b86c48ba31b48388474461f79cbf1"
+    },
+    {
+      "title": "樂府詩集/053卷",
+      "revision": 2610737,
+      "timestamp": "2025-10-31T06:55:50Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2610737",
+      "sha256": "7dc6702258a40abe8937b409fdda53c8b59bbfcbfe42479f98369f130334448e"
+    },
+    {
+      "title": "樂府詩集/071卷",
+      "revision": 2344784,
+      "timestamp": "2023-12-20T07:41:57Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2344784",
+      "sha256": "8c6d70a42087f58adbe42d8f8a259dcaff9bb60f4e48aa61b64cc6e19d14ddbe"
+    },
+    {
+      "title": "漢書/卷022",
+      "revision": 7908617,
+      "timestamp": "2026-07-18T07:57:18Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=7908617",
+      "sha256": "60b25ffe36a207536754b606984e1b75d366dcbd7f24d0fb242af4b3ac329f42"
+    },
+    {
+      "title": "漢魏六朝百三家集 (四庫全書本)/卷066",
+      "revision": 788566,
+      "timestamp": "2016-10-27T15:09:26Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=788566",
+      "sha256": "a2d14af3132952b47e3cb55d5988bfe41c252febe1c628a690f95d4037774e31"
+    },
+    {
+      "title": "玉臺新詠/02卷",
+      "revision": 2375835,
+      "timestamp": "2024-03-20T20:52:44Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2375835",
+      "sha256": "59da924ecb570663d2ffde17d84c02b293091695bb1d9c07484443a33988d920"
+    },
+    {
+      "title": "玉臺新詠考異 (四庫全書本)/卷09",
+      "revision": 789007,
+      "timestamp": "2016-10-27T16:21:30Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=789007",
+      "sha256": "83906ac222f02c8cb18ea72197e6970e0a89372cb5b53a21630a1107f7d75032"
+    },
+    {
+      "title": "藝文類聚/卷029",
+      "revision": 1966717,
+      "timestamp": "2020-10-04T19:40:40Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=1966717",
+      "sha256": "2aed43e72ea521ded8c47fca9f832bb38753455f16fc52506a6ce3a0a675dfcf"
+    },
+    {
+      "title": "藝文類聚/卷043",
+      "revision": 2004968,
+      "timestamp": "2020-12-04T04:56:29Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2004968",
+      "sha256": "e75ebc9a3f7808edc49113680b8fd35f23c45bab8528a9bb578ff475b208ba2e"
+    },
+    {
+      "title": "詠懷詩五言八十二首",
+      "revision": 2194743,
+      "timestamp": "2022-11-15T16:15:12Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2194743",
+      "sha256": "0bd510ed229113cc27579097638daed10c50994dff6cc021ac21e0813d557937"
+    },
+    {
+      "title": "陸士龍集 (四庫全書本)/卷03",
+      "revision": 716714,
+      "timestamp": "2016-10-16T07:51:14Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=716714",
+      "sha256": "5d13382646b94cad670eaf36ba2141e98a0d11b6acfc51db2aee690e8ceb77e8"
+    },
+    {
+      "title": "鮑明遠集",
+      "revision": 2626732,
+      "timestamp": "2025-11-30T10:33:49Z",
+      "url": "https://zh.wikisource.org/w/index.php?oldid=2626732",
+      "sha256": "ed0791933381549b2e248fe0f6a0328c1e2b282e0a02ee6a994bfd5c4259613e"
+    }
+  ],
+  "corrections": [
+    {
+      "source_record": 31,
+      "source_id": "hwlcs:108b59c0e024cef1",
+      "reason": "Remove an accidental leading ASCII space from the title.",
+      "evidence": [],
+      "before": {
+        "title": " 天马二首·其一",
+        "author": "刘彻",
+        "paragraphs": [
+          "太一况，天马下，沾赤汗，沫流赭。",
+          "志俶傥，精权奇，籋浮云，晻上驰。",
+          "体容与，迣万里，今安匹，龙为友。"
+        ],
+        "format": {
+          "sentence_count": 12,
+          "sentence_lengths": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ],
+          "uniform_sentence_length": 3
+        }
+      },
+      "after": {
+        "title": "天马二首·其一",
+        "author": "刘彻",
+        "paragraphs": [
+          "太一况，天马下，沾赤汗，沫流赭。",
+          "志俶傥，精权奇，籋浮云，晻上驰。",
+          "体容与，迣万里，今安匹，龙为友。"
+        ],
+        "format": {
+          "sentence_count": 12,
+          "sentence_lengths": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+          ],
+          "uniform_sentence_length": 3
+        }
+      }
+    },
+    {
+      "source_record": 42,
+      "source_id": "hwlcs:5fec731e39b5907a",
+      "reason": "Remove a trailing ideographic space from the final paragraph.",
+      "evidence": [],
+      "before": {
+        "title": "七哀诗三首·其二",
+        "author": "王粲",
+        "paragraphs": [
+          "荆蛮非我乡，何为久滞淫。",
+          "方舟溯大江，日暮愁我心。",
+          "山冈有馀映，岩阿增重阴。",
+          "狐狸驰赴穴，飞鸟翔故林。",
+          "流波激清响，猴猿临岸吟。",
+          "迅风拂裳袂，白露沾衣襟。",
+          "独夜不能寐，摄衣起抚琴。",
+          "丝桐感人情，为我发悲音。",
+          "羁旅无终极，忧思壮难任。　"
+        ],
+        "format": {
+          "sentence_count": 18,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      },
+      "after": {
+        "title": "七哀诗三首·其二",
+        "author": "王粲",
+        "paragraphs": [
+          "荆蛮非我乡，何为久滞淫。",
+          "方舟溯大江，日暮愁我心。",
+          "山冈有馀映，岩阿增重阴。",
+          "狐狸驰赴穴，飞鸟翔故林。",
+          "流波激清响，猴猿临岸吟。",
+          "迅风拂裳袂，白露沾衣襟。",
+          "独夜不能寐，摄衣起抚琴。",
+          "丝桐感人情，为我发悲音。",
+          "羁旅无终极，忧思壮难任。"
+        ],
+        "format": {
+          "sentence_count": 18,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      }
+    },
+    {
+      "source_record": 70,
+      "source_id": "hwlcs:422156b692f455f8",
+      "reason": "Retain the Han-yuefu attribution and use the duplicate's explicit sentence boundaries; Chinese poem text is unchanged.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2401911"
+      ],
+      "before": {
+        "title": "上邪",
+        "author": "两汉乐府",
+        "paragraphs": [
+          "上邪。我欲与君相知。长命无绝衰。山无陵。江水为竭。冬雷震震夏雨雪。",
+          "天地合。乃敢与君绝。"
+        ],
+        "format": {
+          "sentence_count": 8,
+          "sentence_lengths": [
+            2,
+            6,
+            5,
+            3,
+            4,
+            7,
+            3,
+            5
+          ],
+          "uniform_sentence_length": null
+        }
+      },
+      "after": {
+        "title": "上邪",
+        "author": "两汉乐府",
+        "paragraphs": [
+          "上邪，",
+          "我欲与君相知，",
+          "长命无绝衰。",
+          "山无陵，",
+          "江水为竭。",
+          "冬雷震震，",
+          "夏雨雪。",
+          "天地合，",
+          "乃敢与君绝。"
+        ],
+        "format": {
+          "sentence_count": 9,
+          "sentence_lengths": [
+            2,
+            6,
+            5,
+            3,
+            4,
+            4,
+            3,
+            3,
+            5
+          ],
+          "uniform_sentence_length": null
+        }
+      }
+    },
+    {
+      "source_record": 140,
+      "source_id": "hwlcs:64a4c514b730a03d",
+      "reason": "Adopt 河边, 不可见, and 上有加餐食／下有长相忆, corroborated by 文選 and 古詩紀; retain the anonymous-yuefu attribution and record the alternate Cai Yong attribution in the duplicate decision. This is a selected-reading correction, not a wholesale transcription of 文選: inherited 宿昔 and 書中 agree with 古詩紀, while 呼兒 agrees with 文選. Orthographic variants such as 他／佗 and 展轉／輾轉 are not treated as corruption.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2082937",
+        "https://zh.wikisource.org/w/index.php?oldid=662838"
+      ],
+      "before": {
+        "title": "饮马长城窟行",
+        "author": "两汉乐府",
+        "paragraphs": [
+          "青青河畔草，绵绵思远道。",
+          "远道不可思，宿昔梦见之。",
+          "梦见在我傍，忽觉在他乡。",
+          "他乡各异县，展转不相见。",
+          "枯桑知天风，海水知天寒。",
+          "入门各自媚，谁肯相为言！",
+          "客从远方来，遗我双鲤鱼。",
+          "呼儿烹鲤鱼，中有尺素书。",
+          "长跪读素书，书中竟何如？",
+          "上言加餐饭，下言长相忆。"
+        ],
+        "format": {
+          "sentence_count": 20,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      },
+      "after": {
+        "title": "饮马长城窟行",
+        "author": "两汉乐府",
+        "paragraphs": [
+          "青青河边草，绵绵思远道。",
+          "远道不可思，宿昔梦见之。",
+          "梦见在我傍，忽觉在他乡。",
+          "他乡各异县，展转不可见。",
+          "枯桑知天风，海水知天寒。",
+          "入门各自媚，谁肯相为言！",
+          "客从远方来，遗我双鲤鱼。",
+          "呼儿烹鲤鱼，中有尺素书。",
+          "长跪读素书，书中竟何如？",
+          "上有加餐食，下有长相忆。"
+        ],
+        "format": {
+          "sentence_count": 20,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      }
+    },
+    {
+      "source_record": 144,
+      "source_id": "hwlcs:d918c9babafa155e",
+      "reason": "Remove the inherited comma splitting 訾黃. 漢書禮樂志 prints 訾黃其何不徠下 as one sentence; 古詩紀 likewise preserves the uninterrupted phrase. Keep the inherited 徕 spelling and all Chinese poem characters, recalculating the final sentence as seven characters rather than one plus six.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=7908617",
+        "https://zh.wikisource.org/w/index.php?oldid=767792"
+      ],
+      "before": {
+        "title": "日出入",
+        "author": "两汉乐府",
+        "paragraphs": [
+          "日出入安穷，时世不与人同。",
+          "故春非我春，夏非我夏，",
+          "秋非我秋，冬非我冬。",
+          "泊如四海之池，遍观是邪谓何？",
+          "吾知所乐，独乐六龙。",
+          "六龙之调，使我心若。",
+          "訾，黄其何不徕下！"
+        ],
+        "format": {
+          "sentence_count": 14,
+          "sentence_lengths": [
+            5,
+            6,
+            5,
+            4,
+            4,
+            4,
+            6,
+            6,
+            4,
+            4,
+            4,
+            4,
+            1,
+            6
+          ],
+          "uniform_sentence_length": null
+        }
+      },
+      "after": {
+        "title": "日出入",
+        "author": "两汉乐府",
+        "paragraphs": [
+          "日出入安穷，时世不与人同。",
+          "故春非我春，夏非我夏，",
+          "秋非我秋，冬非我冬。",
+          "泊如四海之池，遍观是邪谓何？",
+          "吾知所乐，独乐六龙。",
+          "六龙之调，使我心若。",
+          "訾黄其何不徕下！"
+        ],
+        "format": {
+          "sentence_count": 13,
+          "sentence_lengths": [
+            5,
+            6,
+            5,
+            4,
+            4,
+            4,
+            6,
+            6,
+            4,
+            4,
+            4,
+            4,
+            7
+          ],
+          "uniform_sentence_length": null
+        }
+      }
+    },
+    {
+      "source_record": 156,
+      "source_id": "hwlcs:61ac3008b156ab89",
+      "reason": "Correct 赎 to 续; both primary anthology witnesses read 天德, 不可續, and 東嶽.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2650589",
+        "https://zh.wikisource.org/w/index.php?oldid=767796"
+      ],
+      "before": {
+        "title": "怨诗行",
+        "author": "两汉乐府",
+        "paragraphs": [
+          "天德悠且长，人命一何促。",
+          "百年未几时，奄若风吹烛。",
+          "嘉宾难再遇，人命不可赎。",
+          "齐度游四方，各系太山录。",
+          "人间乐未央，忽然归东岳。",
+          "当须荡中情，游心恣所欲。"
+        ],
+        "format": {
+          "sentence_count": 12,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      },
+      "after": {
+        "title": "怨诗行",
+        "author": "两汉乐府",
+        "paragraphs": [
+          "天德悠且长，人命一何促。",
+          "百年未几时，奄若风吹烛。",
+          "嘉宾难再遇，人命不可续。",
+          "齐度游四方，各系太山录。",
+          "人间乐未央，忽然归东岳。",
+          "当须荡中情，游心恣所欲。"
+        ],
+        "format": {
+          "sentence_count": 12,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      }
+    },
+    {
+      "source_record": 195,
+      "source_id": "hwlcs:edc5a4193389ad80",
+      "reason": "Use 怨歌行, the heading in 文選卷27 and 樂府詩集卷42, as the retained main title rather than the inherited alternate title 團扇詩. The complete retained text follows the 四庫全書 edition of 樂府詩集, including 鮮潔, 裁為, and 凉颷 (simplified as 凉飙). 文選 instead reads 皎潔 and 涼風; these are edition-specific alternatives, not errors, and are not spliced into the retained 樂府 text.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2082937",
+        "https://zh.wikisource.org/w/index.php?oldid=786964",
+        "https://zh.wikisource.org/w/index.php?oldid=2344757"
+      ],
+      "before": {
+        "title": "团扇诗",
+        "author": "班婕妤",
+        "paragraphs": [
+          "新裂齐纨素，鲜洁如霜雪。",
+          "裁为合欢扇，团团似明月。",
+          "出入君怀袖，动摇微风发。",
+          "常恐秋节至，凉飙夺炎热。",
+          "弃捐箧笥中，恩情中道绝。"
+        ],
+        "format": {
+          "sentence_count": 10,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      },
+      "after": {
+        "title": "怨歌行",
+        "author": "班婕妤",
+        "paragraphs": [
+          "新裂齐纨素，鲜洁如霜雪。",
+          "裁为合欢扇，团团似明月。",
+          "出入君怀袖，动摇微风发。",
+          "常恐秋节至，凉飙夺炎热。",
+          "弃捐箧笥中，恩情中道绝。"
+        ],
+        "format": {
+          "sentence_count": 10,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      }
+    },
+    {
+      "source_record": 418,
+      "source_id": "hwlcs:f116d2f986c4a75e",
+      "reason": "Recover the two private-use glyphs as 绵绵 and restore 增城; both cited witnesses support these readings. Recalculate the now-uniform five-character format.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2194743",
+        "https://zh.wikisource.org/w/index.php?oldid=767816"
+      ],
+      "before": {
+        "title": "咏怀八十二首（其四十五）",
+        "author": "阮籍",
+        "paragraphs": [
+          "幽兰不可佩，朱草为谁荣？",
+          "修竹隐山阴，射干临层城。",
+          "葛藟延幽谷，瓜瓞生。",
+          "乐极消灵神，哀深伤人情。",
+          "竟知忧无益，岂若归太清！"
+        ],
+        "format": {
+          "sentence_count": 10,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            3,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": null
+        }
+      },
+      "after": {
+        "title": "咏怀八十二首（其四十五）",
+        "author": "阮籍",
+        "paragraphs": [
+          "幽兰不可佩，朱草为谁荣？",
+          "修竹隐山阴，射干临增城。",
+          "葛藟延幽谷，绵绵瓜瓞生。",
+          "乐极消灵神，哀深伤人情。",
+          "竟知忧无益，岂若归太清！"
+        ],
+        "format": {
+          "sentence_count": 10,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      }
+    },
+    {
+      "source_record": 621,
+      "source_id": "hwlcs:372875ef40e63a48",
+      "reason": "Remove only the bibliographic 同上 note copied into the poem body; both witnesses end the stanza at 惟用作詩. Recalculate format without annotation characters. This does not verify all inherited readings in the poem: the differences 啓裕／啓俗, 馥矣／馥馥, 亡此／忘此, and 肯來／胥來 are separately flagged in retained_reviews and have not been silently rewritten.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=767832",
+        "https://zh.wikisource.org/w/index.php?oldid=716714"
+      ],
+      "before": {
+        "title": "赠郑曼季诗四首·高冈",
+        "author": "陆云",
+        "paragraphs": [
+          "瞻彼高冈，有猗其桐。",
+          "允也君子，实宝南江。",
+          "员规启裕，沈矩履方。",
+          "泳此明流，清澜川通。",
+          "陟彼衡林，味其回芳。",
+          "馥矣回芳，绸缪中原。",
+          "祁祁庶类，薄采其芬。",
+          "栖迟泌丘，容与衡门。",
+          "声播东汜，响溢南云。",
+          "穆穆阊阖，南端启籥。",
+          "庶明以庸，帝听式阙。",
+          "有凤於潜，在林栖翮。",
+          "非予之祚，孰与好爵。",
+          "幽居玩物，顾景自颐。",
+          "发愤潜帷，仿佛有思。",
+          "予美亡此，终然肯来。",
+          "企予与言，惟用作诗（○同上）。"
+        ],
+        "format": {
+          "sentence_count": 34,
+          "sentence_lengths": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            6
+          ],
+          "uniform_sentence_length": null
+        }
+      },
+      "after": {
+        "title": "赠郑曼季诗四首·高冈",
+        "author": "陆云",
+        "paragraphs": [
+          "瞻彼高冈，有猗其桐。",
+          "允也君子，实宝南江。",
+          "员规启裕，沈矩履方。",
+          "泳此明流，清澜川通。",
+          "陟彼衡林，味其回芳。",
+          "馥矣回芳，绸缪中原。",
+          "祁祁庶类，薄采其芬。",
+          "栖迟泌丘，容与衡门。",
+          "声播东汜，响溢南云。",
+          "穆穆阊阖，南端启籥。",
+          "庶明以庸，帝听式阙。",
+          "有凤於潜，在林栖翮。",
+          "非予之祚，孰与好爵。",
+          "幽居玩物，顾景自颐。",
+          "发愤潜帷，仿佛有思。",
+          "予美亡此，终然肯来。",
+          "企予与言，惟用作诗。"
+        ],
+        "format": {
+          "sentence_count": 34,
+          "sentence_lengths": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+          ],
+          "uniform_sentence_length": 4
+        }
+      }
+    },
+    {
+      "source_record": 847,
+      "source_id": "hwlcs:c7fe93b95ee6c57e",
+      "reason": "Replace the Unicode ratio symbol with the sentence-separator colon.",
+      "evidence": [],
+      "before": {
+        "title": "读山海经（其五）",
+        "author": "陶渊明",
+        "paragraphs": [
+          "翩翩三青鸟，毛色奇可怜。",
+          "朝为王母使，暮归三危山。",
+          "我欲因此鸟，具向王母言∶",
+          "在世无所须，惟酒与长年。"
+        ],
+        "format": {
+          "sentence_count": 8,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      },
+      "after": {
+        "title": "读山海经（其五）",
+        "author": "陶渊明",
+        "paragraphs": [
+          "翩翩三青鸟，毛色奇可怜。",
+          "朝为王母使，暮归三危山。",
+          "我欲因此鸟，具向王母言：",
+          "在世无所须，惟酒与长年。"
+        ],
+        "format": {
+          "sentence_count": 8,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      }
+    },
+    {
+      "source_record": 1512,
+      "source_id": "hwlcs:a27b21b4ac11d29a",
+      "reason": "Remove an inline footnote marker and recalculate the final sentence as five Chinese characters. The complete 鮑明遠集 witness corroborates 耻受聊城功 and 卷袠奉盧弓; the earlier standalone Wikisource page omits 耻 and 袠 and must not be used to truncate those lines. Preserve the inherited 睹 spelling corresponding to the collection's 覩.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=281725",
+        "https://zh.wikisource.org/w/index.php?oldid=2626732"
+      ],
+      "before": {
+        "title": "拟古诗八首·其二",
+        "author": "鲍照",
+        "paragraphs": [
+          "十五讽诗书，篇翰靡不通。",
+          "弱冠参多士，飞步游秦宫。",
+          "侧睹君子论，预见古人风。",
+          "两说穷舌端，五车摧笔锋。",
+          "羞当白璧贶，耻受聊城功。",
+          "晚节从世务，乘障远和戎。",
+          "解佩袭犀渠，卷袠奉卢弓。",
+          "始愿力不及，安知今所终①。"
+        ],
+        "format": {
+          "sentence_count": 16,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            6
+          ],
+          "uniform_sentence_length": null
+        }
+      },
+      "after": {
+        "title": "拟古诗八首·其二",
+        "author": "鲍照",
+        "paragraphs": [
+          "十五讽诗书，篇翰靡不通。",
+          "弱冠参多士，飞步游秦宫。",
+          "侧睹君子论，预见古人风。",
+          "两说穷舌端，五车摧笔锋。",
+          "羞当白璧贶，耻受聊城功。",
+          "晚节从世务，乘障远和戎。",
+          "解佩袭犀渠，卷袠奉卢弓。",
+          "始愿力不及，安知今所终。"
+        ],
+        "format": {
+          "sentence_count": 16,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      }
+    }
+  ],
+  "duplicate_removals": [
+    {
+      "source_record": 58,
+      "source_id": "hwlcs:40b1c36c60c30126",
+      "kept_source_record": 75,
+      "kept_id": "hwlcs:56e7762926362b3c",
+      "reason": "Same 江南 text; retain one punctuation/paragraph representation.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2344741"
+      ],
+      "record": {
+        "title": "江南",
+        "author": "两汉乐府",
+        "paragraphs": [
+          "江南可采莲，莲叶何田田，鱼戏莲叶间。",
+          "鱼戏莲叶东，鱼戏莲叶西，",
+          "鱼戏莲叶南，鱼戏莲叶北。"
+        ],
+        "format": {
+          "sentence_count": 7,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      }
+    },
+    {
+      "source_record": 64,
+      "source_id": "hwlcs:946a783344ff68fc",
+      "kept_source_record": 150,
+      "kept_id": "hwlcs:25c0a75ad15633fd",
+      "reason": "Same 巫山高 text; retain one punctuation/paragraph representation. 古詩紀 corroborates the inherited 梁 in both 害梁不為 and 水何梁湯湯回回, whereas the punctuated 樂府詩集 transcription omits those characters. Do not delete them or conjecturally repair other difficult ancient readings.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2401911",
+        "https://zh.wikisource.org/w/index.php?oldid=767792"
+      ],
+      "record": {
+        "title": "巫山高",
+        "author": "两汉乐府",
+        "paragraphs": [
+          "巫山高。高以大。淮水深。难以逝。我欲东归。害梁不为。",
+          "我集无高曳。水何梁。汤汤回回。临水远望。泣下沾衣。",
+          "远道之人心思归。谓之何。"
+        ],
+        "format": {
+          "sentence_count": 13,
+          "sentence_lengths": [
+            3,
+            3,
+            3,
+            3,
+            4,
+            4,
+            5,
+            3,
+            4,
+            4,
+            4,
+            7,
+            3
+          ],
+          "uniform_sentence_length": null
+        }
+      }
+    },
+    {
+      "source_record": 295,
+      "source_id": "hwlcs:f61e1204c809a294",
+      "kept_source_record": 70,
+      "kept_id": "hwlcs:e819ac2b38eb66a8",
+      "reason": "Same 上邪 text under two collective/anonymous author labels; retain the Han-yuefu copy with explicit sentence boundaries.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2401911"
+      ],
+      "record": {
+        "title": "上邪",
+        "author": "无名氏",
+        "paragraphs": [
+          "上邪，",
+          "我欲与君相知，",
+          "长命无绝衰。",
+          "山无陵，",
+          "江水为竭。",
+          "冬雷震震，",
+          "夏雨雪。",
+          "天地合，",
+          "乃敢与君绝。"
+        ],
+        "format": {
+          "sentence_count": 9,
+          "sentence_lengths": [
+            2,
+            6,
+            5,
+            3,
+            4,
+            4,
+            3,
+            3,
+            5
+          ],
+          "uniform_sentence_length": null
+        }
+      }
+    },
+    {
+      "source_record": 230,
+      "source_id": "hwlcs:546ae20e5839bccb",
+      "kept_source_record": 497,
+      "kept_id": "hwlcs:83bcd17d9913117d",
+      "reason": "Same poem under a documented attribution dispute: 玉臺新詠 attributes it to 曹丕, while 藝文類聚 attributes it to 徐幹. Keep the Cao Pi/Yutai representation; the removed record and alternate attribution remain preserved here. This is not a claim that the dispute is settled.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2375835",
+        "https://zh.wikisource.org/w/index.php?oldid=1966717",
+        "https://zh.wikisource.org/w/index.php?oldid=663023"
+      ],
+      "record": {
+        "title": "与妻别",
+        "author": "徐幹",
+        "paragraphs": [
+          "与君结新婚，宿昔当别离。",
+          "凉风动秋草，蟋蟀鸣相随。",
+          "冽冽寒蝉吟，蝉吟抱枯枝。",
+          "枯枝时飞扬，身体忽迁移。",
+          "不悲身迁移，但惜岁月驰。",
+          "岁月无穷极，会合安可知。",
+          "愿为双黄鹄，比翼戏清池。"
+        ],
+        "format": {
+          "sentence_count": 14,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      }
+    },
+    {
+      "source_record": 63,
+      "source_id": "hwlcs:584275d280cce5e1",
+      "kept_source_record": 149,
+      "kept_id": "hwlcs:f803a902f3028cc3",
+      "reason": "Variant representation of 戰城南; retain the copy reading 徘徊 and 暮, as in 樂府詩集. 古詩紀 also corroborates the inherited 何以北, whose 以 is absent from the punctuated 樂府 transcription. Preserve the removed 裴回／莫 readings in this receipt rather than treating every edition difference as an error.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2401911",
+        "https://zh.wikisource.org/w/index.php?oldid=767792"
+      ],
+      "record": {
+        "title": "战城南",
+        "author": "两汉乐府",
+        "paragraphs": [
+          "战城南，死郭北，野死不葬乌可食。",
+          "为我谓乌：且为客豪。",
+          "野死谅不葬，腐肉安能去子逃。",
+          "水深激激，蒲苇冥冥。",
+          "枭骑战斗死，驽马裴回鸣。",
+          "梁筑室，何以南，何以北。",
+          "禾黍不获君何食，愿为忠臣安可得。",
+          "思子良臣，良臣诚可思：",
+          "朝行出攻，莫不夜归。"
+        ],
+        "format": {
+          "sentence_count": 20,
+          "sentence_lengths": [
+            3,
+            3,
+            7,
+            4,
+            4,
+            5,
+            7,
+            4,
+            4,
+            5,
+            5,
+            3,
+            3,
+            3,
+            7,
+            7,
+            4,
+            5,
+            4,
+            4
+          ],
+          "uniform_sentence_length": null
+        }
+      }
+    },
+    {
+      "source_record": 86,
+      "source_id": "hwlcs:52086e69fe8b5a65",
+      "kept_source_record": 156,
+      "kept_id": "hwlcs:b4d5698811dcd99c",
+      "reason": "Variant representation of 怨詩行; keep the copy reading 天德 and 東嶽, correcting its 赎 to 续 from both witnesses.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2650589",
+        "https://zh.wikisource.org/w/index.php?oldid=767796"
+      ],
+      "record": {
+        "title": "怨诗行",
+        "author": "两汉乐府",
+        "paragraphs": [
+          "天道悠且长，人命一何促。",
+          "百年未几时，奄若风吹烛。",
+          "嘉宾难再遇，人命不可续。",
+          "齐度游四方，各系太山录。",
+          "人间乐未央，忽然归东狱。",
+          "当须荡中情，游心恣所欲。"
+        ],
+        "format": {
+          "sentence_count": 12,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      }
+    },
+    {
+      "source_record": 194,
+      "source_id": "hwlcs:d8b41aeb8b3949a4",
+      "kept_source_record": 195,
+      "kept_id": "hwlcs:fb7f323d2e3972b2",
+      "reason": "怨歌行 and 團扇詩 are representations of the same Ban Jieyu poem. Retain the complete 樂府詩集 reading 鮮潔, 裁為, and 凉颷 under its anthology heading 怨歌行; the title correction to source record 195 preserves the inherited alternate title. The removed copy's readings remain preserved here.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2329254",
+        "https://zh.wikisource.org/w/index.php?oldid=2344757",
+        "https://zh.wikisource.org/w/index.php?oldid=786964"
+      ],
+      "record": {
+        "title": "怨歌行",
+        "author": "班婕妤",
+        "paragraphs": [
+          "新裂齐纨素，皎洁如霜雪。",
+          "裁作合欢扇，团团似明月。",
+          "出入君怀袖，动摇微风发。",
+          "常恐秋节至，凉飙夺炎热。",
+          "弃捐箧笥中，恩情中道绝。"
+        ],
+        "format": {
+          "sentence_count": 10,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      }
+    },
+    {
+      "source_record": 308,
+      "source_id": "hwlcs:a665d9ecc7205735",
+      "kept_source_record": 144,
+      "kept_id": "hwlcs:e71b3d2e24325f03",
+      "reason": "Same 日出入 with the interchangeable 邪／耶 reading and anonymous/collective labels; keep one Han-yuefu representation without treating 邪 as corruption. 漢書 corroborates 邪; the correction to source record 144 removes an inherited comma splitting 訾黃, without changing Chinese poem characters.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=767792",
+        "https://zh.wikisource.org/w/index.php?oldid=7908617"
+      ],
+      "record": {
+        "title": "日出入",
+        "author": "无名氏",
+        "paragraphs": [
+          "日出入安穷。时世不与人同。",
+          "故春非我春。夏非我夏。",
+          "秋非我秋。冬非我冬。",
+          "泊如四海之池。遍观是耶谓何。",
+          "吾知所乐。独乐六龙。",
+          "六龙之调。使我心若。",
+          "訾黄其何不徕下。"
+        ],
+        "format": {
+          "sentence_count": 13,
+          "sentence_lengths": [
+            5,
+            6,
+            5,
+            4,
+            4,
+            4,
+            6,
+            6,
+            4,
+            4,
+            4,
+            4,
+            7
+          ],
+          "uniform_sentence_length": null
+        }
+      }
+    },
+    {
+      "source_record": 319,
+      "source_id": "hwlcs:982108b145cd4e68",
+      "kept_source_record": 140,
+      "kept_id": "hwlcs:98e204b405f59b0e",
+      "reason": "Same 飲馬長城窟行 under a documented attribution dispute: 文選 calls it 古辭, 玉臺 attributes it to 蔡邕. Retain the anonymous-yuefu representation with readings corroborated by 文選 and 古詩紀; the Cai Yong attribution and variant text remain preserved here.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2082937",
+        "https://zh.wikisource.org/w/index.php?oldid=662838"
+      ],
+      "record": {
+        "title": "饮马长城窟行",
+        "author": "蔡邕",
+        "paragraphs": [
+          "青青河边草，绵绵思远道。",
+          "远道不可思，宿昔梦见之。",
+          "梦见在我傍，忽觉在他乡。",
+          "他乡各异县，展转不可见。",
+          "枯桑知天风，海水知天寒。",
+          "入门各自媚，谁肯相为言。",
+          "客从远方来，遗我双鲤鱼。",
+          "呼儿烹鲤鱼，中有尺素书。",
+          "长跪读素书，书中竟何如。",
+          "上有加餐食，下有长相忆。"
+        ],
+        "format": {
+          "sentence_count": 20,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      }
+    },
+    {
+      "source_record": 557,
+      "source_id": "hwlcs:f256c1e6e6d570b7",
+      "kept_source_record": 575,
+      "kept_id": "hwlcs:ca3659af27f1365f",
+      "reason": "靈芝篇 is duplicated by its explicit 鼙舞歌 suite member. 古詩紀 confirms the five-song suite and the retained 王地 and 亡形 readings; 樂府詩集 instead has 玉地 and 亡刑 and corroborates 陵侮 and 龀. Preserve these documented edition readings rather than automatically replacing the survivor with one preferred edition or treating every difference as an error.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2610737",
+        "https://zh.wikisource.org/w/index.php?oldid=662988"
+      ],
+      "record": {
+        "title": "灵芝篇",
+        "author": "曹植",
+        "paragraphs": [
+          "灵芝生王地，朱草被洛滨。",
+          "荣华相晃耀，光采晔若神。",
+          "古时有虞舜，父母顽且嚚。",
+          "尽孝于田垄，烝烝不违仁。",
+          "伯瑜年七十，彩衣以娱亲。",
+          "慈母笞不痛，歔欷涕沾巾。",
+          "丁兰少失母，自伤早孤茕。",
+          "刻木当严亲，朝夕致三牲。",
+          "暴子见陵悔，犯罪以亡形。",
+          "丈人为泣血，免戾全其名。",
+          "董永遭家贫，父老财无遗。",
+          "举假以供养，佣作致甘肥。",
+          "责家填门至，不知何用归。",
+          "天灵感至德，神女为秉机。",
+          "岁月不安居，呜呼我皇考。",
+          "生我既已晚，弃我何其早。",
+          "蓼莪谁所兴，念之令人老。",
+          "退咏南风诗，洒泪满袆抱。",
+          "乱曰：",
+          "圣皇君四海，德教朝夕宣。",
+          "万国咸礼让，百姓家肃虔。",
+          "庠序不失仪，孝悌处中田。",
+          "户有曾闵子，比屋皆仁贤。",
+          "髫齓无夭齿，黄发尽其年。",
+          "陛下三万岁，慈母亦复然。"
+        ],
+        "format": {
+          "sentence_count": 49,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            2,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": null
+        }
+      }
+    },
+    {
+      "source_record": 558,
+      "source_id": "hwlcs:99735b1f1c2f76a8",
+      "kept_source_record": 577,
+      "kept_id": "hwlcs:5ef80a72c9866712",
+      "reason": "精微篇 is duplicated by its explicit 鼙舞歌 suite member. 古詩紀 corroborates 垂功名, 願以身代, 歸聘, and 刑措, where 樂府詩集 has 重功名, 原以身代, 歸娉, and 刑錯. These and 征／徵 and 諐／愆 are recorded edition or orthographic variants, not separate poems or automatic corrections.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2610737",
+        "https://zh.wikisource.org/w/index.php?oldid=662988"
+      ],
+      "record": {
+        "title": "精微篇",
+        "author": "曹植",
+        "paragraphs": [
+          "精微烂金石，至心动神明。",
+          "杞妻哭死夫，梁山为之倾。",
+          "子丹西质秦，乌白马角生。",
+          "邹衍囚燕市，繁霜为夏零。",
+          "关东有贤女，自字苏来卿。",
+          "壮年报父仇，身没垂功名。",
+          "女休逢赦书，白刃几在颈。",
+          "俱上列仙籍，去死独就生。",
+          "太仓令有罪，远征当就拘。",
+          "自悲居无男，祸至无与俱。",
+          "缇萦痛父言，荷担西上书。",
+          "盘桓北阙下，泣泪何涟如。",
+          "乞得并姊弟，没身赎父躯。",
+          "汉文感其义，肉刑法用除。",
+          "其父得以免，辩义在列图。",
+          "多男亦何为，一女足成居。",
+          "简子南渡河，津吏废舟船。",
+          "执法将加刑，女娟拥棹前。",
+          "妾父闻君来，将涉不测渊。",
+          "畏惧风波起，祷祝祭名川。",
+          "备礼飨神祇，为君求福先。",
+          "不胜釂祀诚，至令犯罚艰。",
+          "君必欲加诛，乞使知罪諐。",
+          "妾愿以身代，至诚感苍天。",
+          "国君高其义，其父用赦原。",
+          "河激奏中流，简子知其贤。",
+          "归聘为夫人，荣宠超后先。",
+          "辩女解父命，何况健少年。",
+          "黄初发和气，明堂德教施。",
+          "治道致太平，礼乐风俗移。",
+          "刑措民无枉，怨女复何为。",
+          "圣皇长寿考，景福常来仪。"
+        ],
+        "format": {
+          "sentence_count": 64,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+          ],
+          "uniform_sentence_length": 5
+        }
+      }
+    },
+    {
+      "source_record": 1392,
+      "source_id": "hwlcs:4adcf3941bf7806f",
+      "kept_source_record": 1438,
+      "kept_id": "hwlcs:3a8c659c83e95386",
+      "reason": "Same 古離別, also collected under 古別離 in 樂府詩集; retain 不異瓊樹枝 rather than the six-character 不及其瓊樹枝. 樂府詩集 corroborates the retained 君在天一涯／妾身長別離; the standalone Wikisource poem follows the different 君子在天涯／妾心久別離 tradition. Preserve 檐／簷 and 菟／兔 spellings, and do not claim the standalone page matches the complete retained version.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2326096",
+        "https://zh.wikisource.org/w/index.php?oldid=2344784",
+        "https://zh.wikisource.org/w/index.php?oldid=672219"
+      ],
+      "record": {
+        "title": "杂体诗三十首·古离别",
+        "author": "江淹",
+        "paragraphs": [
+          "远与君别者。乃至雁门关。",
+          "黄云蔽千里。游子何时还。",
+          "送君如昨日。檐前露已团。",
+          "不惜蕙草晚。所悲道里寒。",
+          "君在天一涯。妾身长别离。",
+          "愿一见颜色。不及其琼树枝。",
+          "菟丝及水萍。所寄终不移。"
+        ],
+        "format": {
+          "sentence_count": 14,
+          "sentence_lengths": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5,
+            6,
+            5,
+            5
+          ],
+          "uniform_sentence_length": null
+        }
+      }
+    },
+    {
+      "source_record": 1142,
+      "source_id": "hwlcs:0451d9bc7f8ba7f6",
+      "kept_source_record": 1466,
+      "kept_id": "hwlcs:11e7c2af92f402ca",
+      "reason": "The first 烏棲曲 is duplicated under 蕭繹 and 蕭子顯. 古詩紀 explicitly rejects 樂府詩集's 元帝 attribution for the first two poems, and 古詩鏡 also places the three-song suite under 蕭子顯. The retained 琥珀龍 is specifically defended in 玉臺新詠考異, while 古詩紀 and 古詩鏡 read 琥珀紅. Keep the inherited 馬腦 spelling; do not silently normalize every retained word to the attribution witness's edition.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=665166",
+        "https://zh.wikisource.org/w/index.php?oldid=2344763",
+        "https://zh.wikisource.org/w/index.php?oldid=661872",
+        "https://zh.wikisource.org/w/index.php?oldid=789007"
+      ],
+      "record": {
+        "title": "乌栖曲·其一",
+        "author": "萧绎",
+        "paragraphs": [
+          "幄中清酒马脑钟，裙边杂佩琥珀龙。",
+          "虚持寄君心不惜，共指三星今何夕。"
+        ],
+        "format": {
+          "sentence_count": 4,
+          "sentence_lengths": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "uniform_sentence_length": 7
+        }
+      }
+    },
+    {
+      "source_record": 1143,
+      "source_id": "hwlcs:9dafd1f54a0bc377",
+      "kept_source_record": 1467,
+      "kept_id": "hwlcs:15d206defdc66bed",
+      "reason": "The second 烏棲曲 has the same documented attribution conflict; follow 古詩紀's explicit correction to 蕭子顯. 賒 is also found in 古詩鏡 and recorded as the Song-print reading in 玉臺新詠考異. The latter defends 夜水 over the 夜永 in 古詩紀 and 古詩鏡, but prefers 奢 over 賒. Thus the existing survivor contains attested readings, not a verbatim transcription of one of these editions. Its poem text was not changed by deduplication; do not invent a single universally correct reading or renumber 蕭繹's four surviving suite members.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=665166",
+        "https://zh.wikisource.org/w/index.php?oldid=2344763",
+        "https://zh.wikisource.org/w/index.php?oldid=661872",
+        "https://zh.wikisource.org/w/index.php?oldid=789007"
+      ],
+      "record": {
+        "title": "乌栖曲·其二",
+        "author": "萧绎",
+        "paragraphs": [
+          "浓黛轻红点花色，还欲令人不相识。",
+          "金壶夜水讵能多，莫持奢用比悬河。"
+        ],
+        "format": {
+          "sentence_count": 4,
+          "sentence_lengths": [
+            7,
+            7,
+            7,
+            7
+          ],
+          "uniform_sentence_length": 7
+        }
+      }
+    }
+  ],
+  "retained_reviews": [
+    {
+      "decision": "retain_pending_reading_witness",
+      "records": [
+        {
+          "source_record": 621,
+          "id": "hwlcs:2f16f6bf11603fad",
+          "title": "赠郑曼季诗四首·高冈",
+          "author": "陆云"
+        }
+      ],
+      "reason": "Newly flagged inherited readings: the repository has 啓裕, 馥矣, 亡此, and 肯來; both consulted 古詩紀 and 陸士龍集 witnesses instead have 啓俗, 馥馥, 忘此, and 胥來. No positive edition witness for those four repository readings was established in this recheck. The earlier correction removed only 同上, not these words. Retain them pending a better textual witness or explicit edition choice rather than claim the whole poem has been verified or silently classify every difference as corruption.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=767832",
+        "https://zh.wikisource.org/w/index.php?oldid=716714"
+      ]
+    },
+    {
+      "decision": "retain_with_attribution_caveat",
+      "records": [
+        {
+          "id": "hwlcs:16f64d5c7e21b8da",
+          "title": "白头吟",
+          "author": "卓文君"
+        }
+      ],
+      "reason": "Newly flagged attribution caveat in an untouched record: 樂府詩集 quotes the 古辭 tradition and separately the 西京雜記 story assigning 白頭吟 to 卓文君. Its 本辭 text matches the retained poem. The traditional named attribution is not thereby disproved, but should not be presented as independently settled authorship; leave the raw label unchanged and preserve this caveat.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2650589"
+      ]
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 626,
+          "id": "hwlcs:70b1aadde89d8e73",
+          "title": "百年歌十首·其一",
+          "author": "陆机"
+        },
+        {
+          "source_record": 627,
+          "id": "hwlcs:692e1399114b273c",
+          "title": "百年歌十首·其二",
+          "author": "陆机"
+        },
+        {
+          "source_record": 628,
+          "id": "hwlcs:170b6a6995ed524d",
+          "title": "百年歌十首·其三",
+          "author": "陆机"
+        },
+        {
+          "source_record": 629,
+          "id": "hwlcs:cde3f98179d464d5",
+          "title": "百年歌十首·其四",
+          "author": "陆机"
+        },
+        {
+          "source_record": 630,
+          "id": "hwlcs:ad561ef821b07e4b",
+          "title": "百年歌十首·其五",
+          "author": "陆机"
+        },
+        {
+          "source_record": 631,
+          "id": "hwlcs:e75b32285d4bea0a",
+          "title": "百年歌十首·其六",
+          "author": "陆机"
+        }
+      ],
+      "reason": "The repeated 清酒將炙奈樂何 is a genuine refrain, repeated twice in each of these six songs in 藝文類聚; do not deduplicate poem lines.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2004968"
+      ]
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 1073,
+          "id": "hwlcs:f8fcb6df5dff1548",
+          "title": "上留田行",
+          "author": "谢灵运"
+        }
+      ],
+      "reason": "Both 樂府詩集 and 謝康樂集 repeat these 上留田 stanzas; preserve all refrains.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2344753",
+        "https://zh.wikisource.org/w/index.php?oldid=788566"
+      ]
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 108,
+          "id": "hwlcs:aefcc440eb3de206",
+          "title": "古新成安乐宫",
+          "author": "两汉乐府"
+        }
+      ],
+      "reason": "文選 quotes this eight-character 古新成安樂宮 fragment; short length is not grounds for removal.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2082935"
+      ]
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 124,
+          "id": "hwlcs:45adc606128d6073",
+          "title": "古乐府",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 132,
+          "id": "hwlcs:96a7e066d643025d",
+          "title": "古歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 134,
+          "id": "hwlcs:a8cebe849a074515",
+          "title": "茂陵中书歌",
+          "author": "两汉乐府"
+        }
+      ],
+      "reason": "The short 琉璃琥珀象牙盤, 流塵生玉匣, and 茂陵中書歌 excerpts are explicitly quoted by ancient textual witnesses. Preserve the existing spellings and fragments.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2611384",
+        "https://zh.wikisource.org/w/index.php?oldid=2588039",
+        "https://zh.wikisource.org/w/index.php?oldid=661906"
+      ]
+    },
+    {
+      "decision": "retain_fragment",
+      "records": [
+        {
+          "source_record": 119,
+          "id": "hwlcs:ba3da91f12f746d3",
+          "title": "古乐府诗",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 120,
+          "id": "hwlcs:4921aad9e25a1d18",
+          "title": "古乐府",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 128,
+          "id": "hwlcs:2d56f8263a58a600",
+          "title": "《汉书》歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 131,
+          "id": "hwlcs:e836cc00027f2d98",
+          "title": "古歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 300,
+          "id": "hwlcs:539e50fcd758bf47",
+          "title": "汉元光镜铭",
+          "author": "无名氏"
+        }
+      ],
+      "reason": "These short inherited quotations/inscriptions do not duplicate any longer poem in this corpus. No independently verified complete replacement was established; preserve them rather than inventing missing lines or deleting by length.",
+      "evidence": []
+    },
+    {
+      "decision": "retain_fragment",
+      "records": [
+        {
+          "source_record": 686,
+          "id": "hwlcs:edf293c9bee72f4b",
+          "title": "游仙诗十九首·其十九",
+          "author": "郭璞"
+        }
+      ],
+      "reason": "文選's annotation cites this surviving 郭璞 fragment and itself has difficult word division. Do not expand an eight-character fragment into invented complete five-character lines or silently choose between 嗷／傲.",
+      "evidence": [
+        "https://zh.wikisource.org/w/index.php?oldid=2004331"
+      ]
+    },
+    {
+      "decision": "retain_pending_provenance",
+      "records": [
+        {
+          "source_record": 305,
+          "id": "hwlcs:e0b978297e77cc43",
+          "title": "古相思曲",
+          "author": "无名氏"
+        }
+      ],
+      "reason": "A modern-authenticity challenge was found, but its linked discussion could not be inspected (HTTP 403), and no positive premodern witness was established in the pages consulted. Retain the inherited poem and its repeated couplet pending direct provenance evidence; absence from a limited search alone is not sufficient to remove it.",
+      "evidence": [],
+      "unverified_leads": [
+        "https://zhuanlan.zhihu.com/p/640509095"
+      ]
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 97,
+          "id": "hwlcs:282f48233ddbc36a",
+          "title": "猛虎行",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 98,
+          "id": "hwlcs:8fd11c8d2a0b1e9a",
+          "title": "猛虎行",
+          "author": "两汉乐府"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 99,
+          "id": "hwlcs:bc5f809797157800",
+          "title": "上留田行",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 100,
+          "id": "hwlcs:bec5d95e2d5aed56",
+          "title": "上留田行",
+          "author": "两汉乐府"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 102,
+          "id": "hwlcs:e4d43955116745c6",
+          "title": "古歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 103,
+          "id": "hwlcs:6c62c4ee1d34d1fa",
+          "title": "古歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 129,
+          "id": "hwlcs:a9c9c47ed2eb9b94",
+          "title": "古歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 130,
+          "id": "hwlcs:01bb2b89d852a160",
+          "title": "古歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 131,
+          "id": "hwlcs:e836cc00027f2d98",
+          "title": "古歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 132,
+          "id": "hwlcs:96a7e066d643025d",
+          "title": "古歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 138,
+          "id": "hwlcs:4ad7418b9f4c4f9f",
+          "title": "古歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 139,
+          "id": "hwlcs:da3a2683758b134c",
+          "title": "古歌",
+          "author": "两汉乐府"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 112,
+          "id": "hwlcs:5c8f9b882c1c01c5",
+          "title": "古艳歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 113,
+          "id": "hwlcs:e29bf2036e1371dc",
+          "title": "古艳歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 114,
+          "id": "hwlcs:eeb38b5602b09b97",
+          "title": "古艳歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 115,
+          "id": "hwlcs:0df06df1283fd63a",
+          "title": "古艳歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 116,
+          "id": "hwlcs:0a1115c0f0fdf2f0",
+          "title": "古艳歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 117,
+          "id": "hwlcs:467a44b49ed0477c",
+          "title": "古艳歌",
+          "author": "两汉乐府"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 118,
+          "id": "hwlcs:fea3e7c5d06e51dc",
+          "title": "古乐府诗",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 119,
+          "id": "hwlcs:ba3da91f12f746d3",
+          "title": "古乐府诗",
+          "author": "两汉乐府"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 120,
+          "id": "hwlcs:4921aad9e25a1d18",
+          "title": "古乐府",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 121,
+          "id": "hwlcs:d67e29d7db825bcb",
+          "title": "古乐府",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 122,
+          "id": "hwlcs:2cbba6a91444a6c5",
+          "title": "古乐府",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 123,
+          "id": "hwlcs:53522aff17890ac3",
+          "title": "古乐府",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 124,
+          "id": "hwlcs:45adc606128d6073",
+          "title": "古乐府",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 137,
+          "id": "hwlcs:ddd4547980ad4384",
+          "title": "古乐府",
+          "author": "两汉乐府"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 126,
+          "id": "hwlcs:be57d5ebb7f70c12",
+          "title": "乐府歌",
+          "author": "两汉乐府"
+        },
+        {
+          "source_record": 127,
+          "id": "hwlcs:206867f0f00851b1",
+          "title": "乐府歌",
+          "author": "两汉乐府"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 167,
+          "id": "hwlcs:002706ccd0274842",
+          "title": "歌二首为望卿作",
+          "author": "刘去"
+        },
+        {
+          "source_record": 168,
+          "id": "hwlcs:ab955eebed242101",
+          "title": "歌二首为望卿作",
+          "author": "刘去"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 186,
+          "id": "hwlcs:df1a01ccfb1475b9",
+          "title": "论功歌诗二首灵芝歌",
+          "author": "班固"
+        },
+        {
+          "source_record": 187,
+          "id": "hwlcs:714e2867f79b7f6d",
+          "title": "论功歌诗二首灵芝歌",
+          "author": "班固"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 232,
+          "id": "hwlcs:bb538787b3137217",
+          "title": "赠妇诗三首",
+          "author": "秦嘉"
+        },
+        {
+          "source_record": 233,
+          "id": "hwlcs:835e3ead38a5350a",
+          "title": "赠妇诗三首",
+          "author": "秦嘉"
+        },
+        {
+          "source_record": 234,
+          "id": "hwlcs:eeabba51410ed958",
+          "title": "赠妇诗三首",
+          "author": "秦嘉"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 235,
+          "id": "hwlcs:9b42942cff0bb2a6",
+          "title": "述婚诗",
+          "author": "秦嘉"
+        },
+        {
+          "source_record": 236,
+          "id": "hwlcs:b44ab921073cda0f",
+          "title": "述婚诗",
+          "author": "秦嘉"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 253,
+          "id": "hwlcs:850bee05361e8745",
+          "title": "见志诗二首",
+          "author": "仲长统"
+        },
+        {
+          "source_record": 254,
+          "id": "hwlcs:0ffc120e12c35b31",
+          "title": "见志诗二首",
+          "author": "仲长统"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 273,
+          "id": "hwlcs:6b79e1f248943b19",
+          "title": "歌诗三章【远夷乐德歌】",
+          "author": "唐菆"
+        },
+        {
+          "source_record": 274,
+          "id": "hwlcs:df16a478aa7fe183",
+          "title": "歌诗三章【远夷乐德歌】",
+          "author": "唐菆"
+        },
+        {
+          "source_record": 275,
+          "id": "hwlcs:9d9f12a27c58831d",
+          "title": "歌诗三章【远夷乐德歌】",
+          "author": "唐菆"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 366,
+          "id": "hwlcs:a1473e596df0e5ff",
+          "title": "诗二首",
+          "author": "郦炎"
+        },
+        {
+          "source_record": 367,
+          "id": "hwlcs:25935f627e281072",
+          "title": "诗二首",
+          "author": "郦炎"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 370,
+          "id": "hwlcs:43a181d365a7069f",
+          "title": "六言诗三首",
+          "author": "孔融"
+        },
+        {
+          "source_record": 371,
+          "id": "hwlcs:545ea84773d59065",
+          "title": "六言诗三首",
+          "author": "孔融"
+        },
+        {
+          "source_record": 372,
+          "id": "hwlcs:ccafe006dbc5c2a1",
+          "title": "六言诗三首",
+          "author": "孔融"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 616,
+          "id": "hwlcs:9c12f280d33a05a2",
+          "title": "答兄平原诗",
+          "author": "陆云"
+        },
+        {
+          "source_record": 617,
+          "id": "hwlcs:4a5fd72c59bae0b9",
+          "title": "答兄平原诗",
+          "author": "陆云"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 643,
+          "id": "hwlcs:7074e69e79741c4a",
+          "title": "招隐诗",
+          "author": "陆机"
+        },
+        {
+          "source_record": 650,
+          "id": "hwlcs:e5e4104c9662b69c",
+          "title": "招隐诗",
+          "author": "陆机"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 722,
+          "id": "hwlcs:309587942ca1806c",
+          "title": "咏史",
+          "author": "左思"
+        },
+        {
+          "source_record": 723,
+          "id": "hwlcs:2e13dd246cac94a4",
+          "title": "咏史",
+          "author": "左思"
+        },
+        {
+          "source_record": 724,
+          "id": "hwlcs:c5c47f3e50b56c40",
+          "title": "咏史",
+          "author": "左思"
+        },
+        {
+          "source_record": 726,
+          "id": "hwlcs:b42adfe20374e9ee",
+          "title": "咏史",
+          "author": "左思"
+        },
+        {
+          "source_record": 727,
+          "id": "hwlcs:8f2f51da1969d849",
+          "title": "咏史",
+          "author": "左思"
+        },
+        {
+          "source_record": 728,
+          "id": "hwlcs:38c34723cad04f8b",
+          "title": "咏史",
+          "author": "左思"
+        },
+        {
+          "source_record": 729,
+          "id": "hwlcs:66e1357238598f62",
+          "title": "咏史",
+          "author": "左思"
+        },
+        {
+          "source_record": 730,
+          "id": "hwlcs:4b6a1a2718c63880",
+          "title": "咏史",
+          "author": "左思"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 1046,
+          "id": "hwlcs:fbd2e37444f0b49e",
+          "title": "苦寒行",
+          "author": "谢灵运"
+        },
+        {
+          "source_record": 1061,
+          "id": "hwlcs:d62fc16b002d1abc",
+          "title": "苦寒行",
+          "author": "谢灵运"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    },
+    {
+      "decision": "retain",
+      "records": [
+        {
+          "source_record": 1352,
+          "id": "hwlcs:794d4b46b9a247e9",
+          "title": "懊侬歌",
+          "author": "无名氏"
+        },
+        {
+          "source_record": 1353,
+          "id": "hwlcs:d423bff72927a7fd",
+          "title": "懊侬歌",
+          "author": "无名氏"
+        }
+      ],
+      "reason": "These entries have distinct poem text rather than duplicate representations. Shared generic titles, suite titles, or separate surviving fragments alone are not grounds for deletion or conjectural renumbering.",
+      "evidence": []
+    }
+  ]
+}

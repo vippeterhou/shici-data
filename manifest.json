@@ -2,9 +2,9 @@
   "corpora": {
     "hwlcs": {
       "asset": "hwlcs.jsonl.gz",
-      "compressed_bytes": 299205,
-      "poem_count": 1568,
-      "sha256": "bde0a292cca813ac5a89a9bd20f90d4e51f2e94b0eb1218d4899132f2c68d7fe"
+      "compressed_bytes": 297610,
+      "poem_count": 1554,
+      "sha256": "b9da59c158d6d8f4b413345e6831669549ac825e7df57271d8e47a7306fea3de"
     },
     "qsc": {
       "asset": "qsc.jsonl.gz",
@@ -43,8 +43,8 @@
       "sha256": "5839cab36110730ea5fc1796be5a63e0effcd6debd438301e08554cf6686694d"
     }
   },
-  "generated_at": "2026-11-01T10:28:34.645566+00:00",
+  "generated_at": "2026-11-01T11:30:53.957123+00:00",
   "schema_version": 3,
-  "total_poems": 325196,
+  "total_poems": 325182,
   "version": "v3.0.0"
 }

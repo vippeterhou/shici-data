@@ -179,7 +179,9 @@ def validate_raw_record(
         or any(length != uniform_length for length in sentence_lengths)
     ):
         raise ValueError(f"{location}: inconsistent uniform sentence length")
-    validate_calculated_format = corpus.name in {"qsc", "qss", "sc300"} or (
+    validate_calculated_format = corpus.name in {
+        "hwlcs", "qsc", "qss", "sc300"
+    } or (
         corpus.name == "qts"
         and any("□" in paragraph for paragraph in paragraphs)
     )
