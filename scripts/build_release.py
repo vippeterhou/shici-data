@@ -48,6 +48,7 @@ CORPORA = (
     Corpus("qsc", RAW_DIRECTORY / "qsc"),
     Corpus("qss", RAW_DIRECTORY / "qss"),
 )
+CALCULATED_FORMAT_CORPORA = frozenset(corpus.name for corpus in CORPORA)
 
 
 def source_files(source: Path) -> list[Path]:
@@ -187,12 +188,7 @@ def validate_raw_record(
         or any(length != uniform_length for length in sentence_lengths)
     ):
         raise ValueError(f"{location}: inconsistent uniform sentence length")
-    validate_calculated_format = corpus.name in {
-        "hwlcs", "qsc", "qss", "sc300", "ts300"
-    } or (
-        corpus.name == "qts"
-        and any("□" in paragraph for paragraph in paragraphs)
-    )
+    validate_calculated_format = corpus.name in CALCULATED_FORMAT_CORPORA
     if validate_calculated_format:
         expected_format = calculate_poem_format(paragraphs, corpus.name)
         if poem_format != expected_format:

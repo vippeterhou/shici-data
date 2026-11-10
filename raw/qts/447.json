@@ -184,8 +184,8 @@
       "虎丘慚客問，娃館妒人過。莫笑籠中鶴，相看去幾何。"
     ],
     "format": {
-      "sentence_count": 4,
-      "sentence_lengths": [5, 5, 5, 5],
+      "sentence_count": 8,
+      "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
     }
   },

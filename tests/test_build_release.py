@@ -100,7 +100,10 @@ def test_rejects_missing_format(tmp_path: Path) -> None:
         list(normalized_records(Corpus("sample", source)))
 
 
-@pytest.mark.parametrize("corpus_name", ["hwlcs", "ts300"])
+@pytest.mark.parametrize(
+    "corpus_name",
+    [corpus.name for corpus in CORPORA],
+)
 def test_rejects_incorrect_calculated_format(
     tmp_path: Path,
     corpus_name: str,
@@ -115,6 +118,9 @@ def test_rejects_incorrect_calculated_format(
             "uniform_sentence_length": 3,
         },
     }
+    if corpus_name == "shijing":
+        record["chapter"] = "国风"
+        record["section"] = "周南"
     source = tmp_path / f"{corpus_name}.json"
     source.write_text(json.dumps([record], ensure_ascii=False), encoding="utf-8")
 
