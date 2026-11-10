@@ -8420,18 +8420,6 @@
     }
   },
   {
-    "title": "和曹光道",
-    "author": "梅堯臣",
-    "paragraphs": [
-      "無正文。"
-    ],
-    "format": {
-      "sentence_count": 1,
-      "sentence_lengths": [3],
-      "uniform_sentence_length": 3
-    }
-  },
-  {
     "title": "廨後木芙蓉",
     "author": "梅堯臣",
     "paragraphs": [
@@ -8526,18 +8514,6 @@
       "sentence_count": 16,
       "sentence_lengths": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
       "uniform_sentence_length": 5
-    }
-  },
-  {
-    "title": "和中道秋宴",
-    "author": "梅堯臣",
-    "paragraphs": [
-      "無正文。"
-    ],
-    "format": {
-      "sentence_count": 1,
-      "sentence_lengths": [3],
-      "uniform_sentence_length": 3
     }
   },
   {

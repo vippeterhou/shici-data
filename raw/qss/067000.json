@@ -603,18 +603,6 @@
     }
   },
   {
-    "title": "湖上聯句",
-    "author": "蘇京",
-    "paragraphs": [
-      "無正文。"
-    ],
-    "format": {
-      "sentence_count": 1,
-      "sentence_lengths": [3],
-      "uniform_sentence_length": 3
-    }
-  },
-  {
     "title": "偈九首  其一",
     "author": "釋惟清",
     "paragraphs": [
@@ -4032,18 +4020,6 @@
       "sentence_count": 4,
       "sentence_lengths": [5, 5, 5, 5],
       "uniform_sentence_length": 5
-    }
-  },
-  {
-    "title": "翛然元規夜坐酌余德儒所惠酒因成聯句",
-    "author": "石元規",
-    "paragraphs": [
-      "無正文。"
-    ],
-    "format": {
-      "sentence_count": 1,
-      "sentence_lengths": [3],
-      "uniform_sentence_length": 3
     }
   },
   {

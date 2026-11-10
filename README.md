@@ -105,7 +105,7 @@ python3 -m scripts.audit_qsc \
 ```
 
 To verify every QSS record against the pinned `chinese-poetry` revision,
-including unusable-source pruning, exact-duplicate removal, and
+including empty/no-content record pruning, exact-duplicate removal, and
 QSS-specific format metadata:
 
 ```bash

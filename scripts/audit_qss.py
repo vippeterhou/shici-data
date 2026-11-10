@@ -258,6 +258,10 @@ def cleanup_removal_locations(
             text = "".join(record["paragraphs"])
             if "□" not in text or re.sub(r"[□，。！？；：、\s]", "", text):
                 raise ValueError("QSS placeholder removal has surviving text")
+        elif kind == "no_content_marker":
+            text = "".join(record["paragraphs"]).strip()
+            if text not in {"無正文。", "無詩文。"}:
+                raise ValueError("QSS no-content removal has poem text")
         else:
             raise ValueError("QSS record removal has invalid kind")
         location = (source_file, source_index)

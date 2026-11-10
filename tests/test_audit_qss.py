@@ -35,6 +35,12 @@ def test_validates_qss_cleanup_removals() -> None:
                 "paragraphs": ["□□，□□。"],
                 "_source_index": 3,
             },
+            {
+                "title": "無文",
+                "author": "作者",
+                "paragraphs": ["無正文。"],
+                "_source_index": 4,
+            },
         ]
     }
     changes = [
@@ -55,12 +61,18 @@ def test_validates_qss_cleanup_removals() -> None:
             "source_index": 3,
             "kind": "all_placeholders",
         },
+        {
+            "source_file": "000000.json",
+            "source_index": 4,
+            "kind": "no_content_marker",
+        },
     ]
 
     assert cleanup_removal_locations(records, changes) == {
         ("000000.json", 1),
         ("000000.json", 2),
         ("000000.json", 3),
+        ("000000.json", 4),
     }
 
 
@@ -92,6 +104,31 @@ def test_rejects_nonduplicate_qss_removal() -> None:
                     "kind": "exact_duplicate",
                     "duplicate_of_file": "000000.json",
                     "duplicate_of_index": 0,
+                }
+            ],
+        )
+
+
+def test_rejects_qss_no_content_removal_with_poem_text() -> None:
+    records = {
+        "000000.json": [
+            {
+                "title": "短句",
+                "author": "作者",
+                "paragraphs": ["天地玄黃。"],
+                "_source_index": 0,
+            }
+        ]
+    }
+
+    with pytest.raises(ValueError, match="has poem text"):
+        cleanup_removal_locations(
+            records,
+            [
+                {
+                    "source_file": "000000.json",
+                    "source_index": 0,
+                    "kind": "no_content_marker",
                 }
             ],
         )

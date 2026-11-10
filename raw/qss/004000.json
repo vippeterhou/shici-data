@@ -2366,18 +2366,6 @@
     }
   },
   {
-    "title": "送閏師之長安謝紫衣",
-    "author": "魏野",
-    "paragraphs": [
-      "無正文。"
-    ],
-    "format": {
-      "sentence_count": 1,
-      "sentence_lengths": [3],
-      "uniform_sentence_length": 3
-    }
-  },
-  {
     "title": "送秘丞王利通倅閬州",
     "author": "魏野",
     "paragraphs": [
@@ -5621,102 +5609,6 @@
       "sentence_count": 3,
       "sentence_lengths": [2, 13, 7],
       "uniform_sentence_length": null
-    }
-  },
-  {
-    "title": "三門與魏野聯句題東樓",
-    "author": "臧奎",
-    "paragraphs": [
-      "無正文。"
-    ],
-    "format": {
-      "sentence_count": 1,
-      "sentence_lengths": [3],
-      "uniform_sentence_length": 3
-    }
-  },
-  {
-    "title": "夏夜與魏野陳越會宿河亭聯句三十韻",
-    "author": "臧奎",
-    "paragraphs": [
-      "無正文。"
-    ],
-    "format": {
-      "sentence_count": 1,
-      "sentence_lengths": [3],
-      "uniform_sentence_length": 3
-    }
-  },
-  {
-    "title": "將離藍田同魏野飲於亭聯成二韻",
-    "author": "王闢",
-    "paragraphs": [
-      "無正文。"
-    ],
-    "format": {
-      "sentence_count": 1,
-      "sentence_lengths": [3],
-      "uniform_sentence_length": 3
-    }
-  },
-  {
-    "title": "宿宅與王專魏野洎用晦上人因成聯句",
-    "author": "王闢",
-    "paragraphs": [
-      "無正文。"
-    ],
-    "format": {
-      "sentence_count": 1,
-      "sentence_lengths": [3],
-      "uniform_sentence_length": 3
-    }
-  },
-  {
-    "title": "宿王闢宅與魏野洎用晦上人因成聯句",
-    "author": "王專",
-    "paragraphs": [
-      "無正文。"
-    ],
-    "format": {
-      "sentence_count": 1,
-      "sentence_lengths": [3],
-      "uniform_sentence_length": 3
-    }
-  },
-  {
-    "title": "解城條山聯句宿王闢宅與王專洎魏野因成聯句淳化五年秋八月二十四日鉅鹿魏野江東僧用晦趙郡李識登解城瑯琊王衢命聯句詩一章凡六十四句請題於是",
-    "author": "釋用晦",
-    "paragraphs": [
-      "無正文。"
-    ],
-    "format": {
-      "sentence_count": 1,
-      "sentence_lengths": [3],
-      "uniform_sentence_length": 3
-    }
-  },
-  {
-    "title": "解城條山聯句淳化五年秋八月二十四日鉅鹿魏野江東僧用晦趙郡李識登解城瑯琊王衢命聯句詩一章凡六十四句請題於是",
-    "author": "王衢",
-    "paragraphs": [
-      "無正文。"
-    ],
-    "format": {
-      "sentence_count": 1,
-      "sentence_lengths": [3],
-      "uniform_sentence_length": 3
-    }
-  },
-  {
-    "title": "解城條山聯句淳化五年秋八月二十四日鉅鹿魏野江東僧用晦趙郡李識登解城瑯琊王衢命聯句詩一章凡六十四句請題於是",
-    "author": "李識",
-    "paragraphs": [
-      "無正文。"
-    ],
-    "format": {
-      "sentence_count": 1,
-      "sentence_lengths": [3],
-      "uniform_sentence_length": 3
     }
   },
   {

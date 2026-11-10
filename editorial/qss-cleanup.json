@@ -5,7 +5,7 @@
     "lacuna_occurrences": 6612,
     "lacuna_at_least_25_percent": 131,
     "author_placeholder_records": 0,
-    "title_placeholder_records": 140
+    "title_placeholder_records": 139
   },
   "author_repairs": [
     {
@@ -834,6 +834,492 @@
       "duplicate_of_file": "212000.json",
       "duplicate_of_index": 758,
       "reason": "Exact duplicate of 212000.json source index 758."
+    },
+    {
+      "source_file": "004000.json",
+      "source_index": 158,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "004000.json",
+      "source_index": 374,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "004000.json",
+      "source_index": 375,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "004000.json",
+      "source_index": 376,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "004000.json",
+      "source_index": 377,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "004000.json",
+      "source_index": 378,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "004000.json",
+      "source_index": 379,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "004000.json",
+      "source_index": 380,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "004000.json",
+      "source_index": 381,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "006000.json",
+      "source_index": 32,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "011000.json",
+      "source_index": 68,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "014000.json",
+      "source_index": 527,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "014000.json",
+      "source_index": 534,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "017000.json",
+      "source_index": 896,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "018000.json",
+      "source_index": 542,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "020000.json",
+      "source_index": 14,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "020000.json",
+      "source_index": 15,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "025000.json",
+      "source_index": 372,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "025000.json",
+      "source_index": 373,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "025000.json",
+      "source_index": 374,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "025000.json",
+      "source_index": 375,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "038000.json",
+      "source_index": 640,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "039000.json",
+      "source_index": 977,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "052000.json",
+      "source_index": 456,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "054000.json",
+      "source_index": 812,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "067000.json",
+      "source_index": 46,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "067000.json",
+      "source_index": 265,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "068000.json",
+      "source_index": 890,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "068000.json",
+      "source_index": 891,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "074000.json",
+      "source_index": 826,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "075000.json",
+      "source_index": 412,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "081000.json",
+      "source_index": 634,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "090000.json",
+      "source_index": 775,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "090000.json",
+      "source_index": 776,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "090000.json",
+      "source_index": 777,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "090000.json",
+      "source_index": 875,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "090000.json",
+      "source_index": 876,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "090000.json",
+      "source_index": 877,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "098000.json",
+      "source_index": 601,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "098000.json",
+      "source_index": 604,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "117000.json",
+      "source_index": 702,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "120000.json",
+      "source_index": 687,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "122000.json",
+      "source_index": 466,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "122000.json",
+      "source_index": 582,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "126000.json",
+      "source_index": 269,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "126000.json",
+      "source_index": 270,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "145000.json",
+      "source_index": 251,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "145000.json",
+      "source_index": 252,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "155000.json",
+      "source_index": 269,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "168000.json",
+      "source_index": 649,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "173000.json",
+      "source_index": 547,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無詩文。"
+    },
+    {
+      "source_file": "174000.json",
+      "source_index": 112,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "184000.json",
+      "source_index": 272,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "192000.json",
+      "source_index": 390,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "200000.json",
+      "source_index": 816,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "201000.json",
+      "source_index": 728,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 58,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 59,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 60,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 61,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 62,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 63,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 64,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 65,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 66,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 69,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 70,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 71,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 72,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 73,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 74,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 75,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 76,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 77,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "208000.json",
+      "source_index": 78,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "218000.json",
+      "source_index": 323,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "218000.json",
+      "source_index": 324,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "221000.json",
+      "source_index": 751,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "231000.json",
+      "source_index": 811,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無詩文。"
+    },
+    {
+      "source_file": "239000.json",
+      "source_index": 842,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
+    },
+    {
+      "source_file": "243000.json",
+      "source_index": 974,
+      "kind": "no_content_marker",
+      "reason": "The upstream record contains only the no-content marker 無正文。"
     }
   ]
 }
