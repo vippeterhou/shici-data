@@ -17,11 +17,11 @@
     },
     "work_id": {
       "type": "string",
-      "pattern": "^qts-work:[0-9a-f]{16}$"
+      "pattern": "^(qts|qss)-work:[0-9a-f]{16}$"
     },
     "text_id": {
       "type": "string",
-      "pattern": "^qts-text:[0-9a-f]{16}$"
+      "pattern": "^(qts|qss)-text:[0-9a-f]{16}$"
     },
     "volume": {
       "type": "integer",

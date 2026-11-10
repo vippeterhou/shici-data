@@ -141,7 +141,88 @@ def test_qts_work_id_distinguishes_authors(tmp_path: Path) -> None:
     assert records[0]["text_id"] == records[1]["text_id"]
 
 
-def test_non_qts_records_do_not_include_work_id(tmp_path: Path) -> None:
+def test_qss_groups_matching_author_and_text_under_work_id(
+    tmp_path: Path,
+) -> None:
+    first = {
+        "title": "题名之一",
+        "author": "作者",
+        "paragraphs": ["天地玄黄。"],
+        "format": {
+            "sentence_count": 1,
+            "sentence_lengths": [4],
+            "uniform_sentence_length": 4,
+        },
+    }
+    second = {**first, "title": "题名之二"}
+    source = tmp_path / "qss.json"
+    source.write_text(
+        json.dumps([first, second], ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+    records = list(normalized_records(Corpus("qss", source)))
+
+    assert records[0]["id"] != records[1]["id"]
+    assert records[0]["work_id"] == records[1]["work_id"]
+    assert records[0]["work_id"] == work_id("qss", first)
+    assert records[0]["text_id"] == records[1]["text_id"]
+    assert records[0]["text_id"] == text_id("qss", first)
+
+
+def test_qss_text_id_links_different_attributions(tmp_path: Path) -> None:
+    first = {
+        "title": "测试",
+        "author": "作者甲",
+        "paragraphs": ["天地玄黄。"],
+        "format": {
+            "sentence_count": 1,
+            "sentence_lengths": [4],
+            "uniform_sentence_length": 4,
+        },
+    }
+    second = {**first, "author": "作者乙"}
+    source = tmp_path / "qss.json"
+    source.write_text(
+        json.dumps([first, second], ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+    records = list(normalized_records(Corpus("qss", source)))
+
+    assert records[0]["work_id"] != records[1]["work_id"]
+    assert records[0]["text_id"] == records[1]["text_id"]
+
+
+def test_qss_cross_references_keep_independent_identities(
+    tmp_path: Path,
+) -> None:
+    first = {
+        "title": "七言再咏",
+        "author": "石元规",
+        "paragraphs": ["詩見張繼先三。"],
+        "format": {
+            "sentence_count": 1,
+            "sentence_lengths": [6],
+            "uniform_sentence_length": 6,
+        },
+    }
+    second = {**first, "title": "同游栖真联句"}
+    source = tmp_path / "qss.json"
+    source.write_text(
+        json.dumps([first, second], ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+    records = list(normalized_records(Corpus("qss", source)))
+
+    assert records[0]["work_id"] != records[1]["work_id"]
+    assert records[0]["text_id"] != records[1]["text_id"]
+
+
+def test_non_identity_corpus_records_do_not_include_work_id(
+    tmp_path: Path,
+) -> None:
     record = {
         "title": "测试",
         "author": "作者",

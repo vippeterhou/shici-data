@@ -16,9 +16,10 @@ ROOT = Path(__file__).parents[1]
 RAW_DIRECTORY = ROOT / "raw"
 DIST_DIRECTORY = ROOT / "dist"
 MANIFEST_PATH = ROOT / "manifest.json"
-SCHEMA_VERSION = 4
+SCHEMA_VERSION = 5
 COMMON_RAW_FIELDS = ("title", "author", "paragraphs", "format")
 SHIJING_RAW_FIELDS = COMMON_RAW_FIELDS + ("chapter", "section")
+IDENTITY_CORPORA = frozenset({"qts", "qss"})
 SENTENCE_SEPARATOR = re.compile(r"[，。！？!?；：:;]")
 SC300_SENTENCE_SEPARATOR = re.compile(r"[，。！？!?；：:;、]")
 QSC_SENTENCE_SEPARATOR = SC300_SENTENCE_SEPARATOR
@@ -80,12 +81,25 @@ def normalized_records(corpus: Corpus) -> Iterator[dict[str, object]]:
             record["id"] = (
                 base_id if occurrence == 1 else f"{base_id}:{occurrence}"
             )
+            if corpus.name in IDENTITY_CORPORA:
+                if corpus.name == "qss" and is_qss_cross_reference(record):
+                    record["work_id"] = isolated_identity_id(
+                        corpus.name,
+                        "work",
+                        record,
+                    )
+                    record["text_id"] = isolated_identity_id(
+                        corpus.name,
+                        "text",
+                        record,
+                    )
+                else:
+                    record["work_id"] = work_id(corpus.name, record)
+                    record["text_id"] = text_id(corpus.name, record)
             if corpus.name == "qts":
                 if not path.stem.isdecimal():
                     raise ValueError(f"{path}: QTS filename must be a volume number")
                 record["volume"] = int(path.stem)
-                record["work_id"] = work_id(corpus.name, record)
-                record["text_id"] = text_id(corpus.name, record)
             yield record
 
 
@@ -124,6 +138,30 @@ def text_id(corpus_name: str, record: dict[str, object]) -> str:
     ).encode("utf-8")
     digest = hashlib.sha256(payload).hexdigest()[:16]
     return f"{corpus_name}-text:{digest}"
+
+
+def is_qss_cross_reference(record: dict[str, object]) -> bool:
+    paragraphs = record["paragraphs"]
+    assert isinstance(paragraphs, list)
+    return "".join(paragraphs).strip().startswith("詩見")
+
+
+def isolated_identity_id(
+    corpus_name: str,
+    identity_kind: str,
+    record: dict[str, object],
+) -> str:
+    payload = json.dumps(
+        [
+            record["title"],
+            record["author"],
+            record["paragraphs"],
+        ],
+        ensure_ascii=False,
+        separators=(",", ":"),
+    ).encode("utf-8")
+    digest = hashlib.sha256(payload).hexdigest()[:16]
+    return f"{corpus_name}-{identity_kind}:{digest}"
 
 
 def calculate_poem_format(
