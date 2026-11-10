@@ -100,7 +100,11 @@ def test_rejects_missing_format(tmp_path: Path) -> None:
         list(normalized_records(Corpus("sample", source)))
 
 
-def test_rejects_incorrect_hwlcs_format(tmp_path: Path) -> None:
+@pytest.mark.parametrize("corpus_name", ["hwlcs", "ts300"])
+def test_rejects_incorrect_calculated_format(
+    tmp_path: Path,
+    corpus_name: str,
+) -> None:
     record = {
         "title": "测试",
         "author": "作者",
@@ -111,11 +115,29 @@ def test_rejects_incorrect_hwlcs_format(tmp_path: Path) -> None:
             "uniform_sentence_length": 3,
         },
     }
-    source = tmp_path / "hwlcs.json"
+    source = tmp_path / f"{corpus_name}.json"
     source.write_text(json.dumps([record], ensure_ascii=False), encoding="utf-8")
 
     with pytest.raises(ValueError, match="format mismatch"):
-        list(normalized_records(Corpus("hwlcs", source)))
+        list(normalized_records(Corpus(corpus_name, source)))
+
+
+def test_rejects_ts300_spacing_between_sentences(tmp_path: Path) -> None:
+    record = {
+        "title": "测试",
+        "author": "作者",
+        "paragraphs": ["天地玄黄　宇宙洪荒"],
+        "format": {
+            "sentence_count": 2,
+            "sentence_lengths": [4, 4],
+            "uniform_sentence_length": 4,
+        },
+    }
+    source = tmp_path / "ts300.json"
+    source.write_text(json.dumps([record], ensure_ascii=False), encoding="utf-8")
+
+    with pytest.raises(ValueError, match="must use punctuation"):
+        list(normalized_records(Corpus("ts300", source)))
 
 
 def test_suffixes_duplicate_content_ids(tmp_path: Path) -> None:

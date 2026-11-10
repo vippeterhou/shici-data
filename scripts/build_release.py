@@ -22,6 +22,7 @@ SHIJING_RAW_FIELDS = COMMON_RAW_FIELDS + ("chapter", "section")
 SENTENCE_SEPARATOR = re.compile(r"[，。！？!?；：:;]")
 SC300_SENTENCE_SEPARATOR = re.compile(r"[，。！？!?；：:;、]")
 QSC_SENTENCE_SEPARATOR = SC300_SENTENCE_SEPARATOR
+TS300_LINE_GAP = re.compile(r"\u3000| {2,}|\t")
 COUNTED_CHARACTER = re.compile(
     r"[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff"
     r"\U00020000-\U000323af〇□]"
@@ -158,6 +159,13 @@ def validate_raw_record(
         isinstance(paragraph, str) for paragraph in paragraphs
     ):
         raise ValueError(f"{location}: invalid paragraphs")
+    if corpus.name == "ts300" and any(
+        TS300_LINE_GAP.search(paragraph) for paragraph in paragraphs
+    ):
+        raise ValueError(
+            f"{location}: TS300 paragraphs must use punctuation, not spacing, "
+            "between sentences"
+        )
 
     poem_format = record.get("format")
     if not isinstance(poem_format, dict):
@@ -180,7 +188,7 @@ def validate_raw_record(
     ):
         raise ValueError(f"{location}: inconsistent uniform sentence length")
     validate_calculated_format = corpus.name in {
-        "hwlcs", "qsc", "qss", "sc300"
+        "hwlcs", "qsc", "qss", "sc300", "ts300"
     } or (
         corpus.name == "qts"
         and any("□" in paragraph for paragraph in paragraphs)
