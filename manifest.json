@@ -14,15 +14,15 @@
     },
     "qss": {
       "asset": "qss.jsonl.gz",
-      "compressed_bytes": 35776926,
-      "poem_count": 254099,
-      "sha256": "46b2cb4efd7de901e6d12dc85a824c1f2f5584ce604e149c2e1e5ac5643039d4"
+      "compressed_bytes": 43378019,
+      "poem_count": 254018,
+      "sha256": "3858943435016b22b45810cc2e1c5f905b8ac9d13702a786929f43f3a31725ee"
     },
     "qts": {
       "asset": "qts.jsonl.gz",
-      "compressed_bytes": 6914219,
+      "compressed_bytes": 8388962,
       "poem_count": 47605,
-      "sha256": "608c76e8a657d84d559818c5728bf9d3bf0c1f5e9cae9d93c5a48e9a9c1e1607"
+      "sha256": "55a0ffe0ae6a3d76251f03052f1a19d4d2d49b43bdd420da90b7565df962c349"
     },
     "sc300": {
       "asset": "sc300.jsonl.gz",
@@ -32,19 +32,19 @@
     },
     "shijing": {
       "asset": "shijing.jsonl.gz",
-      "compressed_bytes": 58844,
+      "compressed_bytes": 58846,
       "poem_count": 305,
-      "sha256": "8a9e6fe044ea3f949a621e3126aa57d108bcc8f93fc9f5ab4f0055f6c012add5"
+      "sha256": "bfd9dc5152bd23927e14c94b2050c1f735ea58f949c5dc88f516be66bbee4054"
     },
     "ts300": {
       "asset": "ts300.jsonl.gz",
-      "compressed_bytes": 52152,
+      "compressed_bytes": 52036,
       "poem_count": 320,
-      "sha256": "5839cab36110730ea5fc1796be5a63e0effcd6debd438301e08554cf6686694d"
+      "sha256": "f6a1434b4a5f867e9e33ee2178f64cf3e272124f3a0e6aa94c4e59d361fe8a15"
     }
   },
-  "generated_at": "2026-11-01T11:30:53.957123+00:00",
-  "schema_version": 3,
-  "total_poems": 325182,
-  "version": "v3.0.0"
+  "generated_at": "2026-11-10T15:02:11.449070+00:00",
+  "schema_version": 5,
+  "total_poems": 325101,
+  "version": "v3.1.0"
 }
