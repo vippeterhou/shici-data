@@ -10,6 +10,8 @@ from scripts.build_release import (
     content_id,
     normalized_records,
     source_files,
+    text_id,
+    work_id,
 )
 
 
@@ -82,6 +84,83 @@ def test_content_id_is_independent_of_file_location(tmp_path: Path) -> None:
     second_id = list(normalized_records(Corpus("sample", second)))[0]["id"]
 
     assert first_id == second_id
+
+
+def test_qts_groups_matching_author_and_text_under_work_id(
+    tmp_path: Path,
+) -> None:
+    first = {
+        "title": "乐府题名",
+        "author": "作者",
+        "paragraphs": ["天地玄黄。"],
+        "format": {
+            "sentence_count": 1,
+            "sentence_lengths": [4],
+            "uniform_sentence_length": 4,
+        },
+    }
+    second = {**first, "title": "作者专卷题名"}
+    source = tmp_path / "017.json"
+    source.write_text(
+        json.dumps([first, second], ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+    records = list(normalized_records(Corpus("qts", source)))
+
+    assert records[0]["id"] != records[1]["id"]
+    assert records[0]["work_id"] == records[1]["work_id"]
+    assert records[0]["work_id"] == work_id("qts", first)
+    assert records[0]["text_id"] == records[1]["text_id"]
+    assert records[0]["text_id"] == text_id("qts", first)
+    assert records[0]["volume"] == 17
+    assert records[1]["volume"] == 17
+
+
+def test_qts_work_id_distinguishes_authors(tmp_path: Path) -> None:
+    first = {
+        "title": "测试",
+        "author": "作者甲",
+        "paragraphs": ["天地玄黄。"],
+        "format": {
+            "sentence_count": 1,
+            "sentence_lengths": [4],
+            "uniform_sentence_length": 4,
+        },
+    }
+    second = {**first, "author": "作者乙"}
+    source = tmp_path / "017.json"
+    source.write_text(
+        json.dumps([first, second], ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+    records = list(normalized_records(Corpus("qts", source)))
+
+    assert records[0]["work_id"] != records[1]["work_id"]
+    assert records[0]["text_id"] == records[1]["text_id"]
+
+
+def test_non_qts_records_do_not_include_work_id(tmp_path: Path) -> None:
+    record = {
+        "title": "测试",
+        "author": "作者",
+        "paragraphs": ["天地玄黄。"],
+        "format": {
+            "sentence_count": 1,
+            "sentence_lengths": [4],
+            "uniform_sentence_length": 4,
+        },
+    }
+    source = tmp_path / "sample.json"
+    source.write_text(
+        json.dumps([record], ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+    normalized = list(normalized_records(Corpus("sample", source)))[0]
+
+    assert "work_id" not in normalized
 
 
 def test_rejects_missing_format(tmp_path: Path) -> None:

@@ -15,6 +15,18 @@
       "type": "string",
       "minLength": 1
     },
+    "work_id": {
+      "type": "string",
+      "pattern": "^qts-work:[0-9a-f]{16}$"
+    },
+    "text_id": {
+      "type": "string",
+      "pattern": "^qts-text:[0-9a-f]{16}$"
+    },
+    "volume": {
+      "type": "integer",
+      "minimum": 1
+    },
     "title": {
       "type": "string",
       "minLength": 1

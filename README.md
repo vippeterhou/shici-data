@@ -35,6 +35,16 @@ poem counts, byte sizes, and SHA-256 checksums. Format metadata counts every
 `□` placeholder as one sentence character in every corpus.
 HWLCS format metadata is checked against the poem text during release validation.
 
+QTS release records also include a deterministic `work_id` derived from the
+author and complete poem text. Records with different titles or anthology
+placements retain their independent `id` values and source ordering while
+sharing a `work_id` when both author and text match. This preserves meaningful
+Yuefu classifications and alternate titles without presenting them as unrelated
+works. Each QTS release record also includes its numeric `volume`, derived from
+the source filename. A separate deterministic `text_id`, derived only from the
+complete poem text, links records with different attributed authors without
+merging those attributions. Raw QTS records remain unchanged.
+
 ## Consumption
 
 Applications should pin a release and download only the selected corpus:

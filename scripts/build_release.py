@@ -16,7 +16,7 @@ ROOT = Path(__file__).parents[1]
 RAW_DIRECTORY = ROOT / "raw"
 DIST_DIRECTORY = ROOT / "dist"
 MANIFEST_PATH = ROOT / "manifest.json"
-SCHEMA_VERSION = 3
+SCHEMA_VERSION = 4
 COMMON_RAW_FIELDS = ("title", "author", "paragraphs", "format")
 SHIJING_RAW_FIELDS = COMMON_RAW_FIELDS + ("chapter", "section")
 SENTENCE_SEPARATOR = re.compile(r"[，。！？!?；：:;]")
@@ -80,6 +80,12 @@ def normalized_records(corpus: Corpus) -> Iterator[dict[str, object]]:
             record["id"] = (
                 base_id if occurrence == 1 else f"{base_id}:{occurrence}"
             )
+            if corpus.name == "qts":
+                if not path.stem.isdecimal():
+                    raise ValueError(f"{path}: QTS filename must be a volume number")
+                record["volume"] = int(path.stem)
+                record["work_id"] = work_id(corpus.name, record)
+                record["text_id"] = text_id(corpus.name, record)
             yield record
 
 
@@ -95,6 +101,29 @@ def content_id(corpus_name: str, record: dict[str, object]) -> str:
     ).encode("utf-8")
     digest = hashlib.sha256(payload).hexdigest()[:16]
     return f"{corpus_name}:{digest}"
+
+
+def work_id(corpus_name: str, record: dict[str, object]) -> str:
+    payload = json.dumps(
+        [
+            record["author"],
+            record["paragraphs"],
+        ],
+        ensure_ascii=False,
+        separators=(",", ":"),
+    ).encode("utf-8")
+    digest = hashlib.sha256(payload).hexdigest()[:16]
+    return f"{corpus_name}-work:{digest}"
+
+
+def text_id(corpus_name: str, record: dict[str, object]) -> str:
+    payload = json.dumps(
+        record["paragraphs"],
+        ensure_ascii=False,
+        separators=(",", ":"),
+    ).encode("utf-8")
+    digest = hashlib.sha256(payload).hexdigest()[:16]
+    return f"{corpus_name}-text:{digest}"
 
 
 def calculate_poem_format(
