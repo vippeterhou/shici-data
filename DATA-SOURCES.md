@@ -18,12 +18,30 @@ dataset copyright holders are identified upstream.
 
 ## Datasets
 
+The `guangyun_lookup.sqlite` release asset is generated from the reviewable
+`raw/rhyme/guangyun_lookup.jsonl` export prepared by the adjacent `guangyun`
+project from [CJKVI's corrected Song-edition Guangyun](https://github.com/cjkvi/cjkvi-dict)
+(GPL-2.0), with Unicode Unihan variant data (Unicode-3.0) and reviewed graphic
+search variants. Reading rows contain only character, tone, and rhyme; aliases
+and complete provenance and license metadata follow in the same JSONL. The root
+MIT license does not replace those embedded source terms.
+
+The independent `pingshuiyun_lookup.sqlite` asset is generated from
+`raw/rhyme/pingshuiyun_lookup.json`, this project's maintained transcription of the
+public-domain 106-rhyme classification. It keeps one Traditional-character
+rhyme table, with Simplified forms stored only as query aliases, retains
+multiple rhyme assignments instead of forcing one result, and separately marks
+the historical `詞` and `辭` supplemental entries. The project-created
+transcription and build tooling use the root MIT license.
+
 Raw records retain only normalized core poem fields. Release IDs are generated
 from content. Shijing also retains its chapter and section hierarchy.
 
 | Dataset/files | Original source | Project modifications |
 |---|---|---|
+| `guangyun`: `raw/rhyme/guangyun_lookup.jsonl` | Canonical lookup export from the adjacent `guangyun` project; source and license details are embedded as metadata records | Retains unique character/tone/rhyme rows, reviewed query aliases, source checksums, editorial provenance, and complete license texts; deterministically generates the release SQLite without using a binary database as source. |
 | `hwlcs`: `raw/hwlcs/hwlcs.json` | `poetry-source`: `source/诗/汉/`, `source/诗/三国/`, `source/诗/晋/`, `source/诗/南北朝/`; pinned Wikisource anthology witnesses for subsequent cleanup | Merged the existing normalized records into one literary collection in Han, Three Kingdoms, Jin, then Northern and Southern Dynasties order, without deduplication during the initial merge; excludes Qin. Subsequent evidence-backed cleanup consolidated duplicate representations, preserved their alternate readings and disputed attributions in `editorial/hwlcs-cleanup.json`, repaired damaged glyphs and corroborated textual errors, removed inline source notes and footnote markers, normalized stray whitespace and a nonstandard colon, and recalculated format metadata. Genuine refrains, distinct suite members, and surviving fragments are retained; unresolved provenance concerns remain documented rather than conjecturally edited. Earlier normalization renamed fields; omitted ancillary fields; split bundled works and labeled collections into individual poems; pruned prose and irrecoverably incomplete records; added format metadata and editorial corrections; normalized titles; removed duplicate records and poems with unrecoverable lacunae; corrected the order, numbering, and duplicate entries in Ruan Ji's 82 `咏怀` poems; resolved one disputed attribution using the source anthology's editorial note. |
+| `pingshuiyun`: `raw/rhyme/pingshuiyun_lookup.json` | Public-domain historical Ping Shui rhyme classification | Maintains the canonical 106 groups as one Traditional-character table; supplies Simplified query aliases; preserves multiple assignments and supplemental `詞`/`辭` entries; generates a normalized SQLite lookup with deterministic metadata. |
 | `qts`: `raw/qts/*.json` | `chinese-poetry`: `御定全唐詩/json/001.json`–`900.json` | Split bundled poem suites into individually numbered records; removed exact duplicates and imported header/footer artifacts; normalized titles, numbering, and metadata; repaired recoverable glyph placeholders; restored omitted text while retaining surviving edition-specific readings; and added format metadata. Omission repairs require exact sentence-level corroboration from at least two aligned witnesses among `poetry-source`'s `全唐诗/CText_JSON_cht/` and `全唐诗/ZZU_JSON_chs/` and `chinese-poetry`'s split `全唐诗/poet.tang.*.json`. Wikisource or primary-edition scans are used for ambiguous passages. |
 | `qsc`: `raw/qsc/*.json` | `chinese-poetry`: `宋词/`, pinned to commit [`b8594f8`](https://github.com/chinese-poetry/chinese-poetry/commit/b8594f81a89752241442f2ce267d6f66f96704ee) in `source-locks/qsc.json` | Renamed source batches to zero-padded numeric offsets; removed the redundant 2019 supplement; consolidated each linked `九张机` suite into one record; renamed `rhythmic` to `title`; added QSC-specific format metadata; repaired recoverable encoding corruption, lacunae, and author names from documented witnesses; removed exact duplicates, damaged duplicate variants, and records containing no recoverable text; normalized upstream numeric author disambiguators; retains the canonical copies of high-confidence ci-form works removed from QSS; and removed two regular-form poems retained in QSS. Editorial changes are recorded in `editorial/qsc-cleanup.json` and verified by `python3 -m scripts.audit_qsc`. |
 | `qss`: `raw/qss/*.json` | `chinese-poetry`: `全唐诗/poet.song.*.json`, pinned to commit [`b8594f8`](https://github.com/chinese-poetry/chinese-poetry/commit/b8594f81a89752241442f2ce267d6f66f96704ee) in `source-locks/qss.json` | Renamed source batches to zero-padded numeric offsets; added QSS-specific format metadata; pruned empty and entirely lacunose records; removed exact duplicates; normalized incomplete author metadata and repaired recoverable titles, poem-text lacunae, and adjacent source corruption from documented witnesses; removed 94 high-confidence ci-form duplicates retained in QSC; and retains two regular-form poems removed from QSC. QSS cleanup decisions are recorded in `editorial/qss-cleanup.json` and verified by `python3 -m scripts.audit_qss`; genre reclassifications remain in `editorial/song-genre-reclassifications.json`. |

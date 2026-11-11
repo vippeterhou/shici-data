@@ -35,6 +35,35 @@ poem counts, byte sizes, and SHA-256 checksums. Format metadata counts every
 `□` placeholder as one sentence character in every corpus.
 HWLCS format metadata is checked against the poem text during release validation.
 
+Build both lookup databases from the reviewable source files in this repository,
+then include them in every release:
+
+```bash
+python3 scripts/build_guangyun_lookup.py
+python3 scripts/build_pingshuiyun_lookup.py
+python3 scripts/build_release.py --version local \
+  --guangyun-lookup build/guangyun_lookup.sqlite \
+  --pingshuiyun-lookup build/pingshuiyun_lookup.sqlite
+```
+
+The canonical Guangyun JSONL contains one reading record per
+character/tone/rhyme combination, followed by search aliases and metadata. The
+generated database is validated and copied to `dist/guangyun_lookup.sqlite`.
+Its checksum and byte size are recorded under `dictionaries.guangyun` in the
+manifest. Source, variant-search provenance, and license notices remain embedded
+in its `metadata` table. Alias matches are search candidates, not assertions
+that every target reading applies to the input character.
+
+The independent Pingshuiyun lookup is built from this repository's maintained
+106-rhyme table. Its builder writes `build/pingshuiyun_lookup.sqlite`;
+`build_release.py` copies it to `dist/` and records it under
+`dictionaries.pingshuiyun`. The JSON source keeps one canonical Traditional
+character table; Simplified forms are query aliases rather than a second rhyme
+table. The database preserves characters assigned to multiple rhyme groups and
+marks the original `詞`/`辭` supplemental entries. Query the `character_lookup`
+view by `character`; `canonical_character` identifies the source-table form and
+`match_type` distinguishes canonical and alias matches.
+
 QTS and QSS release records also include a deterministic `work_id` derived from
 the author and complete poem text. Records with different titles or anthology
 placements retain their independent `id` values and source ordering while
@@ -157,6 +186,8 @@ process or data contract also changed.
 ```bash
 gh release create "$VERSION" \
   dist/*.jsonl.gz \
+  dist/guangyun_lookup.sqlite \
+  dist/pingshuiyun_lookup.sqlite \
   dist/manifest.json \
   --target main \
   --title "Shici Data $VERSION" \

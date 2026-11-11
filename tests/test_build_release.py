@@ -1,8 +1,18 @@
 import json
+import sqlite3
 from pathlib import Path
 
 import pytest
+import scripts.build_release as release
 
+from scripts.build_guangyun_lookup import (
+    SOURCE_PATH as GUANGYUN_SOURCE_PATH,
+    build_lookup as build_guangyun_lookup,
+)
+from scripts.build_pingshuiyun_lookup import (
+    SOURCE_PATH as PINGSHUIYUN_SOURCE_PATH,
+    build_lookup as build_pingshuiyun_lookup,
+)
 from scripts.build_release import (
     CORPORA,
     Corpus,
@@ -13,6 +23,93 @@ from scripts.build_release import (
     text_id,
     work_id,
 )
+
+
+def test_release_copies_guangyun_with_checksum_and_provenance(
+    tmp_path: Path,
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    source = tmp_path / "guangyun.sqlite"
+    db = sqlite3.connect(source)
+    db.executescript(
+        "CREATE TABLE character_readings (character TEXT, tone TEXT, rhyme TEXT);"
+        "CREATE TABLE character_aliases "
+        "(input_character TEXT, target_character TEXT);"
+        "CREATE TABLE metadata (key TEXT, value TEXT);"
+        "INSERT INTO character_readings VALUES ('淸', '平', '淸');"
+        "INSERT INTO character_readings VALUES ('⿰隺犬', '入', '覺');"
+        "INSERT INTO character_aliases VALUES ('清', '淸');"
+    )
+    metadata = {
+        "dictionary": json.dumps({
+            "name": "Test dictionary",
+            "source_url": "https://example.org/dictionary",
+            "license": "GPL-2.0",
+        }),
+        "license_text": "Test license notice",
+    }
+    db.executemany("INSERT INTO metadata VALUES (?, ?)", metadata.items())
+    db.commit()
+    db.close()
+    pingshuiyun = tmp_path / "pingshuiyun.sqlite"
+    build_pingshuiyun_lookup(PINGSHUIYUN_SOURCE_PATH, pingshuiyun)
+    monkeypatch.setattr(release, "CORPORA", ())
+    monkeypatch.setattr(release, "DIST_DIRECTORY", tmp_path / "dist")
+    monkeypatch.setattr(release, "MANIFEST_PATH", tmp_path / "manifest.json")
+
+    manifest = release.build_release("local", source, pingshuiyun)
+
+    output = tmp_path / "dist" / "guangyun_lookup.sqlite"
+    assert output.read_bytes() == source.read_bytes()
+    assert manifest["dictionaries"]["guangyun"] == {
+        "asset": output.name,
+        "bytes": output.stat().st_size,
+        "sha256": release.sha256(source),
+    }
+    assert json.loads((tmp_path / "dist" / "manifest.json").read_text()) == manifest
+
+
+def test_invalid_guangyun_preserves_existing_release(
+    tmp_path: Path,
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    output = tmp_path / "dist"
+    output.mkdir()
+    existing = output / "manifest.json"
+    existing.write_text("existing release")
+    monkeypatch.setattr(release, "DIST_DIRECTORY", output)
+
+    with pytest.raises(ValueError, match="not found"):
+        release.build_release(
+            "local",
+            tmp_path / "missing.sqlite",
+            tmp_path / "unused.sqlite",
+        )
+
+    assert existing.read_text() == "existing release"
+
+
+def test_release_includes_independent_pingshuiyun_lookup(
+    tmp_path: Path,
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    source = tmp_path / "pingshuiyun.sqlite"
+    build_pingshuiyun_lookup(PINGSHUIYUN_SOURCE_PATH, source)
+    guangyun = tmp_path / "guangyun.sqlite"
+    build_guangyun_lookup(GUANGYUN_SOURCE_PATH, guangyun)
+    monkeypatch.setattr(release, "CORPORA", ())
+    monkeypatch.setattr(release, "DIST_DIRECTORY", tmp_path / "dist")
+    monkeypatch.setattr(release, "MANIFEST_PATH", tmp_path / "manifest.json")
+
+    manifest = release.build_release("local", guangyun, source)
+
+    output = tmp_path / "dist" / "pingshuiyun_lookup.sqlite"
+    assert output.read_bytes() == source.read_bytes()
+    assert manifest["dictionaries"]["pingshuiyun"] == {
+        "asset": output.name,
+        "bytes": output.stat().st_size,
+        "sha256": release.sha256(source),
+    }
 
 
 def test_hwlcs_combines_dynasties_without_qin() -> None:

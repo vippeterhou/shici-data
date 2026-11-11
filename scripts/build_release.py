@@ -6,6 +6,8 @@ import hashlib
 import json
 import re
 import shutil
+import sqlite3
+from contextlib import closing
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
@@ -301,9 +303,97 @@ def sha256(path: Path) -> str:
     return digest.hexdigest()
 
 
-def build_release(version: str) -> dict[str, object]:
+def validate_guangyun_lookup(source: Path) -> None:
+    if not source.is_file():
+        raise ValueError(f"Guangyun lookup database not found: {source}")
+    with closing(sqlite3.connect(f"{source.resolve().as_uri()}?mode=ro", uri=True)) as db:
+        if db.execute("PRAGMA quick_check").fetchall() != [("ok",)]:
+            raise ValueError(f"Invalid Guangyun lookup database: {source}")
+        count = db.execute("SELECT COUNT(*) FROM character_readings").fetchone()[0]
+        invalid = db.execute(
+            "SELECT COUNT(*) FROM character_readings "
+            "WHERE character IS NULL OR trim(character) = '' "
+            "OR tone IS NULL OR tone NOT IN ('平', '上', '去', '入') "
+            "OR rhyme IS NULL OR trim(rhyme) = ''"
+        ).fetchone()[0]
+        alias_count = db.execute(
+            "SELECT COUNT(*) FROM character_aliases"
+        ).fetchone()[0]
+        invalid_aliases = db.execute(
+            "SELECT COUNT(*) FROM character_aliases "
+            "WHERE input_character IS NULL OR trim(input_character) = '' "
+            "OR target_character IS NULL OR trim(target_character) = ''"
+        ).fetchone()[0]
+        metadata = dict(db.execute("SELECT key, value FROM metadata"))
+        if (
+            not count
+            or invalid
+            or not alias_count
+            or invalid_aliases
+            or not metadata.get("license_text")
+        ):
+            raise ValueError(f"Incomplete Guangyun lookup database: {source}")
+        dictionary = json.loads(metadata.get("dictionary", "{}"))
+        if not all(dictionary.get(key) for key in ("name", "source_url", "license")):
+            raise ValueError(f"Missing Guangyun source metadata: {source}")
+
+
+def validate_pingshuiyun_lookup(source: Path) -> None:
+    if not source.is_file():
+        raise ValueError(f"Pingshuiyun lookup database not found: {source}")
+    with closing(sqlite3.connect(f"{source.resolve().as_uri()}?mode=ro", uri=True)) as db:
+        if db.execute("PRAGMA quick_check").fetchall() != [("ok",)]:
+            raise ValueError(f"Invalid Pingshuiyun lookup database: {source}")
+        rhyme_count = db.execute("SELECT COUNT(*) FROM rhyme_groups").fetchone()[0]
+        tone_counts = dict(
+            db.execute(
+                "SELECT tone, COUNT(*) FROM rhyme_groups GROUP BY tone"
+            ).fetchall()
+        )
+        character_count = db.execute(
+            "SELECT COUNT(*) FROM character_rhymes"
+        ).fetchone()[0]
+        alias_count = db.execute(
+            "SELECT COUNT(*) FROM character_aliases"
+        ).fetchone()[0]
+        invalid = db.execute(
+            "SELECT COUNT(*) FROM character_rhymes "
+            "WHERE character IS NULL OR trim(character) = ''"
+        ).fetchone()[0]
+        invalid_aliases = db.execute(
+            "SELECT COUNT(*) FROM character_aliases "
+            "WHERE input_character IS NULL OR trim(input_character) = '' "
+            "OR target_character IS NULL OR trim(target_character) = ''"
+        ).fetchone()[0]
+        metadata = dict(db.execute("SELECT key, value FROM metadata"))
+        if (
+            rhyme_count != 106
+            or tone_counts != {"上": 29, "入": 17, "去": 30, "平": 30}
+            or not character_count
+            or not alias_count
+            or invalid
+            or invalid_aliases
+            or not metadata.get("license_text")
+        ):
+            raise ValueError(f"Incomplete Pingshuiyun lookup database: {source}")
+        dictionary = json.loads(metadata.get("dictionary", "{}"))
+        if not all(dictionary.get(key) for key in ("name", "scope", "license")):
+            raise ValueError(f"Missing Pingshuiyun metadata: {source}")
+
+
+def build_release(
+    version: str,
+    guangyun_lookup: Path,
+    pingshuiyun_lookup: Path,
+) -> dict[str, object]:
     if not version:
         raise ValueError("Version must not be empty")
+    if guangyun_lookup.resolve().is_relative_to(DIST_DIRECTORY.resolve()):
+        raise ValueError("Guangyun source must be outside the output directory")
+    validate_guangyun_lookup(guangyun_lookup)
+    if pingshuiyun_lookup.resolve().is_relative_to(DIST_DIRECTORY.resolve()):
+        raise ValueError("Pingshuiyun source must be outside the output directory")
+    validate_pingshuiyun_lookup(pingshuiyun_lookup)
 
     if DIST_DIRECTORY.exists():
         shutil.rmtree(DIST_DIRECTORY)
@@ -333,6 +423,22 @@ def build_release(version: str) -> dict[str, object]:
         "total_poems": total_poems,
         "corpora": corpus_manifest,
     }
+    dictionary_manifest: dict[str, object] = {}
+    output_path = DIST_DIRECTORY / "guangyun_lookup.sqlite"
+    shutil.copyfile(guangyun_lookup, output_path)
+    dictionary_manifest["guangyun"] = {
+        "asset": output_path.name,
+        "bytes": output_path.stat().st_size,
+        "sha256": sha256(output_path),
+    }
+    output_path = DIST_DIRECTORY / "pingshuiyun_lookup.sqlite"
+    shutil.copyfile(pingshuiyun_lookup, output_path)
+    dictionary_manifest["pingshuiyun"] = {
+        "asset": output_path.name,
+        "bytes": output_path.stat().st_size,
+        "sha256": sha256(output_path),
+    }
+    manifest["dictionaries"] = dictionary_manifest
     serialized_manifest = (
         json.dumps(manifest, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
     )
@@ -347,8 +453,14 @@ def build_release(version: str) -> dict[str, object]:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--version", required=True)
+    parser.add_argument("--guangyun-lookup", type=Path, required=True)
+    parser.add_argument("--pingshuiyun-lookup", type=Path, required=True)
     args = parser.parse_args()
-    manifest = build_release(args.version)
+    manifest = build_release(
+        args.version,
+        args.guangyun_lookup,
+        args.pingshuiyun_lookup,
+    )
     print(f"Built {manifest['total_poems']:,} poems")
 
 

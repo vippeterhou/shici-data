@@ -43,8 +43,20 @@
       "sha256": "f6a1434b4a5f867e9e33ee2178f64cf3e272124f3a0e6aa94c4e59d361fe8a15"
     }
   },
-  "generated_at": "2026-11-10T15:02:11.449070+00:00",
+  "dictionaries": {
+    "guangyun": {
+      "asset": "guangyun_lookup.sqlite",
+      "bytes": 626688,
+      "sha256": "24922e20766aa35724317e30eaf48d1ed7119144c5014e34682fd3d48b315c00"
+    },
+    "pingshuiyun": {
+      "asset": "pingshuiyun_lookup.sqlite",
+      "bytes": 634880,
+      "sha256": "0212033203729e7fcfced71321ee0c7ee249e5dec1a82ce42ff3f12813ce4a12"
+    }
+  },
+  "generated_at": "2026-11-11T16:42:36.571452+00:00",
   "schema_version": 5,
   "total_poems": 325101,
-  "version": "v3.1.0"
+  "version": "v3.2.0"
 }
