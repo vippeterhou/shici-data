@@ -14,15 +14,15 @@
     },
     "qss": {
       "asset": "qss.jsonl.gz",
-      "compressed_bytes": 43378019,
-      "poem_count": 254018,
-      "sha256": "3858943435016b22b45810cc2e1c5f905b8ac9d13702a786929f43f3a31725ee"
+      "compressed_bytes": 43377890,
+      "poem_count": 254017,
+      "sha256": "befa9603143b5eaf75dcc3759eed0525f4e16f24ceb399d4c47169ad21037d65"
     },
     "qts": {
       "asset": "qts.jsonl.gz",
-      "compressed_bytes": 8388962,
+      "compressed_bytes": 8388900,
       "poem_count": 47605,
-      "sha256": "55a0ffe0ae6a3d76251f03052f1a19d4d2d49b43bdd420da90b7565df962c349"
+      "sha256": "8b9865c6c7af6fad62862df3c99f95c32f4c2994291a274835198faa829b104b"
     },
     "sc300": {
       "asset": "sc300.jsonl.gz",
@@ -55,8 +55,8 @@
       "sha256": "0212033203729e7fcfced71321ee0c7ee249e5dec1a82ce42ff3f12813ce4a12"
     }
   },
-  "generated_at": "2026-11-11T16:42:36.571452+00:00",
+  "generated_at": "2026-11-14T17:14:55.033940+00:00",
   "schema_version": 5,
-  "total_poems": 325101,
-  "version": "v3.2.0"
+  "total_poems": 325100,
+  "version": "v3.3.0"
 }
