@@ -76,6 +76,12 @@ unrelated catalog entries are not grouped as one work. Each QTS release record
 also includes its numeric `volume`, derived from the source filename. Raw QTS
 and QSS records remain unchanged.
 
+These identifiers describe exact release content rather than permanent
+historical identities: correcting a title, attribution, or poem text can change
+the corresponding content-derived IDs. In particular, a shared `text_id` is a
+cross-reference signal, not by itself a reason to delete either record;
+independent titles, attributions, and anthology placements remain preserved.
+
 ## Consumption
 
 Applications should pin a release and download only the selected corpus:
